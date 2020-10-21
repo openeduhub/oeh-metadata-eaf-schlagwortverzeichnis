@@ -1,532 +1,425 @@
-notation,prefLabel,art,definition
-3E8B43676EC2C0F9C125726D00361448,Aargau (Kanton),ND,s. Schweiz
-50B8F3C0C6702541C1256F230035AC6D,Aaron (biblische Gestalt),DS,Figur des Alten Testaments; Bruder des Moses.
-AF5004BEFCC38781C1256F230035E518,Abenteuerspielplatz,ND,s. Spielplatz
-A19A7FB3DF411766C1257A53005D6BBF,Abstich (Schneiderei),ND,s. Handarbeiten
-BB395264E1922270C1256F230035CCBB,Ägypten,D,s.a. Reisen (Ägypten)
-6EBFD34751B08ADAC1256F230035E5A7,Ägypten (Reisen),ND,s. Reisen (Ägypten)
-1C6DDFAF05130FC2C1256F230035AD93,Ägyptische Kunst,DS,"Die altägyptische Kunst ist die erste, die mächtige Bauten aus behauenem Naturstein errichtete. Hauptwerke: (3.Jt. v.Chr., Altes Reich) Pyramiden, Totentempel, (2.Jt. v.Chr.) Göttertempel. Auch Bildnerei, Malerei, Kunstgewerbe."
-9D28E9DD81E555A4C1257A7E0055881A,Airolo,ND,s. Schweiz
-BDA88A419BDA1454C1257A91005E13DF,Allerheiligen,ND,s. Halloween
-E5237FDDB107B420C1257B06004DEB2E,Allerseelen,ND,s. Halloween
-D1F853EE3DEF3398C1257AB8005FF2BF,Anleitung,ND,s. Basteln
-CD797E89EB78A25AC125726D003622B8,Appenzell Ausserrhoden (Kanton),ND,s. Schweiz
-32D56B5700F7A4D7C125726D003635F6,Appenzell Innerrhoden (Kanton),ND,s. Schweiz
-B54686E8AD858963C1257AD7005FAC88,Arcade-Spiel,ND,s. Spiel (Unterhaltung)
-F823B7B38C994ACEC1256F230035AE9C,"Arcangelo, Allan d'",DS,Amerikanischer moderner Maler (1930-98); abstrakter Expressionist.
-6D53C548BB1E375AC1256F230035E7D3,Autobücherei,ND,s. Fahrbibliothek
-6D01A2A3B79DD01EC1256F230035AF16,Autochorie,DS,Die Selbstverbreitung von Früchten oder Samen ohne Mitwirkung zusätzlicher Außenfaktoren; im Unterschied zur Allochorie eine Nahverbreitung; erfolgt durch Schleudermechanismen oder durch einfaches Ausstreuen oder Abfallen.
-26970F8B6A00683DC1256F230035E80F,Bad (Schwimmanlage),ND,s. Schwimmbad
-4F44B564AA15FA0CC1256F230035E814,Badeanstalt,ND,s. Schwimmbad
-CD4816F205CA5796C1256F230035E824,Balearen (Reisen),ND,s. Reisen (Spanien)
-0BB52631C72A92EBC1256F230035AF79,"Balen, Hendrik van",DS,"Flämischer Maler (1575-1632), schuf Altargemälde und vielfigurige Historienbilder."
-29B95B47365FEEB3C1256F230035E837,Baltikum (Reisen),ND,s. Reisen (Europa)
-75EC02121AF3E0CBC1257B1D005B8969,Bastelanleitung,ND,s. Basteln
-C852323A0D103F81C1256F230035AFB3,Basteln,DS,"Das eigenhändige Fertigen von Objekten in der Freizeit. Hier die Beschreibung verschiedenster Tätigkeiten (z.B. Salzteig, Papierfaltkunst, Seidenmalerei, Töpfern) als Hobby."
-F17597E3CEDDD00FC1256F230035E87A,Bauspielplatz,ND,s. Spielplatz
-4854810ED1D70368C1256F230035E8BE,Belgien (Reisen),ND,s. Reisen (Europa)
-3E6A30B50BF4735EC1257B2F00552914,Benidorm,ND,s. Reisen (Spanien)
-02282D7D11B82E50C1257B30003FAD92,Beobachtungssender,ND,s. Tierbeobachtung (Naturerlebnis)
-8828E7A88F6A9B2EC1256F230035E8F4,Bern,ND,s. Schweiz
-05F3A2CB16AB67F8C1256F230035E921,Besichtigungstour,ND,s. Reisen (Britische Inseln)
-079DCF07E9D61C60C1256F230035E926,Besichtigungstour,ND,s. Reisen (Griechenland)
-0901CDC45337126EC1256F230035E925,Besichtigungstour,ND,s. Reisen (Frankreich)
-0A28CB17441680E3C1256F230035E91A,Besichtigungstour,ND,s. Stadtbesichtigung
-28E162A8AC35D06DC1256F230035E92B,Besichtigungstour,ND,s. Reisen (Österreich)
-2900447B37B1B651C1256F230035E927,Besichtigungstour,ND,s. Reisen (Indien)
-2A8FDCC7C728C534C1256F230035E91B,Besichtigungstour,ND,s. Reisen (Afrika)
-4911175D89F80C31C1256F230035E91C,Besichtigungstour,ND,s. Reisen (Ägypten)
-580C31CD26E8CDA8C1256F230035E91D,Besichtigungstour,ND,s. Reisen (Amerika)
-6695092660DAEB11C1256F230035E92E,Besichtigungstour,ND,s. Reisen (Spanien)
-73FD3DC0F182437CC1256F230035E91F,Besichtigungstour,ND,s. Reisen (Australien)
-783898CC41D3B848C1256F230035E929,Besichtigungstour,ND,s. Reisen (Italien)
-964989BDF2BAB80DC1256F230035E922,Besichtigungstour,ND,s. Reisen (China)
-A01ED26EBC7E3239C1256F230035E923,Besichtigungstour,ND,s. Reisen (Deutschland)
-A84ACEF8EC9A9E3BC1256F230035E92C,Besichtigungstour,ND,s. Reisen (Paris)
-CB80EE9D60E41414C1256F230035E928,Besichtigungstour,ND,s. Reisen (Israel)
-CF38A1CE570F8E7BC1256F230035E931,Besichtigungstour,ND,s. Reisen (USA)
-D21370A0F3713922C1256F230035E920,Besichtigungstour,ND,s. Reisen (Brasilien)
-D3C48FAEBDA420BCC1256F230035E91E,Besichtigungstour,ND,s. Reisen (Asien)
-D527DC1FE191CBDBC1256F230035E924,Besichtigungstour,ND,s. Reisen (Europa)
-D81912EA8E9D5C7BC1256F230035E92D,Besichtigungstour,ND,s. Reisen (Skandinavien)
-DD8AC36686D2880FC1256F230035E930,Besichtigungstour,ND,s. Reisen (Türkei)
-DDCDF71E1FA3D053C1256F230035E92F,Besichtigungstour,ND,s. Reisen (Thailand)
-FB3C7F713462B8D7C1256F230035E92A,Besichtigungstour,ND,s. Reisen (Japan)
-DAF5AE496CAB5A49C1256F230035D004,Bibliothek,D,s.a. Fahrbibliothek
-544EE48406D91869C1256F230035B093,Bibliothekar,DS,Berufsbild
-3905D76565DB9131C1256F230035E977,Bibliotheque Nationale,ND,s. Bibliothek
-98C3910867EF8190C1256F230035B095,Biblis,DS,"Gemeinde im Kreis Bergstraße, Hessen; dort befindet sich eines der größten Kernkraftwerke der Erde (2 Blöcke mit insgesamt 2500 MW)."
-063E63108561BDCFC1256F230035B096,Biblische Erzählung,DS,"Geschichten/Erzählungen, die mit der Bibel bzw. biblischen Themen in Verbindung stehen, aber nicht unbedingt den Büchern des Alten oder Neuen Testamentes entsprechen."
-B56D89FA5A65317AC1257B5D005D95EE,Big Ben,ND,s. Reisen (Britische Inseln)
-BEBD87C815058F99C1256F230035E987,Bilderrätsel,ND,s. Rätsel
-65AD64A2893CAD7EC1256F230035B0AA,Bilderrahmen,DS,Die teilweise künstlerisch gestaltete Halterung für ein Bild.
-F7D591D69C36292DC125736B0034060D,Boccia,ND,s. Boulespiel
-4E8D9342437091FEC1256F230035B105,"Boccioni, Umberto",DS,"Italienischer Maler und Bildhauer (1882-1916), Mitbegründer des italienischen Futurismus (1910)."
-45737A5E313DFFF9C1256F230035D0DA,Brasilien,D,s.a. Reisen (Brasilien)
-48C9A65A63C60E25C12573ED0041BA7B,Bridge,ND,s. Spiel (Unterhaltung)
-81D45D105BEB117AC1256F230035EA8F,Britische Inseln (Reisen),ND,s. Reisen (Britische Inseln)
-F511132E39CDD639C1256F230035EAC6,Buchstabenrätsel,ND,s. Rätsel
-BD889296D3F85B86C12573FA003C2340,Buckingham Palace,ND,s. Reisen (Britische Inseln)
-6A4C663D248923C4C12577630052D354,Bücherbus,ND,s. Fahrbibliothek
-E8AB17A41F6D82E5C1256F230035EAC1,Bücherei,ND,s. Bibliothek
-CA372A35FA615577C125772B0050EF7C,Büchersammlung,ND,s. Bibliothek
-89FF0CD6BAFAC796C1256F230035EAC2,Bücherwagen,ND,s. Fahrbibliothek
-8BED335F491DD940C1256F230035B1AA,"Büchner, Georg",DS,"Deutscher Dichter (1813-37), Kampfschrift ""Der Hessische Landbote"", Revolutionstragödie ""Dantons Tod"", Lustspiel ""Leonce und Lena"", Tragödie ""Woyzeck""."
-D3CBF24721E41570C12573FB00401C70,Büttenrede,ND,s. Karneval
-474D1C04008A03DCC1256F230035B1AF,"Buffet, Bernard",DS,"Französischer Maler (1928-99), malte mit zeichnerisch realistischen Mitteln ausgezehrte Menschen, ärmliche Stilleben u.a."
-5D4CA0C6CF801C89C1257BE30057C061,Campingurlaub,ND,s. Camping
-E545531CBD520D30C1256F230035B1F7,"Campion, Thomas",DS,Englischer Komponist (1567-1620).
-3835817A68902FADC1256F230035B1F8,"Camus, Albert",DS,Französischer Schriftsteller (1913-60).
-08FFF9474FD75417C1256F470039A5F1,Caravaning,ND,s. Camping
-7F566C3E5CB1D4D1C125741F003A95D8,Centre National d'Art et de Culture Georges Pompidou,ND,s. Reisen (Paris)
-D5F496CDBF08A3B7C125748900608033,Centre Pompidou,ND,s. Reisen (Paris)
-745F700B513CB97EC125741F003B27D2,Confoederation Helvetica,ND,s. Schweiz
-AD4F8F6FB6561CD8C1257C0D005A3137,Costa Blanca,ND,s. Reisen (Spanien)
-4C469638FA7594BFC125743200393BD3,Costa Brava,ND,s. Reisen (Spanien)
-AEEEA75DCA1EFBBDC125743200394DAA,Costa del Sol,ND,s. Reisen (Spanien)
-1A78041D41875317C125741F003B1F64,C. H.,ND,s. Schweiz
-74DD1F7AE941D774C1256F230035D1D6,Dänemark,D,s.a. Reisen (Skandinavien)
-D7453AD1447B5EFEC1256F230035EBA9,Dänemark (Reisen),ND,s. Reisen (Skandinavien)
-131F4D9E08211B48C1256F230035B2D4,"Däniken, Erich von",DS,"Schweizer Schriftsteller, geb. 1935; stellt umstrittene Thesen zur Frühgeschichte auf, in denen er ungeklärte geologische, ethnologische, kulturgeschichtliche Erscheinungen als Spuren außerirdischer Wesen deutet."
-9C91696CAC131483C1257F8800571CD0,Dänische Sprache,DS,"Medien in dänischer Sprache, Grammatik etc."
-751D8256EAE4FC57C1256F230035B2C5,"Daffinger, Moritz Michael",DS,Österreichischer Maler von Bildnisminiaturen (1790-1849).
-E9B71C42EF188709C1256F230035EBD0,Denkaufgabe,ND,s. Rätsel
-2A3453EDFE55567BC1256F230035B310,Denken,DS,"Fähigkeit des Verstandes, Gegenstände und Beziehungen zwischen ihnen aufzufassen, oft mit Hilfe sprachlicher oder anderer Symbole. Ergebnisse des Denkens sind Begriffe, Urteile, Schlüsse."
-D94BB295C0A79192C12572E3002F9429,Denkspielzeug,ND,s. Rätsel
-9BF2E34E18FED613C12578AF004BE360,Denksport,ND,s. Rätsel
-484C3AFB7877C8EBC1256F230035D38D,Europa,D,s.a. Reisen (Europa)
-C947A000C8DF0C85C1256F230035EDC3,Europa (Reisen),ND,s. Reisen (Europa)
-C1AC4742F335DF90C1256F2A003272D7,Fachbibliothek,ND,s. Bibliothek
-2AF3C2399A0B440EC1257CCA005EECF8,Fangen,ND,s. Spielen
-14AFF0758994D70DC1256F230035EE1A,Fasching,ND,s. Karneval
-4EF4AD5B7CFA59AEC1256F230035B502,Faschismus,DS,"Totalitäre und nationalistische Bewegung in Italien, von Mussolini begründet (1919, Schwarzhemden), i.w.S. auch der Nationalsozialismus und dem Faschismus verwandte Bewegungen u.a. in Frankreich (Action Francaise), Österreich (Heimwehren), Belgien (Rexisten), Kroatien (Ustascha), Ungarn (Pfeilkreuzler), Spanien (Falange), Argentinien (Peronismus)."
-4490ACA5316DE05EC1256F230035EE1B,Fasenacht,ND,s. Karneval
-529B6B4832809A85C1256F230035B503,Faser,DS,"Langes, dünnes, biegsames Gebilde pflanzlichen oder tierischen Ursprungs, auch künstlich erzeugt. Zur Herstellung, Aufbereitung, Veredelung."
-20707BEA2E3E1C1FC1256F230035EE1D,Fasnacht,ND,s. Karneval
-9A1D71329F6609ACC1256F230035B504,Fassade,DS,"Vorderseite, Schauseite eines Gebäudes."
-1B0A68ECCF54B206C1256F230035B505,Fassadenmalerei,DS,"Künstlerische Gestaltung, Malerei, Graffities meist auf der Vorderseite von Gebäuden oder Mauern etc."
-83F03BE3548E0A28C1256F230035B506,Fassadenmonteur,DS,Berufsbild
-26DB5DE72AAFECBEC1256F230035EE20,Fastnacht,ND,s. Karneval
-4E42643425407CD2C1256F230035EE40,Ferien,ND,s. Urlaub
-5CE71FDFCCA8A7E3C1257CE100586A8B,Ferienlager,ND,s. Urlaub
-0540B42C76B7E5B0C1257EB500568BC0,Ferienlager,ND,s. Jugendlager
-7BADF2CB7F7DA690C1256F230035D3DE,Filmherstellung,D,s.a. Filmen
-BD5078E7C6489C70C1256F230035B545,Filmherstellung,DS,"Produktion eines Filmes durch eine Filmgesellschaft in 3 Stufen: Drehbuch (Stoffauswahl), Finanzierung, Mitarbeiter), Aufnahme nach Drehplan und drehbuchgerechtes Zusammenfügen der Teilstücke vom Cutter sowie Synchronisation."
-E50AAECDCBCA69ACC1256F230035D3E6,Finnland,D,s.a. Reisen (Skandinavien)
-FF558A7D078B7038C1256F230035B54E,Finnland,DS,"Republik in Nordeuropa, grenzt im NW an Schweden, im N an Norwegen, im O an Russland, im S an den Finnischen und im W an den Bottnischen Meerbusen. 5 Provinzen; Hauptstadt: Helsinki."
-833C529CD4EC1B9BC1256F230035EE7F,Finnland (Reisen),ND,s. Reisen (Skandinavien)
-15495C2278F44047C1257D080057E854,Flugaufnahme,ND,s. Tierbeobachtung (Naturerlebnis)
-1F3F327F51CC1361C1257FD4005E6FE4,Fotosafari,ND,s. Safari
-9739370CF6426633C1256F230035D435,Frankreich,D,s.a. Reisen (Frankreich)
-ED530394C34F864AC1256F230035D436,Frankreich,D,s.a. Reisen (Paris)
-6C02F14BCA4047CBC1256F230035EEF6,Frankreich (Reisen),ND,s. Reisen (Frankreich)
-49FF7B4251B9D1DFC1256F230035B5BA,"Frank, Anne",DS,"(1929-45 im KZ Bergen-Belsen), schrieb als Kind einer jüdischen Familie, die sich 1942-44 in einem Hinterhaus in Amsterdam verborgen halten musste, ein Tagebuch."
-7735BD27B656A432C1256F230035B5BB,"Frank, Hans",DS,Deutscher Politiker (NSDAP) (1900-46).
-BD357D13A1A6775FC1256F230035EF15,Freibad,ND,s. Schwimmbad
-44D8E466FF6CAB14C125726D0035D3EC,Freiburg (Kanton),ND,s. Schweiz
-EC28E7163F1F1196C1257D1E005AC5F1,Freie-Elektronen-Laser,DS,"Ein Freie-Elektronen-Laser ist eine Strahlungsquelle, die Synchrotronstrahlung mit sehr hoher Brillanz erzeugt."
-2ADE69FE02F226B9C1256F230035D46C,Freizeit,D,s.a. Freizeitverhalten
-6054E73D15909844C1256F230035D46B,Freizeit,D,s.a. Freizeitgestaltung
-9B15545C78E383D1C1256F230035B5DC,Freizeit,DS,Arbeitsfreie Zeit der Berufstätigen bzw. Schüler etc.; dient der Erholung.
-AD3122D6581A9DD5C1256F230035D46E,Freizeit,D,s.a. Urlaub
-CE3D2022E6038061C1256F230035EF28,Freizeitaktivität,ND,s. Freizeitverhalten
-CEADA215D65512D9C1256F230035EF27,Freizeitaktivität,ND,s. Freizeitgestaltung
-76B780777F8F706FC1257D310056DD00,Freizeitarten,ND,s. Freizeitgestaltung
-23E2973F35ED11ABC1256F230035EF29,Freizeitbeschäftigung,ND,s. Freizeitgestaltung
-827E5AF9D8990AE0C1257D310056FF0B,Freizeiteinrichtung,ND,s. Freizeitgestaltung
-B5724236B5D0C6B0C1256F230035EF2A,Freizeiterziehung,ND,s. Freizeit
-029D34D538DD0A2FC1257552005934B3,Freizeitgestaltung,D,s.a. Camping
-033324DB02A78E33C1256F230035D478,Freizeitgestaltung,D,s.a. Freizeit
-076D5EB1B39822FEC125755200596DB6,Freizeitgestaltung,D,s.a. Stadtbesichtigung
-10C691659840CFDEC1256F230035D477,Freizeitgestaltung,D,s.a. Spielen
-14228211A35FE692C12575520059F0C2,Freizeitgestaltung,D,s.a. Urlaub
-18016ECFDFF1B49FC1256F230035D473,Freizeitgestaltung,D,s.a. Reisen (Amerika)
-4149E0102C18D9E9C1256F230035D476,Freizeitgestaltung,D,s.a. Reisen (Europa)
-4B613A0DB9F9E137C1256F230035D471,Freizeitgestaltung,D,s.a. Gartenarbeit
-55B872EE27D75D8CC1256F230035D475,Freizeitgestaltung,D,s.a. Reisen (Australien)
-5DEC34F269F17F8DC1256F230035D474,Freizeitgestaltung,D,s.a. Reisen (Asien)
-6E3B6D050D335819C1256F230035D47B,Freizeitgestaltung,D,s.a. Modellbau
-6E9884DE9DA6DFCDC125755200596444,Freizeitgestaltung,D,s.a. Rätsel
-7FD6914AC12A94EEC1257552005946A1,Freizeitgestaltung,D,s.a. Filmen
-8057F6D871761305C125755200591FA1,Freizeitgestaltung,D,s.a. Basteln
-85B880CCCC2C015CC1256F230035D472,Freizeitgestaltung,D,s.a. Reisen (Afrika)
-98B9C67B21BD76E3C125755200593C44,Freizeitgestaltung,D,s.a. Drache (Spielzeug)
-9A35302CD4B2BF4AC125755200595B85,Freizeitgestaltung,D,s.a. Handarbeiten
-AA05E42D352A4941C125755200592E72,Freizeitgestaltung,D,s.a. Boulespiel
-BA8108575D9A7DA4C1256F230035D46F,Freizeitgestaltung,D,s.a. Freizeitverhalten
-C488E85FCA631D81C12575520059548D,Freizeitgestaltung,D,s.a. Glücksspiel
-D494B6D4843C0D86C1256F230035B5DD,Freizeitgestaltung,DS,"Tätigkeiten, die in der arbeitsfreien Zeit ausgeübt werden. Beschäftigung mit der Familie, allgemeine und berufliche Fortbildung, Teilnahme am staatlichen und gesellschaftlichen Leben sowie Ausüben von Hobbys."
-E1D1B6C4459D1E23C1257D310059E16C,Freizeitnutzung,ND,s. Freizeitgestaltung
-45E385AFDB1FB335C1256F230035D47D,Freizeitverhalten,D,s.a. Freizeit
-46DD0D13C9415766C1256F230035D47C,Freizeitverhalten,D,s.a. Freizeitgestaltung
-069C7E3A7AE02C86C1256F230035D487,Fremdenverkehr,D,s.a. Reisen (Deutschland)
-1CEA1B2381260FE3C1256F230035D48C,Fremdenverkehr,D,s.a. Stadtbesichtigung
-1D6C8FB6420D3A07C1256F230035D48B,Fremdenverkehr,D,s.a. Freizeitverhalten
-271D0E9267BBEB94C1256F230035D486,Fremdenverkehr,D,s.a. Reisen (Australien)
-4D1BD52165879B6CC1256F230035D488,Fremdenverkehr,D,s.a. Reisen (Europa)
-634AF1FC1237484EC1256F230035D485,Fremdenverkehr,D,s.a. Reisen (Asien)
-65A641495C39664DC1256F230035D489,Fremdenverkehr,D,s.a. Camping
-88A4E7D0AE01CA60C1256F230035D483,Fremdenverkehr,D,s.a. Reisen (Afrika)
-A7D265EFF051FB0EC1256F230035D48A,Fremdenverkehr,D,s.a. Freizeitgestaltung
-D273FAB6328B8913C1256F230035D484,Fremdenverkehr,D,s.a. Reisen (Amerika)
-98E9BB6F148DA728C125760D0036C3E9,Garmethode,D,s.a. Kochen (Gericht)
-8D7DC9218D24D655C1256F230035B63F,Garmisch-Partenkirchen (Kreis),DS,Landkreis in Südbayern im Regierungsbezirk Oberbayern.
-6E35EA1323A303D4C1256F230035D4B3,Garten,D,s.a. Gartenarbeit
-A0ED674F6872347FC1256F230035B642,Garten,DS,"Ursprünglich mit ""Gerten"" eingefriedetes Gelände für Nutzpflanzen oder Zierpflanzen."
-11E808498D00A580C1256F230035D4B9,Gartenbau,D,s.a. Gartenarbeit
-2189405C95DEEEB2C1256F230035B644,Gartenbau,DS,"Bei gesteigerter Bodenbewirtschaftung erwerbsmäßig betriebene Gewinnung hochwertiger pflanzlicher Bodenerzeugnisse. Zweige: Gemüse-, Samen-, Obstbau, Baumschule, Rosen-, Blumen-, Pflanzenzucht, Landschaftsgärtnerei (Gartenkunst) und Bindekunst."
-AAAF6D1BD7904362C12572E3002FB950,Geduldsspiel,ND,s. Rätsel
-733B251CF3E7504CC1257B67005B4322,Geertgen tot Sint Jans,DS,"Geertgen tot Sint Jans, auch Gerrit oder Geertgen van Haarlem, Gerrit Gerritsz oder Gérard de Saint-Jean (um 1460/1465-95 in Haarlem) war ein niederländischer Maler."
-E03BA649858EA4C5C12571A000287210,Genf,ND,s. Schweiz
-40C615AB60EF874EC125733600482299,Gesellschaftsspiel,ND,s. Spiel (Unterhaltung)
-7DE8A1D8F8C1B6E3C125726D003657EA,Glarus (Kanton),ND,s. Schweiz
-FA419F901156ACB1C1257DBF003A04BA,Golfküste,ND,s. Reisen (USA)
-44B53E719E40A2DEC1256F230035D5C2,Griechenland,D,s.a. Reisen (Griechenland)
-784052EFA40324CAC1256F230035F0AB,Griechenland (Reisen),ND,s. Reisen (Griechenland)
-04BD6ECBF88348DEC1256F230035D5DE,Großbritannien,D,s.a. Reisen (Britische Inseln)
-998760FC346165CDC1256F230035F0BC,Großbritannien (Reisen),ND,s. Reisen (Britische Inseln)
-DC137ABBCBAEDB01C1256F230035F109,Häkeln,ND,s. Handarbeiten
-68ACAB8D07F6E259C1256F230035F10E,Hallenbad,ND,s. Schwimmbad
-3C0E7D5518B55E48C1257E040055B8A6,Hallenfreibad,ND,s. Schwimmbad
-F1BEA352C29EB536C125733600483A65,Halma,ND,s. Spiel (Unterhaltung)
-11DFAB6397585162C1257E06005E6731,Handarbeit,ND,s. Handarbeiten
-35E6F42CD7E1351AC1256F230035D623,Handwerk,D,s.a. Handarbeiten
-8A46CBB32A7D3456C1256F230035F1E7,Hobby,ND,s. Freizeitgestaltung
-6D2D52F1AD5D5921C1257E5200568985,Holzspielzeug,ND,s. Spielen
-38E6648F3D6BC03CC1256F230035B8E1,Holzspielzeugmacher,DS,Berufsbild
-4781D5436BA968E3C1256F230035F273,Ikebana,ND,s. Basteln
-921AB7E6395865A7C1256F230035B93C,Ikone,DS,Heiligenbild der Ostkirche.
-B1D139CF6885D1FAC1256F230035B93D,Ikonographie,DS,"Erforschung und Deutung der Bildgegenstände der alten und mittelalterlich christlichen, auch der profanen Kunst."
-D990C22E77623C7EC1256F230035F287,Indien (Reisen),ND,s. Reisen (Indien)
-959A61829A881222C1256F230035D6F3,Informationswesen,D,s.a. Bibliothek
-7D7F4A54420B2DABC1256F230035F2D7,Irland (Reisen),ND,s. Reisen (Britische Inseln)
-6CB34ED64A8EA63AC1256F230035B999,Irland (Republik),DS,"Republik Irland, nimmt den größten Teil der Insel Irland, als größte der Britischen Inseln ein; Hauptstadt: Dublin. Amtssprachen: Irisch, Englisch."
-CB4FA3213B37600FC1256F230035D726,Irland (Republik),D,s.a. Reisen (Britische Inseln)
-B8AD5DE74AE312E9C1256F230035F2E4,Israel (Reisen),ND,s. Reisen (Israel)
-16D801079E10945FC1256F230035B9B6,Israel (Republik),DS,"Medinat Israel; Republik in Vorderasien; Hauptstadt: Jerusalem. Amtssprache: Hebräisch. Gesetzgebung durch das Parlament (die Knesset), das den Staatspräsident wählt."
-BAB4DB5E2E0639D1C1256F230035D732,Israel (Republik),D,s.a. Reisen (Israel)
-E63D7566C4D5BD0CC1256F230035D744,Italien,D,s.a. Reisen (Italien)
-948E9F3EE3E01441C1256F230035F2E6,Italien (Reisen),ND,s. Reisen (Italien)
-575EEA3D408C06F0C1257EAB003469B9,Japan,D,s.a. Reisen (Japan)
-A5FD6EC070DB548EC1256F230035B9EB,Japan (Wirtschaft),DS,Wirtschaftliche Themen über Japan.
-1568BB6BA52D3E45C1257EAB00345E79,Japanische Alpen,ND,s. Reisen (Japan)
-4A01D4D81B241E2DC1257EB50056937D,Jugendarbeit,ND,s. Jugendlager
-324621C602079508C1256F230035F36A,Kanaren (Reisen),ND,s. Reisen (Spanien)
-5FFF18198D41D99FC1256F230035BA65,Kanarische Inseln,DS,"Inseln im Atlantik zu Spanien gehörend: Teneriffa, Gomera, La Palma, Lanzarote, Fuerteventura, Hierro, Gran Canaria."
-45ABE38B7E1A6FA6C125715B0032E716,Kanton (Schweiz),ND,s. Schweiz
-5F443D64E6297E58C125715C002E9608,Karten (Spiel),ND,s. Spiel (Unterhaltung)
-3FBA2B11839DC67CC1256F230035F3A5,Kartenspiel,ND,s. Spiel (Unterhaltung)
-95B1A9F547442AF9C1257EEA005DDA63,Khao Lak,ND,s. Thailand
-1F6DF56DC4DCADE4C1256F230035BAE1,"Khnopff, Fernand",DS,"Belgischer Maler, Bildhauer (1858-1921)."
-0E8C949278C8BCC5C1256F230035F432,Kinderspiel,ND,s. Spielen
-0E4FD8010EEB708EC1256F230035F433,Kinderspielplatz,ND,s. Spielplatz
-ED38B787A7DF0E40C1256F230035D807,Kindliches Lernen,D,s.a. Spielen
-6627C7A79D7E1C96C1257EEF00513A49,Kindliches Spiel,ND,s. Spielen
-0C528979BA35FFB8C1257EFB005A77B1,Klettergerät,ND,s. Spielplatz
-215325402BCD1BADC12578AF004BEF9C,Knobelaufgabe,ND,s. Rätsel
-ACAFB09D13437724C1256F230035F522,Korsika (Reisen),ND,s. Reisen (Frankreich)
-2AED8D329BC29F94C12582E1005B2B6D,Kostüm (Kostümierung),ND,s. Karneval
-F9B5F0465D702942C1256F230035F547,Krankenhausbibliothek,ND,s. Bibliothek
-00519976AD09892EC1256F230035F553,Kreative Tätigkeit,ND,s. Freizeitgestaltung
-426AE8E08ECF1A23C1256F230035D8B6,Kreativität,D,s.a. Freizeitgestaltung
-335DF223E6314238C1256F230035F569,Kreuzworträtsel,ND,s. Rätsel
-43FAD5227CA678D0C1256F230035BBF7,Kreuzzug,DS,"Im weiteren Sinn Kriegszüge zur Bekehrung der ungläubigen, im engeren Sinn die Kriege der abendländischen Christenheit zur Eroberung Palästinas (1096-1291)."
-974C71CCC400BF5EC1256F230035F5D3,Künstlerische Betätigung,ND,s. Freizeitgestaltung
-8C5DDF2E0F92AEE0C1257F8D00561D28,Kürzen,ND,s. Handarbeiten
-EF85D663C5380238C1256F230035D917,Kunst,D,s.a. Freizeitgestaltung
-DEDF70D6AF83C160C125781D0054F447,Lager (Camp),ND,s. Camping
-3B239EC3426E9278C1256F230035BC60,Lager (Maschinenteil),DS,"Maschinenteil zum Tragen (Traglager) oder Stützen (Stützlager) von Wellen und Zapfen. Formen: Gleitlager, Wälzlager, Nadellager."
-275CD11E0CDBC21BC1256F230035D936,Landeskunde (USA),D,s.a. Reisen (USA)
-C8B5A265C69EC4D3C1256F230035BC98,Landeskunde (USA),DS,"Kenntnis über die USA in der Gesamtheit von ""Land und Leuten""."
-8F19CD7396C8BC51C1257FA7005C6141,Lebensmittelzubereitung,ND,s. Kochen (Gericht)
-963825759C0C6834C1256F230035D9D4,London,D,s.a. Reisen (Britische Inseln)
-BE0AA6F61F84699EC1256F230035BD8A,London,DS,"Hauptstadt Großbritanniens und des Commonwealth, an beiden Ufern der Themse."
-33EF1B1F818D1D53C1257FC7005B6257,London Eye,ND,s. Reisen (Britische Inseln)
-DA70029202559FB8C1256F230035F7CD,London (Reisen),ND,s. Reisen (Britische Inseln)
-D9B8BD1E313F023CC12571A2002E7F49,Lotterie,ND,s. Glücksspiel
-07C7A32EC9034F4FC1256F230035BD9C,"Lotti, Antonio",DS,Italienischer Komponist (1666-1740).
-5AAF07B1A57EDF87C1256F230035BD9D,"Lotto, Lorenzo",DS,Italienischer Maler (um 1480-1556).
-842985192D0D1234C12577C9005462BA,Lotuseffekt,DS,"Als Lotuseffekt, auch Lotoseffekt, wird die geringe Benetzbarkeit einer Oberfläche bezeichnet, wie sie bei der Lotospflanze beobachtet werden kann. Wasser perlt in Tropfen ab und nimmt dabei auch alle Schmutzpartikel auf der Oberfläche mit. Verantwortlich dafür ist eine komplexe mikro- und nanoskopische Architektur der Oberfläche, die die Haftung von Schmutzpartikeln minimiert. Die Selbstreinigungsfähigkeit wasserabweisender mikro-nanostrukturierter Oberflächen wurde in den 1970er Jahren entdeckt und seit Mitte der 1990er Jahre in biomimetisch-technische Produkte übertragen. Diese sind mit dem Markennamen Lotus-Effekt gekennzeichnet."
-8F12CDE3DC168B28C1256F230035F818,Luxemburg (Reisen),ND,s. Reisen (Europa)
-C13B96AE7DC47C44C1256F230035BDD0,"Luxemburg, Rosa",DS,"Deutsche Sozialistische Politikerin (1871-1919 erschossen); gründete 1917 mit K. Liebknecht den Spartakusbund, nahm am Berliner kommunistischen Aufstand 1919 teil."
-207AB4E93654439DC1257FD4005E679C,Luxussafari,ND,s. Safari
-4B9B29F560D66BFCC12571A200333537,Luzern,ND,s. Schweiz
-98375519447BF571C1256F230035F89F,Marmorieren,ND,s. Basteln
-41B2F94C18206C49C1256F230035F8B1,Maschenbildung,ND,s. Handarbeiten
-9A20ACE5CEFFEA8EC1256F230035F903,Mediothek,ND,s. Bibliothek
-91299209260FA1F7C125733600482DF2,Mensch ärgere dich nicht,ND,s. Spiel (Unterhaltung)
-D726AD6152335D74C1258079005FB591,Mexikanisches Totenfest,ND,s. Halloween
-E331B34C71FA8018C1256F230035DABF,Mitteleuropa,D,s.a. Schweiz
-27BD979747DBD847C1257A0D005674D5,Mitteleuropa,D,s.a. Schweiz
-D1652CE523BC6596C1256F230035F9E8,Modelleisenbahn,ND,s. Modellbau
-4088A4E5F0367A3AC1256F230035F9E9,Modellflugzeug,ND,s. Modellbau
-60B99A9765D7394FC1256F230035F9EC,Modellieren,ND,s. Freizeitgestaltung
-40C54786850E0725C12580B8005E2BDF,Monte Testaccio,ND,s. Reisen (Italien)
-2F9E9BF9DDAC5B9BC125733600484041,Mühle (Spiel),ND,s. Spiel (Unterhaltung)
-04DDA74B7C054A74C1256F230035BF9B,Mühle (Zerkleinerungsmaschine),DS,"Mahlmaschine, Mahlanlage. Technische Entwicklung und Funktion."
-C427B754D5709195C1256F230035FADE,Nähen,ND,s. Handarbeiten
-750052C6DB4ABF35C125760D0036E078,Nahrungszubereitung,ND,s. Kochen (Gericht)
-64934BB2FDF9A0D0C1256F230035FAF3,Narrensprung,ND,s. Karneval
-61C1EC40EDA0C9E6C1256F230035DB6B,Naturbeobachtung,D,s.a. Tierbeobachtung (Naturerlebnis)
-6D4AF555FEF17374C1256F230035C01B,Naturbeobachtung,DS,"Alle Beobachtungen der Natur; Beschreibungen der ungestörten, natürlichen Umwelt."
-75D9C7E0F8E03BF9C125726D0035E085,Neuenburg (Kanton),ND,s. Schweiz
-2D9BC8C09CFEC60AC125726D0036D15F,Nidwalden (Kanton),ND,s. Schweiz
-84CAFF5D2942F463C1256F230035FB8C,Niederlande (Reisen),ND,s. Reisen (Europa)
-FA6F1F0AB646FF96C1256F230035DBD1,Nordeuropa,D,s.a. Skandinavien
-C6BCAE44FF6B9CEAC1256F230035DBF2,Norwegen,D,s.a. Reisen (Skandinavien)
-D10D60460D3F0D6DC1256F230035FBC0,Norwegen (Reisen),ND,s. Reisen (Skandinavien)
-B5E7E46EA628B4F0C1256F230035C096,Norwich,DS,Alte Bischofsstadt in Ostengland.
-A0301F9731EE686AC1256F230035C097,"Noske, Gustav",DS,Deutscher Politiker (SPD) (1868-1946).
-0C05E0DD80A4BEDEC1256F230035C099,Nostradamus,DS,"Eigentlich Michel de Notredame, französischer Astrologe (1503-66), Leibarzt Karls IX."
-3C65A473829ED673C1256F230035C09A,Notargehilfe,DS,Berufsbild
-FD9C3DE983634D98C125726D0036DC55,Obwalden (Kanton),ND,s. Schweiz
-00E4B36F459B3309C12573320048640C,Öffentliche Bibliothek,ND,s. Bibliothek
-1ECD765D90BD1420C1256F230035DC89,Österreich,D,s.a. Reisen (Österreich)
-294258E4DC7BC038C1256F230035C118,Österreich,DS,"Bundesstaat im Südosten Mitteleuropas; Hauptstadt: Wien. 9 Bundesländer: Burgenland, Kärnten, Niederösterreich, Oberösterreich, Salzburg, Steiermark, Tirol, Vorarlberg, Wien."
-87EB9F6B0970A349C1256F230035FC97,Österreich (Reisen),ND,s. Reisen (Österreich)
-12EF057224E0EB89C1256F230035C11E,Östliche Bundesländer,DS,Die aus dem ehemaligen Staatsgebiet der DDR nach dem 3.10.1990 entstandenen neuen Bundesländer der Bundesrepublik Deutschland.
-C1B545350E55FF9FC125813A0054694E,"Olympisches Weltjugendlager (1972, München)",ND,s. Jugendlager
-04C32BAEB4936B0BC1256F230035FCDF,Papierdrache,ND,s. Drache (Spielzeug)
-17B553D134D5F583C1256F230035DCC3,Paris,D,s.a. Reisen (Paris)
-6EA406A1B848A739C1256F230035FCF5,Paris (Reisen),ND,s. Reisen (Paris)
-390608205C647BA8C125816400577643,Pattaya,ND,s. Thailand
-E02B486333DE49B7C1256F230035C177,Pauke,DS,"Schlaginstrument mit veränderbarer Tonhöhe, ein mit Kalbs-(Esels-)Fell bespannter Kupfer- oder Messingkessel."
-0A2C274D18084813C1256F230035C178,Paul VI. (Papst),DS,"Papst von 1963-78, Giovanni Battista Montini (1897-1978); Weiterführung und Abschluss des II. Vatikanischen Konzils 1965; Verlautbarungen: Sozialenzyklika ""Polulorum progressio"" (1967) und Enzyklika ""Humanae vitae"" (1968, über Ehe und Geburtenregelung)."
-AA766D35BA12894CC1256F230035C17A,"Pauling, Linus Carl",DS,"Amerikanischer Chemiker (1901-94); 1954 Nobelpreis für Chemie, 1962 Friedensnobelpreis."
-852DA16731F6FF79C1256F230035FD48,Petanque,ND,s. Boulespiel
-C1E609981EC3B504C1258191005D73EE,Plymouth,ND,s. Reisen (Britische Inseln)
-E72F0D14FB487CEFC1256F230035C208,Pneumatik,DS,"Technisches Verfahren, bei denen eingeschlossene Luft zur Kraftübertragung dient."
-F912AA8FCB2D612EC1256F230035FE1B,Polen (Reisen),ND,s. Reisen (Europa)
-F1E0E9DE4592C3FDC1256F230035FF04,Puppe (Spielzeug),ND,s. Spielen
-0706D89D81F7AE4BC1256F230035C27D,Puppenspiel,DS,Theaterspiel mit beweglichen Marionetten oder Handpuppen.
-1959D9240572A945C12572270039824E,Quartett (Kartenspiel),ND,s. Spiel (Unterhaltung)
-B9A28B32243FD7EEC1256F230035C28D,Quartett (Musik),DS,"Tonsatz für 4 Stimmen oder Instrumente. Streichquartett: 2 Violinen, Bratsche, Violoncello; Klavierquartett: Klavier und 3 Streichinstrumente."
-767C8B9B6E1A9165C1256F230035C28E,Quarz,DS,"Weit verbreitetes, wasserhelles, oft trübes bis gefärbtes Mineral, chemisch wasserfreie Kieselsäure, SiO2. Arten: Bergkristall, Regenbogenquarz, Rauchquarz, Amethyst, Rosenquarz u.v.m."
-BDC025D2A6742310C1256F230035FF28,Quiz,ND,s. Rätsel
-603A34F17C94AA8DC1256F230035C295,Qumran,DS,"Ort am Toten Meer mit Überresten einer 68 n.Chr. zerstörten klosterähnlichen Siedlung einer jüdisch religiösen Gemeinschaft; seit 1947 wurden dort Handschriften, besonders zum Alten Testament, gefunden."
-DB58815C6CC58B61C1256F230035FF82,Rebus,ND,s. Rätsel
-B4E050B51863F696C125821600624E34,Reise,ND,s. Urlaub
-52B923CC33C40C77C1258216006247D2,Reiseland,ND,s. Urlaub
-2C107068520C5688C1256F230035C313,Reiseleiter,DS,Berufsbild
-592E319C19B73296C12582160062C9B7,Reisemotiv,ND,s. Urlaub
-7FB6F9988D76BA02C1256F230035C315,Reisen (Ägypten),DS,"Berichte, Beschreibungen, Bilder von Reisen in Ägypten."
-24E9EDE79757929CC1256F230035C314,Reisen (Afrika),DS,"Berichte, Beschreibungen, Bilder von Reisen auf dem afrikanischen Kontinent."
-A52FCD81FA044647C1256F230035DDD7,Reisen (Afrika),D,s.a. Stadtbesichtigung
-C7AE791D4C644CD4C1257552005A0D05,Reisen (Afrika),D,s.a. Reisen (Ägypten)
-4BD2295121474AE5C12582160062F2B5,Reisen (allgemein),ND,s. Urlaub
-68012D5159D6B164C1256F230035FFD3,Reisen (Alpen),ND,s. Reisen (Europa)
-1B83E734D4B829DAC1256F230035C316,Reisen (Amerika),DS,"Berichte, Beschreibungen, Bilder von Reisen auf dem amerikanischen Kontinent (außer USA)."
-1DF02F84BB940C4BC1256F230035DDD8,Reisen (Amerika),D,s.a. Stadtbesichtigung
-9BFDECA8E350CF98C1256F230035DDD9,Reisen (Amerika),D,s.a. Reisen (USA)
-9CB78B16B4FC4BDAC1256F230035DDDA,Reisen (Amerika),D,s.a. Reisen (Brasilien)
-2FBBD60EC01DD554C1256F230035DDDF,Reisen (Asien),D,s.a. Reisen (Thailand)
-386AB51128321DE7C1256F230035DDDE,Reisen (Asien),D,s.a. Reisen (Japan)
-52CB3EB3A900DC46C1256F230035DDDC,Reisen (Asien),D,s.a. Reisen (China)
-685929D11EF9CB52C1256F230035DDDB,Reisen (Asien),D,s.a. Stadtbesichtigung
-B0FE1C86696C50F0C1256F230035DDDD,Reisen (Asien),D,s.a. Reisen (Indien)
-B667A40D82DB2324C1257552005A24FF,Reisen (Asien),D,s.a. Reisen (Israel)
-DE94BEEC9EA4FF95C1256F230035C317,Reisen (Asien),DS,"Berichte, Beschreibungen, Bilder von Reisen auf dem asiatischen Kontinent."
-285CEBDEADF7AFDDC1256F230035DDE0,Reisen (Australien),D,s.a. Stadtbesichtigung
-6D6F0A9D2033F4E6C1256F230035C318,Reisen (Australien),DS,"Berichte, Beschreibungen, Bilder von Reisen in Australien und Ozeanien."
-C8C65D49133CE06EC1256F230035FFD4,Reisen (Balearen),ND,s. Reisen (Spanien)
-55281D5DC2D064D6C1256F230035FFD5,Reisen (Baltikum),ND,s. Reisen (Europa)
-619A6D109BFC7F9CC1256F230035FFD6,Reisen (Belgien),ND,s. Reisen (Europa)
-6BAD65091E0D64CFC1256F230035FFD7,Reisen (Beneluxstaaten),ND,s. Reisen (Europa)
-31C010134F731E7CC1256F230035C319,Reisen (Brasilien),DS,"Berichte, Beschreibungen, Bilder von Reisen innerhalb Brasiliens."
-25A9978085E70CFCC1256F230035C31A,Reisen (Britische Inseln),DS,"Berichte, Beschreibungen, Bilder von Reisen innerhalb der Britischen Inseln (Großbritannien mit England, Schottland und Wales, Irland, Shetland- und Orkney-Inseln, Hebriden, die Inseln Man, Wight und Anglesey."
-8A8DB7F7FD0F4987C1256F230035C31B,Reisen (China),DS,"Berichte, Beschreibungen, Bilder von Reisen in China."
-FE076BDC6EA4F8D2C1256F230035FFD8,Reisen (Dänemark),ND,s. Reisen (Skandinavien)
-570C1325EDA28DBBC1256F230035DDE1,Reisen (Deutschland),D,s.a. Stadtbesichtigung
-74EED10427C7344FC1256F230035C31C,Reisen (Deutschland),DS,"Berichte, Beschreibungen, Bilder von Reisen innerhalb Deutschlands."
-295EF039FF939216C1256F230035FFD9,Reisen (England),ND,s. Reisen (Britische Inseln)
-0CFC417B69B2D82BC1256F230035DDE5,Reisen (Europa),D,s.a. Reisen (Türkei)
-0EE217B5D3A612DCC1256F230035C31D,Reisen (Europa),DS,"Berichte, Beschreibungen, Bilder von Reisen in Europa."
-157561A9030766D5C1256F230035DDE3,Reisen (Europa),D,s.a. Reisen (Griechenland)
-3FEE0F83966D09A8C1256F230035DDE2,Reisen (Europa),D,s.a. Stadtbesichtigung
-41EF0F43F522447CC1256F230035DDE4,Reisen (Europa),D,s.a. Reisen (Spanien)
-562EC83CB7548CCAC1256F230035DDEC,Reisen (Europa),D,s.a. Reisen (Österreich)
-81F67CEFD83BA63AC1256F230035DDE9,Reisen (Europa),D,s.a. Reisen (Skandinavien)
-890A4F82A7791658C1256F230035DDE8,Reisen (Europa),D,s.a. Reisen (Italien)
-8EAC793B54674900C12577DC00537781,Reisen (Europa),D,s.a. Reisen (Schweiz)
-C21A182D893A8DE0C1256F230035DDE7,Reisen (Europa),D,s.a. Reisen (Britische Inseln)
-E2A6F31AE6C06951C1256F230035DDEA,Reisen (Europa),D,s.a. Reisen (Deutschland)
-E9A9A4348CCB22D4C1256F230035DDE6,Reisen (Europa),D,s.a. Reisen (Frankreich)
-FD052A48B673128EC1256F230035DDEB,Reisen (Europa),D,s.a. Reisen (Paris)
-2011EE2DB270C57AC1256F230035FFDA,Reisen (Finnland),ND,s. Reisen (Skandinavien)
-1174165B1CC451A9C1256F230035C31E,Reisen (Frankreich),DS,"Berichte, Beschreibungen, Bilder von Reisen in Frankreich."
-3053559E30B87244C1256F230035DDED,Reisen (Frankreich),D,s.a. Reisen (Paris)
-5451F98E0A724839C1256F230035C31F,Reisen (Griechenland),DS,"Berichte, Beschreibungen, Bilder von Reisen in Griechenland."
-1D1C352FF38C9497C1256F230035FFDB,Reisen (Großbritannien),ND,s. Reisen (Britische Inseln)
-A37CEEE84AFC795FC1256F230035C320,Reisen (Indien),DS,"Berichte, Beschreibungen, Bilder von Reisen in Indien."
-BEBCC1DBC1364313C1256F230035FFDC,Reisen (Irland),ND,s. Reisen (Britische Inseln)
-101E0D4A6469C8F4C1256F230035C321,Reisen (Israel),DS,"Berichte, Beschreibungen, Bilder von Reisen in Israel."
-49ED2BE25CBC57B7C1256F230035C322,Reisen (Italien),DS,"Berichte, Beschreibungen, Bilder von Reisen in Italien."
-62010505EB02F0D0C1256F230035C323,Reisen (Japan),DS,"Berichte, Beschreibungen, Bilder von Reisen in Japan."
-77B1802B7DEB3A36C1256F230035FFDD,Reisen (Jugoslawien),ND,s. Reisen (Europa)
-C533D09E5364BD99C1256F230035FFDE,Reisen (Kanaren),ND,s. Reisen (Spanien)
-B429FF43CB98D739C1256F230035FFDF,Reisen (Luxemburg),ND,s. Reisen (Europa)
-832C3721B84232B8C1256F230035FFE0,Reisen (Niederlande),ND,s. Reisen (Europa)
-3A0D58AA29F54E7BC1256F230035FFE1,Reisen (Norwegen),ND,s. Reisen (Skandinavien)
-22C0A54C092C8F4DC1256F230035C324,Reisen (Österreich),DS,"Berichte, Beschreibungen, Bilder von Reisen in Österreich."
-95FED252B0A693BDC1256F230035FFE2,Reisen (Polen),ND,s. Reisen (Europa)
-43D156876D388E16C1256F230035FFE3,Reisen (Portugal),ND,s. Reisen (Europa)
-F9C30F675B64E0F4C1256F230035FFE4,Reisen (Schottland),ND,s. Reisen (Britische Inseln)
-CFA7D68A93EC6B88C1256F230035FFE5,Reisen (Schweden),ND,s. Reisen (Skandinavien)
-BDC2E6C84376DDACC12577DC00532908,Reisen (Schweiz),DS,"Berichte, Beschreibungen, Bilder von Reisen innerhalb der Schweiz."
-E7B9DB8BBC6BD671C1256F230035C326,Reisen (Skandinavien),DS,"Berichte, Beschreibungen, Bilder von Reisen innerhalb Skandinaviens (Dänemark, Schweden, Norwegen, Finnland)."
-A9D1F6EA8F42C121C1256F230035FFE6,Reisen (Slowakische Republik),ND,s. Reisen (Europa)
-97035052C8129BE1C1256F230035C327,Reisen (Spanien),DS,"Berichte, Beschreibungen, Bilder von Reisen in Spanien."
-EA6967EDEB0AA3A8C1256F230035C328,Reisen (Thailand),DS,"Berichte, Beschreibungen, Bilder von Reisen in Thailand."
-31F100B0E670A9A0C1256F230035FFE7,Reisen (Tschechische Republik),ND,s. Reisen (Europa)
-9F950B521F2EB2F5C1256F230035C329,Reisen (Türkei),DS,"Berichte, Beschreibungen, Bilder von Reisen in der Türkei."
-B0FF42EBA87CE9CDC1256F230035FFE8,Reisen (Ukraine),ND,s. Reisen (Europa)
-55DDD484BA0E5EECC1256F230035FFE9,Reisen (Ungarn),ND,s. Reisen (Europa)
-292AAD658376BB9FC1256F230035C32A,Reisen (USA),DS,"Berichte, Beschreibungen, Bilder von Reisen in den USA."
-63A2990BBD006799C1256F230035DDF2,Reisen (USA),D,s.a. Stadtbesichtigung
-0970AE4B5FC3AFC1C1256F230035FFEA,Reisen (Wales),ND,s. Reisen (Britische Inseln)
-2EE483E832841287C125760D0036CEAC,Rezept (Speisenzubereitung),ND,s. Kochen (Gericht)
-E8CF48C75DCD5F73C1256F230035C36B,Rezeption (Literatur),DS,Literaturwissenschaft: Aufnahme (das Verstehen) von literarischen Werken beim Leser (Publikum).
-655D332A56B38003C1256F230035DE48,Rollenspiel,D,s.a. Spielen
-90925B7F9E1B9EFCC1256F230035C3BE,Rollenspiel,DS,"In der Pädagogik gilt das Rollenspiel schon seit längerem als eine wichtige Möglichkeit, mit der die Beteiligten soziale Erfahrungen machen können, indem sie Rollen übernehmen, ausprobieren, wechseln, reflektieren und verändern."
-ACD2966AE5B9C3D8C1256F230036008F,Rom (Reisen),ND,s. Reisen (Italien)
-2507E035A970348BC1256F230035C3C1,Rom (Stadt),DS,"Hauptstadt Italiens, größte Stadt des Landes, Mittelpunkt der katholischen Christenheit, einer der ältesten und bedeutendsten Kulturmittelpunkte der Erde, auf beiden Seiten des Tibers."
-B4C32C68C8726325C1256F230035DE4B,Rom (Stadt),D,s.a. Reisen (Italien)
-5FE7324D8A247B52C1256F230035C3C2,Roma (ethnische Minderheit),DS,Eigene Bezeichnung einer v.a. in Europa lebenden ethnische Minderheit indischer Herkunft. Die in Deutschland lebenden Roma mit deutscher Staatsbürgerschaft bezeichnen sich als Sinti. Werden häufig abwertend und diskriminierend als Zigeuner bezeichnet.
-1894CE77D474684AC1256F23003600BE,Roulette,ND,s. Glücksspiel
-7A86948649717E22C1256F230035C3EB,"Rousseau, Henri",DS,"Genannt. Le Douanier, französischer Maler (1844-1910)."
-310539290461634DC1256F230035C3EC,"Rousseau, Jean-Jacques",DS,Französischer Schriftsteller und Philosoph (1712-78); Vertreter und zugleich Überwinder der Aufklärung. Die Französische Revolution wurde von seinen staatstheoretischen Lehren entscheidend bestimmt.
-39311C5891E05344C125824E005FCB25,Route 66,ND,s. Reisen (Amerika)
-0E4ADFB24491F5D3C1256F230035C3ED,"Rowlandson, Thomas",DS,Englischer Karikaturist (1756-1827).
-3779E0490EA02D15C12572E3002FA86A,Rubik-Würfel,ND,s. Rätsel
-E006F9E5BCED1062C125825700617E25,Sacré-Cœur,ND,s. Reisen (Paris)
-1363B0291553EC47C1256F230035C41D,"Sadur, Nina",DS,Russische Dramaturgin und Schriftstellerin; geb. 1950.
-A8B224FC5DAEA7E8C1256F230036010B,Salzteig,ND,s. Basteln
-CC948AC31507808FC1256F2300360117,Sammeln (Aktivität),ND,s. Freizeitgestaltung
-3BD3CAC328ED2A51C12582630033AA1A,Sammler,ND,s. Freizeitgestaltung
-6DF70159A37C0CCCC125726D0036803D,Sankt Gallen (Kanton),ND,s. Schweiz
-3C8580D01328C39BC1256F230035C440,Sankt Georgen,DS,Stadt im Schwarzwald-Baar-Kreis im südlichen Schwarzwald.
-35E592B3F05E2595C1256F230035C441,Sankt Gotthard,DS,"Gebirgsstock in der Schweiz, 3192 m hoch; der über ihn führende Sankt Gotthard Pass, 2108 m hoch, mit Hospiz, verbindet Reuß- und Tessintal. Der Sankt Gotthard wird von der Gotthardbahn durchfahren; seit 1980 Straßentunnel von Göschenen nach Airolo."
-802A5477632AF0FBC125826E005BF98F,Sankt Moritz,ND,s. Schweiz
-472E141C08212132C1256F230035C442,Sankt Petersburg,DS,"1914-24 Petrograd, bis 1991 Leningrad. Stadt in Russland, liegt an der Mündung der Newa in den Finnischen Meerbusen, z.T. auf Inseln. Nach Moskau größtes Kulturzentrum Russlands. Sankt Petersburg wurde von Peter dem Großen gegründet, bis 1917 Residenz russischer Kaiser."
-5408E0CFEA93CD25C125726D003691BE,Schaffhausen (Kanton),ND,s. Schweiz
-934CE8844765B032C1256F230035C46D,"Schaffner, Martin",DS,Deutscher Maler und Bildschnitzer (um 1478-nach 1546).
-BD8EAF068716CF97C1256F230035C46E,"Schaffrath, Christoph",DS,"Deutscher Komponist, Cembalist und Musiktheoretiker (1709-63)."
-922E8D37D4E530F5C1257264003CC928,Schiffchen (Nähmaschine),ND,s. Handarbeiten
-B03B6583F677DD42C1256F230036020A,Schulbibliothek,ND,s. Bibliothek
-D4A51836957A7193C1256F2300360219,Schulferien,ND,s. Urlaub
-412FA621BA254352C1256F230035C50A,Schulfernsehen,DS,Fernseh- und Hörfunkprogramme für den Unterricht.
-0EA3BBC211A137D3C1256F230035DF3D,Schweden,D,s.a. Reisen (Skandinavien)
-1BC5310EF175A6E9C1256F2300360265,Schweden (Reisen),ND,s. Reisen (Skandinavien)
-66BB099CBDC1437FC12577DC00534305,Schweiz,D,s.a. Reisen (Schweiz)
-7DC339EF74BDA80DC125741F003B1500,Schweizerische Eidgenossenschaft,ND,s. Schweiz
-20E0C3007185AC54C125726D003736B4,Schwellenländer,DS,"Bezeichnung für relativ fortgeschrittene Entwicklungsländer, die an der Schwelle zum Industriestaat stehen. "
-37F9F5939AD3199CC125726D0036A621,Schwyz (Kanton),ND,s. Schweiz
-D9A8591B0BECCC92C1256F230035C547,Science-Fiction (für Erwachsene),DS,"Spielfilm, der sich spekulativ mit künftigen, z.T. aber physikalisch und technisch (zum Drehzeitpunkt) nicht realisierbaren Entwicklungen der Menschheit befassen. Adressaten ab ca. 21 Jahre."
-D890E6BCA7CA16A3C1256F23003602B4,Sehenswürdigkeit (Afrika),ND,s. Reisen (Afrika)
-71EA4BE3F313D4F9C1256F23003602B5,Sehenswürdigkeit (Amerika),ND,s. Reisen (Amerika)
-1BE8DF0FEA758E39C1256F23003602B6,Sehenswürdigkeit (Asien),ND,s. Reisen (Asien)
-EE6FEA5FFE303A71C1256F23003602B7,Sehenswürdigkeit (Australien),ND,s. Reisen (Australien)
-26E57E8A021C1BECC1256F23003602B8,Sehenswürdigkeit (Deutschland),ND,s. Reisen (Deutschland)
-1DAF6AAF7F88A56EC1256F23003602B9,Sehenswürdigkeit (Europa),ND,s. Reisen (Europa)
-F08EBA944FB5BE13C1256F23003602BE,Seidenmalerei,ND,s. Basteln
-F773C61AB833FBF2C1256F230036032B,Siam,ND,s. Thailand
-006D705ED20339ABC12572A500340117,Sightseeing,ND,s. Reisen (Britische Inseln)
-04A40549B4031485C12572A50034A1A7,Sightseeing,ND,s. Reisen (USA)
-065661CBBB746C61C12572A50033CF12,Sightseeing,ND,s. Reisen (Ägypten)
-0DF098335B6BF5E7C12572A5003449C9,Sightseeing,ND,s. Reisen (Italien)
-1A07E03237F70F07C12572A500347D11,Sightseeing,ND,s. Reisen (Spanien)
-24902EECAFB486ABC12572A50033F7AF,Sightseeing,ND,s. Reisen (Brasilien)
-3065D607BEAF48A2C12572A500344151,Sightseeing,ND,s. Reisen (Israel)
-3C916AEF3775C249C12572A500348D0E,Sightseeing,ND,s. Reisen (Thailand)
-4C2540EA28F43DC7C12572A500345514,Sightseeing,ND,s. Reisen (Japan)
-4C49BB0BDE28489CC12572A500342783,Sightseeing,ND,s. Reisen (Griechenland)
-86B503C9A21CFB55C12572A500345E6A,Sightseeing,ND,s. Reisen (Österreich)
-8984BA8F691FB4CEC12572A500341690,Sightseeing,ND,s. Reisen (Deutschland)
-8FEDA9813211A971C12572A50034328C,Sightseeing,ND,s. Reisen (Indien)
-A64B044E41CFD951C12572A500340A3F,Sightseeing,ND,s. Reisen (China)
-B99D01CC34D58C6EC12572A500346A35,Sightseeing,ND,s. Reisen (Paris)
-C149E926B495ACB5C12572A50033E1B4,Sightseeing,ND,s. Reisen (Amerika)
-C940F549C18FD798C12572A50034961B,Sightseeing,ND,s. Reisen (Türkei)
-D6C238B8602F1A4BC12572A500341DEC,Sightseeing,ND,s. Reisen (Frankreich)
-E724472A5D56E6A3C12572A500347306,Sightseeing,ND,s. Reisen (Skandinavien)
-F0CFAB3B50D78944C12572A50033F01F,Sightseeing,ND,s. Reisen (Australien)
-F70F0C89E7B00D9CC12572A50033D9C6,Sightseeing,ND,s. Reisen (Afrika)
-4C0F51EFD8A17E6FC1256F230035C5B2,Sigmaringen (Kreis),DS,Landkreis im Bereich Bodensee-Oberschwaben im Regierungsbezirk Tübingen in Baden-Württemberg.
-F175A62EBFA53A44C1256F2300360368,Sizilien (Reisen),ND,s. Reisen (Italien)
-DC4CEBF4723DF5C8C1256F230035DF98,Skandinavien,D,s.a. Reisen (Skandinavien)
-5165198A4E344158C1256F2300360369,Skandinavien (Reisen),ND,s. Reisen (Skandinavien)
-652C0D59101DBEECC12572A5003B8A14,Skat,ND,s. Spiel (Unterhaltung)
-A06F3254B589998BC125726D0036B56B,Solothurn (Kanton),ND,s. Schweiz
-D818D875987F7759C1256F230035C5F9,"Solti, Georg Sir",DS,Britischer Dirigent ungarischer Herkunft (1912-97).
-BDFF79D1F935C98CC1256F230035DFE5,Spanien,D,s.a. Reisen (Spanien)
-70C5577812D92EC2C1256F23003603D9,Spanien (Reisen),ND,s. Reisen (Spanien)
-08F58BE627E50DF8C1256F2A00328CEA,Spezialbibliothek,ND,s. Bibliothek
-04F4910B413EA595C1256F2300360410,Spiel (Glücksspiel),ND,s. Glücksspiel
-0542527473D348FAC1256F2300360412,Spiel (kindliches),ND,s. Spielen
-4E4AD03C768D90EEC1256F230035DFED,Spiel (Unterhaltung),D,s.a. Spielen
-F07D3369A983F3E7C1256F230035DFEB,Spiel (Unterhaltung),D,s.a. Freizeitgestaltung
-6BFA856D86032C91C1256F230035DFF4,Spielen,D,s.a. Spiel (Unterhaltung)
-0952644FE58F9B5AC12582E8005BDBD3,Spielfeld,ND,s. Spiel (Unterhaltung)
-4BD1920BBADF1E47C12582E8005CD242,Spielgerät,ND,s. Spiel (Unterhaltung)
-E2D47EDB3A4F1240C12582E8005CDE00,Spielgerät,ND,s. Spielplatz
-4216189185B68DBEC12572B10051A837,Spielkarten,ND,s. Spiel (Unterhaltung)
-121F4857A744EBE4C1256F230036041A,Spielplatz (Abenteuer),ND,s. Spielplatz
-425126E51B582864C12582EA0058EE77,Spielregel,ND,s. Spiel (Unterhaltung)
-FF03B684D075C711C12582EA00593AE0,Spielregelverstoß,ND,s. Spiel (Unterhaltung)
-5EFA5B78B98ECE36C1256F230036041C,Spielsucht,ND,s. Glücksspiel
-04BA70E79663F27FC1256F2300360420,Spielzeug,ND,s. Spielen
-6FEC415940B4DAD1C1257F7700634D7F,Sportstätte,D,s.a. Schwimmbad
-2D2AD71A28205164C1256F230035E048,Stadtbild,D,s.a. Stadtbesichtigung
-4021F5DFDAECEEEDC1256F23003604BF,Stadtbücherei,ND,s. Bibliothek
-48EE13BB2ACE2DEFC1256F2300360561,Stickarbeit,ND,s. Handarbeiten
-DD5CE55608DAB0EBC1256F2300360562,Sticken,ND,s. Handarbeiten
-1CCD2AA8D02F5697C1256F230035C6B6,Sticker,DS,Berufsbild
-0A6368A803111CB7C1256F23003605B7,Stricken,ND,s. Handarbeiten
-C699F7A610BDA631C1256F230035C702,"Striffler, Helmut",DS,"Deutscher Diplom-Ingenieur, geb. 1927; Architekt u.a. evangelischer Kirchenbau."
-6E308C2F595B7824C1256F230035C704,"Strindberg, August",DS,Schwedischer Dichter (1849-1912).
-07D195D7A8F44710C1256F230035C705,"Strittmatter, Thomas",DS,Deutscher Schriftsteller (1961-95).
-075304CA0B396665C125833E006415E4,Studienobjekt,ND,s. Tierbeobachtung (Naturerlebnis)
-1DFED95C727B134FC125722C003A6517,Sudoku,ND,s. Rätsel
-E34CB9C62D72210DC1256F230035E0BE,Südostasien,D,s.a. Thailand
-E7C9730842B8B16EC1256F230035C724,Südostasien,DS,"Gesamtbetrachtung des südöstlichen Teils des Kontinentes Asien; staatliche Gliederung: Indonesien, Malaysia, Thailand, Osttimor, Vietnam, Kambodscha, Brunei, Myanmar, Philippinen, Laos, Singapur."
-E39D4072D32C063EC12572C0002B2BC8,Swimmingpool,ND,s. Schwimmbad
-0D4AE917CF3210F5C125726D0036044F,Tessin (Kanton),ND,s. Schweiz
-ABC3539D5C301C5BC1256F230035E118,Textilkunst,D,s.a. Handarbeiten
-F99E274B230CB424C1256F230035C7C0,Textillaborant,DS,Berufsbild
-DC980398ED400E78C1256F230035E120,Thailand,D,s.a. Reisen (Thailand)
-EF2D57A179AFFE39C1256F2300360725,Thailand (Reisen),ND,s. Reisen (Thailand)
-EA895F541430A3D4C1258081005E71F9,Thales von Milet,DS,"Thales von Milet (um 624 v. Chr-um 547 v. Chr.) war ein antiker griechischer Philosoph, Mathematiker und Astronom, der in Milet lebte."
-7A01A2FABBE335A6C125726D0036C590,Thurgau (Kanton),ND,s. Schweiz
-26E6B3590CD5D412C125836A005ECFC6,Tieraufnahme,ND,s. Tierbeobachtung (Naturerlebnis)
-F4EE7FBA72AB7AEAC125836A00618F31,Tierreich,ND,s. Tierbeobachtung (Naturerlebnis)
-E7CEB0675670DA14C1256F2300360779,Tierwelt,ND,s. Tierbeobachtung (Naturerlebnis)
-26DD4F76494EE20AC1256F230035C7FE,Tierwirt,DS,Berufsbild
-D2BC8EAA6A321CC9C1256F23003607A2,Töpfern,ND,s. Basteln
-F06DA69CED5AD443C1256F230035E1AE,Türkei,D,s.a. Reisen (Türkei)
-B98E33887BF12D38C1256F230036081C,Türkei (Reisen),ND,s. Reisen (Türkei)
-F8E95869505659DFC1256F230035C888,Türken,DS,Staatsbildendes Volk der Türkei. Hier die speziellen Aspekte der Türken und -innen in Deutschland.
-05E255CAC9E44171C1256F230035C889,Türkenkrieg,DS,Seit dem Sieg bei Mohacs 1526 eroberten die Türken den Hauptteil Ungarns und belagerten 1529 sogar Wien. Entscheidende Wendung im großen Türkenkrieg 1683-99.
-A585E8AAC5FA72F0C1256F230036087B,Ungarn (Reisen),ND,s. Reisen (Europa)
-CC444DCE69A0EBA3C1256F230035C8D4,"Ungerer, Tomi",DS,"Französischer Zeichner und Karikaturist, geb. 1931."
-2DEF605969C255A0C1256F230035C8D5,"Ungers, Oswald Mathias",DS,Deutscher Architekt (1926-2007).
-6F3205AAFCD37BDFC1256F230036088F,Unterhaltungsspiel,ND,s. Spiel (Unterhaltung)
-3400F1D789AB86FBC125726D0036E811,Uri (Kanton),ND,s. Schweiz
-A46AC332114106D2C12572D0002C570A,Urin,DS,"Der Urin, auch Harn genannt, ist ein flüssiges bis pastöses Ausscheidungsprodukt der Wirbeltiere."
-89FAB7C3711EE5A6C1256F230035E21B,Urlaub,D,s.a. Freizeit
-6DA721D79D510AC4C1256F23003608D6,USA (Reisen),ND,s. Reisen (USA)
-BC982AD1ED84BD8BC1256F230035E23A,USA (Staat),D,s.a. Reisen (USA)
-7A009FD196ECA23FC1256F2300360904,Venezianischer Karneval,ND,s. Karneval
-D58F33E1B56FAC23C1256F230035C92F,Venezuela,DS,"Republik im nördlichen Südamerika, am Karibischen Meer; Hauptstadt: Caracas; Amtssprache: Spanisch."
-4960F141795BDAB7C1256F230035C931,Venn-Diagramm,DS,"Mengendiagramm. Beziehungen zw. Mengen veranschaulicht man durch Venn-Diagramme, auch Eulen-Diagramme genannt."
-D9D8F875C0ACA59FC12581DC00573444,Verarbeitung (Lebensmittel),ND,s. Kochen (Gericht)
-8DC9AC981440CDC3C1256F2A0032BE7E,Volksbücherei,ND,s. Bibliothek
-3C1C673B41F16AA7C125726D0035C4BD,Waadt (Kanton),ND,s. Schweiz
-EE3AF09D42E8EC68C1256F2300360B01,Wellenbad,ND,s. Schwimmbad
-69AD7632CC6B5124C1256F2300360B9D,Wien (Reisen),ND,s. Reisen (Österreich)
-404CEBFC3B731153C125845D005D595B,Wiener Klassik,DS,"Als Wiener Klassik (ca. 1770 – ca. 1825) bezeichnet man eine besondere Ausprägung der musikalischen Epoche der Klassik, als deren Hauptvertreter die u. a. in Wien wirkenden Komponisten Joseph Haydn, Wolfgang Amadeus Mozart und Ludwig van Beethoven gelten."
-688013653E71C2B4C1256F2300360C07,Worträtsel,ND,s. Rätsel
-99000F9B142E476BC1256F2300360C08,Wortschatz,DS,"Als Wortschatz (auch: Vokabular, Lexikon oder Lexik) bezeichnet man die Gesamtheit aller Wörter. Damit kann gemeint sein: die Gesamtheit aller Wörter einer Sprache zu einem bestimmten Zeitpunkt oder die Gesamtheit aller Wörter einer Sprache, die ein einzelner Sprecher kennt oder verwendet. Innerhalb der zweiten Bedeutung ist nochmals zu unterscheiden: rezeptiver Wortschatz (oder passiver Wortschatz) – die Wörter, die der Sprecher kennt oder erkennt. Der rezeptive Wortschatz verhilft zum Verstehen gesprochener und geschriebener Texte (Verstehenswortschatz). Der Sprecher kann zu einem gehörten oder gelesenen Wort die Bedeutung aus dem Gedächtnis abrufen – oder zum Beispiel mit Hilfe der Wortbildungsregeln erschließen. Produktiver Wortschatz (oder aktiver Wortschatz) – die Wörter, die der Sprecher aktiv verwendet. Der produktive Wortschatz ermöglicht dem Sprecher, sich verständlich auszudrücken. Der Sprecher kann zu einer bestimmten Bedeutung das zugehörige Wort aus dem Gedächtnis abrufen."
-15C297EDBFA012DFC12572E3002F9CCF,Zauberwürfel,ND,s. Rätsel
-E8D21D4D5FDCFF79C12572E300405792,Zelt (Camping),ND,s. Camping
-709684472AC0E5F3C125726D0036FCE6,Zürich (Kanton),ND,s. Schweiz
-E0E68C852BD4866AC125726D0036F3BD,Zug (Kanton),ND,s. Schweiz
+DOKUMENT-ID,SCHLAGWORT,ART,TEXT,discipline,narrower,broader
+AF5004BEFCC38781C1256F230035E518,Abenteuerspielplatz,ND,s. Spielplatz,,,AC6C9E41B02AA991C1256F230035C638
+A19A7FB3DF411766C1257A53005D6BBF,Abstich (Schneiderei),ND,s. Handarbeiten,,,9B73C3A0943332EEC1256F230035B7E5
+BDA88A419BDA1454C1257A91005E13DF,Allerheiligen,ND,s. Halloween,,,7DF54BAB222BF4DDC1256F460039EE40
+E5237FDDB107B420C1257B06004DEB2E,Allerseelen,ND,s. Halloween,,,7DF54BAB222BF4DDC1256F460039EE40
+D1F853EE3DEF3398C1257AB8005FF2BF,Anleitung,ND,s. Basteln,,,C852323A0D103F81C1256F230035AFB3
+B54686E8AD858963C1257AD7005FAC88,Arcade-Spiel,ND,s. Spiel (Unterhaltung),,,7F7B897A1265489CC1256F230035C634
+6D53C548BB1E375AC1256F230035E7D3,Autobücherei,ND,s. Fahrbibliothek,,,C2B0568A4BAFBC09C1256F230035B4DD
+26970F8B6A00683DC1256F230035E80F,Bad (Schwimmanlage),ND,s. Schwimmbad,,,EAAED68E57597249C1256F230035C542
+4F44B564AA15FA0CC1256F230035E814,Badeanstalt,ND,s. Schwimmbad,,,EAAED68E57597249C1256F230035C542
+CD4816F205CA5796C1256F230035E824,Balearen (Reisen),ND,s. Reisen (Spanien),,,97035052C8129BE1C1256F230035C327
+29B95B47365FEEB3C1256F230035E837,Baltikum (Reisen),ND,s. Reisen (Europa),,,0EE217B5D3A612DCC1256F230035C31D
+75EC02121AF3E0CBC1257B1D005B8969,Bastelanleitung,ND,s. Basteln,,,C852323A0D103F81C1256F230035AFB3
+C852323A0D103F81C1256F230035AFB3,Basteln,DS,"Das eigenhändige Fertigen von Objekten in der Freizeit. Hier die Beschreibung verschiedenster Tätigkeiten (z.B. Salzteig, Papierfaltkunst, Seidenmalerei, Töpfern) als Hobby.",Freizeit,,
+F17597E3CEDDD00FC1256F230035E87A,Bauspielplatz,ND,s. Spielplatz,,,AC6C9E41B02AA991C1256F230035C638
+4854810ED1D70368C1256F230035E8BE,Belgien (Reisen),ND,s. Reisen (Europa),,,0EE217B5D3A612DCC1256F230035C31D
+3E6A30B50BF4735EC1257B2F00552914,Benidorm,ND,s. Reisen (Spanien),,,97035052C8129BE1C1256F230035C327
+02282D7D11B82E50C1257B30003FAD92,Beobachtungssender,ND,s. Tierbeobachtung (Naturerlebnis),,,D687E70E519BE5DEC1256F230035C7F2
+05F3A2CB16AB67F8C1256F230035E921,Besichtigungstour,ND,s. Reisen (Britische Inseln),,,25A9978085E70CFCC1256F230035C31A
+079DCF07E9D61C60C1256F230035E926,Besichtigungstour,ND,s. Reisen (Griechenland),,,5451F98E0A724839C1256F230035C31F
+0901CDC45337126EC1256F230035E925,Besichtigungstour,ND,s. Reisen (Frankreich),,,1174165B1CC451A9C1256F230035C31E
+0A28CB17441680E3C1256F230035E91A,Besichtigungstour,ND,s. Stadtbesichtigung,,,8190A00A0AB1DED1C1256F230035C66D
+28E162A8AC35D06DC1256F230035E92B,Besichtigungstour,ND,s. Reisen (Österreich),,,22C0A54C092C8F4DC1256F230035C324
+2900447B37B1B651C1256F230035E927,Besichtigungstour,ND,s. Reisen (Indien),,,A37CEEE84AFC795FC1256F230035C320
+2A8FDCC7C728C534C1256F230035E91B,Besichtigungstour,ND,s. Reisen (Afrika),,,24E9EDE79757929CC1256F230035C314
+4911175D89F80C31C1256F230035E91C,Besichtigungstour,ND,s. Reisen (Ägypten),,,7FB6F9988D76BA02C1256F230035C315
+580C31CD26E8CDA8C1256F230035E91D,Besichtigungstour,ND,s. Reisen (Amerika),,,1B83E734D4B829DAC1256F230035C316
+6695092660DAEB11C1256F230035E92E,Besichtigungstour,ND,s. Reisen (Spanien),,,97035052C8129BE1C1256F230035C327
+73FD3DC0F182437CC1256F230035E91F,Besichtigungstour,ND,s. Reisen (Australien),,,6D6F0A9D2033F4E6C1256F230035C318
+783898CC41D3B848C1256F230035E929,Besichtigungstour,ND,s. Reisen (Italien),,,49ED2BE25CBC57B7C1256F230035C322
+964989BDF2BAB80DC1256F230035E922,Besichtigungstour,ND,s. Reisen (China),,,8A8DB7F7FD0F4987C1256F230035C31B
+A01ED26EBC7E3239C1256F230035E923,Besichtigungstour,ND,s. Reisen (Deutschland),,,74EED10427C7344FC1256F230035C31C
+A84ACEF8EC9A9E3BC1256F230035E92C,Besichtigungstour,ND,s. Reisen (Paris),,,D47FFB34941204DEC1256F230035C325
+CB80EE9D60E41414C1256F230035E928,Besichtigungstour,ND,s. Reisen (Israel),,,101E0D4A6469C8F4C1256F230035C321
+CF38A1CE570F8E7BC1256F230035E931,Besichtigungstour,ND,s. Reisen (USA),,,292AAD658376BB9FC1256F230035C32A
+D21370A0F3713922C1256F230035E920,Besichtigungstour,ND,s. Reisen (Brasilien),,,31C010134F731E7CC1256F230035C319
+D3C48FAEBDA420BCC1256F230035E91E,Besichtigungstour,ND,s. Reisen (Asien),,,DE94BEEC9EA4FF95C1256F230035C317
+D527DC1FE191CBDBC1256F230035E924,Besichtigungstour,ND,s. Reisen (Europa),,,0EE217B5D3A612DCC1256F230035C31D
+D81912EA8E9D5C7BC1256F230035E92D,Besichtigungstour,ND,s. Reisen (Skandinavien),,,E7B9DB8BBC6BD671C1256F230035C326
+DD8AC36686D2880FC1256F230035E930,Besichtigungstour,ND,s. Reisen (Türkei),,,9F950B521F2EB2F5C1256F230035C329
+DDCDF71E1FA3D053C1256F230035E92F,Besichtigungstour,ND,s. Reisen (Thailand),,,EA6967EDEB0AA3A8C1256F230035C328
+FB3C7F713462B8D7C1256F230035E92A,Besichtigungstour,ND,s. Reisen (Japan),,,62010505EB02F0D0C1256F230035C323
+2A29DB75BF432162C1256F230035B092,Bibliothek,DS,"Öffentliche oder private, planmäßig angelegte Büchersammlung, auch das Gebäude, in dem sie untergebracht ist. Die Bücher können nach Hause verliehen werden oder in der Bibliothek eingesehen werden. Auch Beispiele bekannter Bibliotheken der Welt.",Freizeit,,
+DAF5AE496CAB5A49C1256F230035D004,Bibliothek,D,s.a. Fahrbibliothek,,,C2B0568A4BAFBC09C1256F230035B4DD
+3905D76565DB9131C1256F230035E977,Bibliotheque Nationale,ND,s. Bibliothek,,,2A29DB75BF432162C1256F230035B092
+B56D89FA5A65317AC1257B5D005D95EE,Big Ben,ND,s. Reisen (Britische Inseln),,,25A9978085E70CFCC1256F230035C31A
+BEBD87C815058F99C1256F230035E987,Bilderrätsel,ND,s. Rätsel,,,DA629D684F97CB4DC1256F230035C2BB
+F7D591D69C36292DC125736B0034060D,Boccia,ND,s. Boulespiel,,,D858ECB4D1C1DED3C1256F230035B149
+D858ECB4D1C1DED3C1256F230035B149,Boulespiel,DS,Kugelspiel in Frankreich und Spanien.,Freizeit,,
+45737A5E313DFFF9C1256F230035D0DA,Brasilien,D,s.a. Reisen (Brasilien),,,31C010134F731E7CC1256F230035C319
+48C9A65A63C60E25C12573ED0041BA7B,Bridge,ND,s. Spiel (Unterhaltung),,,7F7B897A1265489CC1256F230035C634
+81D45D105BEB117AC1256F230035EA8F,Britische Inseln (Reisen),ND,s. Reisen (Britische Inseln),,,25A9978085E70CFCC1256F230035C31A
+F511132E39CDD639C1256F230035EAC6,Buchstabenrätsel,ND,s. Rätsel,,,DA629D684F97CB4DC1256F230035C2BB
+BD889296D3F85B86C12573FA003C2340,Buckingham Palace,ND,s. Reisen (Britische Inseln),,,25A9978085E70CFCC1256F230035C31A
+6A4C663D248923C4C12577630052D354,Bücherbus,ND,s. Fahrbibliothek,,,C2B0568A4BAFBC09C1256F230035B4DD
+E8AB17A41F6D82E5C1256F230035EAC1,Bücherei,ND,s. Bibliothek,,,2A29DB75BF432162C1256F230035B092
+CA372A35FA615577C125772B0050EF7C,Büchersammlung,ND,s. Bibliothek,,,2A29DB75BF432162C1256F230035B092
+89FF0CD6BAFAC796C1256F230035EAC2,Bücherwagen,ND,s. Fahrbibliothek,,,C2B0568A4BAFBC09C1256F230035B4DD
+D3CBF24721E41570C12573FB00401C70,Büttenrede,ND,s. Karneval,,,32DD13AEF781FCA8C1256F230035BA7F
+D6B10F6FFDFC093BC1256F230035B1F6,Camping,DS,"Im Zelt, Wohnwagen oder Wohnmobil auf einem Campingplatz übernachten.",Freizeit,,
+5D4CA0C6CF801C89C1257BE30057C061,Campingurlaub,ND,s. Camping,,,D6B10F6FFDFC093BC1256F230035B1F6
+08FFF9474FD75417C1256F470039A5F1,Caravaning,ND,s. Camping,,,D6B10F6FFDFC093BC1256F230035B1F6
+7F566C3E5CB1D4D1C125741F003A95D8,Centre National d'Art et de Culture Georges Pompidou,ND,s. Reisen (Paris),,,D47FFB34941204DEC1256F230035C325
+D5F496CDBF08A3B7C125748900608033,Centre Pompidou,ND,s. Reisen (Paris),,,D47FFB34941204DEC1256F230035C325
+1A01D675E8CBD08DC1256F230035B272,Clown,DS,"Ursprünglich lustige Gestalt der englischen Bühne, jetzt Spaßmacher, besonders im Zirkus.",Freizeit,,
+AD4F8F6FB6561CD8C1257C0D005A3137,Costa Blanca,ND,s. Reisen (Spanien),,,97035052C8129BE1C1256F230035C327
+4C469638FA7594BFC125743200393BD3,Costa Brava,ND,s. Reisen (Spanien),,,97035052C8129BE1C1256F230035C327
+AEEEA75DCA1EFBBDC125743200394DAA,Costa del Sol,ND,s. Reisen (Spanien),,,97035052C8129BE1C1256F230035C327
+E9B71C42EF188709C1256F230035EBD0,Denkaufgabe,ND,s. Rätsel,,,DA629D684F97CB4DC1256F230035C2BB
+D94BB295C0A79192C12572E3002F9429,Denkspielzeug,ND,s. Rätsel,,,DA629D684F97CB4DC1256F230035C2BB
+9BF2E34E18FED613C12578AF004BE360,Denksport,ND,s. Rätsel,,,DA629D684F97CB4DC1256F230035C2BB
+D4D8F47DBA7D54D5C1256F230035B390,Drache (Spielzeug),DS,"Der Spitzdrache erhält durch den Wind eine nach oben gerichtete Kraft (Auftrieb), die ihn in der Schwebe hält; ähnlich der Kastendrache.",Freizeit,,
+74DD1F7AE941D774C1256F230035D1D6,Dänemark,D,s.a. Reisen (Skandinavien),,,E7B9DB8BBC6BD671C1256F230035C326
+D7453AD1447B5EFEC1256F230035EBA9,Dänemark (Reisen),ND,s. Reisen (Skandinavien),,,E7B9DB8BBC6BD671C1256F230035C326
+484C3AFB7877C8EBC1256F230035D38D,Europa,D,s.a. Reisen (Europa),,,0EE217B5D3A612DCC1256F230035C31D
+C947A000C8DF0C85C1256F230035EDC3,Europa (Reisen),ND,s. Reisen (Europa),,,0EE217B5D3A612DCC1256F230035C31D
+C1AC4742F335DF90C1256F2A003272D7,Fachbibliothek,ND,s. Bibliothek,,,2A29DB75BF432162C1256F230035B092
+C2B0568A4BAFBC09C1256F230035B4DD,Fahrbibliothek,DS,"Bewegliche öffentliche Bücherei zur Versorgung großstädtischer Außenbezirke und ländlicher Gegenden, besucht nach festem Plan einzelne Haltestellen; besonders in den USA, Großbritannien und Skandinavien.",Freizeit,,
+2AF3C2399A0B440EC1257CCA005EECF8,Fangen,ND,s. Spielen,,,927568F9AC8C03CEC1256F230035C635
+14AFF0758994D70DC1256F230035EE1A,Fasching,ND,s. Karneval,,,32DD13AEF781FCA8C1256F230035BA7F
+4490ACA5316DE05EC1256F230035EE1B,Fasenacht,ND,s. Karneval,,,32DD13AEF781FCA8C1256F230035BA7F
+20707BEA2E3E1C1FC1256F230035EE1D,Fasnacht,ND,s. Karneval,,,32DD13AEF781FCA8C1256F230035BA7F
+26DB5DE72AAFECBEC1256F230035EE20,Fastnacht,ND,s. Karneval,,,32DD13AEF781FCA8C1256F230035BA7F
+4E42643425407CD2C1256F230035EE40,Ferien,ND,s. Urlaub,,,6662280995F76975C1256F230035C8F7
+5CE71FDFCCA8A7E3C1257CE100586A8B,Ferienlager,ND,s. Urlaub,,,6662280995F76975C1256F230035C8F7
+0540B42C76B7E5B0C1257EB500568BC0,Ferienlager,ND,s. Jugendlager,,,C99819F0E1575754C1257EB500566A28
+B550FB0BC48B7120C1256F230035B542,Filmen,DS,Die Tätigkeit des Filmens im Allgemeinen vor allem für den Freizeitbereich.,Freizeit,,
+7BADF2CB7F7DA690C1256F230035D3DE,Filmherstellung,D,s.a. Filmen,,,B550FB0BC48B7120C1256F230035B542
+E50AAECDCBCA69ACC1256F230035D3E6,Finnland,D,s.a. Reisen (Skandinavien),,,E7B9DB8BBC6BD671C1256F230035C326
+833C529CD4EC1B9BC1256F230035EE7F,Finnland (Reisen),ND,s. Reisen (Skandinavien),,,E7B9DB8BBC6BD671C1256F230035C326
+15495C2278F44047C1257D080057E854,Flugaufnahme,ND,s. Tierbeobachtung (Naturerlebnis),,,D687E70E519BE5DEC1256F230035C7F2
+1F3F327F51CC1361C1257FD4005E6FE4,Fotosafari,ND,s. Safari,,,87907C10BDB4D6DCC1257FD4005E532B
+9739370CF6426633C1256F230035D435,Frankreich,D,s.a. Reisen (Frankreich),,,1174165B1CC451A9C1256F230035C31E
+ED530394C34F864AC1256F230035D436,Frankreich,D,s.a. Reisen (Paris),,,D47FFB34941204DEC1256F230035C325
+6C02F14BCA4047CBC1256F230035EEF6,Frankreich (Reisen),ND,s. Reisen (Frankreich),,,1174165B1CC451A9C1256F230035C31E
+BD357D13A1A6775FC1256F230035EF15,Freibad,ND,s. Schwimmbad,,,EAAED68E57597249C1256F230035C542
+2ADE69FE02F226B9C1256F230035D46C,Freizeit,D,s.a. Freizeitverhalten,,,BE75F7B12921477EC1256F230035B5DE
+6054E73D15909844C1256F230035D46B,Freizeit,D,s.a. Freizeitgestaltung,,,D494B6D4843C0D86C1256F230035B5DD
+9B15545C78E383D1C1256F230035B5DC,Freizeit,DS,Arbeitsfreie Zeit der Berufstätigen bzw. Schüler etc.; dient der Erholung.,Freizeit,,
+AD3122D6581A9DD5C1256F230035D46E,Freizeit,D,s.a. Urlaub,,,6662280995F76975C1256F230035C8F7
+CE3D2022E6038061C1256F230035EF28,Freizeitaktivität,ND,s. Freizeitverhalten,,,BE75F7B12921477EC1256F230035B5DE
+CEADA215D65512D9C1256F230035EF27,Freizeitaktivität,ND,s. Freizeitgestaltung,,,D494B6D4843C0D86C1256F230035B5DD
+76B780777F8F706FC1257D310056DD00,Freizeitarten,ND,s. Freizeitgestaltung,,,D494B6D4843C0D86C1256F230035B5DD
+23E2973F35ED11ABC1256F230035EF29,Freizeitbeschäftigung,ND,s. Freizeitgestaltung,,,D494B6D4843C0D86C1256F230035B5DD
+827E5AF9D8990AE0C1257D310056FF0B,Freizeiteinrichtung,ND,s. Freizeitgestaltung,,,D494B6D4843C0D86C1256F230035B5DD
+B5724236B5D0C6B0C1256F230035EF2A,Freizeiterziehung,ND,s. Freizeit,,,9B15545C78E383D1C1256F230035B5DC
+029D34D538DD0A2FC1257552005934B3,Freizeitgestaltung,D,s.a. Camping,,,D6B10F6FFDFC093BC1256F230035B1F6
+033324DB02A78E33C1256F230035D478,Freizeitgestaltung,D,s.a. Freizeit,,,9B15545C78E383D1C1256F230035B5DC
+076D5EB1B39822FEC125755200596DB6,Freizeitgestaltung,D,s.a. Stadtbesichtigung,,,8190A00A0AB1DED1C1256F230035C66D
+10C691659840CFDEC1256F230035D477,Freizeitgestaltung,D,s.a. Spielen,,,927568F9AC8C03CEC1256F230035C635
+14228211A35FE692C12575520059F0C2,Freizeitgestaltung,D,s.a. Urlaub,,,6662280995F76975C1256F230035C8F7
+18016ECFDFF1B49FC1256F230035D473,Freizeitgestaltung,D,s.a. Reisen (Amerika),,,1B83E734D4B829DAC1256F230035C316
+4149E0102C18D9E9C1256F230035D476,Freizeitgestaltung,D,s.a. Reisen (Europa),,,0EE217B5D3A612DCC1256F230035C31D
+4B613A0DB9F9E137C1256F230035D471,Freizeitgestaltung,D,s.a. Gartenarbeit,,,EB132BEA35EC105BC1256F230035B643
+55B872EE27D75D8CC1256F230035D475,Freizeitgestaltung,D,s.a. Reisen (Australien),,,6D6F0A9D2033F4E6C1256F230035C318
+5DEC34F269F17F8DC1256F230035D474,Freizeitgestaltung,D,s.a. Reisen (Asien),,,DE94BEEC9EA4FF95C1256F230035C317
+6E3B6D050D335819C1256F230035D47B,Freizeitgestaltung,D,s.a. Modellbau,,,0C1F6A33C9E8BDD4C1256F230035BF32
+6E9884DE9DA6DFCDC125755200596444,Freizeitgestaltung,D,s.a. Rätsel,,,DA629D684F97CB4DC1256F230035C2BB
+7FD6914AC12A94EEC1257552005946A1,Freizeitgestaltung,D,s.a. Filmen,,,B550FB0BC48B7120C1256F230035B542
+8057F6D871761305C125755200591FA1,Freizeitgestaltung,D,s.a. Basteln,,,C852323A0D103F81C1256F230035AFB3
+85B880CCCC2C015CC1256F230035D472,Freizeitgestaltung,D,s.a. Reisen (Afrika),,,24E9EDE79757929CC1256F230035C314
+98B9C67B21BD76E3C125755200593C44,Freizeitgestaltung,D,s.a. Drache (Spielzeug),,,D4D8F47DBA7D54D5C1256F230035B390
+9A35302CD4B2BF4AC125755200595B85,Freizeitgestaltung,D,s.a. Handarbeiten,,,9B73C3A0943332EEC1256F230035B7E5
+AA05E42D352A4941C125755200592E72,Freizeitgestaltung,D,s.a. Boulespiel,,,D858ECB4D1C1DED3C1256F230035B149
+BA8108575D9A7DA4C1256F230035D46F,Freizeitgestaltung,D,s.a. Freizeitverhalten,,,BE75F7B12921477EC1256F230035B5DE
+C488E85FCA631D81C12575520059548D,Freizeitgestaltung,D,s.a. Glücksspiel,,,7470155571CDAF68C1256F230035B710
+D494B6D4843C0D86C1256F230035B5DD,Freizeitgestaltung,DS,"Tätigkeiten, die in der arbeitsfreien Zeit ausgeübt werden. Beschäftigung mit der Familie, allgemeine und berufliche Fortbildung, Teilnahme am staatlichen und gesellschaftlichen Leben sowie Ausüben von Hobbys.",Freizeit,,
+E1D1B6C4459D1E23C1257D310059E16C,Freizeitnutzung,ND,s. Freizeitgestaltung,,,D494B6D4843C0D86C1256F230035B5DD
+45E385AFDB1FB335C1256F230035D47D,Freizeitverhalten,D,s.a. Freizeit,,,9B15545C78E383D1C1256F230035B5DC
+46DD0D13C9415766C1256F230035D47C,Freizeitverhalten,D,s.a. Freizeitgestaltung,,,D494B6D4843C0D86C1256F230035B5DD
+BE75F7B12921477EC1256F230035B5DE,Freizeitverhalten,DS,Art und Weise der Freizeitgestaltung. Wird die Freizeit sinnvoll verbracht?,Freizeit,,
+069C7E3A7AE02C86C1256F230035D487,Fremdenverkehr,D,s.a. Reisen (Deutschland),,,74EED10427C7344FC1256F230035C31C
+1CEA1B2381260FE3C1256F230035D48C,Fremdenverkehr,D,s.a. Stadtbesichtigung,,,8190A00A0AB1DED1C1256F230035C66D
+1D6C8FB6420D3A07C1256F230035D48B,Fremdenverkehr,D,s.a. Freizeitverhalten,,,BE75F7B12921477EC1256F230035B5DE
+271D0E9267BBEB94C1256F230035D486,Fremdenverkehr,D,s.a. Reisen (Australien),,,6D6F0A9D2033F4E6C1256F230035C318
+4D1BD52165879B6CC1256F230035D488,Fremdenverkehr,D,s.a. Reisen (Europa),,,0EE217B5D3A612DCC1256F230035C31D
+634AF1FC1237484EC1256F230035D485,Fremdenverkehr,D,s.a. Reisen (Asien),,,DE94BEEC9EA4FF95C1256F230035C317
+65A641495C39664DC1256F230035D489,Fremdenverkehr,D,s.a. Camping,,,D6B10F6FFDFC093BC1256F230035B1F6
+88A4E7D0AE01CA60C1256F230035D483,Fremdenverkehr,D,s.a. Reisen (Afrika),,,24E9EDE79757929CC1256F230035C314
+A7D265EFF051FB0EC1256F230035D48A,Fremdenverkehr,D,s.a. Freizeitgestaltung,,,D494B6D4843C0D86C1256F230035B5DD
+D273FAB6328B8913C1256F230035D484,Fremdenverkehr,D,s.a. Reisen (Amerika),,,1B83E734D4B829DAC1256F230035C316
+98E9BB6F148DA728C125760D0036C3E9,Garmethode,D,s.a. Kochen (Gericht),,,FDD689A0E6074DB6C125760D0036A3FE
+6E35EA1323A303D4C1256F230035D4B3,Garten,D,s.a. Gartenarbeit,,,EB132BEA35EC105BC1256F230035B643
+EB132BEA35EC105BC1256F230035B643,Gartenarbeit,DS,"Anleitungen, Vorschläge zur Pflege des Gartens mit Zier- und/oder Nutzpflanzen inclusive Rasen für Freizeitgärtner.",Freizeit,,
+11E808498D00A580C1256F230035D4B9,Gartenbau,D,s.a. Gartenarbeit,,,EB132BEA35EC105BC1256F230035B643
+AAAF6D1BD7904362C12572E3002FB950,Geduldsspiel,ND,s. Rätsel,,,DA629D684F97CB4DC1256F230035C2BB
+40C615AB60EF874EC125733600482299,Gesellschaftsspiel,ND,s. Spiel (Unterhaltung),,,7F7B897A1265489CC1256F230035C634
+7470155571CDAF68C1256F230035B710,Glücksspiel,DS,"Vom Zufall abhängiges Spiel mit Karten, Würfeln, Kugeln, Nummern, z.B. Roulette, Bakkarat. Auch die Glücksspielsucht.",Freizeit,,
+FA419F901156ACB1C1257DBF003A04BA,Golfküste,ND,s. Reisen (USA),,,292AAD658376BB9FC1256F230035C32A
+44B53E719E40A2DEC1256F230035D5C2,Griechenland,D,s.a. Reisen (Griechenland),,,5451F98E0A724839C1256F230035C31F
+784052EFA40324CAC1256F230035F0AB,Griechenland (Reisen),ND,s. Reisen (Griechenland),,,5451F98E0A724839C1256F230035C31F
+04BD6ECBF88348DEC1256F230035D5DE,Großbritannien,D,s.a. Reisen (Britische Inseln),,,25A9978085E70CFCC1256F230035C31A
+998760FC346165CDC1256F230035F0BC,Großbritannien (Reisen),ND,s. Reisen (Britische Inseln),,,25A9978085E70CFCC1256F230035C31A
+68ACAB8D07F6E259C1256F230035F10E,Hallenbad,ND,s. Schwimmbad,,,EAAED68E57597249C1256F230035C542
+3C0E7D5518B55E48C1257E040055B8A6,Hallenfreibad,ND,s. Schwimmbad,,,EAAED68E57597249C1256F230035C542
+7DF54BAB222BF4DDC1256F460039EE40,Halloween,DS,"Vorabend von Allerheiligen; Fest keltischen Ursprungs. Wurde im Zuge der Christianisierung Irlands zu einem christlichen Lichterfest, um die Finsternis des Todes zu vertreiben. Durch irische Einwanderer im 19. Jh. in die USA gebracht, gelangte Halloween von dort in den 1980er Jahren als säkularisiertes Fest nach Europa zurück.",Freizeit,,
+F1BEA352C29EB536C125733600483A65,Halma,ND,s. Spiel (Unterhaltung),,,7F7B897A1265489CC1256F230035C634
+11DFAB6397585162C1257E06005E6731,Handarbeit,ND,s. Handarbeiten,,,9B73C3A0943332EEC1256F230035B7E5
+9B73C3A0943332EEC1256F230035B7E5,Handarbeiten,DS,"Nähen, Sticken, Stricken, Häkeln, Flechten, Klöppeln, Knüpfen, Weben.",Freizeit,,
+35E6F42CD7E1351AC1256F230035D623,Handwerk,D,s.a. Handarbeiten,,,9B73C3A0943332EEC1256F230035B7E5
+8A46CBB32A7D3456C1256F230035F1E7,Hobby,ND,s. Freizeitgestaltung,,,D494B6D4843C0D86C1256F230035B5DD
+6D2D52F1AD5D5921C1257E5200568985,Holzspielzeug,ND,s. Spielen,,,927568F9AC8C03CEC1256F230035C635
+DC137ABBCBAEDB01C1256F230035F109,Häkeln,ND,s. Handarbeiten,,,9B73C3A0943332EEC1256F230035B7E5
+4781D5436BA968E3C1256F230035F273,Ikebana,ND,s. Basteln,,,C852323A0D103F81C1256F230035AFB3
+D990C22E77623C7EC1256F230035F287,Indien (Reisen),ND,s. Reisen (Indien),,,A37CEEE84AFC795FC1256F230035C320
+959A61829A881222C1256F230035D6F3,Informationswesen,D,s.a. Bibliothek,,,2A29DB75BF432162C1256F230035B092
+7D7F4A54420B2DABC1256F230035F2D7,Irland (Reisen),ND,s. Reisen (Britische Inseln),,,25A9978085E70CFCC1256F230035C31A
+CB4FA3213B37600FC1256F230035D726,Irland (Republik),D,s.a. Reisen (Britische Inseln),,,25A9978085E70CFCC1256F230035C31A
+B8AD5DE74AE312E9C1256F230035F2E4,Israel (Reisen),ND,s. Reisen (Israel),,,101E0D4A6469C8F4C1256F230035C321
+BAB4DB5E2E0639D1C1256F230035D732,Israel (Republik),D,s.a. Reisen (Israel),,,101E0D4A6469C8F4C1256F230035C321
+E63D7566C4D5BD0CC1256F230035D744,Italien,D,s.a. Reisen (Italien),,,49ED2BE25CBC57B7C1256F230035C322
+948E9F3EE3E01441C1256F230035F2E6,Italien (Reisen),ND,s. Reisen (Italien),,,49ED2BE25CBC57B7C1256F230035C322
+575EEA3D408C06F0C1257EAB003469B9,Japan,D,s.a. Reisen (Japan),,,62010505EB02F0D0C1256F230035C323
+1568BB6BA52D3E45C1257EAB00345E79,Japanische Alpen,ND,s. Reisen (Japan),,,62010505EB02F0D0C1256F230035C323
+4A01D4D81B241E2DC1257EB50056937D,Jugendarbeit,ND,s. Jugendlager,,,C99819F0E1575754C1257EB500566A28
+C99819F0E1575754C1257EB500566A28,Jugendlager,DS,"Ferienlager/Jugendlager ist ein Oberbegriff für Ferienveranstaltungen in der Jugendarbeit, die als Gruppenfahrt durchgeführt werden. Ferienlager werden als Zeltlager, in Unterkünften mit Selbstversorgung, Jugendherbergen oder ähnlichen Einrichtungen durchgeführt.",Freizeit,,
+FDC0CD45B459B313C1256F230035BA30,Jugendzentrum,DS,"Ort, Einrichtung, in der Jugendliche ihre Freizeit verbringen können, wobei häufig sie selbst Aktivitäten planen und ausführen, häufig kirchliche Einrichtungen.",Freizeit,,
+324621C602079508C1256F230035F36A,Kanaren (Reisen),ND,s. Reisen (Spanien),,,97035052C8129BE1C1256F230035C327
+32DD13AEF781FCA8C1256F230035BA7F,Karneval,DS,"Zunächst die Nacht vor Aschermittwoch, später die Woche davor und auch danach, als Beginn der Fasten vor Ostern schon im Mittelalter mit Schmausereien, Vermummungen, Aufzügen begangen.",Freizeit,,
+5F443D64E6297E58C125715C002E9608,Karten (Spiel),ND,s. Spiel (Unterhaltung),,,7F7B897A1265489CC1256F230035C634
+3FBA2B11839DC67CC1256F230035F3A5,Kartenspiel,ND,s. Spiel (Unterhaltung),,,7F7B897A1265489CC1256F230035C634
+0E8C949278C8BCC5C1256F230035F432,Kinderspiel,ND,s. Spielen,,,927568F9AC8C03CEC1256F230035C635
+0E4FD8010EEB708EC1256F230035F433,Kinderspielplatz,ND,s. Spielplatz,,,AC6C9E41B02AA991C1256F230035C638
+ED38B787A7DF0E40C1256F230035D807,Kindliches Lernen,D,s.a. Spielen,,,927568F9AC8C03CEC1256F230035C635
+6627C7A79D7E1C96C1257EEF00513A49,Kindliches Spiel,ND,s. Spielen,,,927568F9AC8C03CEC1256F230035C635
+0C528979BA35FFB8C1257EFB005A77B1,Klettergerät,ND,s. Spielplatz,,,AC6C9E41B02AA991C1256F230035C638
+215325402BCD1BADC12578AF004BEF9C,Knobelaufgabe,ND,s. Rätsel,,,DA629D684F97CB4DC1256F230035C2BB
+FDD689A0E6074DB6C125760D0036A3FE,Kochen (Gericht),DS,Beschreibung des Kochens bestimmter Gerichte nach Rezept.,Freizeit,,
+ACAFB09D13437724C1256F230035F522,Korsika (Reisen),ND,s. Reisen (Frankreich),,,1174165B1CC451A9C1256F230035C31E
+2AED8D329BC29F94C12582E1005B2B6D,Kostüm (Kostümierung),ND,s. Karneval,,,32DD13AEF781FCA8C1256F230035BA7F
+F9B5F0465D702942C1256F230035F547,Krankenhausbibliothek,ND,s. Bibliothek,,,2A29DB75BF432162C1256F230035B092
+00519976AD09892EC1256F230035F553,Kreative Tätigkeit,ND,s. Freizeitgestaltung,,,D494B6D4843C0D86C1256F230035B5DD
+426AE8E08ECF1A23C1256F230035D8B6,Kreativität,D,s.a. Freizeitgestaltung,,,D494B6D4843C0D86C1256F230035B5DD
+335DF223E6314238C1256F230035F569,Kreuzworträtsel,ND,s. Rätsel,,,DA629D684F97CB4DC1256F230035C2BB
+EF85D663C5380238C1256F230035D917,Kunst,D,s.a. Freizeitgestaltung,,,D494B6D4843C0D86C1256F230035B5DD
+974C71CCC400BF5EC1256F230035F5D3,Künstlerische Betätigung,ND,s. Freizeitgestaltung,,,D494B6D4843C0D86C1256F230035B5DD
+8C5DDF2E0F92AEE0C1257F8D00561D28,Kürzen,ND,s. Handarbeiten,,,9B73C3A0943332EEC1256F230035B7E5
+DEDF70D6AF83C160C125781D0054F447,Lager (Camp),ND,s. Camping,,,D6B10F6FFDFC093BC1256F230035B1F6
+275CD11E0CDBC21BC1256F230035D936,Landeskunde (USA),D,s.a. Reisen (USA),,,292AAD658376BB9FC1256F230035C32A
+8F19CD7396C8BC51C1257FA7005C6141,Lebensmittelzubereitung,ND,s. Kochen (Gericht),,,FDD689A0E6074DB6C125760D0036A3FE
+963825759C0C6834C1256F230035D9D4,London,D,s.a. Reisen (Britische Inseln),,,25A9978085E70CFCC1256F230035C31A
+DA70029202559FB8C1256F230035F7CD,London (Reisen),ND,s. Reisen (Britische Inseln),,,25A9978085E70CFCC1256F230035C31A
+33EF1B1F818D1D53C1257FC7005B6257,London Eye,ND,s. Reisen (Britische Inseln),,,25A9978085E70CFCC1256F230035C31A
+D9B8BD1E313F023CC12571A2002E7F49,Lotterie,ND,s. Glücksspiel,,,7470155571CDAF68C1256F230035B710
+8F12CDE3DC168B28C1256F230035F818,Luxemburg (Reisen),ND,s. Reisen (Europa),,,0EE217B5D3A612DCC1256F230035C31D
+207AB4E93654439DC1257FD4005E679C,Luxussafari,ND,s. Safari,,,87907C10BDB4D6DCC1257FD4005E532B
+98375519447BF571C1256F230035F89F,Marmorieren,ND,s. Basteln,,,C852323A0D103F81C1256F230035AFB3
+41B2F94C18206C49C1256F230035F8B1,Maschenbildung,ND,s. Handarbeiten,,,9B73C3A0943332EEC1256F230035B7E5
+9A20ACE5CEFFEA8EC1256F230035F903,Mediothek,ND,s. Bibliothek,,,2A29DB75BF432162C1256F230035B092
+91299209260FA1F7C125733600482DF2,Mensch ärgere dich nicht,ND,s. Spiel (Unterhaltung),,,7F7B897A1265489CC1256F230035C634
+D726AD6152335D74C1258079005FB591,Mexikanisches Totenfest,ND,s. Halloween,,,7DF54BAB222BF4DDC1256F460039EE40
+0C1F6A33C9E8BDD4C1256F230035BF32,Modellbau,DS,"Hobby; Nachbau von meist technischen Anlagen der Realwelt in Miniatur und deren ""Nutzung"". Z.B. Modelleisenbahn, Modellflugzeug.",Freizeit,,
+D1652CE523BC6596C1256F230035F9E8,Modelleisenbahn,ND,s. Modellbau,,,0C1F6A33C9E8BDD4C1256F230035BF32
+4088A4E5F0367A3AC1256F230035F9E9,Modellflugzeug,ND,s. Modellbau,,,0C1F6A33C9E8BDD4C1256F230035BF32
+60B99A9765D7394FC1256F230035F9EC,Modellieren,ND,s. Freizeitgestaltung,,,D494B6D4843C0D86C1256F230035B5DD
+40C54786850E0725C12580B8005E2BDF,Monte Testaccio,ND,s. Reisen (Italien),,,49ED2BE25CBC57B7C1256F230035C322
+2F9E9BF9DDAC5B9BC125733600484041,Mühle (Spiel),ND,s. Spiel (Unterhaltung),,,7F7B897A1265489CC1256F230035C634
+750052C6DB4ABF35C125760D0036E078,Nahrungszubereitung,ND,s. Kochen (Gericht),,,FDD689A0E6074DB6C125760D0036A3FE
+64934BB2FDF9A0D0C1256F230035FAF3,Narrensprung,ND,s. Karneval,,,32DD13AEF781FCA8C1256F230035BA7F
+61C1EC40EDA0C9E6C1256F230035DB6B,Naturbeobachtung,D,s.a. Tierbeobachtung (Naturerlebnis),,,D687E70E519BE5DEC1256F230035C7F2
+84CAFF5D2942F463C1256F230035FB8C,Niederlande (Reisen),ND,s. Reisen (Europa),,,0EE217B5D3A612DCC1256F230035C31D
+C6BCAE44FF6B9CEAC1256F230035DBF2,Norwegen,D,s.a. Reisen (Skandinavien),,,E7B9DB8BBC6BD671C1256F230035C326
+D10D60460D3F0D6DC1256F230035FBC0,Norwegen (Reisen),ND,s. Reisen (Skandinavien),,,E7B9DB8BBC6BD671C1256F230035C326
+C427B754D5709195C1256F230035FADE,Nähen,ND,s. Handarbeiten,,,9B73C3A0943332EEC1256F230035B7E5
+C1B545350E55FF9FC125813A0054694E,"Olympisches Weltjugendlager (1972, München)",ND,s. Jugendlager,,,C99819F0E1575754C1257EB500566A28
+04C32BAEB4936B0BC1256F230035FCDF,Papierdrache,ND,s. Drache (Spielzeug),,,D4D8F47DBA7D54D5C1256F230035B390
+17B553D134D5F583C1256F230035DCC3,Paris,D,s.a. Reisen (Paris),,,D47FFB34941204DEC1256F230035C325
+6EA406A1B848A739C1256F230035FCF5,Paris (Reisen),ND,s. Reisen (Paris),,,D47FFB34941204DEC1256F230035C325
+852DA16731F6FF79C1256F230035FD48,Petanque,ND,s. Boulespiel,,,D858ECB4D1C1DED3C1256F230035B149
+C1E609981EC3B504C1258191005D73EE,Plymouth,ND,s. Reisen (Britische Inseln),,,25A9978085E70CFCC1256F230035C31A
+F912AA8FCB2D612EC1256F230035FE1B,Polen (Reisen),ND,s. Reisen (Europa),,,0EE217B5D3A612DCC1256F230035C31D
+F1E0E9DE4592C3FDC1256F230035FF04,Puppe (Spielzeug),ND,s. Spielen,,,927568F9AC8C03CEC1256F230035C635
+1959D9240572A945C12572270039824E,Quartett (Kartenspiel),ND,s. Spiel (Unterhaltung),,,7F7B897A1265489CC1256F230035C634
+BDC025D2A6742310C1256F230035FF28,Quiz,ND,s. Rätsel,,,DA629D684F97CB4DC1256F230035C2BB
+DB58815C6CC58B61C1256F230035FF82,Rebus,ND,s. Rätsel,,,DA629D684F97CB4DC1256F230035C2BB
+B4E050B51863F696C125821600624E34,Reise,ND,s. Urlaub,,,6662280995F76975C1256F230035C8F7
+52B923CC33C40C77C1258216006247D2,Reiseland,ND,s. Urlaub,,,6662280995F76975C1256F230035C8F7
+592E319C19B73296C12582160062C9B7,Reisemotiv,ND,s. Urlaub,,,6662280995F76975C1256F230035C8F7
+24E9EDE79757929CC1256F230035C314,Reisen (Afrika),DS,"Berichte, Beschreibungen, Bilder von Reisen auf dem afrikanischen Kontinent.",Freizeit,,
+A52FCD81FA044647C1256F230035DDD7,Reisen (Afrika),D,s.a. Stadtbesichtigung,,,8190A00A0AB1DED1C1256F230035C66D
+C7AE791D4C644CD4C1257552005A0D05,Reisen (Afrika),D,s.a. Reisen (Ägypten),,,7FB6F9988D76BA02C1256F230035C315
+68012D5159D6B164C1256F230035FFD3,Reisen (Alpen),ND,s. Reisen (Europa),,,0EE217B5D3A612DCC1256F230035C31D
+1B83E734D4B829DAC1256F230035C316,Reisen (Amerika),DS,"Berichte, Beschreibungen, Bilder von Reisen auf dem amerikanischen Kontinent (außer USA).",Freizeit,,
+1DF02F84BB940C4BC1256F230035DDD8,Reisen (Amerika),D,s.a. Stadtbesichtigung,,,8190A00A0AB1DED1C1256F230035C66D
+9BFDECA8E350CF98C1256F230035DDD9,Reisen (Amerika),D,s.a. Reisen (USA),,,292AAD658376BB9FC1256F230035C32A
+9CB78B16B4FC4BDAC1256F230035DDDA,Reisen (Amerika),D,s.a. Reisen (Brasilien),,,31C010134F731E7CC1256F230035C319
+2FBBD60EC01DD554C1256F230035DDDF,Reisen (Asien),D,s.a. Reisen (Thailand),,,EA6967EDEB0AA3A8C1256F230035C328
+386AB51128321DE7C1256F230035DDDE,Reisen (Asien),D,s.a. Reisen (Japan),,,62010505EB02F0D0C1256F230035C323
+52CB3EB3A900DC46C1256F230035DDDC,Reisen (Asien),D,s.a. Reisen (China),,,8A8DB7F7FD0F4987C1256F230035C31B
+685929D11EF9CB52C1256F230035DDDB,Reisen (Asien),D,s.a. Stadtbesichtigung,,,8190A00A0AB1DED1C1256F230035C66D
+B0FE1C86696C50F0C1256F230035DDDD,Reisen (Asien),D,s.a. Reisen (Indien),,,A37CEEE84AFC795FC1256F230035C320
+B667A40D82DB2324C1257552005A24FF,Reisen (Asien),D,s.a. Reisen (Israel),,,101E0D4A6469C8F4C1256F230035C321
+DE94BEEC9EA4FF95C1256F230035C317,Reisen (Asien),DS,"Berichte, Beschreibungen, Bilder von Reisen auf dem asiatischen Kontinent.",Freizeit,,
+285CEBDEADF7AFDDC1256F230035DDE0,Reisen (Australien),D,s.a. Stadtbesichtigung,,,8190A00A0AB1DED1C1256F230035C66D
+6D6F0A9D2033F4E6C1256F230035C318,Reisen (Australien),DS,"Berichte, Beschreibungen, Bilder von Reisen in Australien und Ozeanien.",Freizeit,,
+C8C65D49133CE06EC1256F230035FFD4,Reisen (Balearen),ND,s. Reisen (Spanien),,,97035052C8129BE1C1256F230035C327
+55281D5DC2D064D6C1256F230035FFD5,Reisen (Baltikum),ND,s. Reisen (Europa),,,0EE217B5D3A612DCC1256F230035C31D
+619A6D109BFC7F9CC1256F230035FFD6,Reisen (Belgien),ND,s. Reisen (Europa),,,0EE217B5D3A612DCC1256F230035C31D
+6BAD65091E0D64CFC1256F230035FFD7,Reisen (Beneluxstaaten),ND,s. Reisen (Europa),,,0EE217B5D3A612DCC1256F230035C31D
+31C010134F731E7CC1256F230035C319,Reisen (Brasilien),DS,"Berichte, Beschreibungen, Bilder von Reisen innerhalb Brasiliens.",Freizeit,,
+25A9978085E70CFCC1256F230035C31A,Reisen (Britische Inseln),DS,"Berichte, Beschreibungen, Bilder von Reisen innerhalb der Britischen Inseln (Großbritannien mit England, Schottland und Wales, Irland, Shetland- und Orkney-Inseln, Hebriden, die Inseln Man, Wight und Anglesey.",Freizeit,,
+8A8DB7F7FD0F4987C1256F230035C31B,Reisen (China),DS,"Berichte, Beschreibungen, Bilder von Reisen in China.",Freizeit,,
+570C1325EDA28DBBC1256F230035DDE1,Reisen (Deutschland),D,s.a. Stadtbesichtigung,,,8190A00A0AB1DED1C1256F230035C66D
+74EED10427C7344FC1256F230035C31C,Reisen (Deutschland),DS,"Berichte, Beschreibungen, Bilder von Reisen innerhalb Deutschlands.",Freizeit,,
+FE076BDC6EA4F8D2C1256F230035FFD8,Reisen (Dänemark),ND,s. Reisen (Skandinavien),,,E7B9DB8BBC6BD671C1256F230035C326
+295EF039FF939216C1256F230035FFD9,Reisen (England),ND,s. Reisen (Britische Inseln),,,25A9978085E70CFCC1256F230035C31A
+0CFC417B69B2D82BC1256F230035DDE5,Reisen (Europa),D,s.a. Reisen (Türkei),,,9F950B521F2EB2F5C1256F230035C329
+0EE217B5D3A612DCC1256F230035C31D,Reisen (Europa),DS,"Berichte, Beschreibungen, Bilder von Reisen in Europa.",Freizeit,,
+157561A9030766D5C1256F230035DDE3,Reisen (Europa),D,s.a. Reisen (Griechenland),,,5451F98E0A724839C1256F230035C31F
+3FEE0F83966D09A8C1256F230035DDE2,Reisen (Europa),D,s.a. Stadtbesichtigung,,,8190A00A0AB1DED1C1256F230035C66D
+41EF0F43F522447CC1256F230035DDE4,Reisen (Europa),D,s.a. Reisen (Spanien),,,97035052C8129BE1C1256F230035C327
+562EC83CB7548CCAC1256F230035DDEC,Reisen (Europa),D,s.a. Reisen (Österreich),,,22C0A54C092C8F4DC1256F230035C324
+81F67CEFD83BA63AC1256F230035DDE9,Reisen (Europa),D,s.a. Reisen (Skandinavien),,,E7B9DB8BBC6BD671C1256F230035C326
+890A4F82A7791658C1256F230035DDE8,Reisen (Europa),D,s.a. Reisen (Italien),,,49ED2BE25CBC57B7C1256F230035C322
+8EAC793B54674900C12577DC00537781,Reisen (Europa),D,s.a. Reisen (Schweiz),,,BDC2E6C84376DDACC12577DC00532908
+C21A182D893A8DE0C1256F230035DDE7,Reisen (Europa),D,s.a. Reisen (Britische Inseln),,,25A9978085E70CFCC1256F230035C31A
+E2A6F31AE6C06951C1256F230035DDEA,Reisen (Europa),D,s.a. Reisen (Deutschland),,,74EED10427C7344FC1256F230035C31C
+E9A9A4348CCB22D4C1256F230035DDE6,Reisen (Europa),D,s.a. Reisen (Frankreich),,,1174165B1CC451A9C1256F230035C31E
+FD052A48B673128EC1256F230035DDEB,Reisen (Europa),D,s.a. Reisen (Paris),,,D47FFB34941204DEC1256F230035C325
+2011EE2DB270C57AC1256F230035FFDA,Reisen (Finnland),ND,s. Reisen (Skandinavien),,,E7B9DB8BBC6BD671C1256F230035C326
+1174165B1CC451A9C1256F230035C31E,Reisen (Frankreich),DS,"Berichte, Beschreibungen, Bilder von Reisen in Frankreich.",Freizeit,,
+3053559E30B87244C1256F230035DDED,Reisen (Frankreich),D,s.a. Reisen (Paris),,,D47FFB34941204DEC1256F230035C325
+5451F98E0A724839C1256F230035C31F,Reisen (Griechenland),DS,"Berichte, Beschreibungen, Bilder von Reisen in Griechenland.",Freizeit,,
+1D1C352FF38C9497C1256F230035FFDB,Reisen (Großbritannien),ND,s. Reisen (Britische Inseln),,,25A9978085E70CFCC1256F230035C31A
+A37CEEE84AFC795FC1256F230035C320,Reisen (Indien),DS,"Berichte, Beschreibungen, Bilder von Reisen in Indien.",Freizeit,,
+BEBCC1DBC1364313C1256F230035FFDC,Reisen (Irland),ND,s. Reisen (Britische Inseln),,,25A9978085E70CFCC1256F230035C31A
+101E0D4A6469C8F4C1256F230035C321,Reisen (Israel),DS,"Berichte, Beschreibungen, Bilder von Reisen in Israel.",Freizeit,,
+49ED2BE25CBC57B7C1256F230035C322,Reisen (Italien),DS,"Berichte, Beschreibungen, Bilder von Reisen in Italien.",Freizeit,,
+62010505EB02F0D0C1256F230035C323,Reisen (Japan),DS,"Berichte, Beschreibungen, Bilder von Reisen in Japan.",Freizeit,,
+77B1802B7DEB3A36C1256F230035FFDD,Reisen (Jugoslawien),ND,s. Reisen (Europa),,,0EE217B5D3A612DCC1256F230035C31D
+C533D09E5364BD99C1256F230035FFDE,Reisen (Kanaren),ND,s. Reisen (Spanien),,,97035052C8129BE1C1256F230035C327
+B429FF43CB98D739C1256F230035FFDF,Reisen (Luxemburg),ND,s. Reisen (Europa),,,0EE217B5D3A612DCC1256F230035C31D
+832C3721B84232B8C1256F230035FFE0,Reisen (Niederlande),ND,s. Reisen (Europa),,,0EE217B5D3A612DCC1256F230035C31D
+3A0D58AA29F54E7BC1256F230035FFE1,Reisen (Norwegen),ND,s. Reisen (Skandinavien),,,E7B9DB8BBC6BD671C1256F230035C326
+D47FFB34941204DEC1256F230035C325,Reisen (Paris),DS,"Berichte, Beschreibungen, Bilder von Reisen nach Paris (Darstellung der Sehenswürdigkeiten z.B. zur Reisevorbereitung).",Freizeit,,
+95FED252B0A693BDC1256F230035FFE2,Reisen (Polen),ND,s. Reisen (Europa),,,0EE217B5D3A612DCC1256F230035C31D
+43D156876D388E16C1256F230035FFE3,Reisen (Portugal),ND,s. Reisen (Europa),,,0EE217B5D3A612DCC1256F230035C31D
+F9C30F675B64E0F4C1256F230035FFE4,Reisen (Schottland),ND,s. Reisen (Britische Inseln),,,25A9978085E70CFCC1256F230035C31A
+CFA7D68A93EC6B88C1256F230035FFE5,Reisen (Schweden),ND,s. Reisen (Skandinavien),,,E7B9DB8BBC6BD671C1256F230035C326
+BDC2E6C84376DDACC12577DC00532908,Reisen (Schweiz),DS,"Berichte, Beschreibungen, Bilder von Reisen innerhalb der Schweiz.",Freizeit,,
+E7B9DB8BBC6BD671C1256F230035C326,Reisen (Skandinavien),DS,"Berichte, Beschreibungen, Bilder von Reisen innerhalb Skandinaviens (Dänemark, Schweden, Norwegen, Finnland).",Freizeit,,
+A9D1F6EA8F42C121C1256F230035FFE6,Reisen (Slowakische Republik),ND,s. Reisen (Europa),,,0EE217B5D3A612DCC1256F230035C31D
+97035052C8129BE1C1256F230035C327,Reisen (Spanien),DS,"Berichte, Beschreibungen, Bilder von Reisen in Spanien.",Freizeit,,
+EA6967EDEB0AA3A8C1256F230035C328,Reisen (Thailand),DS,"Berichte, Beschreibungen, Bilder von Reisen in Thailand.",Freizeit,,
+31F100B0E670A9A0C1256F230035FFE7,Reisen (Tschechische Republik),ND,s. Reisen (Europa),,,0EE217B5D3A612DCC1256F230035C31D
+9F950B521F2EB2F5C1256F230035C329,Reisen (Türkei),DS,"Berichte, Beschreibungen, Bilder von Reisen in der Türkei.",Freizeit,,
+292AAD658376BB9FC1256F230035C32A,Reisen (USA),DS,"Berichte, Beschreibungen, Bilder von Reisen in den USA.",Freizeit,,
+63A2990BBD006799C1256F230035DDF2,Reisen (USA),D,s.a. Stadtbesichtigung,,,8190A00A0AB1DED1C1256F230035C66D
+B0FF42EBA87CE9CDC1256F230035FFE8,Reisen (Ukraine),ND,s. Reisen (Europa),,,0EE217B5D3A612DCC1256F230035C31D
+55DDD484BA0E5EECC1256F230035FFE9,Reisen (Ungarn),ND,s. Reisen (Europa),,,0EE217B5D3A612DCC1256F230035C31D
+0970AE4B5FC3AFC1C1256F230035FFEA,Reisen (Wales),ND,s. Reisen (Britische Inseln),,,25A9978085E70CFCC1256F230035C31A
+4BD2295121474AE5C12582160062F2B5,Reisen (allgemein),ND,s. Urlaub,,,6662280995F76975C1256F230035C8F7
+7FB6F9988D76BA02C1256F230035C315,Reisen (Ägypten),DS,"Berichte, Beschreibungen, Bilder von Reisen in Ägypten.",Freizeit,,
+22C0A54C092C8F4DC1256F230035C324,Reisen (Österreich),DS,"Berichte, Beschreibungen, Bilder von Reisen in Österreich.",Freizeit,,
+2EE483E832841287C125760D0036CEAC,Rezept (Speisenzubereitung),ND,s. Kochen (Gericht),,,FDD689A0E6074DB6C125760D0036A3FE
+655D332A56B38003C1256F230035DE48,Rollenspiel,D,s.a. Spielen,,,927568F9AC8C03CEC1256F230035C635
+ACD2966AE5B9C3D8C1256F230036008F,Rom (Reisen),ND,s. Reisen (Italien),,,49ED2BE25CBC57B7C1256F230035C322
+B4C32C68C8726325C1256F230035DE4B,Rom (Stadt),D,s.a. Reisen (Italien),,,49ED2BE25CBC57B7C1256F230035C322
+1894CE77D474684AC1256F23003600BE,Roulette,ND,s. Glücksspiel,,,7470155571CDAF68C1256F230035B710
+39311C5891E05344C125824E005FCB25,Route 66,ND,s. Reisen (Amerika),,,1B83E734D4B829DAC1256F230035C316
+3779E0490EA02D15C12572E3002FA86A,Rubik-Würfel,ND,s. Rätsel,,,DA629D684F97CB4DC1256F230035C2BB
+DA629D684F97CB4DC1256F230035C2BB,Rätsel,DS,"Denkaufgabe, die eine Lösung verlangt; wohl kulturellen Ursprungs und als eine Urform der Dichtung bei allen Völkern ausgebildet. Es gibt u.a. Worträtsel, Buchstabenrätsel, Bilderrätsel (Rebus), Kreuzworträtsel.",Freizeit,,
+E006F9E5BCED1062C125825700617E25,Sacré-Cœur,ND,s. Reisen (Paris),,,D47FFB34941204DEC1256F230035C325
+87907C10BDB4D6DCC1257FD4005E532B,Safari,DS,"Eine Safari ist eine Reise, deren Ziel es ist, Großwild zu jagen oder – in neuerer Zeit – zu beobachten und zu fotografieren.",Freizeit,,
+A8B224FC5DAEA7E8C1256F230036010B,Salzteig,ND,s. Basteln,,,C852323A0D103F81C1256F230035AFB3
+CC948AC31507808FC1256F2300360117,Sammeln (Aktivität),ND,s. Freizeitgestaltung,,,D494B6D4843C0D86C1256F230035B5DD
+3BD3CAC328ED2A51C12582630033AA1A,Sammler,ND,s. Freizeitgestaltung,,,D494B6D4843C0D86C1256F230035B5DD
+922E8D37D4E530F5C1257264003CC928,Schiffchen (Nähmaschine),ND,s. Handarbeiten,,,9B73C3A0943332EEC1256F230035B7E5
+B03B6583F677DD42C1256F230036020A,Schulbibliothek,ND,s. Bibliothek,,,2A29DB75BF432162C1256F230035B092
+D4A51836957A7193C1256F2300360219,Schulferien,ND,s. Urlaub,,,6662280995F76975C1256F230035C8F7
+0EA3BBC211A137D3C1256F230035DF3D,Schweden,D,s.a. Reisen (Skandinavien),,,E7B9DB8BBC6BD671C1256F230035C326
+1BC5310EF175A6E9C1256F2300360265,Schweden (Reisen),ND,s. Reisen (Skandinavien),,,E7B9DB8BBC6BD671C1256F230035C326
+66BB099CBDC1437FC12577DC00534305,Schweiz,D,s.a. Reisen (Schweiz),,,BDC2E6C84376DDACC12577DC00532908
+EAAED68E57597249C1256F230035C542,Schwimmbad,DS,Öffentliche oder private Anlage zum Schwimmen.,Freizeit,,
+D890E6BCA7CA16A3C1256F23003602B4,Sehenswürdigkeit (Afrika),ND,s. Reisen (Afrika),,,24E9EDE79757929CC1256F230035C314
+71EA4BE3F313D4F9C1256F23003602B5,Sehenswürdigkeit (Amerika),ND,s. Reisen (Amerika),,,1B83E734D4B829DAC1256F230035C316
+1BE8DF0FEA758E39C1256F23003602B6,Sehenswürdigkeit (Asien),ND,s. Reisen (Asien),,,DE94BEEC9EA4FF95C1256F230035C317
+EE6FEA5FFE303A71C1256F23003602B7,Sehenswürdigkeit (Australien),ND,s. Reisen (Australien),,,6D6F0A9D2033F4E6C1256F230035C318
+26E57E8A021C1BECC1256F23003602B8,Sehenswürdigkeit (Deutschland),ND,s. Reisen (Deutschland),,,74EED10427C7344FC1256F230035C31C
+1DAF6AAF7F88A56EC1256F23003602B9,Sehenswürdigkeit (Europa),ND,s. Reisen (Europa),,,0EE217B5D3A612DCC1256F230035C31D
+F08EBA944FB5BE13C1256F23003602BE,Seidenmalerei,ND,s. Basteln,,,C852323A0D103F81C1256F230035AFB3
+006D705ED20339ABC12572A500340117,Sightseeing,ND,s. Reisen (Britische Inseln),,,25A9978085E70CFCC1256F230035C31A
+04A40549B4031485C12572A50034A1A7,Sightseeing,ND,s. Reisen (USA),,,292AAD658376BB9FC1256F230035C32A
+065661CBBB746C61C12572A50033CF12,Sightseeing,ND,s. Reisen (Ägypten),,,7FB6F9988D76BA02C1256F230035C315
+0DF098335B6BF5E7C12572A5003449C9,Sightseeing,ND,s. Reisen (Italien),,,49ED2BE25CBC57B7C1256F230035C322
+1A07E03237F70F07C12572A500347D11,Sightseeing,ND,s. Reisen (Spanien),,,97035052C8129BE1C1256F230035C327
+24902EECAFB486ABC12572A50033F7AF,Sightseeing,ND,s. Reisen (Brasilien),,,31C010134F731E7CC1256F230035C319
+3065D607BEAF48A2C12572A500344151,Sightseeing,ND,s. Reisen (Israel),,,101E0D4A6469C8F4C1256F230035C321
+3C916AEF3775C249C12572A500348D0E,Sightseeing,ND,s. Reisen (Thailand),,,EA6967EDEB0AA3A8C1256F230035C328
+4C2540EA28F43DC7C12572A500345514,Sightseeing,ND,s. Reisen (Japan),,,62010505EB02F0D0C1256F230035C323
+4C49BB0BDE28489CC12572A500342783,Sightseeing,ND,s. Reisen (Griechenland),,,5451F98E0A724839C1256F230035C31F
+86B503C9A21CFB55C12572A500345E6A,Sightseeing,ND,s. Reisen (Österreich),,,22C0A54C092C8F4DC1256F230035C324
+8984BA8F691FB4CEC12572A500341690,Sightseeing,ND,s. Reisen (Deutschland),,,74EED10427C7344FC1256F230035C31C
+8FEDA9813211A971C12572A50034328C,Sightseeing,ND,s. Reisen (Indien),,,A37CEEE84AFC795FC1256F230035C320
+A64B044E41CFD951C12572A500340A3F,Sightseeing,ND,s. Reisen (China),,,8A8DB7F7FD0F4987C1256F230035C31B
+B99D01CC34D58C6EC12572A500346A35,Sightseeing,ND,s. Reisen (Paris),,,D47FFB34941204DEC1256F230035C325
+C149E926B495ACB5C12572A50033E1B4,Sightseeing,ND,s. Reisen (Amerika),,,1B83E734D4B829DAC1256F230035C316
+C940F549C18FD798C12572A50034961B,Sightseeing,ND,s. Reisen (Türkei),,,9F950B521F2EB2F5C1256F230035C329
+D6C238B8602F1A4BC12572A500341DEC,Sightseeing,ND,s. Reisen (Frankreich),,,1174165B1CC451A9C1256F230035C31E
+E724472A5D56E6A3C12572A500347306,Sightseeing,ND,s. Reisen (Skandinavien),,,E7B9DB8BBC6BD671C1256F230035C326
+F0CFAB3B50D78944C12572A50033F01F,Sightseeing,ND,s. Reisen (Australien),,,6D6F0A9D2033F4E6C1256F230035C318
+F70F0C89E7B00D9CC12572A50033D9C6,Sightseeing,ND,s. Reisen (Afrika),,,24E9EDE79757929CC1256F230035C314
+F175A62EBFA53A44C1256F2300360368,Sizilien (Reisen),ND,s. Reisen (Italien),,,49ED2BE25CBC57B7C1256F230035C322
+DC4CEBF4723DF5C8C1256F230035DF98,Skandinavien,D,s.a. Reisen (Skandinavien),,,E7B9DB8BBC6BD671C1256F230035C326
+5165198A4E344158C1256F2300360369,Skandinavien (Reisen),ND,s. Reisen (Skandinavien),,,E7B9DB8BBC6BD671C1256F230035C326
+652C0D59101DBEECC12572A5003B8A14,Skat,ND,s. Spiel (Unterhaltung),,,7F7B897A1265489CC1256F230035C634
+BDFF79D1F935C98CC1256F230035DFE5,Spanien,D,s.a. Reisen (Spanien),,,97035052C8129BE1C1256F230035C327
+70C5577812D92EC2C1256F23003603D9,Spanien (Reisen),ND,s. Reisen (Spanien),,,97035052C8129BE1C1256F230035C327
+08F58BE627E50DF8C1256F2A00328CEA,Spezialbibliothek,ND,s. Bibliothek,,,2A29DB75BF432162C1256F230035B092
+04F4910B413EA595C1256F2300360410,Spiel (Glücksspiel),ND,s. Glücksspiel,,,7470155571CDAF68C1256F230035B710
+4E4AD03C768D90EEC1256F230035DFED,Spiel (Unterhaltung),D,s.a. Spielen,,,927568F9AC8C03CEC1256F230035C635
+7F7B897A1265489CC1256F230035C634,Spiel (Unterhaltung),DS,"Anzahl zusammenhängender Gegenstände, z.B. ein Kartenspiel, Unterhaltungsspiel. Die Beschreibung dessen.",Freizeit,,
+F07D3369A983F3E7C1256F230035DFEB,Spiel (Unterhaltung),D,s.a. Freizeitgestaltung,,,D494B6D4843C0D86C1256F230035B5DD
+0542527473D348FAC1256F2300360412,Spiel (kindliches),ND,s. Spielen,,,927568F9AC8C03CEC1256F230035C635
+6BFA856D86032C91C1256F230035DFF4,Spielen,D,s.a. Spiel (Unterhaltung),,,7F7B897A1265489CC1256F230035C634
+927568F9AC8C03CEC1256F230035C635,Spielen,DS,"Spiel ist eine Betätigungsform, Spielen eine Tätigkeit, zum Vergnügen, zur Entspannung, allein aus Freude an ihrer Ausübung.",Freizeit,,
+0952644FE58F9B5AC12582E8005BDBD3,Spielfeld,ND,s. Spiel (Unterhaltung),,,7F7B897A1265489CC1256F230035C634
+4BD1920BBADF1E47C12582E8005CD242,Spielgerät,ND,s. Spiel (Unterhaltung),,,7F7B897A1265489CC1256F230035C634
+E2D47EDB3A4F1240C12582E8005CDE00,Spielgerät,ND,s. Spielplatz,,,AC6C9E41B02AA991C1256F230035C638
+4216189185B68DBEC12572B10051A837,Spielkarten,ND,s. Spiel (Unterhaltung),,,7F7B897A1265489CC1256F230035C634
+AC6C9E41B02AA991C1256F230035C638,Spielplatz,DS,"Öffentliche oder private Fläche, die von Kindern zum Spielen genutzt werden kann und meist mit Spielgeräten ausgestattet ist, z.B. Sandkasten, Schaukel, Rutsche.",Freizeit,,
+121F4857A744EBE4C1256F230036041A,Spielplatz (Abenteuer),ND,s. Spielplatz,,,AC6C9E41B02AA991C1256F230035C638
+425126E51B582864C12582EA0058EE77,Spielregel,ND,s. Spiel (Unterhaltung),,,7F7B897A1265489CC1256F230035C634
+FF03B684D075C711C12582EA00593AE0,Spielregelverstoß,ND,s. Spiel (Unterhaltung),,,7F7B897A1265489CC1256F230035C634
+5EFA5B78B98ECE36C1256F230036041C,Spielsucht,ND,s. Glücksspiel,,,7470155571CDAF68C1256F230035B710
+04BA70E79663F27FC1256F2300360420,Spielzeug,ND,s. Spielen,,,927568F9AC8C03CEC1256F230035C635
+6FEC415940B4DAD1C1257F7700634D7F,Sportstätte,D,s.a. Schwimmbad,,,EAAED68E57597249C1256F230035C542
+8190A00A0AB1DED1C1256F230035C66D,Stadtbesichtigung,DS,"Beschreibung einer Stadt und deren Sehenswürdigkeiten unter dem touristischen ""Besichtigungseffekt"" einer Reise.",Freizeit,,
+2D2AD71A28205164C1256F230035E048,Stadtbild,D,s.a. Stadtbesichtigung,,,8190A00A0AB1DED1C1256F230035C66D
+4021F5DFDAECEEEDC1256F23003604BF,Stadtbücherei,ND,s. Bibliothek,,,2A29DB75BF432162C1256F230035B092
+48EE13BB2ACE2DEFC1256F2300360561,Stickarbeit,ND,s. Handarbeiten,,,9B73C3A0943332EEC1256F230035B7E5
+DD5CE55608DAB0EBC1256F2300360562,Sticken,ND,s. Handarbeiten,,,9B73C3A0943332EEC1256F230035B7E5
+0A6368A803111CB7C1256F23003605B7,Stricken,ND,s. Handarbeiten,,,9B73C3A0943332EEC1256F230035B7E5
+075304CA0B396665C125833E006415E4,Studienobjekt,ND,s. Tierbeobachtung (Naturerlebnis),,,D687E70E519BE5DEC1256F230035C7F2
+1DFED95C727B134FC125722C003A6517,Sudoku,ND,s. Rätsel,,,DA629D684F97CB4DC1256F230035C2BB
+E39D4072D32C063EC12572C0002B2BC8,Swimmingpool,ND,s. Schwimmbad,,,EAAED68E57597249C1256F230035C542
+ABC3539D5C301C5BC1256F230035E118,Textilkunst,D,s.a. Handarbeiten,,,9B73C3A0943332EEC1256F230035B7E5
+DC980398ED400E78C1256F230035E120,Thailand,D,s.a. Reisen (Thailand),,,EA6967EDEB0AA3A8C1256F230035C328
+EF2D57A179AFFE39C1256F2300360725,Thailand (Reisen),ND,s. Reisen (Thailand),,,EA6967EDEB0AA3A8C1256F230035C328
+26E6B3590CD5D412C125836A005ECFC6,Tieraufnahme,ND,s. Tierbeobachtung (Naturerlebnis),,,D687E70E519BE5DEC1256F230035C7F2
+D687E70E519BE5DEC1256F230035C7F2,Tierbeobachtung (Naturerlebnis),DS,"Alle Beobachtungen von Tieren. Das ""Naturerlebnis"" Tier (keine biologischen Fachmedien).",Freizeit,,
+F4EE7FBA72AB7AEAC125836A00618F31,Tierreich,ND,s. Tierbeobachtung (Naturerlebnis),,,D687E70E519BE5DEC1256F230035C7F2
+E7CEB0675670DA14C1256F2300360779,Tierwelt,ND,s. Tierbeobachtung (Naturerlebnis),,,D687E70E519BE5DEC1256F230035C7F2
+D2BC8EAA6A321CC9C1256F23003607A2,Töpfern,ND,s. Basteln,,,C852323A0D103F81C1256F230035AFB3
+F06DA69CED5AD443C1256F230035E1AE,Türkei,D,s.a. Reisen (Türkei),,,9F950B521F2EB2F5C1256F230035C329
+B98E33887BF12D38C1256F230036081C,Türkei (Reisen),ND,s. Reisen (Türkei),,,9F950B521F2EB2F5C1256F230035C329
+6DA721D79D510AC4C1256F23003608D6,USA (Reisen),ND,s. Reisen (USA),,,292AAD658376BB9FC1256F230035C32A
+BC982AD1ED84BD8BC1256F230035E23A,USA (Staat),D,s.a. Reisen (USA),,,292AAD658376BB9FC1256F230035C32A
+A585E8AAC5FA72F0C1256F230036087B,Ungarn (Reisen),ND,s. Reisen (Europa),,,0EE217B5D3A612DCC1256F230035C31D
+6F3205AAFCD37BDFC1256F230036088F,Unterhaltungsspiel,ND,s. Spiel (Unterhaltung),,,7F7B897A1265489CC1256F230035C634
+6662280995F76975C1256F230035C8F7,Urlaub,DS,Bezahlte arbeitsfreie bzw. schulfreie Tage.,Freizeit,,
+89FAB7C3711EE5A6C1256F230035E21B,Urlaub,D,s.a. Freizeit,,,9B15545C78E383D1C1256F230035B5DC
+7A009FD196ECA23FC1256F2300360904,Venezianischer Karneval,ND,s. Karneval,,,32DD13AEF781FCA8C1256F230035BA7F
+D9D8F875C0ACA59FC12581DC00573444,Verarbeitung (Lebensmittel),ND,s. Kochen (Gericht),,,FDD689A0E6074DB6C125760D0036A3FE
+8DC9AC981440CDC3C1256F2A0032BE7E,Volksbücherei,ND,s. Bibliothek,,,2A29DB75BF432162C1256F230035B092
+EE3AF09D42E8EC68C1256F2300360B01,Wellenbad,ND,s. Schwimmbad,,,EAAED68E57597249C1256F230035C542
+69AD7632CC6B5124C1256F2300360B9D,Wien (Reisen),ND,s. Reisen (Österreich),,,22C0A54C092C8F4DC1256F230035C324
+688013653E71C2B4C1256F2300360C07,Worträtsel,ND,s. Rätsel,,,DA629D684F97CB4DC1256F230035C2BB
+15C297EDBFA012DFC12572E3002F9CCF,Zauberwürfel,ND,s. Rätsel,,,DA629D684F97CB4DC1256F230035C2BB
+E8D21D4D5FDCFF79C12572E300405792,Zelt (Camping),ND,s. Camping,,,D6B10F6FFDFC093BC1256F230035B1F6
+BB395264E1922270C1256F230035CCBB,Ägypten,D,s.a. Reisen (Ägypten),,,7FB6F9988D76BA02C1256F230035C315
+6EBFD34751B08ADAC1256F230035E5A7,Ägypten (Reisen),ND,s. Reisen (Ägypten),,,7FB6F9988D76BA02C1256F230035C315
+00E4B36F459B3309C12573320048640C,Öffentliche Bibliothek,ND,s. Bibliothek,,,2A29DB75BF432162C1256F230035B092
+1ECD765D90BD1420C1256F230035DC89,Österreich,D,s.a. Reisen (Österreich),,,22C0A54C092C8F4DC1256F230035C324
+87EB9F6B0970A349C1256F230035FC97,Österreich (Reisen),ND,s. Reisen (Österreich),,,22C0A54C092C8F4DC1256F230035C324

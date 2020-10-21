@@ -1,262 +1,195 @@
-notation,prefLabel,art,definition
-F7998527BB352777C1256F230035CC94,Abschiebung (Recht),D,s.a. Asyl
-95EE8BE854A0B5EBC1256F230035E54E,Abwanderung,ND,s. Migration
-0CDD2D0AE4A24FA7C12576CD00502695,Adhäsionsverfahren,ND,s. Recht
-873B30B663B2EDFFC1256F230035E57D,Adoleszenz,ND,s. Jugendlicher
-895CD55B195A4237C1257A7800545CFB,Afrikanisierung,ND,s. Kulturelle Identität
-470C7E98F5EC256CC1257AAC003C7C54,Analogie (Recht),ND,s. Recht
-11A8567ED761023BC1257AB4005F1C5E,Anfeindungen,ND,s. Ausländer
-36E1293B6DE1C724C1257AB4005F28C0,Anfeindungen,ND,s. Ausländerproblematik
-96706502982AA520C1256F230035E681,Antijudaismus,ND,s. Antisemitismus
-3147816BE67C21D1C12576E70059F705,Antizionismus,ND,s. Antisemitismus
-5C3542CFD203FD5DC1256F230035CD8D,Arbeitnehmer,D,s.a. Ausländische Arbeitnehmer
-542DDB0A654CCD75C1256F230035E6B3,Arbeitnehmer (ausländische),ND,s. Ausländische Arbeitnehmer
-8C8F38DB1EC1F04EC1256F230035AE8E,Arbeitsagentur,DS,"Unterste Verwaltungsstelle der Bundesanstalt für Arbeitsvermittlung und Arbeitslosenversicherung zur Arbeitsvermittlung, Berufsberatung, Umschulung etc."
-14409C333030F1FAC1257AD10062457B,Arbeitsmigrant,ND,s. Migration
-F0CEF69AB52EE3CCC1256F230035E6BE,Arbeitsmigration,ND,s. Migration
-C201EEB3CC1173D8C1256F230035E6C7,Arbeitsrecht,ND,s. Recht
-0688F27F16FE3593C1256F230035E728,Asylant,ND,s. Asyl
-27B4572ED7D5ADF3C1257AEC005F732F,Asylantenschicksal,ND,s. Asyl
-82292097AFC63DD8C1256F230035E729,Asylbewerber,ND,s. Asyl
-011ABB6722D6AC46C1257AEC005F956E,Asylpolitik,ND,s. Asyl
-179A89E7AEE9252EC1256F230035E72A,Asylrecht,ND,s. Asyl
-62F4D97021B69573C1257AEC005FB0F7,Asylsuchender,ND,s. Asyl
-31DD802306218EE5C1257AEC005FBF1C,Asylverfahren,ND,s. Asyl
-B8D5BFDA5AB0BE78C1257B79002F71D6,Aufenthaltsrecht,ND,s. Abschiebung (Recht)
-46363532C28F4908C1256F230035CE20,Ausländer,D,s.a. Asyl
-4A546D787B834D2BC1256F230035CE1F,Ausländer,D,s.a. Ausländerkind
-6D17F629BF431396C1256F230035CE24,Ausländer,D,s.a. Türken
-95C2687B87003729C1256F230035CE23,Ausländer,D,s.a. Ausländische Arbeitnehmer
-B60994F07E859A4CC1256F230035CE1D,Ausländer,D,s.a. Ausländerproblematik
-D56DEE0DAC8207DBC1256F230035AF00,Ausländer,DS,Die Probleme und Situation von Menschen ausländischer Herkunft in Deutschland.
-DB71A2C0A553C0C6C1256F230035CE1E,Ausländer,D,s.a. Ausländerin
-E84A3128F5178610C12573F50042736F,Ausländer,D,s.a. Ausländischer Jugendlicher 
-1462E687292701C5C1256F230035CE25,Ausländer (weltweit),D,s.a. Ausländer
-735581F4255374CAC1256F230035AF01,Ausländer (weltweit),DS,"Person, die eine andere als die Staatsangehörigkeit ihres Aufenthaltslandes besitzt. D.h. hier weltweite Problematik und Situation (z.B. Situation der Algerier in Frankreich)."
-F33BD7F64745030CC1256F230035CE26,Ausländer (weltweit),D,s.a. Ausländerproblematik
-028E67801AF9BE74C1257E46005B2D5A,Ausländerfeindlichkeit,ND,s. Fremdenfeindlichkeit
-0A2A70415F1F8695C1256F230035AF03,Ausländerin,DS,Die speziellen Probleme von Frauen bzw. Mädchen ausländischer Herkunft in Deutschland (z.B. Heirat bei Türkinnen).
-27711FBE7B8DD80DC1256F230035E7A6,Ausländerintegration,DS,Beschreibung der Integration von Ausländern.
-2EB5E6939D3A1097C1256F230035AF04,Ausländerkind,DS,"Die speziellen Probleme von Kindern ausländischer Herkunft bzw. von Kindern mit Eltern ausländischer Herkunft, die aber in Deutschland geboren wurden, in Deutschland."
-58B32190666E088DC12573F500524CA4,Ausländerkind,D,s.a. Ausländischer Jugendlicher 
-624519BEB4E991C2C1256F230035AF05,Ausländerpädagogik,DS,Spezielle Erziehungs- und Lern-/Lehrprogramme bzgl. Ausländer zur Lehrerfortbildung.
-2E5AB9C005B56BF2C1256F230035CE28,Ausländerproblematik,D,s.a. Ausländerin
-2F19A7F78080F2A7C12573F50051FFDF,Ausländerproblematik,D,s.a. Ausländischer Jugendlicher 
-6582D17B39F1E5AEC1256F230035CE29,Ausländerproblematik,D,s.a. Ausländerkind
-77E743E65420D0EEC1256F230035CE2A,Ausländerproblematik,D,s.a. Ausländer
-982815CA02AA9115C1256F230035CE2E,Ausländerproblematik,D,s.a. Kulturbegegnung
-BDB9E333D8ED9574C1256F230035AF06,Ausländerproblematik,DS,Die spezielle Situation bzw. Probleme der Ausländer als Randgruppe in Deutschland.
-C7BD4D282DEF9AE0C12573F500411092,Ausländerproblematik,D,s.a. Ausländerintegration
-DDEA59377DF14F98C1256F230035CE2D,Ausländerproblematik,D,s.a. Kulturelle Identität
-E7BF23AA71E8850BC12573F50041395D,Ausländerproblematik,D,s.a. Fremdenfeindlichkeit
-CFCC660E822BE0C0C1256F230035AF02,"Ausländer, Rose",DS,"Eigentlich Rosalie Scherzer-Ausländer, deutsche Lyrikerin (1901-88); schrieb eher konventionelle Gedichte."
-0D48BF3330D255E0C1256F230035AF07,Ausländische Arbeitnehmer,DS,"Bezeichnung für Personen, die (vorübergehend) in einem Land arbeiten, dessen Staatsangehörigkeit sie nicht besitzen. Ihre Situation und Probleme."
-F085BEE63D37048FC1256F230035E7A7,Ausländische Frau,ND,s. Ausländerin
-64785687A0986B9FC12573F500525CC7,Ausländischer Jugendlicher,D,s.a. Ausländerkind
-FA3934B7104CFB75C1256F230035BA27,Ausländischer Jugendlicher,DS,Die speziellen Probleme von Jugendlichen ausländischer Herkunft bzw. von Jugendlichen mit Eltern ausländischer Herkunft in Deutschland.
-83EEC4CFFD9E85BDC12573F500527F49,Ausländischer Schüler,ND,s. Ausländerkind
-B02081DCE363D002C1256F230035E7AA,Ausländischer Schüler,ND,s. Ausländischer Jugendlicher
-600C010D1914103DC1256F230035E7AC,Ausländisches Kind,ND,s. Ausländerkind
-E670D6D9B340BE63C1256F230035E7AD,Auslandsdeutsche,DS,"Als Auslandsdeutsche werden erstens die deutschen Staatsbürger verstanden, die dauerhaft im Ausland leben. Zweitens zählt man zu ihnen die größere Zahl der Deutschsprachigen, die sich auch im Ausland der deutschen Sprache und Kultur verbunden fühlen. Drittens werden als Auslandsdeutsche auch Deutschstämmige bezeichnet, deren Vorfahren einmal aus Deutschland ausgewandert sind."
-E6EA1204B8FBFAE3C1256F230035CE14,Außenpolitik,D,s.a. Kulturbegegnung
-488CAA5FB330E4A0C1256F230035CE50,Auswanderung (allgemein),ND,s. Migration
-FD227A444144E620C1256F230035E7C7,Ausweisung,ND,s. Abschiebung (Recht)
-D0550F5A9CD03E76C1256F230035E8A1,Begegnung (interkulturelle),ND,s. Interkulturelle Begegnung
-A91D8AC9AA78530BC1256F230035CFEC,Bevölkerungswanderung,D,s.a. Migration
-3D90ED33C489FF63C1256F230035D03B,Bilinguale Erziehung,D,s.a. Bilinguales Material (Kinder)
-3577ABBECC6198C1C1256F230035B0B3,Bilingualer Unterricht,DS,Themen aus dem Lehrplan werden teilweise in einer Fremdsprache und teilweise in deutsch unterrichtet. Die einzelnen Teile ergänzen sich. 2. Möglichkeit: Ein Unterrichtsfach z.B. Erdkunde wird z.B. ab 10. Klasse nur noch in englisch unterrichtet.
-701CC8C2EAA1D21DC1256F230035D03D,Bilinguales Material,D,s.a. Bilinguales Material (Kinder)
-74DD1F52C155B617C12575640052E15B,Bilinguales Material,D,s.a. Deutsch für Ausländer
-A02A45C39F47A31BC12575640052C909,Bilinguales Material,D,s.a. Deutsch für ausländische Auszubildende
-F15B8689A3749AACC1256F230035B0B4,Bilinguales Material,DS,"Alle zwei-/mehrsprachigen Medien, die zum Erlernen der deutschen Sprache für Ausländer gemacht sind."
-39234B049A6EF1AAC1256F230035D03F,Bilinguales Material (Kinder),D,s.a. Deutsch für Ausländerkinder
-46C5ADCB938A46D5C1256F230035B0B5,Bilinguales Material (Kinder),DS,"Zwei-/mehrsprachige Medien, die zum Erlernen der deutschen Sprache speziel für Ausländerkinder gemacht sind."
-D148CBE73E810926C1257B6E005CB950,Bill of Rights,ND,s. Recht
-646E94E5DF49711AC1256F230035D04B,Binnenwanderung,D,s.a. Migration
-042301A82F12D3F4C1257B79002F6944,Bleiberecht,ND,s. Abschiebung (Recht)
-E190582E417762E2C1256F230035EAED,Bürgerrecht,ND,s. Recht
-9E0ECE6263023FF6C1257BFD005F3329,Coming-of-Age,ND,s. Jugendlicher
-1221AA76E4E35828C1257BFD005F4EA6,Coming of Age,ND,s. Jugendlicher
-557B39975D6D7CB8C1256F230035D1F6,Demographie,D,s.a. Migration
-0D80988B0831C0FEC1256F230035D202,Deutsch,D,s.a. Deutsch für Ausländer
-21A780EC4EA7EC8AC1256F230035D203,Deutsch,D,s.a. Deutsch für Ausländerkinder
-6B922DE7EA2F1435C1256F230035D201,Deutsch,D,s.a. Deutsch für ausländische Auszubildende
-7CD01D216E423991C1257C2E005E6AA8,Deutsch als Fremdsprache,ND,s. Deutsch für Ausländerkinder
-9E2B21A1D28CDF1CC1257C2E005E5BDD,Deutsch als Fremdsprache,ND,s. Deutsch für Ausländer
-F7B33CB3B39C68DBC1257C2E005E716C,Deutsch als Fremdsprache,ND,s. Deutsch für ausländische Auszubildende
-5176387D1EB74522C1257C2E005EB2A6,Deutsch als Zweitsprache,ND,s. Deutsch für ausländische Auszubildende
-8080C33F3E4CA1B6C1257C2E005EA84A,Deutsch als Zweitsprache,ND,s. Deutsch für Ausländer
-FA961864ECC61D71C1257C2E005EAD13,Deutsch als Zweitsprache,ND,s. Deutsch für Ausländerkinder
-98256859C7931969C1256F230035B324,Deutsch für Ausländer,DS,Deutsch als Fremdsprache; hier allgemeine Sprachwendungen für Erwachsene.
-66D74ED1B052880AC1256F230035B325,Deutsch für Ausländerkinder,DS,Deutsch als Fremdsprache; hier speziell für Kinder aufbereitete Übungen/Filme zum Erlernen der deutschen Sprache.
-ACCC6F59B280E8E8C1256F230035D207,Deutsch für Ausländerkinder,D,s.a. Bilinguales Material (Kinder)
-A3C9F5174162C24EC1256F230035B323,Deutsch für ausländische Auszubildende,DS,Deutsch als Fremdsprache; hier spezielle Fachbegriffe für Ausbildungszeiten bzw. Berufe.
-0FD852A33CF71D5AC1257C2E005EC8AC,Deutsch für Kinder mit Migrationshintergrund,ND,s. Deutsch für Ausländerkinder
-0A3979CFF34417F7C1257C2E005EEA80,Deutsch lernen,ND,s. Deutsch für Ausländerkinder
-CEC662311A1B5011C1257C2E005EE1E8,Deutsch lernen,ND,s. Deutsch für Ausländer
-E50967BC555C3997C1257C2E005EEF96,Deutsch lernen,ND,s. Deutsch für ausländische Auszubildende
-1C662A18B7F377C8C1257B79002F7C3D,Duldung (Aufenthaltsrecht),ND,s. Abschiebung (Recht)
-6FFA33CAF457118DC1257C6F005E5F93,Einwanderungsland,ND,s. Migration
-0E163144A10FA8F8C1257C6F005EBCE5,Einwanderungspolitik,DS,Die politischen Parameter bzgl. der Einwanderung in ein Land.
-DDC3B9BEF17367F6C1257C6F005EEA79,Einwanderungspolitik,D,s.a. Migration
-8156E8729AB8557EC1256F230035D2FE,Emigration,D,s.a. Migration
-9863FEAB1B1A06ECC1257CA100633F70,Erzählbilder,ND,s. Deutsch für Ausländerkinder
-E54C0BD8DB4DCE46C1257CA1006396D8,Erzählen,ND,s. Deutsch für Ausländerkinder
-1480BA9EEE30F3DDC1256F230035D383,Ethnische Gruppe,D,s.a. Kulturelle Identität
-23CCEF43057D1E70C1256F230035B4A7,Ethnische Gruppe,DS,"Ethnie (die ethnische Gruppe) oder Ethnos ist ein Begriff aus der Ethnologie. Völkerkundler (Ethnologen) fassen mit diesem Begriff benannte Populationen von Menschen zusammen, die Herkunftssagen, Geschichte, Kultur, die Verbindung zu einem spezifischen Territorium und ein Gefühl der Solidarität miteinander teilen."
-9D30B4AD2EBDC56FC1256F230035EF05,Frau (ausländische),ND,s. Ausländerin
-1F5B481367E9F751C1256F230035D47F,Fremdarbeiter,D,s.a. Ausländische Arbeitnehmer
-5EBDE15EA193FD21C1256F230035EF2D,Fremdenfeindlichkeit,D,s.a. Ausländerproblematik
-65E2BD79924F185AC1256F230035E7A4,Fremdenfeindlichkeit,DS,"Fremdenfeindlichkeit, gelegentlich auch Xenophobie, bezeichnet eine ablehnende, ausgrenzende oder feindliche Haltung gegenüber Personen oder Gruppen (auch Gruppenbezogene Menschenfeindlichkeit), die als andersartig gesehen werden. Dabei kann die Ablehnung mit echten, vermeintlichen oder angeblichen sozialen, religiösen, ökonomischen, kulturellen oder ethnischen Unterschieden begründet werden. Weil Fremdenfeindlichkeit damit auch auf Gruppen abzielt, die nicht klassisch mit dem Begriff „Ausländer“ bezeichnet werden, hat das Wort den Begriff Ausländerfeindlichkeit zunehmend abgelöst."
-53D3186CFA41E859C1257D320034D7C2,Fremdheit,ND,s. Kulturbegegnung
-15584E3335195C49C1257D3200354318,Fremdsein,ND,s. Kulturbegegnung
-24FCE9DB2643E62EC1256F230035D490,Fremdsprache,D,s.a. Deutsch für Ausländerkinder
-7201C8DCBF1A559DC1256F230035D48F,Fremdsprache,D,s.a. Deutsch für Ausländer
-963561F6593BB11BC1256F230035D491,Fremdsprache,D,s.a. Deutsch für ausländische Auszubildende
-94942E7FB20CA65AC1256F230035EF95,Gastarbeiter,ND,s. Ausländische Arbeitnehmer
-B69BCF27502ED9CFC1256F230035EF96,Gastarbeiterintegration,ND,s. Ausländerproblematik
-7A5D6D813C3F3772C1256F230035EF97,Gastarbeiterkind,ND,s. Ausländerkind
-96AFA811BE67F0FEC1256F230035EF98,Gastarbeiterproblem,ND,s. Ausländerproblematik
-C8223A95AA81F3D3C1256F230035EF99,Gastarbeitnehmer,ND,s. Ausländische Arbeitnehmer
-3D2B8A13634BE9F6C1256F230035D542,Gesetz,D,s.a. Recht
-AF458B7C466F01A0C1257E46005BCE0C,Gruppenbezogene Menschenfeindlichkeit,ND,s. Fremdenfeindlichkeit
-D84A260C8DAE148AC1257DF1005BDD6B,Haftung (Recht),ND,s. Recht
-17B3EB4D65C6698FC1256F230035F1B1,Heranwachsende,ND,s. Jugendlicher
-A8E38BB9268C1C13C1256F230035F26F,Identität (Kultur),ND,s. Kulturelle Identität
-CDEEA3CDD8345955C1256F230035D6A4,Ideologie,D,s.a. Ausländerproblematik
-F779AF806796036DC1257E6B0038B4FB,Immigrant,ND,s. Migration
-5EE5953A06A81FE7C1256F230035D6B5,Immigration,D,s.a. Migration
-6CF9E4878A1EA236C1256F230035B944,Immigration,DS,Die Zuwanderung in ein Staatsgebiet aus anderen Staaten (z.B. in die USA; hier aber nicht nach Deutschland).
-0DA495B420417F0CC1256F230035D714,Integration,D,s.a. Ausländerproblematik
-C70C1BD9F6091008C1257E9700542F40,Interesse (Recht),ND,s. Recht
-2BF6F24D36550A39C1257E970056B39E,Interkulturalität,ND,s. Interkulturelle Begegnung
-0F618C9161A2CBD2C1256F230035B986,Interkulturelle Begegnung,DS,"Das Aufeinandertreffen von Menschen (speziell auch Kindern) aus unterschiedlichen Kulturen; der Austausch zwischen den fremden Welten, die Probleme oder positiven Erlebnisse und Auswirkungen."
-E2510E8B3EAB357CC1256F230035D71C,Interkulturelle Begegnung,D,s.a. Kulturbegegnung
-AE9B39AB553E7FDAC1257E9700575DE6,Interkultureller Dialog,ND,s. Interkulturelle Begegnung
-56CECDE215DFB2DFC125714C004ABA04,Interkultureller Transfer,ND,s. Interkulturelle Begegnung
-98CED55BC40AAC9BC1257E970057E78D,Interkulturelles Lernen,DS,"Interkulturelles Lernen bezeichnet eine Form des sozialen Lernens mit dem Ziel der interkulturellen Kompetenz. Es besteht ein gewisser Bezug zum Begriff ""Globales Lernen"". Als Teilziele des interkulturellen Lernen bzw. Komponenten der interkulturellen Kompetenz gelten: bewusster und kritischer Umgang mit Stereotypen, Aufbau von Akzeptanz für andere Kulturen, Überwindung von Ethnozentrismus, Verständnis der eigenen Kulturverhaftung und Enkulturation und Fremdverstehen für eine erfolgreiche Kommunikation und Zusammenarbeit mit Menschen aus anderen Kulturen."
-D29A6D3758FD0EEAC125714C004CDC25,Internationales Recht,ND,s. Recht
-05750AD6BF2A0CEAC12576E70059D1BB,Judenfeindlichkeit,ND,s. Antisemitismus
-41AF7C98A3AB348AC12576E70059D9DB,Judenfeindschaft,ND,s. Antisemitismus
-35825E697F851457C1256F230035F317,Judenhass,ND,s. Antisemitismus
-4EC874E47ACE965BC1256F230035D760,Judentum,D,s.a. Antisemitismus
-36DEBC9FAE14CD4AC12576E70059E58B,Judenverfolgung,D,s.a. Antisemitismus
-28D089DE750A1912C1256F230035F319,Jugend,ND,s. Jugendlicher
-27BBABD2F92D60ABC1256F230035BA1F,Jugend forscht,DS,Wettbewerb für Jugendliche bzgl. vor allem wissenschaftlicher Themen.
-D3B06C7ACAF30EFCC1256F230035F31E,Jugendarbeitslosigkeit,ND,s. Jugendlicher
-0F78623FCC6145C3C1256F230035D76F,Jugendgruppe,D,s.a. Jugendlicher
-0C6B9F962F17A70DC1256F230035D772,Jugendkultur,D,s.a. Jugendlicher
-5FE5A2E553C4BA7EC1256F230035BA25,Jugendkultur,DS,"In modernen Gesellschaften westlicher Prägung die durch die Jugend bzw. (große) Teile von ihr repräsentierten Einstellungen, Verhaltensweisen, Lebensentwürfe, Kommunikationsformen, Symbolbildungen, Selbstdarstellungen und Konfliktpotentiale; innerhalb der Gesamtgesellschaft, oft in Verbindung mit bestimmten Musikformen und/oder der Favorisierung bestimmter Markenprodukte eigene Subkulturen ausbildend."
-8753933E41F05E8CC1257EB50056E9FD,Jugendliche,ND,s. Jugendlicher
-2EB4ECAEEEC2BDA0C1256F230035BA26,Jugendlicher,DS,"Mensch während eines Lebensabschnitts, der vom Beginn der Geschlechtsreife bis zu ihrem Abschluss andauert. Rechtlich zwischen 14 und 18 Jahren."
-EA75C6D31DD839EEC1256F230035D774,Jugendlicher,D,s.a. Ausländischer Jugendlicher 
-311AC8483D1737D9C1256F230035E7A9,Jugendlicher (ausländischer),ND,s. Ausländischer Jugendlicher
-24E8789893DA2CF7C1257ABC005D9EFE,Junge,D,s.a. Jugendlicher
-7053ED37EEBF482CC1256F230035D7EA,Kind,D,s.a. Ausländerkind
-9B3AFC42A8879D59C1256F230035BAEE,Kind,DS,"Der Mensch in der Alters- und Entwicklungsphase der Kindheit. Unterscheidung: Neugeborenes (Geburt-10. Lebenstag), Säugling (im 1. Lebensjahr), Kleinstkind (im 2. Lebensjahr), Kleinkind (2.-6. Lebensjahr), Schulkind (7.-14. Lebensjahr)."
-A934FB6A52FC59F5C1256F230035D7E8,Kind,D,s.a. Jugendlicher
-D7B347759B558030C1256F230035D7F1,Kind,D,s.a. Recht
-83E71F9362CD5624C1256F230035F411,Kind (ausländisches),ND,s. Ausländerkind
-77256469116DAF33C1256F230035BAEF,Kindbettfieber,DS,"Infektion der Geburtswunden durch Bakterien, tritt bei guter Wochenbett-Hygiene nur noch selten auf und hat durch die Anwendung der Antibiotika an Gefährlichkeit verloren."
-06016078C82A8E02C1256F230035D7F5,Kinder- und Jugendliteratur,D,s.a. Jugendlicher
-14C276F77E05A123C1256F230035BAF0,Kinder- und Jugendliteratur,DS,"Bücher, Zeitschriften, Heftchen, Schallplatten, Kassetten, Funk- und Fernsehsendungen, die entweder speziell für Kinder und Jugendliche produziert oder überwiegend von ihnen nachgefragt werden. Adressaten sind ""selbstlesende Kinder"". Keine Bilderbücher!"
-2BF679149353FD90C1256F230035D861,Konflikt,D,s.a. Ausländerproblematik
-2317A6985F65AC9DC1256F230035D8E9,Kultur,D,s.a. Kulturbegegnung
-7F773F1BF7F89982C1256F230035D8F0,Kultur,D,s.a. Ausländerproblematik
-80669FB0C7EBEEC6C1256F230035D8EF,Kultur,D,s.a. Kulturelle Identität
-B1DC195235582F39C1256F230035D8F4,Kultur,D,s.a. Interkulturelle Begegnung
-4F81574C99306A1CC1256F230035F59A,Kulturaustausch,ND,s. Kulturbegegnung
-57B694AB78CB752FC1256F230035D8F5,Kulturbegegnung,D,s.a. Ausländerproblematik
-857B3C5F0C4F2683C1256F230035BC22,Kulturbegegnung,DS,"Das Zusammentreffen und der Austausch verschiedener Kulturen sowie Probleme, die  auftreten können, ebenso wie das Aufzeigen der Unterschiede."
-B90BB62D99957A8FC1256F230035D8F6,Kulturbegegnung,D,s.a. Interkulturelle Begegnung
-363806CDBA240229C1256F230035F5A0,Kulturelle Andersartigkeit,ND,s. Kulturbegegnung
-E19114FD9D64E12FC1256F230035D8F9,Kulturelle Identität,D,s.a. Ausländerproblematik
-F000F675C933902CC1256F230035F5A2,Kulturelle Integration,ND,s. Ausländerproblematik
-3705822028EA8C2CC1256F230035F5A3,Kultureller Austausch,ND,s. Kulturbegegnung
-4774803C5ADCF926C1256F230035F5A4,Kultureller Austausch,ND,s. Interkulturelle Begegnung
-4591EF1D287830B0C125714C004AC727,Kulturtransfer,ND,s. Interkulturelle Begegnung
-618F51FC6548E4A3C125714C004AEF8D,Kulturtransfer,ND,s. Kulturbegegnung
-92DD4F3AFE4EE964C1256F230035F5AE,Kulturunterschied,ND,s. Kulturbegegnung
-7E932504BF14DBBFC1256F230035D990,Lebensweg,D,s.a. Jugendlicher
-AD3FE73782F07D45C1256F230035F731,Lernhilfe (zweisprachig),ND,s. Bilinguales Material
-4D885143ADD03254C1256F230035D9F6,Mädchen,D,s.a. Jugendlicher
-7F5557D94194B7D0C1256F230035BDDF,Mädchen,DS,"Das weibliche Kind. Die typische Entwicklung (Biologie, Soziologie u.a.) eines Mädchens sowie Probleme und Eigenarten."
-6E701BA5CD532EC6C1256F230035DA0D,Mann,D,s.a. Jugendlicher
-192CE364DAB0A66FC125804C005B7B32,Maßnahme (Recht),ND,s. Recht
-52F330DAF52073D4C125754B005B19E9,Mensch,D,s.a. Jugendlicher
-3D33F47C39B91091C1257E46005BBD10,Menschenfeindlichkeit,ND,s. Fremdenfeindlichkeit
-0FB3B16975117E6FC1256F230035DA76,Menschenrechte,D,s.a. Recht
-8D5E968B0464B81CC1256F230035F980,Migrant,ND,s. Migration
-330439419659AEB9C1256F230035DA8E,Migration,D,s.a. Ausländerproblematik
-A2531ED5588F1992C1256F230035DA93,Migration,D,s.a. Remigration
-A2E5CDF8DE202A08C125807D005E11A1,Migration,D,s.a. Migrationshintergrund
-E9DCD68F382E3B6BC125807D005DAA04,Migrationsgesellschaft,ND,s. Migration
-1D4DFC4781DFB311C125807D005DFB99,Migrationshintergrund,DS,"Das soziale Merkmal Migrationshintergrund beschreibt Personen, die selbst oder deren Vorfahren aus einem anderen Staat eingewandert sind, oder soziale Gruppen oder Gemeinschaften, die aus eingewanderten Personen oder deren Nachkommen bestehen."
-ACC6E5BDD7B4999BC125830D0056F4D4,Migrationsursache,DS,Flucht- und Migrationsursachen sind eine Kombination aus strukturellen Faktoren und akuten Auslösern.
-C9EF04A025D3F483C1256F230035DAAB,Minderheit,D,s.a. Ausländerproblematik
-0F9EDBB38597C716C12571BD0033474F,Minderjährigkeit,ND,s. Jugendlicher
-72562AE0AC091ADDC1256F230035F9CC,Mitbürger (ausländischer),ND,s. Ausländer
-17A977F8B9CCC241C12580D1005FCE3D,Multikulturell,ND,s. Interkulturelle Begegnung
-97765A407AE9B540C12580D1005FC269,Multikulturell,ND,s. Kulturbegegnung
-0072A804EA60C0B0C12571ED00386808,Multikulturelle Gesellschaft,ND,s. Kulturbegegnung
-D8D8728ADC6CBF2DC12571ED00385125,Multikulturelle Gesellschaft,ND,s. Interkulturelle Begegnung
-340BD8AFCD0FBE7DC1256F230035BFAC,Multimedia,DS,"Programmatische Verbindung mehrerer künstlerischer Ausdrucksformen bzw. Medien zu einer neuen Einheit, z.B. in Form der Audiovision und des Environments."
-2BFA425E36DEB3A0C12580D700584612,Muslime in Deutschland,ND,s. Interkulturelle Begegnung
-C81B96387E1ECB1FC125811E005E50AF,Nutzung,ND,s. Recht
-1C2E5769BFE02433C125756C0039C81D,Politik,D,s.a. Recht
-4088DF7D6C58C4CFC1256F230035DD6A,Pubertät,D,s.a. Jugendlicher
-04ED44B02BF6E828C12581C900624FB1,Pull-Faktor,ND,s. Migration
-649F6E30BE7A1C06C12581CA003D282D,Push-Faktor,ND,s. Migration
-BF6A895C694559DEC1256F230035DD77,Randgruppe,D,s.a. Ausländerproblematik
-1028445CE9B18ABDC1256F230035FF54,Rassenintegration,ND,s. Ausländerproblematik
-16436030499B5E86C1256F230035DD87,Rassismus,D,s.a. Antisemitismus
-FE72B18A97791E48C1256F230035DD89,Rassismus,D,s.a. Ausländerproblematik
-A2725C888FAFCBA7C1256F230035C2B2,Rassismus (Deutschland),DS,"Haltung, bei der Menschen einer Rasse die Angehörigen anderer Rassen oder ethnischer Gruppen im Unterschied zur eigenen als minderwertig ansehen. Speziell in Deutschland."
-155B3F501179961CC1256F230035C2B3,Rassismus (Frankreich),DS,"Haltung, bei der Menschen einer Rasse die Angehörigen anderer Rassen oder ethnischer Gruppen im Unterschied zur eigenen als minderwertig ansehen. Speziell in Frankreich."
-A08863CD80A29D6EC1256F230035C2B4,Rassismus (Republik Südafrika),DS,"Haltung, bei der Menschen einer Rasse die Angehörigen anderer Rassen oder ethnischer Gruppen im Unterschied zur eigenen als minderwertig ansehen. Speziell in der Republik Südafrika."
-BB407BFD43AD1543C12581F7005D2497,Rechenschaft (Recht),ND,s. Recht
-0BDBB32FA48EDF76C1256F230035FF8E,Rechtsgrundlagen,ND,s. Recht
-33D01AC7CCD77979C125722C0040CF0B,Rechtsordnung,ND,s. Recht
-8AD5488D350EC85BC1256F230035FF90,Rechtssystem,ND,s. Recht
-A2D7A3103CDC688DC1256F230035FFD0,Reimmigration,ND,s. Remigration
-595DEB10B980DC53C1256F230035C30C,Reims,DS,"Stadt in Frankreich, in der Champagne; Kathedrale (Meisterschöpfung der Gotik) u.a. alte Bauwerke."
-D7363AEE12422AD8C1256F230035DE04,Remigration,D,s.a. Migration
-C2DFD7F498E8A215C1256F23003600CD,Rückwanderung,ND,s. Remigration
-5F7C7274B5A65DCEC1256F230035C3F8,Rügen,DS,"Größte deutsche Insel in der Ostsee, von der pommerschen Küste durch den Greifswalder Bodden und den Strelasund getrennt, mit Stralsund durch den 2,54 km langen Rügendamm verbunden."
-9143F5EF537236ECC1256F230035C3F9,"Rühmann, Heinz",DS,"Deutscher Filmschauspieler, Komiker, Regisseur (1902-94)."
-374F3469EFA5B784C1256F23003600EB,Sachkunde (zweisprachige),ND,s. Bilinguales Material (Kinder)
-A515A42B5EA84466C1256F23003600EA,Sachkunde (zweisprachige),ND,s. Deutsch für Ausländerkinder
-0577695C5F5975D5C1256F230035DEAE,Sachsenspiegel,D,s.a. Recht
-D62B649D23E05BD1C1256F230035C419,Sachsenspiegel,DS,"Zwischen 1220 und 1235 von Eike von Repgau aufgezeichnetes Gewohnheitsrecht, das älteste und in seiner Zeit bedeutendste deutsche Rechtsbuch, das die Vorlage der oberdeutschen Rechtsbücher bildete."
-2A58EEF3E2DED9C7C125827B005AC030,Schiedsrichter,ND,s. Recht
-B1A4B0EBF83ECFEEC1256F2300360210,Schüler (ausländischer),ND,s. Ausländerkind
-350ED6C91ABC05E9C1256F23003602E3,Selbstjustiz,ND,s. Recht
-0C914880E8CB8931C12582B000557934,Selbstkenntnis,DS,"Selbstkenntnis oder Mirror self-recognition (MSR) ist die Fähigkeit eines Lebewesens, sich selbst im Spiegel zu erkennen. Diese Fähigkeit gilt als Indiz dafür, dass das Lebewesen sich seiner selbst bewusst ist, das eigene Wesen also von dem anderer Artgenossen abgrenzen kann. Selbstkenntnis gilt als eine Grundlage des Selbstbewusstseins."
-56B9E366A6F8FCFFC1256F23003602F4,Semitengegnerschaft,ND,s. Antisemitismus
-19BFAA3380F69B9DC1256F2300360463,Spracherziehung,ND,s. Deutsch für ausländische Auszubildende
-6451442C8B841161C1256F2300360466,Spracherziehung,ND,s. Deutsch für Ausländerkinder
-BA4F673C6D0001CFC1256F2300360464,Spracherziehung,ND,s. Deutsch für Ausländer
-4344AF741233885FC1256F230035E031,Sprachunterricht (Deutsch),ND,s. Deutsch für Ausländerkinder
-688F9234E93E3083C12579FD00482DCF,Sprachunterricht (Deutsch),ND,s. Deutsch für Ausländer
-C6BB12127835385EC12579FD00483671,Sprachunterricht (Deutsch),ND,s. Deutsch für ausländische Auszubildende
-B03BEB1F1F704D5FC1256F230035E02B,Sprachunterricht (Pädagogik),D,s.a. Deutsch für Ausländer
-C045BADA82D153E2C1257A010040F8A6,Sprachunterricht (Pädagogik),D,s.a. Deutsch für Ausländerkinder
-C332606CB831B1FCC12582FD005C2213,Sprechen,ND,s. Deutsch für Ausländer
-7FB6D3086001F7DCC12582FD005C0E3A,Sprechfertigkeit,ND,s. Deutsch für Ausländer
-D26CA68C269447DEC12572B200300CF8,Staatsrecht,ND,s. Recht
-DF48ADCF8C271736C1256F230035E065,Strafvollzug,D,s.a. Recht
-5625F41C42D556FCC1256F230035C6DE,Strafvollzugsbeamter,DS,Berufsbild
-3C43DA39621370B1C1256F23003606D5,Teenager,ND,s. Jugendlicher
-951DACA0D657A932C125837F005EF2D9,Transformation (Recht),ND,s. Recht
-6D39FCB894FD2F0EC1256F230035C849,Transformator,DS,"Umspanner, ruhendes Gerät zur Umwandlung hoher Wechselspannungen in niedere und umgekehrt."
-850B9E33A3E4A8C4C1256F230036081E,Türkin,ND,s. Türken
-5196FBF9CB079981C12583A6005E783D,Unrecht,D,s.a. Recht
-6A37C2E4D2C419C8C1256F230035C8DC,"Unruh, Modeste von",DS,Deutsche Malerin; geb. 1955.
-CB9C4C88228AB15BC12572D500321C01,Volkskunde,ND,s. Kulturelle Identität
-8CF7738EA583867BC1257E46005BA4AB,Xenophobie,ND,s. Fremdenfeindlichkeit
-0EC576061C51FBAFC1256F230035CBC7,Xerophyten,DS,"Pflanzen mit besonderer morphologischer und physiologischer Anpassung an Standorte mit zeitweiligem oder dauerndem Wassermangel; verfügen über Transpirationsschutz, Wasserspeicherfähigkeit (Sukkulenten)."
-BECFF0BC0A7B1464C12572F70036EDF4,Zuwanderung,ND,s. Migration
-08F65476845890CCC1256F2300360D0E,Zweisprachige Lernhilfe,ND,s. Bilinguales Material
-A24F38CC4BC9326EC1256F2300360D0F,Zweisprachige Sachkunde,ND,s. Bilinguales Material (Kinder)
-F005533B2174F4E9C1256F2300360D10,Zweisprachige Sachkunde,ND,s. Deutsch für Ausländerkinder
-DAC6ACD2EC2A3589C1256F2300360D11,Zweisprachiges Material,ND,s. Bilinguales Material
+DOKUMENT-ID,SCHLAGWORT,ART,TEXT,discipline,narrower,broader
+AA34477343D48F75C1256F230035AD48,Abschiebung (Recht),DS,"Verwaltungsmaßnahme zur Entfernung ausreisepflichtiger Ausländer aus einem Staatsgebiet. Die Abschiebung darf nach deutschen Recht nicht in Staaten erfolgen, in denen der Ausgewiesene verfolgt wird.",Interkulturelle Bildung,,
+F7998527BB352777C1256F230035CC94,Abschiebung (Recht),D,s.a. Asyl,,,1C59BE790B2C45C4C1256F230035AECB
+95EE8BE854A0B5EBC1256F230035E54E,Abwanderung,ND,s. Migration,,,F817564142B3D8FAC1256F230035BEF2
+895CD55B195A4237C1257A7800545CFB,Afrikanisierung,ND,s. Kulturelle Identität,,,7655C9C984BB8C41C1256F230035BC23
+11A8567ED761023BC1257AB4005F1C5E,Anfeindungen,ND,s. Ausländer,,,D56DEE0DAC8207DBC1256F230035AF00
+36E1293B6DE1C724C1257AB4005F28C0,Anfeindungen,ND,s. Ausländerproblematik,,,BDB9E333D8ED9574C1256F230035AF06
+96706502982AA520C1256F230035E681,Antijudaismus,ND,s. Antisemitismus,,,14DEF1DC815342F7C1256F230035AE40
+14DEF1DC815342F7C1256F230035AE40,Antisemitismus,DS,"1879 von W. Marr geprägter Begriff für Bestrebungen gegen die Juden. Beschreibung und Auswirkungen des Antisemitismus in der Geschichte und heute. Er entzündet sich primär an der religiösen und sozialen Absonderung der Juden, die fremdartig erscheint.",Interkulturelle Bildung,,
+3147816BE67C21D1C12576E70059F705,Antizionismus,ND,s. Antisemitismus,,,14DEF1DC815342F7C1256F230035AE40
+5C3542CFD203FD5DC1256F230035CD8D,Arbeitnehmer,D,s.a. Ausländische Arbeitnehmer,,,0D48BF3330D255E0C1256F230035AF07
+542DDB0A654CCD75C1256F230035E6B3,Arbeitnehmer (ausländische),ND,s. Ausländische Arbeitnehmer,,,0D48BF3330D255E0C1256F230035AF07
+14409C333030F1FAC1257AD10062457B,Arbeitsmigrant,ND,s. Migration,,,F817564142B3D8FAC1256F230035BEF2
+F0CEF69AB52EE3CCC1256F230035E6BE,Arbeitsmigration,ND,s. Migration,,,F817564142B3D8FAC1256F230035BEF2
+1C59BE790B2C45C4C1256F230035AECB,Asyl,DS,"Die Gewährung von und das Recht auf Schutz gegen Verfolgung aus politischen, rassistischen, religiösen oder anderen Gründen an einem vor Verfolgung sicheren Ort und die daraus resultierenden Probleme.",Interkulturelle Bildung,,
+0688F27F16FE3593C1256F230035E728,Asylant,ND,s. Asyl,,,1C59BE790B2C45C4C1256F230035AECB
+27B4572ED7D5ADF3C1257AEC005F732F,Asylantenschicksal,ND,s. Asyl,,,1C59BE790B2C45C4C1256F230035AECB
+82292097AFC63DD8C1256F230035E729,Asylbewerber,ND,s. Asyl,,,1C59BE790B2C45C4C1256F230035AECB
+011ABB6722D6AC46C1257AEC005F956E,Asylpolitik,ND,s. Asyl,,,1C59BE790B2C45C4C1256F230035AECB
+179A89E7AEE9252EC1256F230035E72A,Asylrecht,ND,s. Asyl,,,1C59BE790B2C45C4C1256F230035AECB
+62F4D97021B69573C1257AEC005FB0F7,Asylsuchender,ND,s. Asyl,,,1C59BE790B2C45C4C1256F230035AECB
+31DD802306218EE5C1257AEC005FBF1C,Asylverfahren,ND,s. Asyl,,,1C59BE790B2C45C4C1256F230035AECB
+B8D5BFDA5AB0BE78C1257B79002F71D6,Aufenthaltsrecht,ND,s. Abschiebung (Recht),,,AA34477343D48F75C1256F230035AD48
+46363532C28F4908C1256F230035CE20,Ausländer,D,s.a. Asyl,,,1C59BE790B2C45C4C1256F230035AECB
+4A546D787B834D2BC1256F230035CE1F,Ausländer,D,s.a. Ausländerkind,,,2EB5E6939D3A1097C1256F230035AF04
+6D17F629BF431396C1256F230035CE24,Ausländer,D,s.a. Türken,,,F8E95869505659DFC1256F230035C888
+95C2687B87003729C1256F230035CE23,Ausländer,D,s.a. Ausländische Arbeitnehmer,,,0D48BF3330D255E0C1256F230035AF07
+B60994F07E859A4CC1256F230035CE1D,Ausländer,D,s.a. Ausländerproblematik,,,BDB9E333D8ED9574C1256F230035AF06
+D56DEE0DAC8207DBC1256F230035AF00,Ausländer,DS,Die Probleme und Situation von Menschen ausländischer Herkunft in Deutschland.,Interkulturelle Bildung,,
+DB71A2C0A553C0C6C1256F230035CE1E,Ausländer,D,s.a. Ausländerin,,,0A2A70415F1F8695C1256F230035AF03
+E84A3128F5178610C12573F50042736F,Ausländer,D,s.a. Ausländischer Jugendlicher ,,,FA3934B7104CFB75C1256F230035BA27
+1462E687292701C5C1256F230035CE25,Ausländer (weltweit),D,s.a. Ausländer,,,D56DEE0DAC8207DBC1256F230035AF00
+F33BD7F64745030CC1256F230035CE26,Ausländer (weltweit),D,s.a. Ausländerproblematik,,,BDB9E333D8ED9574C1256F230035AF06
+028E67801AF9BE74C1257E46005B2D5A,Ausländerfeindlichkeit,ND,s. Fremdenfeindlichkeit,,,65E2BD79924F185AC1256F230035E7A4
+0A2A70415F1F8695C1256F230035AF03,Ausländerin,DS,Die speziellen Probleme von Frauen bzw. Mädchen ausländischer Herkunft in Deutschland (z.B. Heirat bei Türkinnen).,Interkulturelle Bildung,,
+27711FBE7B8DD80DC1256F230035E7A6,Ausländerintegration,DS,Beschreibung der Integration von Ausländern.,Interkulturelle Bildung,,
+2EB5E6939D3A1097C1256F230035AF04,Ausländerkind,DS,"Die speziellen Probleme von Kindern ausländischer Herkunft bzw. von Kindern mit Eltern ausländischer Herkunft, die aber in Deutschland geboren wurden, in Deutschland.",Interkulturelle Bildung,,
+58B32190666E088DC12573F500524CA4,Ausländerkind,D,s.a. Ausländischer Jugendlicher ,,,FA3934B7104CFB75C1256F230035BA27
+2E5AB9C005B56BF2C1256F230035CE28,Ausländerproblematik,D,s.a. Ausländerin,,,0A2A70415F1F8695C1256F230035AF03
+2F19A7F78080F2A7C12573F50051FFDF,Ausländerproblematik,D,s.a. Ausländischer Jugendlicher ,,,FA3934B7104CFB75C1256F230035BA27
+6582D17B39F1E5AEC1256F230035CE29,Ausländerproblematik,D,s.a. Ausländerkind,,,2EB5E6939D3A1097C1256F230035AF04
+77E743E65420D0EEC1256F230035CE2A,Ausländerproblematik,D,s.a. Ausländer,,,D56DEE0DAC8207DBC1256F230035AF00
+982815CA02AA9115C1256F230035CE2E,Ausländerproblematik,D,s.a. Kulturbegegnung,,,857B3C5F0C4F2683C1256F230035BC22
+BDB9E333D8ED9574C1256F230035AF06,Ausländerproblematik,DS,Die spezielle Situation bzw. Probleme der Ausländer als Randgruppe in Deutschland.,Interkulturelle Bildung,,
+C7BD4D282DEF9AE0C12573F500411092,Ausländerproblematik,D,s.a. Ausländerintegration,,,27711FBE7B8DD80DC1256F230035E7A6
+DDEA59377DF14F98C1256F230035CE2D,Ausländerproblematik,D,s.a. Kulturelle Identität,,,7655C9C984BB8C41C1256F230035BC23
+E7BF23AA71E8850BC12573F50041395D,Ausländerproblematik,D,s.a. Fremdenfeindlichkeit,,,65E2BD79924F185AC1256F230035E7A4
+0D48BF3330D255E0C1256F230035AF07,Ausländische Arbeitnehmer,DS,"Bezeichnung für Personen, die (vorübergehend) in einem Land arbeiten, dessen Staatsangehörigkeit sie nicht besitzen. Ihre Situation und Probleme.",Interkulturelle Bildung,,
+F085BEE63D37048FC1256F230035E7A7,Ausländische Frau,ND,s. Ausländerin,,,0A2A70415F1F8695C1256F230035AF03
+64785687A0986B9FC12573F500525CC7,Ausländischer Jugendlicher,D,s.a. Ausländerkind,,,2EB5E6939D3A1097C1256F230035AF04
+FA3934B7104CFB75C1256F230035BA27,Ausländischer Jugendlicher,DS,Die speziellen Probleme von Jugendlichen ausländischer Herkunft bzw. von Jugendlichen mit Eltern ausländischer Herkunft in Deutschland.,Interkulturelle Bildung,,
+83EEC4CFFD9E85BDC12573F500527F49,Ausländischer Schüler,ND,s. Ausländerkind,,,2EB5E6939D3A1097C1256F230035AF04
+B02081DCE363D002C1256F230035E7AA,Ausländischer Schüler,ND,s. Ausländischer Jugendlicher,,,FA3934B7104CFB75C1256F230035BA27
+600C010D1914103DC1256F230035E7AC,Ausländisches Kind,ND,s. Ausländerkind,,,2EB5E6939D3A1097C1256F230035AF04
+488CAA5FB330E4A0C1256F230035CE50,Auswanderung (allgemein),ND,s. Migration,,,F817564142B3D8FAC1256F230035BEF2
+FD227A444144E620C1256F230035E7C7,Ausweisung,ND,s. Abschiebung (Recht),,,AA34477343D48F75C1256F230035AD48
+E6EA1204B8FBFAE3C1256F230035CE14,Außenpolitik,D,s.a. Kulturbegegnung,,,857B3C5F0C4F2683C1256F230035BC22
+D0550F5A9CD03E76C1256F230035E8A1,Begegnung (interkulturelle),ND,s. Interkulturelle Begegnung,,,0F618C9161A2CBD2C1256F230035B986
+A91D8AC9AA78530BC1256F230035CFEC,Bevölkerungswanderung,D,s.a. Migration,,,F817564142B3D8FAC1256F230035BEF2
+3D90ED33C489FF63C1256F230035D03B,Bilinguale Erziehung,D,s.a. Bilinguales Material (Kinder),,,46C5ADCB938A46D5C1256F230035B0B5
+701CC8C2EAA1D21DC1256F230035D03D,Bilinguales Material,D,s.a. Bilinguales Material (Kinder),,,46C5ADCB938A46D5C1256F230035B0B5
+74DD1F52C155B617C12575640052E15B,Bilinguales Material,D,s.a. Deutsch für Ausländer,,,98256859C7931969C1256F230035B324
+A02A45C39F47A31BC12575640052C909,Bilinguales Material,D,s.a. Deutsch für ausländische Auszubildende,,,A3C9F5174162C24EC1256F230035B323
+F15B8689A3749AACC1256F230035B0B4,Bilinguales Material,DS,"Alle zwei-/mehrsprachigen Medien, die zum Erlernen der deutschen Sprache für Ausländer gemacht sind.",Interkulturelle Bildung,,
+39234B049A6EF1AAC1256F230035D03F,Bilinguales Material (Kinder),D,s.a. Deutsch für Ausländerkinder,,,66D74ED1B052880AC1256F230035B325
+46C5ADCB938A46D5C1256F230035B0B5,Bilinguales Material (Kinder),DS,"Zwei-/mehrsprachige Medien, die zum Erlernen der deutschen Sprache speziel für Ausländerkinder gemacht sind.",Interkulturelle Bildung,,
+646E94E5DF49711AC1256F230035D04B,Binnenwanderung,D,s.a. Migration,,,F817564142B3D8FAC1256F230035BEF2
+042301A82F12D3F4C1257B79002F6944,Bleiberecht,ND,s. Abschiebung (Recht),,,AA34477343D48F75C1256F230035AD48
+557B39975D6D7CB8C1256F230035D1F6,Demographie,D,s.a. Migration,,,F817564142B3D8FAC1256F230035BEF2
+0D80988B0831C0FEC1256F230035D202,Deutsch,D,s.a. Deutsch für Ausländer,,,98256859C7931969C1256F230035B324
+21A780EC4EA7EC8AC1256F230035D203,Deutsch,D,s.a. Deutsch für Ausländerkinder,,,66D74ED1B052880AC1256F230035B325
+6B922DE7EA2F1435C1256F230035D201,Deutsch,D,s.a. Deutsch für ausländische Auszubildende,,,A3C9F5174162C24EC1256F230035B323
+7CD01D216E423991C1257C2E005E6AA8,Deutsch als Fremdsprache,ND,s. Deutsch für Ausländerkinder,,,66D74ED1B052880AC1256F230035B325
+9E2B21A1D28CDF1CC1257C2E005E5BDD,Deutsch als Fremdsprache,ND,s. Deutsch für Ausländer,,,98256859C7931969C1256F230035B324
+F7B33CB3B39C68DBC1257C2E005E716C,Deutsch als Fremdsprache,ND,s. Deutsch für ausländische Auszubildende,,,A3C9F5174162C24EC1256F230035B323
+5176387D1EB74522C1257C2E005EB2A6,Deutsch als Zweitsprache,ND,s. Deutsch für ausländische Auszubildende,,,A3C9F5174162C24EC1256F230035B323
+8080C33F3E4CA1B6C1257C2E005EA84A,Deutsch als Zweitsprache,ND,s. Deutsch für Ausländer,,,98256859C7931969C1256F230035B324
+FA961864ECC61D71C1257C2E005EAD13,Deutsch als Zweitsprache,ND,s. Deutsch für Ausländerkinder,,,66D74ED1B052880AC1256F230035B325
+98256859C7931969C1256F230035B324,Deutsch für Ausländer,DS,Deutsch als Fremdsprache; hier allgemeine Sprachwendungen für Erwachsene.,Interkulturelle Bildung,,
+66D74ED1B052880AC1256F230035B325,Deutsch für Ausländerkinder,DS,Deutsch als Fremdsprache; hier speziell für Kinder aufbereitete Übungen/Filme zum Erlernen der deutschen Sprache.,Interkulturelle Bildung,,
+ACCC6F59B280E8E8C1256F230035D207,Deutsch für Ausländerkinder,D,s.a. Bilinguales Material (Kinder),,,46C5ADCB938A46D5C1256F230035B0B5
+0FD852A33CF71D5AC1257C2E005EC8AC,Deutsch für Kinder mit Migrationshintergrund,ND,s. Deutsch für Ausländerkinder,,,66D74ED1B052880AC1256F230035B325
+A3C9F5174162C24EC1256F230035B323,Deutsch für ausländische Auszubildende,DS,Deutsch als Fremdsprache; hier spezielle Fachbegriffe für Ausbildungszeiten bzw. Berufe.,Interkulturelle Bildung,,
+0A3979CFF34417F7C1257C2E005EEA80,Deutsch lernen,ND,s. Deutsch für Ausländerkinder,,,66D74ED1B052880AC1256F230035B325
+CEC662311A1B5011C1257C2E005EE1E8,Deutsch lernen,ND,s. Deutsch für Ausländer,,,98256859C7931969C1256F230035B324
+E50967BC555C3997C1257C2E005EEF96,Deutsch lernen,ND,s. Deutsch für ausländische Auszubildende,,,A3C9F5174162C24EC1256F230035B323
+1C662A18B7F377C8C1257B79002F7C3D,Duldung (Aufenthaltsrecht),ND,s. Abschiebung (Recht),,,AA34477343D48F75C1256F230035AD48
+6FFA33CAF457118DC1257C6F005E5F93,Einwanderungsland,ND,s. Migration,,,F817564142B3D8FAC1256F230035BEF2
+DDC3B9BEF17367F6C1257C6F005EEA79,Einwanderungspolitik,D,s.a. Migration,,,F817564142B3D8FAC1256F230035BEF2
+8156E8729AB8557EC1256F230035D2FE,Emigration,D,s.a. Migration,,,F817564142B3D8FAC1256F230035BEF2
+9863FEAB1B1A06ECC1257CA100633F70,Erzählbilder,ND,s. Deutsch für Ausländerkinder,,,66D74ED1B052880AC1256F230035B325
+E54C0BD8DB4DCE46C1257CA1006396D8,Erzählen,ND,s. Deutsch für Ausländerkinder,,,66D74ED1B052880AC1256F230035B325
+1480BA9EEE30F3DDC1256F230035D383,Ethnische Gruppe,D,s.a. Kulturelle Identität,,,7655C9C984BB8C41C1256F230035BC23
+9D30B4AD2EBDC56FC1256F230035EF05,Frau (ausländische),ND,s. Ausländerin,,,0A2A70415F1F8695C1256F230035AF03
+1F5B481367E9F751C1256F230035D47F,Fremdarbeiter,D,s.a. Ausländische Arbeitnehmer,,,0D48BF3330D255E0C1256F230035AF07
+5EBDE15EA193FD21C1256F230035EF2D,Fremdenfeindlichkeit,D,s.a. Ausländerproblematik,,,BDB9E333D8ED9574C1256F230035AF06
+65E2BD79924F185AC1256F230035E7A4,Fremdenfeindlichkeit,DS,"Fremdenfeindlichkeit, gelegentlich auch Xenophobie, bezeichnet eine ablehnende, ausgrenzende oder feindliche Haltung gegenüber Personen oder Gruppen (auch Gruppenbezogene Menschenfeindlichkeit), die als andersartig gesehen werden. Dabei kann die Ablehnung mit echten, vermeintlichen oder angeblichen sozialen, religiösen, ökonomischen, kulturellen oder ethnischen Unterschieden begründet werden. Weil Fremdenfeindlichkeit damit auch auf Gruppen abzielt, die nicht klassisch mit dem Begriff „Ausländer“ bezeichnet werden, hat das Wort den Begriff Ausländerfeindlichkeit zunehmend abgelöst.",Interkulturelle Bildung,,
+53D3186CFA41E859C1257D320034D7C2,Fremdheit,ND,s. Kulturbegegnung,,,857B3C5F0C4F2683C1256F230035BC22
+15584E3335195C49C1257D3200354318,Fremdsein,ND,s. Kulturbegegnung,,,857B3C5F0C4F2683C1256F230035BC22
+24FCE9DB2643E62EC1256F230035D490,Fremdsprache,D,s.a. Deutsch für Ausländerkinder,,,66D74ED1B052880AC1256F230035B325
+7201C8DCBF1A559DC1256F230035D48F,Fremdsprache,D,s.a. Deutsch für Ausländer,,,98256859C7931969C1256F230035B324
+963561F6593BB11BC1256F230035D491,Fremdsprache,D,s.a. Deutsch für ausländische Auszubildende,,,A3C9F5174162C24EC1256F230035B323
+94942E7FB20CA65AC1256F230035EF95,Gastarbeiter,ND,s. Ausländische Arbeitnehmer,,,0D48BF3330D255E0C1256F230035AF07
+B69BCF27502ED9CFC1256F230035EF96,Gastarbeiterintegration,ND,s. Ausländerproblematik,,,BDB9E333D8ED9574C1256F230035AF06
+7A5D6D813C3F3772C1256F230035EF97,Gastarbeiterkind,ND,s. Ausländerkind,,,2EB5E6939D3A1097C1256F230035AF04
+96AFA811BE67F0FEC1256F230035EF98,Gastarbeiterproblem,ND,s. Ausländerproblematik,,,BDB9E333D8ED9574C1256F230035AF06
+C8223A95AA81F3D3C1256F230035EF99,Gastarbeitnehmer,ND,s. Ausländische Arbeitnehmer,,,0D48BF3330D255E0C1256F230035AF07
+AF458B7C466F01A0C1257E46005BCE0C,Gruppenbezogene Menschenfeindlichkeit,ND,s. Fremdenfeindlichkeit,,,65E2BD79924F185AC1256F230035E7A4
+A8E38BB9268C1C13C1256F230035F26F,Identität (Kultur),ND,s. Kulturelle Identität,,,7655C9C984BB8C41C1256F230035BC23
+CDEEA3CDD8345955C1256F230035D6A4,Ideologie,D,s.a. Ausländerproblematik,,,BDB9E333D8ED9574C1256F230035AF06
+F779AF806796036DC1257E6B0038B4FB,Immigrant,ND,s. Migration,,,F817564142B3D8FAC1256F230035BEF2
+5EE5953A06A81FE7C1256F230035D6B5,Immigration,D,s.a. Migration,,,F817564142B3D8FAC1256F230035BEF2
+0DA495B420417F0CC1256F230035D714,Integration,D,s.a. Ausländerproblematik,,,BDB9E333D8ED9574C1256F230035AF06
+2BF6F24D36550A39C1257E970056B39E,Interkulturalität,ND,s. Interkulturelle Begegnung,,,0F618C9161A2CBD2C1256F230035B986
+0F618C9161A2CBD2C1256F230035B986,Interkulturelle Begegnung,DS,"Das Aufeinandertreffen von Menschen (speziell auch Kindern) aus unterschiedlichen Kulturen; der Austausch zwischen den fremden Welten, die Probleme oder positiven Erlebnisse und Auswirkungen.",Interkulturelle Bildung,,
+E2510E8B3EAB357CC1256F230035D71C,Interkulturelle Begegnung,D,s.a. Kulturbegegnung,,,857B3C5F0C4F2683C1256F230035BC22
+AE9B39AB553E7FDAC1257E9700575DE6,Interkultureller Dialog,ND,s. Interkulturelle Begegnung,,,0F618C9161A2CBD2C1256F230035B986
+56CECDE215DFB2DFC125714C004ABA04,Interkultureller Transfer,ND,s. Interkulturelle Begegnung,,,0F618C9161A2CBD2C1256F230035B986
+05750AD6BF2A0CEAC12576E70059D1BB,Judenfeindlichkeit,ND,s. Antisemitismus,,,14DEF1DC815342F7C1256F230035AE40
+41AF7C98A3AB348AC12576E70059D9DB,Judenfeindschaft,ND,s. Antisemitismus,,,14DEF1DC815342F7C1256F230035AE40
+35825E697F851457C1256F230035F317,Judenhass,ND,s. Antisemitismus,,,14DEF1DC815342F7C1256F230035AE40
+4EC874E47ACE965BC1256F230035D760,Judentum,D,s.a. Antisemitismus,,,14DEF1DC815342F7C1256F230035AE40
+36DEBC9FAE14CD4AC12576E70059E58B,Judenverfolgung,D,s.a. Antisemitismus,,,14DEF1DC815342F7C1256F230035AE40
+EA75C6D31DD839EEC1256F230035D774,Jugendlicher,D,s.a. Ausländischer Jugendlicher ,,,FA3934B7104CFB75C1256F230035BA27
+311AC8483D1737D9C1256F230035E7A9,Jugendlicher (ausländischer),ND,s. Ausländischer Jugendlicher,,,FA3934B7104CFB75C1256F230035BA27
+7053ED37EEBF482CC1256F230035D7EA,Kind,D,s.a. Ausländerkind,,,2EB5E6939D3A1097C1256F230035AF04
+83E71F9362CD5624C1256F230035F411,Kind (ausländisches),ND,s. Ausländerkind,,,2EB5E6939D3A1097C1256F230035AF04
+2BF679149353FD90C1256F230035D861,Konflikt,D,s.a. Ausländerproblematik,,,BDB9E333D8ED9574C1256F230035AF06
+2317A6985F65AC9DC1256F230035D8E9,Kultur,D,s.a. Kulturbegegnung,,,857B3C5F0C4F2683C1256F230035BC22
+7F773F1BF7F89982C1256F230035D8F0,Kultur,D,s.a. Ausländerproblematik,,,BDB9E333D8ED9574C1256F230035AF06
+80669FB0C7EBEEC6C1256F230035D8EF,Kultur,D,s.a. Kulturelle Identität,,,7655C9C984BB8C41C1256F230035BC23
+B1DC195235582F39C1256F230035D8F4,Kultur,D,s.a. Interkulturelle Begegnung,,,0F618C9161A2CBD2C1256F230035B986
+4F81574C99306A1CC1256F230035F59A,Kulturaustausch,ND,s. Kulturbegegnung,,,857B3C5F0C4F2683C1256F230035BC22
+57B694AB78CB752FC1256F230035D8F5,Kulturbegegnung,D,s.a. Ausländerproblematik,,,BDB9E333D8ED9574C1256F230035AF06
+857B3C5F0C4F2683C1256F230035BC22,Kulturbegegnung,DS,"Das Zusammentreffen und der Austausch verschiedener Kulturen sowie Probleme, die  auftreten können, ebenso wie das Aufzeigen der Unterschiede.",Interkulturelle Bildung,,
+B90BB62D99957A8FC1256F230035D8F6,Kulturbegegnung,D,s.a. Interkulturelle Begegnung,,,0F618C9161A2CBD2C1256F230035B986
+363806CDBA240229C1256F230035F5A0,Kulturelle Andersartigkeit,ND,s. Kulturbegegnung,,,857B3C5F0C4F2683C1256F230035BC22
+7655C9C984BB8C41C1256F230035BC23,Kulturelle Identität,DS,Unter Kultureller Identität versteht man das Zugehörigkeitsgefühl eines Individuums oder einer sozialen Gruppe zu einem bestimmten kulturellen Kollektiv. Kontinuität und Gleichheit in diesem kulturellen Kolletiv (sowie Ausübung dieser Kultur auch unter widrigen Umständen).,Interkulturelle Bildung,,
+E19114FD9D64E12FC1256F230035D8F9,Kulturelle Identität,D,s.a. Ausländerproblematik,,,BDB9E333D8ED9574C1256F230035AF06
+F000F675C933902CC1256F230035F5A2,Kulturelle Integration,ND,s. Ausländerproblematik,,,BDB9E333D8ED9574C1256F230035AF06
+3705822028EA8C2CC1256F230035F5A3,Kultureller Austausch,ND,s. Kulturbegegnung,,,857B3C5F0C4F2683C1256F230035BC22
+4774803C5ADCF926C1256F230035F5A4,Kultureller Austausch,ND,s. Interkulturelle Begegnung,,,0F618C9161A2CBD2C1256F230035B986
+4591EF1D287830B0C125714C004AC727,Kulturtransfer,ND,s. Interkulturelle Begegnung,,,0F618C9161A2CBD2C1256F230035B986
+618F51FC6548E4A3C125714C004AEF8D,Kulturtransfer,ND,s. Kulturbegegnung,,,857B3C5F0C4F2683C1256F230035BC22
+92DD4F3AFE4EE964C1256F230035F5AE,Kulturunterschied,ND,s. Kulturbegegnung,,,857B3C5F0C4F2683C1256F230035BC22
+AD3FE73782F07D45C1256F230035F731,Lernhilfe (zweisprachig),ND,s. Bilinguales Material,,,F15B8689A3749AACC1256F230035B0B4
+3D33F47C39B91091C1257E46005BBD10,Menschenfeindlichkeit,ND,s. Fremdenfeindlichkeit,,,65E2BD79924F185AC1256F230035E7A4
+8D5E968B0464B81CC1256F230035F980,Migrant,ND,s. Migration,,,F817564142B3D8FAC1256F230035BEF2
+330439419659AEB9C1256F230035DA8E,Migration,D,s.a. Ausländerproblematik,,,BDB9E333D8ED9574C1256F230035AF06
+A2531ED5588F1992C1256F230035DA93,Migration,D,s.a. Remigration,,,7A644A79A0E50929C1256F230035C33E
+F817564142B3D8FAC1256F230035BEF2,Migration,DS,Bevölkerungswanderungen aus einem fremden Land nach Deutschland aufgrund besserer Arbeits- bzw. Erwerbsmöglichkeiten.,Interkulturelle Bildung,,
+A2E5CDF8DE202A08C125807D005E11A1,Migration,D,s.a. Migrationshintergrund,,,1D4DFC4781DFB311C125807D005DFB99
+E9DCD68F382E3B6BC125807D005DAA04,Migrationsgesellschaft,ND,s. Migration,,,F817564142B3D8FAC1256F230035BEF2
+1D4DFC4781DFB311C125807D005DFB99,Migrationshintergrund,DS,"Das soziale Merkmal Migrationshintergrund beschreibt Personen, die selbst oder deren Vorfahren aus einem anderen Staat eingewandert sind, oder soziale Gruppen oder Gemeinschaften, die aus eingewanderten Personen oder deren Nachkommen bestehen.",Interkulturelle Bildung,,
+C9EF04A025D3F483C1256F230035DAAB,Minderheit,D,s.a. Ausländerproblematik,,,BDB9E333D8ED9574C1256F230035AF06
+72562AE0AC091ADDC1256F230035F9CC,Mitbürger (ausländischer),ND,s. Ausländer,,,D56DEE0DAC8207DBC1256F230035AF00
+17A977F8B9CCC241C12580D1005FCE3D,Multikulturell,ND,s. Interkulturelle Begegnung,,,0F618C9161A2CBD2C1256F230035B986
+97765A407AE9B540C12580D1005FC269,Multikulturell,ND,s. Kulturbegegnung,,,857B3C5F0C4F2683C1256F230035BC22
+0072A804EA60C0B0C12571ED00386808,Multikulturelle Gesellschaft,ND,s. Kulturbegegnung,,,857B3C5F0C4F2683C1256F230035BC22
+D8D8728ADC6CBF2DC12571ED00385125,Multikulturelle Gesellschaft,ND,s. Interkulturelle Begegnung,,,0F618C9161A2CBD2C1256F230035B986
+2BFA425E36DEB3A0C12580D700584612,Muslime in Deutschland,ND,s. Interkulturelle Begegnung,,,0F618C9161A2CBD2C1256F230035B986
+04ED44B02BF6E828C12581C900624FB1,Pull-Faktor,ND,s. Migration,,,F817564142B3D8FAC1256F230035BEF2
+649F6E30BE7A1C06C12581CA003D282D,Push-Faktor,ND,s. Migration,,,F817564142B3D8FAC1256F230035BEF2
+BF6A895C694559DEC1256F230035DD77,Randgruppe,D,s.a. Ausländerproblematik,,,BDB9E333D8ED9574C1256F230035AF06
+1028445CE9B18ABDC1256F230035FF54,Rassenintegration,ND,s. Ausländerproblematik,,,BDB9E333D8ED9574C1256F230035AF06
+16436030499B5E86C1256F230035DD87,Rassismus,D,s.a. Antisemitismus,,,14DEF1DC815342F7C1256F230035AE40
+FE72B18A97791E48C1256F230035DD89,Rassismus,D,s.a. Ausländerproblematik,,,BDB9E333D8ED9574C1256F230035AF06
+A2D7A3103CDC688DC1256F230035FFD0,Reimmigration,ND,s. Remigration,,,7A644A79A0E50929C1256F230035C33E
+7A644A79A0E50929C1256F230035C33E,Remigration,DS,"Bevölkerungswanderung aus Deutschland zurück in das Ausgangs-/Heimatland. Die Probleme, die dabei auftreten können.",Interkulturelle Bildung,,
+D7363AEE12422AD8C1256F230035DE04,Remigration,D,s.a. Migration,,,F817564142B3D8FAC1256F230035BEF2
+C2DFD7F498E8A215C1256F23003600CD,Rückwanderung,ND,s. Remigration,,,7A644A79A0E50929C1256F230035C33E
+374F3469EFA5B784C1256F23003600EB,Sachkunde (zweisprachige),ND,s. Bilinguales Material (Kinder),,,46C5ADCB938A46D5C1256F230035B0B5
+A515A42B5EA84466C1256F23003600EA,Sachkunde (zweisprachige),ND,s. Deutsch für Ausländerkinder,,,66D74ED1B052880AC1256F230035B325
+B1A4B0EBF83ECFEEC1256F2300360210,Schüler (ausländischer),ND,s. Ausländerkind,,,2EB5E6939D3A1097C1256F230035AF04
+56B9E366A6F8FCFFC1256F23003602F4,Semitengegnerschaft,ND,s. Antisemitismus,,,14DEF1DC815342F7C1256F230035AE40
+19BFAA3380F69B9DC1256F2300360463,Spracherziehung,ND,s. Deutsch für ausländische Auszubildende,,,A3C9F5174162C24EC1256F230035B323
+6451442C8B841161C1256F2300360466,Spracherziehung,ND,s. Deutsch für Ausländerkinder,,,66D74ED1B052880AC1256F230035B325
+BA4F673C6D0001CFC1256F2300360464,Spracherziehung,ND,s. Deutsch für Ausländer,,,98256859C7931969C1256F230035B324
+4344AF741233885FC1256F230035E031,Sprachunterricht (Deutsch),ND,s. Deutsch für Ausländerkinder,,,66D74ED1B052880AC1256F230035B325
+688F9234E93E3083C12579FD00482DCF,Sprachunterricht (Deutsch),ND,s. Deutsch für Ausländer,,,98256859C7931969C1256F230035B324
+C6BB12127835385EC12579FD00483671,Sprachunterricht (Deutsch),ND,s. Deutsch für ausländische Auszubildende,,,A3C9F5174162C24EC1256F230035B323
+B03BEB1F1F704D5FC1256F230035E02B,Sprachunterricht (Pädagogik),D,s.a. Deutsch für Ausländer,,,98256859C7931969C1256F230035B324
+C045BADA82D153E2C1257A010040F8A6,Sprachunterricht (Pädagogik),D,s.a. Deutsch für Ausländerkinder,,,66D74ED1B052880AC1256F230035B325
+C332606CB831B1FCC12582FD005C2213,Sprechen,ND,s. Deutsch für Ausländer,,,98256859C7931969C1256F230035B324
+7FB6D3086001F7DCC12582FD005C0E3A,Sprechfertigkeit,ND,s. Deutsch für Ausländer,,,98256859C7931969C1256F230035B324
+4F37D7186927AE6DC1256F230035C670,Städtepartnerschaft,DS,Partnerschaften zw. zwei in unterschiedlichen Ländern existierenden Städten. Gepflegt z.B. durch Schüleraustausch.,Interkulturelle Bildung,,
+F8E95869505659DFC1256F230035C888,Türken,DS,Staatsbildendes Volk der Türkei. Hier die speziellen Aspekte der Türken und -innen in Deutschland.,Interkulturelle Bildung,,
+850B9E33A3E4A8C4C1256F230036081E,Türkin,ND,s. Türken,,,F8E95869505659DFC1256F230035C888
+CB9C4C88228AB15BC12572D500321C01,Volkskunde,ND,s. Kulturelle Identität,,,7655C9C984BB8C41C1256F230035BC23
+8CF7738EA583867BC1257E46005BA4AB,Xenophobie,ND,s. Fremdenfeindlichkeit,,,65E2BD79924F185AC1256F230035E7A4
+BECFF0BC0A7B1464C12572F70036EDF4,Zuwanderung,ND,s. Migration,,,F817564142B3D8FAC1256F230035BEF2
+08F65476845890CCC1256F2300360D0E,Zweisprachige Lernhilfe,ND,s. Bilinguales Material,,,F15B8689A3749AACC1256F230035B0B4
+A24F38CC4BC9326EC1256F2300360D0F,Zweisprachige Sachkunde,ND,s. Bilinguales Material (Kinder),,,46C5ADCB938A46D5C1256F230035B0B5
+F005533B2174F4E9C1256F2300360D10,Zweisprachige Sachkunde,ND,s. Deutsch für Ausländerkinder,,,66D74ED1B052880AC1256F230035B325
+DAC6ACD2EC2A3589C1256F2300360D11,Zweisprachiges Material,ND,s. Bilinguales Material,,,F15B8689A3749AACC1256F230035B0B4

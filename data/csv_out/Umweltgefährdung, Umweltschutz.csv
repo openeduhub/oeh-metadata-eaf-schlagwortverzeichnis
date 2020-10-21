@@ -1,811 +1,775 @@
-notation,prefLabel,art,definition
-2B8E5A2AD8BEB60FC1257A44005A7FEE,Abbauprozess (See),ND,s. Eutrophierung
-2CDEBC423891F275C1256F230035E51E,Abfallbeseitigung,ND,s. Müllbeseitigung
-3211CF30C185920AC12572F8002BD169,Abfallbeseitigung,ND,s. Recycling
-1163C068D0DFFF88C125742E005468BE,Abfallcontainer,ND,s. Müllbeseitigung
-4FD92BF8B9ACFDD4C1256F230035E51F,Abfalldeponie,ND,s. Mülldeponie
-2665610178F8F936C1257A4600531EF4,Abfallentsorgung,ND,s. Müllbeseitigung
-C0E0DD2EF181B8F5C1257A460053330F,Abfallentsorgung,ND,s. Recycling
-D961F6A1B3832040C1257A46005338B3,Abfallentsorgung,ND,s. Müllverbrennung
-F9298D1544AEB886C1257A4600533E23,Abfallentsorgung,ND,s. Müllverwertung
-B7CEAFBBB0F2A356C1257CE4005C8C13,Abfallrecycling,ND,s. Recycling
-1220ADD4565AFBFBC1256F230035E520,Abfallverarbeitung,ND,s. Müllbeseitigung
-C103FA57C61527C2C12572F8002BE808,Abfallverbrennung,ND,s. Müllverbrennung
-0415E57C1913EC63C125783D005433AA,Abfallvermeidung,ND,s. Müllvermeidung
-1AA9547B9DE01901C1257A4600538C9E,Abfallverwertung,ND,s. Recycling
-6B847352382EEDC5C1257A46005384DB,Abfallverwertung,ND,s. Müllverwertung
-EE2A26A8C443CF32C1256F230035E529,Abgas,ND,s. Schadstoff
-9A6DD010CCAE813BC1257A4600541A94,Abgase,ND,s. Schadstoff
-5E3BBF7A81CC75E4C1257A4600543377,Abgasfilterung,ND,s. Abgaskatalysator
-630FC2C84892EF74C1256F230035ACED,Abgaskatalysator,DS,Vorrichtung zur Abgasreinigung beim Kfz und in der Industrie.
-743DC381A517379CC1256F230035CC89,Abgaskatalysator,D,s.a. Luftreinhaltung
-1504AD18ECDCE368C12576C600583E04,Abgasnachbehandlung,ND,s. Abgaskatalysator
-87F50B5CBB50CDF6C1256F230035E52B,Abgasreinigung,ND,s. Abgaskatalysator
-3750808CE1898E47C12572F8002C3140,Abgasuntersuchung,ND,s. Abgaskatalysator
-D68C42D18DF1B9ADC1256F230035ACF8,Abgeordneter,DS,Mitglied einer Volksvertretung oder öffentlich-rechtlichen Körperschaft.
-DC3DFABF017BF8E8C1257A4B0056AEA9,Ablaufverhalten,ND,s. Abwasser
-3FE2D49B33DAD9FAC1257A4D0059AE13,Absaugung,ND,s. Abwasser
-359255AE33BE15D9C1257A4E00542805,Absorption (Umwelt),ND,s. Umweltbelastung
-A66F580BEA7D04E5C1257A4E00545D71,Absorption (Umwelt),ND,s. Umweltgefährdung
-5E21DA61D20387FFC1257A5600553A12,Abwärme,ND,s. Erneuerbare Energie
-ECEED8A768FD541DC1256F230035E550,Abwärmenutzung,ND,s. Erneuerbare Energie
-D408FE311E3FD179C1256F230035CC98,Abwasser,D,s.a. Kläranlage
-A1F6B9C8F5842F11C1256F230035E551,Abwasseranlage,ND,s. Abwasser
-B8061D2565BED9B5C1256F230035E552,Abwasserbeseitigung,ND,s. Abwasser
-30FC9B62613B7664C1256F230035E553,Abwasserreinigung,ND,s. Abwasser
-35FC1D4799236FF6C1256F230035E554,Abwasserreinigung,ND,s. Kläranlage
-D7B5558F291D8301C12577FF005A5BED,Abwasserreinigungsanlage,ND,s. Kläranlage
-BEA0D9797455988CC1257A560055B2CA,Abwasserzweckverband,ND,s. Abwasser
-A236F9C0D4C44203C1257A6600390D2F,Aerosol,ND,s. Umweltverschmutzung
-8B1E21627C874947C1256F230035E594,Agenda 21,ND,s. Nachhaltige Entwicklung
-19FE2380FCFA98B0C1257A9E003096F1,Agrotreibstoff,ND,s. Biokraftstoff
-75B9EC69412273DAC1256F230035E60A,Alternative Energie,ND,s. Erneuerbare Energie
-2FA1A987B7455502C1256F230035E60B,Alternative Energiequelle,ND,s. Erneuerbare Energie
-DE5DD0C835A39E5FC125747800349BD8,Alternative Kraftstoffe,ND,s. Erneuerbare Energie
-C9747CF79CE88E77C1256F230035E60D,Alternativenergie,ND,s. Erneuerbare Energie
-0EB9D92DD9AE73F0C1256F230035E61F,Altglas,ND,s. Recycling
-F25468270354E31FC1257AA3005783C0,Altglassammlung,ND,s. Recycling
-29D72B6A9B03CE4DC1257AA300579F2A,Altglasverwertung,ND,s. Recycling
-DD85159BDF88B9F8C1256F230035AE04,"Althaus, Peter Paul",DS,Deutscher Schriftsteller (1892-1965).
-EF65FFF09AAA8952C1256F230035AE05,Althochdeutsch,DS,"Älteste Stufe hochdeutscher Sprache in Mundarten und Ansätzen von Schriftsprache (Hildebrandslied, Merseburger Zaubersprüche). Zeitraum 750-1100."
-411D8C09985330C5C1257AA300585879,Altkleider,ND,s. Recycling
-07323A1F476D9EA6C1257AA3005877EC,Altkleidersammlung,ND,s. Recycling
-F40F8554223E0276C1257AA3005895D9,Altkleiderverwertung,ND,s. Recycling
-8E0B8AB863223B3AC1256F230035AE06,"Altmeppen, Heiner",DS,Deutscher Landschaftsmaler; geb. 1951.
-5D9E813A5A1C756FC1256F230035E623,Altöl,ND,s. Recycling
-D0570CDC4186D931C1256F230035AE07,Altötting (Kreis),DS,Landkreis in Südbayern im Regierungsbezirk Oberbayern.
-1F0CA91F35A30217C1256F230035E625,Altpapier,ND,s. Recycling
-2303A3EBCD84F1C0C1256F230035E627,Altpapieraufbereitung,ND,s. Recycling
-9AC7C5844EF8D6BBC1256F230035AE08,"Altri, Arnold d'",DS,Schweizer Bildhauer (1904-80).
-E80802933675B8D7C1256F230035AE09,Altstadt,DS,Der alte Stadtkern einer Stadt.
-E9775FCDCD8A30FEC1257AA600597B0F,Amboseli-Nationalpark,ND,s. Nationalpark
-50A75243E5D75037C125798A005D001D,Anti-Atomkraft-Bewegung,ND,s. Atomausstieg
-55E614C593DAE172C1256F230035CDAF,Artenschutz,D,s.a. Biotop
-B514C02CFBF9E96AC1256F230035CDAE,Artenschutz,D,s.a. Umweltschutz
-E8037F26BC213C4BC1256F230035CDAB,Artenschutz,D,s.a. Nationalpark
-8F9C5002CD3BB91AC125798A005CBCF6,Atomenergie,ND,s. Atomausstieg
-BD769F29EDD5A88FC125798A005D5176,Atomkatastrophe,ND,s. Reaktorkatastrophe
-4C30D0C21ACA1C70C125798A005CDCC1,Atomkonsens,ND,s. Atomausstieg
-BC85A668DC70281FC1257AF3005990CB,Atomkraftgegner,ND,s. Atomausstieg
-78D4BA048116A15BC1256F230035E74E,Atommüll,ND,s. Sondermüll
-8043CEC91EEFDA21C125798A005DC27C,Atompolitik,ND,s. Atomausstieg
-BE8D2E7EB42EC4CBC125798A005CF11C,Atomstrom,ND,s. Atomausstieg
-E1420986F5332B4EC1256F230035E751,Atomunfall,ND,s. Reaktorkatastrophe
-EAA3C361ED25134AC1257AF5005981D9,Aufbereitung (Recycling),ND,s. Recycling
-102D70D9AE90D4A0C1257AF500598DF1,Aufbereitungsanlage,ND,s. Recycling
-D1CDC163D59AAFFEC1256F230035CDF8,Aufforstung,D,s.a. Landschaftsschutz
-D22846AC1ECAE651C1256F230035AEE6,Aufforstung,DS,"Kulturtechnische Maßnahmen zur Anlage von Waldbeständen auf zuvor nicht bewaldeten Flächen bzw. zur Wiederbestockung von kahlgeschlagenen Waldflächen. Ziel ist nicht nur die Holzproduktion, sondern auch der Landschaftsschutz."
-E4402B0EDF9093C6C1256F230035E793,Ausbeutung (Rohstoff),ND,s. Umweltgefährdung
-531AF7AB56B397C7C1257738004711B8,Ausstoß (Umwelt),ND,s. Emission (Umwelt)
-3F5D33146BA00F8CC125773800470763,Austrag (Umwelt),ND,s. Emission (Umwelt)
-CBFF6E5F61781982C1257B0D003A211C,Automatische Abschaltung,ND,s. Energiesparen
-F92CED8D7396B82AC1257B1000476AB7,Bachrenaturierung,ND,s. Renaturierung
-836F1A8731519A0CC1257B1F0064C16B,Bauen,ND,s. Nachhaltige Entwicklung
-1124B304400D9BBFC1257B1F00650C4C,Bauen (nachhaltig),ND,s. Nachhaltige Entwicklung
-3C8F932B7D11ABF0C1256F230035CEE5,Bauindustrie,D,s.a. Bebauungsplan
-41DE429EFCFFEE77C1256F230035AFC4,Bauindustrie,DS,"Gesamtheit aller Wirtschaftszweige, die im oder für das Baugewerbe tätig sind."
-1172C94030ABD8F5C1257B20005D6B7E,Bauleitplanung,ND,s. Bebauungsplan
-D5821039304CF440C1256F230035CEEA,Baum (Pflanze),D,s.a. Waldsterben
-84BE5BD914C840BCC1256F230035E878,Baumsterben,ND,s. Waldsterben
-B1D75BA7733DE4AFC1257B210051B371,Bauphysik,ND,s. Lärmschutz
-2FBA37C85A7DD733C1257B21005200E4,Baurestmassen,ND,s. Recycling
-E4965E3E89071AD0C1256F230035AFCC,Bauschlosser,DS,Berufsbild
-0CB12E0D41BD1CBBC1257524004AE45C,Bautechnik,D,s.a. Umwelttechnologie
-FC986BD5395234B5C125731E00385D2B,Belastung (Umwelt),ND,s. Umweltbelastung
-67A597ECDA4D9614C1257B2E0060CBCB,Belo Monte,ND,s. Erneuerbare Energie
-B670EF3D6241BED0C1257B2E0060D340,Belo Monte,ND,s. Nachhaltige Entwicklung
-F0AEDBF1002DB143C1257B2E0060EC94,Belo Monte,ND,s. Umweltgefährdung
-D1FD6D9243254213C12572AA0032DFBE,Besonders überwachungsbedürftige Abfälle,ND,s. Sondermüll
-A68466D227DBFB16C1257B7500540C77,Bio-basierter Kunststoff,ND,s. Biokunststoff
-45882F6C677CF897C125747800342F15,Biodiesel,ND,s. Biokraftstoff
-0FA49956487D30E2C1256F230035E9B5,Bioenergie,ND,s. Erneuerbare Energie
-453BB2C800949BDBC1257A9E0030D61C,Bioethanol,ND,s. Biokraftstoff
-631F0B7F827A0B85C1257B740058906F,Biogasanlage,ND,s. Biogas
-EDE4D19ED6318C96C1257B740058B100,Biogasproduktion,ND,s. Biogas
-254FF7BC28506A1AC1257354002D8504,Biogeozönose,ND,s. Biotop
-7DA8F6F2FFC6B422C1257B740058EBD9,Biokapazität,ND,s. Nachhaltige Entwicklung
-37D2731DB5696A69C1257A9E0030FCE5,Biokerosin,ND,s. Biokraftstoff
-A29CB6678CE08F97C1257A9E0030295D,Biokraftstoff,DS,"Biokraftstoffe (auch Biotreibstoffe, Agrotreibstoffe) sind eine Form der Biomasse. Es handelt sich um flüssige oder gasförmige Kraftstoffe, die aus Biomasse hergestellt werden. Sie kommen für den Betrieb von Verbrennungsmotoren in mobilen und stationären Anwendungen zum Einsatz. Ausgangsstoffe der Biokraftstoffe sind nachwachsende Rohstoffe wie Ölpflanzen, Getreide, Zuckerrüben oder -rohr, Wald- und Restholz, Holz aus Schnellwuchsplantagen, spezielle Energiepflanzen und tierische Abfälle. Das Präfix Bio weist hier nicht auf eine Herkunft aus ökologischer Landwirtschaft hin, sondern auf den pflanzlichen Ursprung im Gegensatz zu Mineralöl. Die Klimaneutralität und ökologische Vorteilhaftigkeit von Biokraftstoffen ist umstritten."
-EC6CF766D6B63D33C1257B750053B809,Biokunststoff,DS,"Als Biokunststoff oder auch Bioplastik (engl. bioplastics) werden Kunststoffe bezeichnet, die auf Basis von nachwachsenden Rohstoffen erzeugt werden (bio-basierte Kunststoffe oder biobased plastics). Nach einer alternativen Definition sind Biokunststoffe alle biologisch abbaubaren Kunststoffe unabhängig von ihrer Rohstoffbasis, welche alle Kriterien zum Nachweis der biologischen Abbaubarkeit und Kompostierbarkeit von Kunststoff(produkt)en erfüllen (bio-abbaubare Kunststoffe oder compostable plastics)."
-55ECBA1594CCB63CC1256F230035B0C4,Biologe,DS,Berufsbild
-1BC037858F0C2801C1257B740058F724,Biologische Kapazität,ND,s. Nachhaltige Entwicklung
-0A1938F26FBAEB05C1257B7500546504,Biologische Kläranlage,ND,s. Kläranlage
-C70CEFF4922D38F2C1256F230035E9BA,Biologische Klärung,ND,s. Kläranlage
-DD78100168140AF6C1256F230035E9C1,Biologisches Gleichgewicht,ND,s. Ökologisches Gleichgewicht
-C7C72963E4CAA12AC1257B760035A124,Biomass-to-Liquid,ND,s. Biokraftstoff
-40CF3C6299DE51FEC1256F230035B0C8,Biomasse,DS,"Als Biomasse wird die gesamte organische Substanz bezeichnet. Basis für die Bildung von Biomasse ist die vor allem von Pflanzen betriebene Photosynthese, bei der Sonnenenergie absorbiert und durch Bildung von Biomasse gespeichert wird. Zur Biomasse werden sowohl lebende Pflanzen, als auch die von ihnen abgeleitete organische Substanz, wie Tiere und Mikroorganismen, als auch tote organische Substanz wie Totholz, Laub, Stroh und anderes gezählt."
-E51A29FD08BEDB14C1257B7600360C32,Biomassekraftwerk,ND,s. Erneuerbare Energie
-034E6132D2FC148FC1257B760035CC68,Biomasseverflüssigung,ND,s. Biokraftstoff
-52FEED049D02972FC1256F230035B0C9,Biomechanik,DS,"Wissenschaftlicher Bereich, in dem Prinzipien und Methoden der Mechanik auf biologische Erscheinungen angewandt werden."
-D6C03D94262296EAC1257A9E0030DDEC,Biomethan,ND,s. Biokraftstoff
-4467FF09FF45F87EC1257B750053E433,Bioplastics,ND,s. Biokunststoff
-706FCB0AEBDD04CFC1256F230035E9C4,Biotopschutz,ND,s. Biotop
-314157DE840BC962C1257A9E00308F4B,Biotreibstoff,ND,s. Biokraftstoff
-FD7742F86B8B0E8BC1256F230035D074,Biozönose,D,s.a. Biotop
-36A3430BF1A7EB20C1257B79002FC116,Bleiche,ND,s. Tenside
-A79FF07B06EC5341C1257B79002FEC60,Bleichen,ND,s. Tenside
-1500DAEDAA39C4C2C1257B7900300C93,Bleichmittel,ND,s. Tenside
-8A4E386D950F5DC3C1256F230035D0A2,Boden (Bodenkunde),D,s.a. Bodenzerstörung
-CBDE1CABB3309613C1256F230035D0A1,Boden (Bodenkunde),D,s.a. Bodenverschmutzung
-CF3B346C402E0BB3C1256F230035EA19,Bodenbelastung,ND,s. Bodenverschmutzung
-7424B072BE6090B1C1256F230035D0A6,Bodenerosion,D,s.a. Bodenzerstörung
-B6177D39FEFC7105C1256F230035B10A,Bodenerosion,DS,"Abtragung des Bodens durch Wind und Wasser, die über den Umfang natürlicher Abtragungsprozesse hinausgeht und welche durch die Bodenbewirtschaftung (Mensch) begünstigt bzw. ausgelöst wird. Es kann zur totalen Bodenvernichtung kommen."
-C04E923C3632194FC1256F230035D0A8,Bodenkunde,D,s.a. Bodenzerstörung
-F59AA46B52CD4583C1256F230035D0AA,Bodenkunde,D,s.a. Bodenverschmutzung
-59B8028029AF550FC1256F230035EA23,Bodennutzung,ND,s. Bodenverschmutzung
-ECA117AE8802E12AC1256F230035EA22,Bodennutzung,ND,s. Bodenzerstörung
-5E89FF14C0501A65C1256F230035EA27,Bodenschaden,ND,s. Bodenverschmutzung
-96B6BCD4C874D896C1256F230035EA26,Bodenschaden,ND,s. Bodenzerstörung
-B69998A803AD1354C1256F230035EA2E,Bodenverbrauch,ND,s. Bodenzerstörung
-F0A938903B37CA79C1256F230035EA2F,Bodenverdichtung,ND,s. Bodenzerstörung
-24A22F32B9CA8704C1256F230035EA30,Bodenversalzung,ND,s. Bodenzerstörung
-70371CE433B47C5AC1256F230035D0B1,Bodenverschmutzung,D,s.a. Bodenzerstörung
-EFDE3581D1C7D369C1256F230035B10F,Bodenverschmutzung,DS,"Allgemeine Verschmutzung bzw. Belastungen des Bodens, durch Bodennutzung oder Industrie o.ä. ausgelöst, die zu einer Zerstörung des Bodens führen kann."
-66D4944F6124A4B0C12583D700592A17,Bodenversiegelung,ND,s. Flächenversiegelung
-AFA4ECB07077ACCBC1256F230035D0B3,Bodenzerstörung,D,s.a. Bodenverschmutzung
-F64616E38F62F29AC1256F230035B110,Bodenzerstörung,DS,"Sammelbegriff für alle Arten von Bodenschäden, die v.a. eine Zerstörung der Fruchtbarkeit des Bodens zur Folge haben (z.B. durch Zerstörung der Vegetation, Überweidung, Grundwasserspiegelabsenkung, Überdüngung, Ablagerung von Schadstoffen)."
-2F5837EFBA70AFCCC1256F230035D0BA,Borkenkäfer,D,s.a. Waldsterben
-3B32F66BFD1130FBC1257BB400543CF0,Brennstoff (Energie),ND,s. Erneuerbare Energie
-CC96823DEAE66F5EC1257BD300533DDB,BtL,ND,s. Biokraftstoff
-A8F5A660FE4A9FF1C1257A9E0030E5BA,BtL-Kraftstoff,ND,s. Biokraftstoff
-CF7C71CCC69885E3C12573FA003F6D73,Bund für Umwelt und Naturschutz Deutschland e.V.,ND,s. Umweltschutz
-10CC9F55BC7A6E99C1257011003354D8,Bundesimmissionsschutzgesetz,ND,s. Immission
-B4B983367159A127C125741F00398963,Castor,ND,s. Sondermüll
-BF2C621639DFF84AC1257A9E0030EF95,Cellulose-Ethanol,ND,s. Biokraftstoff
-A763AFA81D1EC3B9C1257ED3002C7AE9,"Celmins, Vija",DS,"Vija Celmins; 1938; ist eine US-amerikanische Zeichnerin, Malerin und Grafikerin lettischer Abstammung."
-1ECF9EB270E722DCC1256F230035EB34,Chemiemüll,ND,s. Sondermüll
-646A33675404F793C1256F230035B231,Chemietechniker,DS,Berufsbild
-CFC44F2DE9DBC4BCC1257BFB0044BDE4,Cloaca Maxima,ND,s. Abwasser
-967A087611202D2CC1257BFB0047DCFD,CO2-Bilanz,ND,s. Umweltbelastung
-E51159E7905669B6C1257BFB0047EE93,CO2-Bilanz,ND,s. Umweltschutz
-7B04AEE106545DFBC1257BFB0048195F,CO2-Emission,ND,s. Umweltgefährdung
-48C66B805852B6BFC1257EF9005B74F0,CO2-Fußabdruck,ND,s. Umweltbelastung
-6F5D7A6C6802C094C1257EF9005B6914,CO2-Fußabdruck,ND,s. Umweltschutz
-D5005386B362BAFFC1257C14005480E6,Dach isolieren,ND,s. Energiesparen
-FC96C637552FB004C1257C1400563376,Dämmstoff,ND,s. Energiesparen
-6A43CE24A0D8CE5EC1257C14005644D8,Dämmung,ND,s. Energiesparen
-933B67C0DA4F562CC1256F230035EBD7,Deponie,ND,s. Mülldeponie
-77EE0D0FDFE4E997C1257478003548F8,Deponiegas,ND,s. Erneuerbare Energie
-64E494779B936F0BC1256F8C0035532C,Der Grüne Punkt,ND,s. Müllverwertung
-C5ADD6B7299D50B7C1257C290062F82F,Desertec,ND,s. Erneuerbare Energie
-D70FAADCE5434574C1257C2900630AD0,Desertec,ND,s. Solarenergie
-3F540FBCFF2F6443C1256F230035B318,Desertifikation,DS,"Anthropogener Landschaftswandel in Trockengebieten, der zur Verwüstung infolge Übernutzung der Ökosysteme führt. Dabei wird der Vegetationstyp geändert und in dessen Gefolge vor allem Boden- und Wasserhaushalt."
-6D9324681AF5FA16C1257C310061FDC2,Dezibel,ND,s. Lärmschutz
-3319BA58CA33A5BEC1257C3E005C88B3,Diesotto-Motor,ND,s. Energiesparen
-60CCC907986622D0C12577F100545785,Drei-Wege-Katalysator,ND,s. Abgaskatalysator
-D2333575224C8ADAC1256F230035B39B,Drei Könige,DS,"Die ""Weisen aus dem Morgenlande"" (Mt. 2); nach der Legende die Könige Caspar, Melchior, Balthasar (C+M+B). Dreikönigsfest am 6.1."
-E0B52859925B1CC2C1256F8B003ACF5A,Dreiwegekatalysator,ND,s. Abgaskatalysator
-8336A59397EAB9CAC1256F230035EC76,Duales System Deutschland GmbH (Müll),ND,s. Müllverwertung
-08D1AB45C492CC6CC1256F230035D29B,Dünger,D,s.a. Überdüngung
-1A9E279EEB3F4986C1256F230035D29A,Dünger,D,s.a. Kompost
-7A1B59DC621D3A8FC1256F230035B3BE,Dünger,DS,"Organische und anorganische Stoffe, die dem Boden zur Verbesserung der Fruchtbarkeit und zur Ertragssteigerung zugeführt werden, vor allem als Ersatz für Pflanzennährstoffe, die ihm durch Anbau und Ernte entzogen werden."
-638E68ED953CF871C1257C59005BEDFF,Dürre,D,s.a. Desertifikation
-F92F9EADF671501FC1257C5F005D920C,Dynamisierung,ND,s. Renaturierung
-0706FEC5DEC27DB3C1257C6F005AA77D,Einschalige Wand,ND,s. Energiesparen
-7EEE906BC8FB4F93C1257C6F005BA913,Einsparung von Ressourcen,ND,s. Energiesparen
-4B79F815F4E56F08C1256F900032732D,Elektrosmog,ND,s. Umweltverschmutzung
-96E83167AE0AC580C1256F230035D301,Emission (Umwelt),D,s.a. Luftreinhaltung
-BA0F8BFCBE352A5EC1256F230035D300,Emission (Umwelt),D,s.a. Immission
-C37D733A95E029ABC1256F230035D302,Emission (Umwelt),D,s.a. Schadstoff
-FB2B655358051F4AC1256F230035D303,Emission (Umwelt),D,s.a. Smog
-A7DA0DD8B5119EF7C1256F230035ED0E,Emissionsgrenzwert,ND,s. Luftreinhaltung
-54ABCD3C1BEA3D22C1257C84005DC584,Emittent,ND,s. Emission (Umwelt)
-BF0D2CE18B0A1BC1C1256F230035B43D,Emmendingen (Kreis),DS,Landkreis und Stadt am südlichen Oberrhein im Regierungsbezirk Freiburg in Baden-Württemberg.
-E486280E8398887AC1256F230035ED18,Endlagerung (Atommüll),ND,s. Sondermüll
-B29C1E2D7F6B0F28C125756C00354364,Energie,D,s.a. Solarenergie
-0D1D992514CA5C1AC1256F230035ED1B,Energie (alternative),ND,s. Erneuerbare Energie
-960D327D3B6EC18FC1256F230035ED20,Energie (regenerative),ND,s. Erneuerbare Energie
-9F0BAB42FCA8EDFDC1257C89005BD9A4,Energiebilanz (Umwelt),ND,s. Energiesparen
-9450005BA5BDABB9C1257C89005C09A5,Energieeffiziente Produkte,ND,s. Energiesparen
-CD3F62A70C4DF971C1257C89005D2FB5,Energieeffiziente Produkte,ND,s. Energieeffizienz
-3E7923DB33AC1A45C1257C89005CD97E,Energieeffiziente Produktion,ND,s. Energiesparen
-404A5759B10692E8C1257C89005CD111,Energieeffiziente Produktion,ND,s. Erneuerbare Energie
-57F77942DEDD4674C1257C89005D3AC1,Energieeffiziente Produktion,ND,s. Energieeffizienz
-1C8D8192A8A16E03C1257C89005D07A4,Energieeffizienz,DS,"Die Energieeffizienz ist ein Maß für den Energieaufwand zur Erreichung eines festgelegten Nutzens. Im Gegensatz zum Wirkungsgrad bedarf der Nutzen hier keiner energetischen Definition. Ein Vorgang ist dann effizient, wenn ein bestimmter Nutzen mit minimalem Energieaufwand erreicht wird. Dies entspricht dem ökonomischen Prinzip (namentlich dem Minimalprinzip)."
-54A8ACB066EC5FC2C1257C89005D48F1,Energieeffizienz,D,s.a. Energiesparen
-8A94886A6888DB86C1257C89005D9E61,Energieeffizienz,D,s.a. Erneuerbare Energie
-22E817BD79C62515C12584220038462C,Energieeffizienz,D,s.a. Wasserverbrauch
-87E08DE131A5B6BCC1257C89005DDFD6,Energieeinsparung,ND,s. Energiesparen
-91941F8540F0E8D1C1256F230035B448,Energieelektroniker,DS,Berufsbild
-EE5691A3381AF843C1256F230035D309,Energieerzeugung,D,s.a. Erneuerbare Energie
-082407107C448186C1257C89005E208D,Energieform,ND,s. Erneuerbare Energie
-834CC13CA7248172C1257C8B005D1AE6,Energiekosten,ND,s. Energieeffizienz
-8C2630B2E2F05E5FC1257C8B005D2439,Energiekosten,ND,s. Energiesparen
-7A538E534369013FC1257C8B005E0F7B,Energiemanagement,ND,s. Erneuerbare Energie
-D72340F3E7D9C283C1257C8B005E187C,Energiemanagement,ND,s. Energieeffizienz
-6C47B2452304EFA5C1257C8B005EA20C,Energieproduktion,ND,s. Erneuerbare Energie
-4779523BF0660934C1256F230035ED22,Energiequelle,ND,s. Erneuerbare Energie
-4FED1440057C53C3C1257C8B005ED92F,Energierohstoff,ND,s. Erneuerbare Energie
-1BDDDD22E867E0DEC1257C89005D7BEE,Energiesparen,D,s.a. Energieeffizienz
-34A7CDAB881D46C5C1257C8C005CE6E2,Energieverbrauch,D,s.a. Energieeffizienz
-5177EB97D4A1A3A2C1257C8C005CE015,Energieverbrauch,D,s.a. Energiesparen
-5207B62889839325C1257C8C005C9D56,Energieverbrauch,DS,"Energieverbrauch kennzeichnet umgangssprachlich den Bedarf an Energie für unterschiedliche Nutzanwendungen. Energie ist nötig, um Arbeit zu verrichten. Je nach Anwendung werden mechanische Arbeiten (Bewegen, Beschleunigen, Bremsen), Beleuchtung und Wärme- und Kühlvorgänge unterschieden und mit zeitbezogenen Mess- und Kennwerten gekennzeichnet."
-B7AA4D489ED50037C1256F230035D310,Energieversorgung,D,s.a. Energiesparen
-06C75A400D7154E5C1257C8C005ED7B1,Energiewende,ND,s. Erneuerbare Energie
-0E8E489850D4B64AC1257C8E005F50B5,Entschwefeln,ND,s. Luftreinhaltung
-5E2F636670DE07A7C1256F230035ED39,Entschwefelung,ND,s. Luftreinhaltung
-7FA395FD03255555C1256F230035B45D,Entsorger,DS,Berufsbild
-38179D55DCF9D82DC1256F230035ED3A,Entsorgung,ND,s. Müllbeseitigung
-D2E289720388BE9BC1256F9A00306A89,Entsorgung,ND,s. Sondermüll
-309AFB1C6132D5B0C1256F230035ED3C,Entsorgung (Abwasser),ND,s. Abwasser
-AD162BA3C4AA35F7C1256F230035ED3E,Entwässerung (Abwasser),ND,s. Abwasser
-29E80E58AB5AE7CFC1256F230035B45F,Entwässerung (Landtechnik),DS,Ableitung des Überschusswassers bei Bodennässe durch kulturtechnische Maßnahmen; künstliche Entwässerung des Bodens im Rahmen der Landwirtschaft.
-8E4C2D89DF7412E9C1257C90005D3431,Entwässerungsanlage,ND,s. Abwasser
-DF26F097FEE77695C1257C90005D7E5F,Entwaldung,ND,s. Waldsterben
-65903F2E9D36A27EC12581EE00512165,Entwaldung,ND,s. Übernutzung
-68FB68C983880F2EC1256F230035ED61,Erdaufwärmung,ND,s. Treibhauseffekt
-8ABDBCFDB91ADE89C1256F230035D33E,Erdöl,D,s.a. Ölpest
-CDA3346B31E88466C1256F230035ED79,Erdwärme,ND,s. Geothermie
-5F0528820CD31945C1256F230035D359,Erneuerbare Energie,D,s.a. Solarenergie
-89868840F261C7EEC1256F230035B48A,Erneuerbare Energie,DS,"Jede zur Energieversorgung nutzbare, sich erneuernde, natürliche Energie, auch regenerative Energien (z.B. Wind-, Gezeiten-, Sonnen-, geothermische Energie) und Energie, die ohnehin vorhanden ist und ohne Nutzung verloren wäre (z.B. Abwärme)."
-77A3AEFFEFFE9841C1257A9E003060B8,Erneuerbare Energie,D,s.a. Biokraftstoff
-48B173CB5193EF74C1257C89005DA7ED,Erneuerbare Energie,D,s.a. Energieeffizienz
-93A3EC900B8F5CA7C1257D9500614880,Erneuerbare Energie,D,s.a. Geothermie
-7C5431D947670051C1257F7100628D7C,Erneuerbare Energie,D,s.a. Biogas
-DB5CC28FEB50840AC12584220038DFD2,Erneuerbare Energie,D,s.a. Wasserkraft
-319B97890DCFA4BAC125846D0057A1AC,Erneuerbare Energie,D,s.a. Windenergie
-75D5E27E4D2CF71EC12584540057CC3B,Erneuerbare Energie,D,s.a. Photovoltaik
-4EE1F996B5D575CAC1257CB9004C4158,Exxon Valdesz,ND,s. Umweltkatastrophe
-B4497CFB9165EB14C1257CB9004C2A1D,Exxon Valdesz,ND,s. Ölpest
-0E801EB7242192C7C12576C600582C7E,Fahrzeugkatalysator,ND,s. Abgaskatalysator
-28EFD5A4D0856A6FC1256F230035B4E8,Fahrzeugpolsterer,DS,Berufsbild
-7FEC526D6E078B17C1257DCF005B4084,Faulschlamm,ND,s. Erneuerbare Energie
-88D44B5AF13B1DDBC1257DCF005B386C,Faulschlamm,ND,s. Kläranlage
-54D5B25A62B49E24C1257CEF0056C00E,Fifty-fifty-Ansatz,ND,s. Umweltschutz
-78E3078AC97BC7D9C1256F230035EE77,Filteranlage,ND,s. Abgaskatalysator
-14B29933BC670DDFC1257CFB0032D42C,Fischer-Tropsch-Synthese,ND,s. Biokraftstoff
-16F48898BACC1950C1256F230035D3F4,Flasche,D,s.a. Mehrwegflasche
-B133ABF5FB72A113C1257D02005C1E2F,Fließgeschwindigkeit,ND,s. Abwasser
-33E7CEFE6970740BC1257D0B005CAE2E,Fluglärm,ND,s. Lärmschutz
-5CE66FE5C27B7985C1256F230035B581,Fluglehrer,DS,Berufsbild
-494AADF6E8C45688C1256F230035D402,Fluorchlorkohlenwasserstoffe,D,s.a. Ozonloch
-B5435EA8FBDA45BEC1256F230035B58A,Fluorchlorkohlenwasserstoffe,DS,"Organische Verbindungen, in denen Wasserstoffatome durch Fluor- und Chloratome ersetzt sind. Die Fluorchlorkohlenwasserstoffe tragen zur Zerstörung der Ozonschicht der Atmosphäre bei, deshalb wird ihr Einsatz als Treibgas, Kältemittel usw. reduziert, ab 2000 eingestellt"
-CDEFDB5832A19146C1256F230035EEB5,Flusskraftwerk,ND,s. Erneuerbare Energie
-12209E96084F005BC1257D0E005CAC97,Flutung,ND,s. Renaturierung
-DE7E899836102CF3C1257D13003745B6,Fontäne,ND,s. Erneuerbare Energie
-49FA2C2654FF0761C125772C00383EB0,Fortschreitende Wüstenbildung,ND,s. Desertifikation
-E8EB415BCA1C3083C12583FC005A1437,Fotovoltaik,ND,s. Photovoltaik
-1FAACCD31E5D117EC1257B9E0058ED03,Fracking,D,s.a. Umweltgefährdung
-838D5371DCEADB43C1257B9E0058F767,Fracking,D,s.a. Umweltzerstörung
-EC5E0DC4DC9979BAC1257B9E0058985F,Fracking,DS,"Hydraulic Fracturing oder hydraulische Stimulation ist eine Methode vor allem der Erdöl- und Erdgasförderung, bei der in technische Tiefbohrungen eine Flüssigkeit („Fracfluid“) eingepresst wird, um im Reservoirgestein Risse zu erzeugen, aufzuweiten und zu stabilisieren. Dadurch wird die Gas- und Flüssigkeitsdurchlässigkeit der Gesteinsschicht erhöht, damit Fluide wie Erdgas, Erdöl oder Wasser leichter zur Bohrung hin fließen können. Dies erhöht die Wirtschaftlichkeit der Erdöl- und Erdgasförderung. Die übliche Stimulation von Geothermiebohrungen ähnelt dem Fracking, kommt aber ohne Stützmittel und chemische Zusätze aus. Nach der Stimulation wird das warme Gestein besser vom Wasser durchströmt und nimmt mehr Wärme auf. In den USA wird seit etwa Anfang der 2000er Jahre verstärkt Erdgas mittels Fracking gefördert. Initiativen zur Ausweitung der Fördertätigkeit auch in europäischen Ländern führten zu einer noch andauernden gesellschaftlichen Debatte, die vor allem um mögliche Umweltschäden kreist."
-103E24CF2824519FC1256F230035B5C0,Fränkische Alb,DS,"Gebirge im nördlichen Bayern, Fortsetzung der Schwäbischen Alb. Im nördlichen Teil der Fränkischen Alp liegt die Fränkische Schweiz, eine bizarre Felsenlandschaft."
-8DF9D720A31BBF44C12578B300355BB4,Fukushima,ND,s. Reaktorkatastrophe
-73C4611C7C302A03C1257D4900578F19,"Funktionalität von Haushaltsgroßgeräten (Kühlschrank, Geschirrspüler, Trockner)",ND,s. Energieeffizienz
-E780402F0786E56DC12577F100544AC5,G-Kat,ND,s. Abgaskatalysator
-9B23C7A19AE45CF8C1256F230035EFBB,Gefällsenergie,ND,s. Erneuerbare Energie
-D10BA14791D2C14BC1257D950060D3A9,Geothermalenergie,ND,s. Geothermie
-84B5FEFE3BCDAE3DC125747800347CBA,Geothermie,DS,"Erdwärme ist die im zugänglichen Teil der Erdkruste gespeicherte Wärme. Sie umfasst die in der Erde gespeicherte Energie, soweit sie entzogen und genutzt werden kann, und zählt zu den regenerativen Energien. Sie kann sowohl direkt genutzt werden, etwa zum Heizen und Kühlen im Wärmemarkt (Wärmepumpenheizung), als auch zur Erzeugung von elektrischem Strom oder in einer Kraft-Wärme-Kopplung."
-C9FF5D4D79DBEB9FC1257D9A004AC0A7,Geothermische Energie,ND,s. Geothermie
-9405138A2D918278C1257D9C005257D6,Geschichte der Geothermie,ND,s. Geothermie
-2A49FCD009A4F066C1256F230035D571,Gewässer,D,s.a. Gewässerschutz
-E01853DEC76D7572C1256F230035D56F,Gewässer,D,s.a. Wasserverschmutzung
-34D2AA56E0DCA9A2C1257DA600366817,Gewässergüte,ND,s. Gewässerschutz
-97F73C54940BF1CDC1256F230035D577,Gewässerkunde,D,s.a. Gewässerschutz
-E77AD17217215C2CC1256F230035B6C3,Gewässerkunde,DS,"Die Lehre von Erscheinungsformen, Eigenschaften, Vorkommen, Verbreitung und Haushalt des Wassers über, unter und auf der Erdoberfläche."
-57E6D818A288F9E5C1256F230035F042,Gewässerökologie,ND,s. Wasserverschmutzung
-89EB80EE5FF1564FC1256F230035D579,Gewässerschutz,D,s.a. Wasserverschmutzung
-D0F8512801E77A5CC125757700552760,Gewässerschutz,D,s.a. Kläranlage
-55998F59DDDA8140C125842700581446,Gewässerschutz,D,s.a. Wasserschutzgebiet
-985F73D6EFE94DF4C1257DA60036A900,Gewässeruntersuchung,ND,s. Gewässerschutz
-330EE9B55BB1DF99C1256F230035F043,Gewässerverschmutzung,ND,s. Wasserverschmutzung
-95D077816B13653DC1257DA60036BCB4,Gewässerverunreinigung,ND,s. Wasserverschmutzung
-0D87EA80088B1FD5C1257DAB005D1DF0,Gewichtsreduktion am Fahrzeug,ND,s. Energieeffizienz
-EB207FA4B33E6870C1256F230035F04C,Gezeitenkraftwerk,ND,s. Erneuerbare Energie
-A1B082FB9AAB73CDC125725F0037E127,Gift,ND,s. Schadstoff
-D7FE29B864CAAEAFC1256F230035B6DF,Gift,DS,"Als Gift (althochdeutsch Gabe) oder auch Giftstoff bezeichnet man einen Stoff, der Lebewesen über ihre Stoffwechselvorgänge oder durch Berührung oder Eindringen in den Körper (bereits in vergleichsweise geringer Dosis) einen Schaden zufügen kann. Ein allgemein in der Natur wirksamer schädlicher Stoff wird Umweltgift genannt. Die wissenschaftliche Disziplin, die sich mit der Erforschung von Giften, ihrer Wirkung und deren Behandlung beschäftigt, ist die Toxikologie. "
-832FDC71B07CE8BFC1256F230035F052,Giftmüll,ND,s. Sondermüll
-405ABA79EACB0087C125725F0037D70D,Giftstoff,ND,s. Schadstoff
-76F3C9E7656D870CC1256F550037838C,Glascontainer,ND,s. Müllbeseitigung
-E8CDC7E54D1B01A8C1256F230035B6F1,Glaser,DS,Berufsbild
-6D33DD3244E6BAF4C1256F230035F05C,Glashauseffekt,ND,s. Treibhauseffekt
-9AA1ECB8CA3DE045C1256F230035F061,Glasrecycling,ND,s. Recycling
-F4FA038E33EF6C94C1256F230035FC29,Gleichgewicht (Ökologie),ND,s. Ökologisches Gleichgewicht
-11A3CE15AB825CC0C12575D3004B6D7D,Globale Erwärmung,D,s.a. Treibhauseffekt
-14CB4440ED370F50C12575D3004AD7C3,Globale Erwärmung,DS,"Als globale Erwärmung bezeichnet man den während der vergangenen Jahrzehnte beobachteten allmählichen Anstieg der Durchschnittstemperatur der erdnahen Atmosphäre und der Meere sowie die künftig erwartete steigende Erwärmung. Ihre hauptsächliche Ursache liegt nach dem gegenwärtigen wissenschaftlichen Verständnis „sehr wahrscheinlich“ in der Verstärkung des natürlichen Treibhauseffektes durch menschliches Einwirken. Während der fachspezifische Begriff Klimawandel die natürliche Veränderung des Klimas auf der Erde über einen längeren Zeitraum beschreibt und damit die bisherige Klimageschichte umfasst, bezieht sich globale Erwärmung auf die durch Menschen verursachte gegenwärtige Klimaveränderung. "
-A225E37CA950E5E0C1256F230035F0DA,Grüner Punkt,ND,s. Müllverwertung
-824372314736B6A5C125842700582218,Grundwasserschutzgebiet,ND,s. Wasserschutzgebiet
-2D1C8EA64414F289C1257E040053EA8D,Halde,ND,s. Mülldeponie
-75C9CB4CB427D166C1256F230035D62F,Hausbau,D,s.a. Bebauungsplan
-CD571E5BD7885B19C1257D490057959D,Haushaltsgerät,D,s.a. Energieeffizienz
-838AF15D7EBF2F7FC1257E1E00441968,HDR Verfahren,ND,s. Geothermie
-564C974EC06E0636C1257E2700449B23,Heizlastberechnung,ND,s. Energiesparen
-80F5292D3698FA09C1256F230035B85D,Heizöl,DS,Heizöl ist ein flüssiger Brennstoff. Es wird aus schwer entflammbaren Anteilen des Erdöls hergestellt.
-2902E203F0E00385C12574780033C52F,Heizung,D,s.a. Erneuerbare Energie
-AF45A5EEA9C6C616C125747800340C7A,Heizung,D,s.a. Energiesparen
-CF8F95015BEA7B81C1257478003451C5,Holzpellets,ND,s. Erneuerbare Energie
-A68AFB4A60D12C1AC1256F230035B8E0,Holzplastik,DS,Plastiken etc. aus Holz.
-04E52607A697AAABC1257E51005F9CB4,Holzrecycling,ND,s. Recycling
-3317EDEA42F047CBC1257E51005FE64F,Holzschnitzel,ND,s. Erneuerbare Energie
-59EBABFC459AB6A9C1257E1E0044281B,Hot-Dry-Rock-Verfahren,ND,s. Geothermie
-041BEEA1F8507B6CC1256F230035B906,Hotel,DS,"Beherbergungs- und Verpflegungsbetrieb. Hotel garni, Gasthaus, das nur Unterkunft und Frühstück gewährt."
-16B58C53F170ABE4C12584220038EA36,Hydroenergie,ND,s. Wasserkraft
-6B72DBD81109E2E6C1257E610051A299,Hydrothermale Energiegewinnung,ND,s. Geothermie
-04E3A7773AED7C5DC1256F230035D6B9,Immission,D,s.a. Luftreinhaltung
-35DAF37D07D014D7C1256F230035B945,Immission,DS,"Die Einwirkung und Zuführung von Dämpfen, Gerüchen, Geräuschen und Erschütterungen auf die Umwelt. Den öffentlich-rechtlichen Schutz vor Immission regeln das Bundesimmissionsschutzgesetz in der Fassung vom 14.5.1990 mit ergänzenden Verordnungen und Technischen Anleitungen. Der Immissionsschutz wird besonders dadurch verwirklicht, dass Anlagen mit umweltschädlichen Emissionen der Genehmigung und Überwachung unterliegen."
-611379D29FF7791FC1256F230035D6BC,Immission,D,s.a. Schadstoff
-6A9D371C1DB0F826C1256F230035D6BB,Immission,D,s.a. Saurer Regen
-E036D0FB5FFF27FCC1256F230035D6BA,Immission,D,s.a. Emission (Umwelt)
-B8340F8AA425F1F4C1256F230035B946,Immobilienfachwirt,DS,Berufsbild
-4AA0B4761E21394BC1257E70004942FA,Indikator (Biologie),ND,s. Bioindikator
-8746D4B53F0D004BC125772B005141F1,Indikatorart,ND,s. Bioindikator
-31A4D737F6E06EA7C125772B00516166,Indikatororganismus,ND,s. Bioindikator
-A8AA8FEFC6482B49C125714D00526EDF,Isolation (Dämmung),ND,s. Energiesparen
-6B30F747C7BF2AEDC1257EA50029DA64,Isolieren,ND,s. Energiesparen
-7A0F415F0715056EC1256F230035B9B0,Isolierer,DS,Berufsbild
-E02A27FBE69B3EB8C1257EA700377ED3,Jahrhunderthochwasser,ND,s. Umweltkatastrophe
-4E8E8CDA0D5DE88BC1257EA800377537,Jahrhundertwende,DS,"Unter Jahrhundertwende versteht man im Allgemeinen den Zeitraum einiger Jahre, in dem ein Jahrhundert ins nächste übergeht. Im Speziellen bedeutete um die Jahrhundertwende den Wechsel vom 19. zum 20. Jahrhundert, also etwa speziell die Jahre 1896 bis 1910, das Fin de siècle."
-EB4B1204C7E6FEF0C1257BFB0044CBA2,Kanal (Abwasser),ND,s. Abwasser
-6F13FFFA9DC671ACC1256F230035F365,Kanalisation,ND,s. Abwasser
-BE5E110488C976A5C1257B7400590E3E,Kapazität eines Ökosystems,ND,s. Nachhaltige Entwicklung
-2FDC344E60141012C1257B7400590067,Kapazität (biologische),ND,s. Nachhaltige Entwicklung
-F059DC1FB55AEF28C12576C6005835A2,Kat,ND,s. Abgaskatalysator
-F0A86B0D8C6F6D77C1256F230035BA99,Katakombe,DS,"Unterirdische Begräbnisanlagen der ersten Christen, besonders in Rom; die Gräber befinden sich in den Seitenwänden oder im Boden. Kammern und Einzelgräber sind oft ausgemalt."
-85BF731C04EEE7EDC1256F230035F3B9,Katalysator (Kfz),ND,s. Abgaskatalysator
-ED924E8CE68EE208C1256F230035D7B4,Katastrophe,D,s.a. Umweltkatastrophe
-CD1390A43B33E841C125798A005D665A,Katastrophe,D,s.a. Reaktorkatastrophe
-6DF191A67F359F33C1256F230035BA9D,Katastrophenfilm,DS,"Spielfilm über Umweltkatastrophen, Unglücksfälle etc. (z.B. Erdbeben, Waldbrände, Hausbrände etc.)."
-01B82E35CB5868AAC1256F230035BA9E,Katastrophenschutz,DS,"Maßnahmen zur Abwendung von Gefahren und Schäden, die im Katastrophenfall (Sturmflut, Großbrände u.a.) drohen. Dem Katastrophenschutz dienen eine Reihe öffentlicher Einheiten und Einrichtungen (Feuerwehr, Technisches Hilfswerk u.a.)."
-302093C7D9568C6DC1256F230035D7D8,Kernkraftwerk,D,s.a. Reaktorkatastrophe
-63BD73C9877B3F99C125798A005C9533,Kernkraftwerk,D,s.a. Atomausstieg
-24FDF2B46AA776ADC1257EE50055E9F5,Kernschmelze,ND,s. Reaktorkatastrophe
-8DDB5C9CB8E41D5FC1256F230035BAD9,Kernspaltung,DS,"Kernspaltung bezeichnet einen Prozess der Kernphysik, bei dem ein Atomkern unter Energiefreisetzung in zwei oder mehr Bestandteile zerlegt wird. Seltener wird die Kernspaltung auch als Kernfission bezeichnet - ein Begriff, der nicht mit Kernfusion, dem Verschmelzen zweier Atomkerne, verwechselt werden darf. Die durch die Spaltung neu entstandenen Stoffe heißen Spaltprodukte."
-26BB6B8A828D166DC1257EF1005FCA3D,Kippe,ND,s. Mülldeponie
-075CE852A9840259C1256F230035D824,Kläranlage,D,s.a. Abwasser
-C3AD86D86AC756BFC1256F230035BB19,Kläranlage,DS,"Anlage zur Reinigung der häuslichen, gewerblichen und industriellen Abwässer. Kläranlagen arbeiten nach mechanischen, biologischen und chemischen Verfahren. Qualität des Abwassers muss so  verbessert werden, dass es ohne Schadwirkung in Vorfluter einzuleiten ist."
-2E4C9DB01268B83BC1257478003553FF,Klärgas,ND,s. Erneuerbare Energie
-7ADA4BCD2BB5AA68C125747800353D8D,Klärschlamm,ND,s. Erneuerbare Energie
-28E275E98D627F57C1256F230035F454,Klärung (biologische),ND,s. Kläranlage
-673028076924FCB2C12572DB003479F1,Klimakonferenz,ND,s. Umweltschutz
-31B45CED5C1AD0E6C1257EFB005D585C,Klimaschutz,ND,s. Umweltschutz
-28B38B90C2021D96C1256F230035F4BD,Kompostierung,ND,s. Kompost
-DED3C7805AD07D17C1257F37005D3042,Kontamination,ND,s. Bodenverschmutzung
-423C970E34EDA6A1C1257F37005DE43C,Kontinent,DS,"Ein Kontinent (lat. terra continens ""zusammenhängendes Land"") ist eine geschlossene Festlandmasse. In vielen Sprachen stammt das Wort für Kontinent ebenfalls aus dem lateinischen continens. Im Deutschen gibt es daneben die Bezeichnung Erdteil."
-AE9EDB06C2C2601EC1257F3F005FC3E8,Korallenbleiche,ND,s. Umweltbelastung
-19EEE90CF3E3F3DFC1257F45005F986C,Kostenreduktion durch Energieeffizienz,ND,s. Energieeffizienz
-A84439818B25F6E8C1257A9E00307CA9,Kraftstoffe,ND,s. Biokraftstoff
-6FB61124BD61048AC125747800349327,Kraftstoffe (alternative),ND,s. Biokraftstoff
-D578FA3F93B35F8EC12574780034C108,Kraftstoffe (pflanzliche),ND,s. Biokraftstoff
-2A5908272EDC5F93C1256F230035D89A,Kraftwerk,D,s.a. Erneuerbare Energie
-F52DA49C37038AD6C1257F4D005CEDDA,Kreislauf (Recycling),ND,s. Recycling
-8A3DB0EC8F62AD2AC1257F4D005D8998,Kreislaufwirtschaft,ND,s. Recycling
-49B5E8420BCCF77DC1256F230035BBEC,"Kreisler, Georg",DS,"Deutschsprachiger, us-amerikanischer Schriftsteller, Komponist und Kabarettist österreichischer Herkunft (1922-2011)."
-519625D291577F39C1257F68006125A5,Kruger Nationalpark,ND,s. Nationalpark
-A80666EA30629DF3C1256F230035D928,Küste,D,s.a. Küstenschutz
-123379D0263EFC9CC1257744005B7EBD,Küstenerosion,ND,s. Küstenschutz
-E84F2914256C2B30C1258064005E51EA,Küstenschutz,D,s.a. Meeresschutzgebiet
-BFA68AC80F726889C1257F7100629FFB,Kuhmist,ND,s. Biogas
-AC85446151F96536C1257B750053EECD,Kunststoff,D,s.a. Biokunststoff
-38B254419DCF59CCC1256FE400332EB3,Labiles Ökosystem,ND,s. Ökologisches Gleichgewicht
-31BEAA943E9E026EC1257F85004A323D,Labor,DS,"Das Labor (ursprünglich Laboratorium) bezeichnet einen Arbeitsplatz vor allem im Bereich der Naturwissenschaften. Im Labor werden die verschiedenen Experimente, Prozesskontrollen, Qualitätskontrollen, Prüfungen und Messungen (insbesondere auch Kalibrierungen) durchgeführt und/oder es werden chemische Materialien bearbeitet sowie chemische Produkte hergestellt (Beispiel Chemielabor)."
-E2722AFE4D4E1394C1256F230035BC58,Laborant,DS,Berufsbild
-6C39671E12292F43C1256F230035D95A,Lärm,D,s.a. Lärmschutz
-0BCE7C4025EBB512C1257F8A0033CDC2,Lärmbelästigung,ND,s. Lärmschutz
-3EB11A55C2F55658C1257F8A0033E11D,Lärmminderung,ND,s. Lärmschutz
-715A17120D3E399BC1256F230035BCB9,Lärmschutz,DS,Maßnahmen zum Schutz gegen Lärm; Verringerung der Einwirkung von vorhandenem Lärm auf die Menschen; baulicher Schallschutz v.a. durch Schalldämmung durch Bauteile; Verringerung der Schallerzeugung und -abstrahlung (z.B. Schalldämpfer).
-D27D118F89B27A64C1256F230035F61E,Lambda-Regelkreis,ND,s. Abgaskatalysator
-ED2E30BEA65E8931C1257F8E005A6169,Lambda-Sonde,ND,s. Abgaskatalysator
-51D59C8BB78B96C7C12575770055489F,Landschaftspflege,D,s.a. Rekultivierung
-A5A6E52223222A56C1256F230035BCA1,Landschaftspflege,DS,Maßnahmen zur Erhaltung und zum Schutz der Landschaft außerhalb der bebauten Gebiete. Also aktive Maßnahmen zur Wahrung des biologischen Gleichgewichts der Landschaft.
-A601F3FD2A83E7ACC12575770055399B,Landschaftspflege,D,s.a. Ökologisches Gleichgewicht 
-E043AC16DBED30C2C1256F230035D940,Landschaftspflege,D,s.a. Landschaftsschutz
-13E8D88BE750806BC1256F230035D943,Landschaftsschutz,D,s.a. Landschaftspflege
-748D09F3BB724868C1256F230035D941,Landschaftsschutz,D,s.a. Nationalpark
-B7CD39126ABB3BCDC1256F230035BCA2,Landschaftsschutz,DS,"Befasst sich mit der Sicherung der Landschaft als Lebensraum von Menschen, Tieren und Pflanzen. Es findet kein Eingriff in die Natur statt. Insofern spielt sich Landschaftsschutz im administrativen Bereich ab."
-C48A04FB84435786C1258064005E9965,Landschaftsschutz,D,s.a. Meeresschutzgebiet
-B5A12486D82FD196C125781D00565D3F,Landschaftsschutzgebiet,ND,s. Landschaftsschutz
-D47DB5D8FA02B4A0C1256F230035F653,Landschaftsveränderung,ND,s. Umweltveränderung
-D8B07DA60056A3A7C1256F230035F654,Landschaftsverbrauch,ND,s. Landschaftsschutz
-00F028AB7D7DF2D7C1257F920059CCF0,Landschaftswandel,ND,s. Umweltveränderung
-946409A3E015B857C1256F230035D986,Lebensraum,D,s.a. Biotop
-8B88565DF0019E1EC1256F230035F6E0,Lebensstätte,ND,s. Biotop
-0EB4780B5A54A440C1256F230035BCF1,Lebensstandard,DS,"Gesamtheit der Güter, Rechte und Nutzungen, die der Bevölkerung eines Staates, einer Bevölkerungsgruppe oder dem einzelnen für private Lebensführung zur Verfügung stehen. Hauptbestandteil des Lebensstandard ist die Lebenshaltung."
-5185AAD7FEE6E867C1256F230035D9DE,Luft,D,s.a. Luftreinhaltung
-97B10B5CD2BC01E4C1256F230035BDB5,Luft,DS,"Gasgemenge der Atmosphäre, mit 78% Stickstoff, 21% Sauerstoff, daneben Edelgase, Kohlendioxid, Wasserstoff, Ozon, Wasserdampf und Verunreinigungen."
-10585E3184FC86D7C1256F230035D9E2,Luftreinhaltung,D,s.a. Immission
-B5D7FBA35A959A85C1256F230035D9E3,Luftreinhaltung,D,s.a. Abgaskatalysator
-E29F475E769B6EFBC125757700555D9C,Luftreinhaltung,D,s.a. Bioindikator
-E4B4FEEE0DE32E3BC1256F230035BDBF,Luftreinhaltung,DS,"Maßnahmen zur Erhaltung guter Luftbedingungen bzw. zur Verbesserung der Luftqualität. Die Luftreinhaltung enthält sowohl Verhütungsmaßnahmen (gesetzliche Emissionsgrenzwerte) als auch Maßnahmen, die Schadstoffminderungstechnologien einsetzen."
-D1E547CED5092481C1256F230035F7FB,Luftverschmutzung,ND,s. Immission
-BD2716FB012644FEC1257FEE005BA883,Madidi-Nationalpark,ND,s. Nationalpark
-FFBB8FE2EDB951C2C1257B56005C3E4A,Masada,ND,s. Nationalpark
-BF6DDBB389A0528CC1256F230035DA59,Meer,D,s.a. Meeresverschmutzung
-8A9A9C901C06D407C1256F230035F90B,Meerenergie,ND,s. Erneuerbare Energie
-2F156FF7759B276EC1257A91005C56EF,Meerenge,DS,"Eine Meerenge (Sund), auch (Meeres)straße, Kanal oder Belt genannt, ist eine Stelle eines Meeres, an der sich zwei Landmassen nahe kommen und so einen Engpass des Meeres bilden. Meerengen sind (und waren vor allem früher) von großer strategischer Bedeutung für die Schifffahrt."
-EB2B823EEAA2669AC1258064005E0FD0,Meeresschutzgebiet,D,s.a. Küstenschutz
-FA759E6747A294E1C12580660060A61F,Mehrweg,ND,s. Mehrwegflasche
-2112B85DF67AC48EC1256F230035BE9E,Mehrwegflasche,DS,"Eine Flasche, die mehrfach benutzt wird. Sie wird gereinigt und erneut gefüllt. Bei der Rückgabe der Mehrwegflasche erhält man das beim Kauf entrichtete Pfand zurück."
-18CE0A43C5448F0DC1256F230035DB00,Müll,D,s.a. Müllvermeidung
-569743E41F10DCF5C12575770054ACAF,Müll,D,s.a. Sondermüll
-8EFDDEBA26CFBB61C1256F230035BF9F,Müll,DS,"Sammelbegriff für feste Abfallstoffe verschiedenster Herkunft, wie Hausmüll, Straßenkehricht, Gewerbe- und Industriemüll."
-B68D29C8F4340B5DC1256F230035DB01,Müll,D,s.a. Müllverbrennung
-C35DA7AA14E0DD15C1256F230035DAFF,Müll,D,s.a. Mülldeponie
-CC8D8EE17DA75E60C1256F230035DAFE,Müll,D,s.a. Müllbeseitigung
-FCC5B01403C79AC7C1256F230035DB02,Müll,D,s.a. Müllverwertung
-008FB5639237EEDCC1258146005B43C8,Müll,D,s.a. Weltraummüll
-4819815738AF09F2C1256F230035BFA0,Müllabfuhr,DS,Beseitigung von Abfall durch Spezialfahrzeuge in städtischer oder kommunaler Regie.
-FDF02CC3311FA31BC1256F230035DB03,Müllabfuhr,D,s.a. Müllbeseitigung
-311EC3BE2F3397DAC1256F230035FA5A,Müllanfall,ND,s. Müllvermeidung
-0F6908C99E4CD44EC1256F230035DB09,Müllbeseitigung,D,s.a. Recycling
-184755557D00D6FDC1256F230035DB07,Müllbeseitigung,D,s.a. Müllverbrennung
-1A7A03A74CEF151EC1256F230035DB08,Müllbeseitigung,D,s.a. Müllverwertung
-A5E49E28ACDCDB7DC1256F230035BFA1,Müllbeseitigung,DS,Sammelbegriff für die Ablage und auch Weiterverarbeitung von Müll.
-A5F1089874F38CE0C1256F230035DB06,Müllbeseitigung,D,s.a. Müllvermeidung
-A9872362A83308C6C1256F230035DB05,Müllbeseitigung,D,s.a. Mülldeponie
-DDF8B2B5091A6F07C1256F5500379FD2,Müllcontainer,ND,s. Müllbeseitigung
-2F2384C2EC42EEFFC1256F230035DB0A,Mülldeponie,D,s.a. Müllbeseitigung
-536FA2C29EE0C1F9C1256F230035DB0D,Mülldeponie,D,s.a. Müllverwertung
-56EBBB54EF5CB399C1256F230035BFA2,Mülldeponie,DS,"Unter behördlicher Aufsicht erfolgende geordnete Ablagerung von Müll auf eigens dafür festgelegten Plätzen. Auf Mülldeponien wird der Müll gleichmäßig ausgebreitet, verdichtet und mit Humuszwischenschichten zur schnelleren Verrottung versehen."
-820016F379AB5FE0C1256F230035DB0C,Mülldeponie,D,s.a. Müllverbrennung
-0EB451A3F6EE99E2C1256F230035FA5F,Müllentsorgung,ND,s. Müllverbrennung
-5B4B517F398364D3C1256F230035FA5D,Müllentsorgung,ND,s. Müllbeseitigung
-623ED94F09E7F184C1256F230035FA60,Müllentsorgung,ND,s. Müllverwertung
-E8E4D414374B49F3C1256F230035FA5E,Müllentsorgung,ND,s. Mülldeponie
-9167619D57C7B6F0C1256F230035BFA8,Müller,DS,Berufsbild
-56911EED8434C382C1256F230035BFA5,"Müller-Hanssen, Hans-Georg",DS,(Heimat-) Maler und Grafiker aus Villingen-Schwenningen (1908-2006).
-EE31554EEBAED553C1256F230035BFA6,"Müller-Landau, Rolf",DS,Österreichischer Künstler (1903-56).
-3EA07E3699C8F8C1C1256F230035BFA7,Müllereitechniker,DS,Berufsbild
-319813FC5695722AC1257E040053F0A5,Müllhalde,ND,s. Mülldeponie
-99223307D5C1D341C1256F230035FA66,Müllheizkraftwerk,ND,s. Müllverbrennung
-A6009C28AF0A889BC1256F230035FA69,Müllheizkraftwerk,ND,s. Erneuerbare Energie
-C00BC23F30DD7028C1256F230035FA65,Müllheizkraftwerk,ND,s. Müllbeseitigung
-FADE62F854FC7CF6C1256F230035FA67,Müllheizkraftwerk,ND,s. Müllverwertung
-5CDC0F8D358F11E7C12580CD00622C74,Müllkippe,ND,s. Mülldeponie
-E550536E0BDC80DFC1256F230035FA6B,Müllreduzierung,ND,s. Müllvermeidung
-9107B6A56BB21D75C1256F230035BFA9,Müllverbrennung,DS,"Verfahren der Müllbeseitigung, bei dem gleichzeitig Energie gewonnen werden kann. Ein Problem stellt die von Müllverbrenungsanlagen ausgehende Emissionsbelastung dar."
-DD4CC7B0C80F5046C12580CD0063A9A3,Müllverbrennungsanlage,ND,s. Müllverbrennung
-005E508CC7A6466CC1256F230035DB0F,Müllvermeidung,D,s.a. Mehrwegflasche
-3C249C375057571BC1256F230035DB0E,Müllvermeidung,D,s.a. Müllverwertung
-7ED5B62625C10ADDC1256F230035BFAA,Müllvermeidung,DS,"Jegliche Möglichkeiten, Maßnahmen zur Reduzierung des Müllaufkommens."
-DFD2C9EE7C8053A9C1256F230035DB11,Müllverwertung,D,s.a. Recycling
-ABC65E6669643BD7C1257B1F006531AF,Nachhaltig Bauen,ND,s. Nachhaltige Entwicklung
-1BD4949971BA634BC1257B1F00651ABC,Nachhaltige Entwicklung,D,s.a. Energiesparen
-6722C075FD0B8EB7C125812C00593B99,Nachhaltige Entwicklung,D,s.a. Ökologischer Fußabdruck
-239ED5F439720248C12581EE00514632,Nachhaltige Entwicklung,D,s.a. Übernutzung
-ECB39190A59226AEC125754100497F25,Nachhaltigkeit,ND,s. Nachhaltige Entwicklung
-C13128D9E9BA228AC125812C0059304D,Nachhaltigkeitsdefizit,ND,s. Ökologischer Fußabdruck
-ECEF8AAE875172C4C1257B750053FAEF,Nachwachsender Rohstoff,D,s.a. Biokunststoff
-218B0E4B3D18D79DC1256F230035DB5A,Nationalpark,D,s.a. Yosemite
-243A77499DF2B141C1256F230035DB5B,Nationalpark,D,s.a. Taubergießen
-3B8C871EA49958FDC1256F230035C016,Nationalpark,DS,"Großräumige Naturlandschaft, die durch ihre besondere Eigenart oft keine Parallele auf der Erde mehr hat. Nationalparks werden strengen Schutzbestimmungen im Sinne des Vollnaturschutzes unterworfen, können aber in Teilen auch Erholungszwecken dienen."
-58B0CD997D89527BC1256F230035DB5C,Nationalpark,D,s.a. Umweltschutz
-FF076E9DBAC03FD8C1256F230035DB59,Nationalpark,D,s.a. Yellowstone Nationalpark
-BED1E25CF9B4C018C1258064005E05F0,Nationalpark,D,s.a. Meeresschutzgebiet
-934AA45B83A15612C1256F230035FB08,Nationalpark Yosemite,ND,s. Yosemite
-12B90907E24A9D56C1256F230035C017,Nationalsozialismus,DS,"1919 in München gegründete, seit 1921 von Hitler geführte Bewegung, die sich in der Nationalsozialistischen Deutschen Arbeiterpartei (NSDAP) organisierte und 1933-45 die Herrschaft in Deutschland ausübte."
-78020E8AFDF5AE4CC12580F20057F06A,Natriumperborat,ND,s. Tenside
-37B59CA581870A4EC12580F2005A1F05,Natürlicher Treibhauseffekt,ND,s. Treibhauseffekt
-37562B1366D26181C1256F230035DB65,Natur,D,s.a. Landschaftsschutz
-DEB0305A791943C1C1256F230035FB0E,Natur- und Landschaftsschutz,ND,s. Landschaftsschutz
-AF5458F337CF80BDC1256F230035FB18,Naturpark,ND,s. Nationalpark
-119BCF044DFAF77BC1256F230035FB19,Naturreservat,ND,s. Nationalpark
-0F97BCB325DFB6C9C1256F230035FB1C,Naturschutz,ND,s. Umweltschutz
-8EB8B5890D00BC1DC1256F230035FB1D,Naturschutzgebiet,ND,s. Nationalpark
-1B82ECB5E1E698D8C12580F8005A3542,Naturschutzreservat,ND,s. Nationalpark
-7A8B397880E2A2ECC1256F230035FB1F,Naturveränderung,ND,s. Umweltveränderung
-0E94198D4DB733B6C12580F8005C700F,Naturwissenschaft,D,s.a. Umweltschutz
-C99FCE0A853C1F1DC1256F230035FB21,Naturzerstörung,ND,s. Umweltzerstörung
-16F89DC7F201ECAFC12571FB002F1128,Nichtregierungsorganisation,D,s.a. Greenpeace
-1C65B040C4CE6714C1256F230035B891,Nichtregierungsorganisation,DS,"Englisch Non-Governmental Organizations, international, national oder regional tätige nichtstaatliche Organisationen mit unterschiedlichen Aktivitätsschwerpunkten, z.B. Entwicklungshilfe-, Umweltschutz- (Greenpeace), Menschenrechts- (Amnesty International), Frauen-, Friedensorganisationen, kirchliche Hilfswerke (Misereor, ""Brot für die Welt"")."
-932D3573E6F6FC3EC1256F230035FB9B,Nitratbelastung,ND,s. Überdüngung
-CC9EB0C5E1D8F24DC1258114005CA7C2,NMVOC,ND,s. Immission
-86B6798908D2F47BC1256F230035FBD2,Nuklearkatastrophe,ND,s. Reaktorkatastrophe
-98C8EF74DFEEF0AEC125811E005E6655,Nutzung,ND,s. Erneuerbare Energie
-29DCEE2C7D5B570FC1258120004E7B9C,Oberflächennahe Geothermie,ND,s. Geothermie
-CCD61F54E33BA0E3C1257EF9005B425F,Ökobilanz,ND,s. Umweltforschung
-F1CB4E204E2FDDAFC1257EF9005B5342,Ökobilanz,ND,s. Umweltschutz
-32A0091F7A178064C125812C00592207,Ökodefizit,ND,s. Ökologischer Fußabdruck
-6F040195C453BF29C125812C00585E8F,Ökodesign-Richtlinie,ND,s. Energieeffizienz
-01F861E378AA0055C1256F230035DC40,Ökologie,D,s.a. Umweltschutz
-857C9F55F2BB5DD5C1256F230035DC3D,Ökologie,D,s.a. Ökologisches Gleichgewicht 
-D454F00726D49D40C1256F230035DC41,Ökologie,D,s.a. Umweltverschmutzung
-12054E04A446C9CCC1258131005B3DE1,Ökologische Flutung,ND,s. Renaturierung
-91785A16FF545284C1258131005B48B6,Ökologische Flutung,ND,s. Umweltschutz
-C5A660FAD8C9A082C1256F230035C0D3,Ökologische Landwirtschaft,DS,"Eine die biologische Selbstregulation des Ökosystems anstrebende und ausnutzende Form des Landbaus, verzichtet auf synthetischen Dünger, Herbizide und Pestizide, schont Bodenorganismen."
-61EDFCA552B550F5C125812C005914C7,Ökologischer Fußabdruck,D,s.a. Umweltverschmutzung
-836C24DC33AD79B9C125812C00590EFC,Ökologischer Fußabdruck,D,s.a. Nachhaltige Entwicklung
-DD976AEFB2A06B18C125812C0058E643,Ökologischer Fußabdruck,DS,"Unter dem ökologischen Fußabdruck wird die Fläche auf der Erde verstanden, die notwendig ist, um den Lebensstil und Lebensstandard eines Menschen (unter den heutigen Produktionsbedingungen) dauerhaft zu ermöglichen. Das schließt Flächen ein, die zur Produktion von Kleidung und Nahrung oder zur Bereitstellung von Energie benötigt werden, aber z. B. auch zur Entsorgung von Müll oder zum Binden des durch menschliche Aktivitäten freigesetzten Kohlenstoffdioxids."
-67275D3D639C8EFCC1256F230035C0D5,Ökologischer Hausbau,DS,"Erbauen von Gebäuden unter ökologischen Aspekten, d.h. vor allem mit ökologischen Materialien. Beschreibung und Bewusstmachung der Einzelheiten."
-334C9E053C3C78B3C1256F230035DC47,Ökosystem,D,s.a. Ökologisches Gleichgewicht 
-CE5ED4084CB138FDC1256F230035DC44,Ökosystem,D,s.a. Biotop
-2DD75A9BBBB99140C1256F230035FC2C,Ökosystem (labiles),ND,s. Ökologisches Gleichgewicht
-75A6C3C6BED0DFF2C125812F0059968A,Öleinleitung,ND,s. Ölpest
-C71527A74B65B964C125812F005A7A57,Ölkatastrophe,ND,s. Ölpest
-C7C13BFD71D310A5C125812F005A85A9,Ölkatastrophe,ND,s. Umweltkatastrophe
-CE9D06510949AA89C125813700557925,Okavango Nationalpark,ND,s. Nationalpark
-22DB7745A24BE293C1256F230035FCE2,Papierrecycling,ND,s. Recycling
-88646109CB56B00CC1257758005643B6,Papiertechnologe,DS,Berufsbild
-87E77B7D3B5743BDC125815C00590E7C,Parabolrinnenkraftwerk,ND,s. Solarenergie
-DDF2BD72D9EBB2A3C125747800343C91,Pellets,ND,s. Erneuerbare Energie
-57A9679D7277612EC1257AF600540352,PET,D,s.a. Mehrwegflasche
-B3643224FBA97ACFC1257AF60053D207,PET,DS,"Polyethylenterephthalat (Kurzzeichen PET) ist ein durch Polykondensation hergestellter thermoplastischer Kunststoff aus der Familie der Polyester. PET hat vielfältige Einsatzbereiche und wird unter anderem zur Herstellung von Kunststoffflaschen (PET-Flaschen), Folien und Textilfasern verwendet. Die weltweite Produktion liegt bei 40 Millionen Tonnen im Jahr."
-3506849D21EE038AC1256F230035FD51,Pfandflasche,ND,s. Mehrwegflasche
-9F6D59C714B18C7DC1257A9E0030AF28,Pflanzenölkraftstoff,ND,s. Biokraftstoff
-E6D2834FE03DB00FC12574780034CD50,Pflanzlicher Kraftstoff,ND,s. Erneuerbare Energie
-4350DAFF42A407FBC1258178005E7B62,Phosphate,D,s.a. Eutrophierung
-A3E082F33E92C96EC1258178005E3770,Phosphate,DS,"Phosphate sind die Salze und Ester der Orthophosphorsäure (H₃PO₄). Im weiteren Sinn werden auch die Kondensate (Polymere) der Orthophosphorsäure und ihre Ester Phosphate genannt. Die Ester werden unter Phosphorsäureester beschrieben. Phosphor liegt bei allen diesen Verbindungen in der Oxidationsstufe (V) vor. Verwendet werden Phosphate v.a. in Dünger, als Waschmittelzusatz und Lebensmittelzusatz."
-BFFCBF5F774BB6F8C1258178005F48F6,Phosphatfreisetzung,ND,s. Eutrophierung
-BAD029DF379256DFC1258178005F5B84,Phosphatimport,ND,s. Eutrophierung
-84AE707A1A70FB6DC1258178005F7F39,Phosphatkreislauf,ND,s. Eutrophierung
-C6A87777F97975F0C1256F230035FF34,Radioaktiver Abfall,ND,s. Sondermüll
-95920D7BF2CF372AC125725F00380662,Radioaktiver Stoff,ND,s. Schadstoff
-DE17BCC2BB59F62DC12581EE0050E89E,Raubbau,ND,s. Übernutzung
-F47B28F34E079B51C1256F230035FF65,Rauchgasreinigung,ND,s. Luftreinhaltung
-5A02189B7AEDA2AAC1256F230035DDB7,Recycling,D,s.a. Müllverwertung
-BC0E5C6D7FD5B396C1256F230035C2DE,Recycling,DS,"Wiederverwendung von Abfällen, wie Nebenprodukte oder (verbrauchte) Endprodukte als Rohstoffe für die Herstellung neuer Produkte. Recyclingformen: Wiederverwendung (z.B. bei Pfandflaschen), Weiterverwendung in einem neuen Anwendungsbereich (z.B. Altpapier als Dämmmaterial), Wiederverwertung (z.B. Flaschen aus Altglas), Weiterverwertung in einem anderen Produktionsprozess (z.B. Stahl aus Schrott)."
-5CF3B4388614BCC3C125844A005DF201,Recycling,D,s.a. Werkstoffliches Recycling
-A0F3E943E0A31776C1256F230035FFA2,Regen (saurer),ND,s. Saurer Regen
-7B9CBC3A5DADC367C1258332005C003B,Regenbogen,DS,"Der Regenbogen ist ein atmosphärisch-optisches Phänomen, das als kreisbogenförmiges farbiges Lichtband in einer von der Sonne beschienenen Regenwand oder -wolke wahrgenommen wird. Sein radialer Farbverlauf ist das mehr oder weniger verweißlichte Spektrum des Sonnenlichts. Jeder der annähernd kugelförmigen Regentropfen bricht das Sonnenlicht beim Ein- und beim Austritt und reflektiert es innen an seiner Rückwand. Das in Richtung auf die Sonne zurückgeworfene Licht wird dabei zum überwiegenden Teil in einem Kegelmantel konzentriert. Der Beobachter hat die Schicht reflektierender Wassertropfen vor sich und die Sonne im Rücken. Diejenigen Tropfen, aus deren Kegelmantel ihn ein farbiger Lichtstrahl erreicht, befinden sich auf einem kreisförmigen Band, dessen bogenförmigen Ausschnitt der Regenbogen darstellt."
-B26FF6ED38A431DBC1257981005B9AAC,Regenbogenfamilie,DS,"Regenbogenfamilien werden Familien genannt, bei denen Kinder bei zwei gleichgeschlechtlichen Partnern als eine Familie leben. Die beiden männlichen bzw. die beiden weiblichen Elternteile können – sofern dies gesetzlich zulässig ist – miteinander verheiratet sein in gleichgeschlechtlicher Ehe; alternative Formen der elterlichen Verbindung sind eingetragene Partnerschaften und formlose Verbindungen von Lebensgefährten."
-BB98103188832965C125723300411531,Regeneration (Energie),ND,s. Erneuerbare Energie
-83EAD3BD7BEDDADFC1256F230035FFA5,Regenerative Energie,ND,s. Erneuerbare Energie
-7170378BE74FF38BC12582040061D102,Regenerative Energiequelle,ND,s. Erneuerbare Energie
-03D95CC2BB299399C1256F230035DDF4,Rekultivierung,D,s.a. Kiesgrube
-D4E86093AB9A8920C1256F230035DDF6,Rekultivierung,D,s.a. Renaturierung
-509CA2D92403E15FC1256F230035DE07,Renaturierung,D,s.a. Rekultivierung
-6F94418C59FD1FBEC1256F230035C341,Renaturierung,DS,"Wiederherstellen der natürlichen, ursprünglichen Gegebenheiten der Landschaft, z.B. Revidieren einer Flussbegradigung."
-01C65D802B0C948EC12580F8005A3B2C,Reservat (Natur),ND,s. Nationalpark
-2EB72A0DBA75F299C1256F230035C354,Residenzstadt,DS,"Stadt, in der der Wohnsitz eines Staatsoberhauptes (besonders eines Fürsten) oder eines hohen geistlichen Würdenträgers zu finden ist oder war."
-56F052CA944708D3C1258221005E2935,Ressourcenschonung,ND,s. Nachhaltige Entwicklung
-6EDCD3A682B4B674C12578B30036F2F6,Rezyklierung,ND,s. Recycling
-23617DC13B6A7FC2C1258229004772DF,RFID,DS,"RFID (englisch radio-frequency identification, ""Identifizierung mit Hilfe elektromagnetischer Wellen"") bezeichnet eine Technologie für Sender-Empfänger-Systeme zum automatischen und berührungslosen Identifizieren und Lokalisieren von Objekten und Lebewesen mit Radiowellen."
-3F3ACE3DA136DCB8C125723C00395AC4,Robin Wood,ND,s. Umweltschutz
-99765EED09F5F125C1256F230035C3A9,Roboter,DS,"Maschine, die selbständig Arbeitsvorgänge verrichtet, elektronisch gesteuerter Industrieroboter; Automatenmensch. Besondere Kennzeichen autonomer Roboter ist die ""Lernfähigkeit"" (umgebungsorientiertes Handeln über Sensoren und Aktuatoren)."
-4140F600AEF41C98C1256F230035DE30,Rodung,D,s.a. Umweltgefährdung
-60EC7E684DAC6337C1256F230035C3B3,Rodung,DS,"Beseitigen von Waldvegetation (Abholzung, Brandrodung etc.) einschließlich des Ausgrabens von Baumstümpfen. Ziel der Rodung ist die Gewinnung von Flächen für die Anlage von Siedlungen oder zur landwirtschaftlichen Nutzung."
-0E4AA3524D57FA79C125723E003AF6AC,Rohstoff,D,s.a. Recycling
-CD40058F5E0F6EE3C1256F230035DE3F,Rohstoff,D,s.a. Erneuerbare Energie
-594D98F01B2428B4C12581EE0050F6B0,Rohstoff,D,s.a. Übernutzung
-34D494FDC7130E43C125824400603F89,Rohstoffliches Recycling,ND,s. Recycling
-EE77BF7DF447C829C12582500061B071,Rückgangsinsel,ND,s. Küstenschutz
-D0BA3EA53477B491C1258252005B6609,Ruhezone,ND,s. Umweltschutz
-036090FD5BEFEF15C1257243003645C2,Rußfilter,ND,s. Abgaskatalysator
-BCC5CFF7DA77701DC125724300363B2C,Rußfilter,ND,s. Luftreinhaltung
-880E80F6B8CE8321C1258255005DFA74,Russifizierung,DS,"Als Russifizierung werden in der russischen und später sowjetischen Innenpolitik alle Maßnahmen bezeichnet, den Einflussbereich der russischen Sprache und der russischen Kultur zulasten der anderen Sprachen und Kulturen im Sinne eines Transkulturationsprozesses auszuweiten."
-B1B4881667C6395BC1256F2300360121,Sandgrube,ND,s. Kiesgrube
-D140D2654EB4BF0CC125826E0059A43A,Sandvorspülung,ND,s. Küstenschutz
-60E934902388C700C12582720056851E,Sauerstoffdefizit,ND,s. Eutrophierung
-F79396415508A824C12582720056A885,Sauerstoffsättigung,ND,s. Eutrophierung
-037B124C2D1BD5D7C1256F230035DEC4,Saurer Regen,D,s.a. Immission
-4D48CD27E09EB9A5C1256F230035C45F,Saurer Regen,DS,"Durch Schwefel- und Salpetersäure sowie saure Sulfate und Nitrate angereicherter Niederschlag. Quellen saurer Substanzen sind u.a. die Verbrennung fossiler Energieträger, Ölverarbeitung, Prozesse in der chemischen Industrie."
-5F5F178092376F54C1256F230035DEC3,Saurer Regen,D,s.a. Waldsterben
-381723CB72766CEAC12582720059900C,Schadgas,ND,s. Schadstoff
-11DF07F598A7ECEFC1256F230035DED3,Schadstoff,D,s.a. Immission
-97B0C5355BF3C21EC1256F230035DED2,Schadstoff,D,s.a. Emission (Umwelt)
-E6C9012D8253F94AC1256F230035C469,Schadstoff,DS,"Sammelbezeichnung für chemische Stoffe, die Mensch und Umwelt schädigen können, z.B. organische Giftstoffe, Abgase, Schwermetalle, radioaktive Stoffe."
-EECB3BEA83C91065C1256F230036015B,Schadstoffemission,ND,s. Emission (Umwelt)
-BCFDB8C1BEA01895C1256F230036015C,Schadstoffnachweis,ND,s. Bioindikator
-A31DED62DB3BA7EFC1256F230035C465,Schädel,DS,"Teil des Skeletts, der die knöcherne Grundlage des Kopfes beim Menschen und bei den Wirbeltieren bildet und der beim Menschen und den meisten Wirbeltieren über Gelenkkörper beweglich mit der Wirbelsäule verbunden ist. Der Gehirnschädel umschließt das Gehirn und besteht aus 8 Knochen (Stirnbein, 2 Scheitelbeine, 2 Schläfenbeine, Hinterhaupt-, Sieb-, Keilbein). Der Gesichtsschädel hat 14 Knochen (u.a. Pflugscharbein, Unterkiefer, Oberkiefer-, Nasen-, Jochbeine)."
-B495FB4DC8BD4A37C1256F2300360169,Schalldämmung,ND,s. Lärmschutz
-E0E502DC7AC8F91CC1256F230036016A,Schallschutz,ND,s. Lärmschutz
-074976A258064DCBC12582780059D9F3,Schaum,ND,s. Tenside
-32071482DEA0D798C1256F23003601D3,Schmutzwasser,ND,s. Abwasser
-960D0C968D61D5A7C1258146005B4BA0,Schrott,D,s.a. Weltraummüll
-50AA2186F349E120C1258297005DECD0,Schutz,ND,s. Lärmschutz
-A1F096C8C11D7378C125829A002EADFC,Schutzmaßnahme (Umwelt),ND,s. Umweltschutz
-F0ABC0A3809386F2C125829A002E9069,Schutzmaßnahme (Wasser),ND,s. Gewässerschutz
-D2281FC68EDE7ECCC125829A003112F5,Schutzzone,ND,s. Gewässerschutz
-5B9777B45521F0DFC125725F0037ECFB,Schwermetalle,D,s.a. Schadstoff
-0CBD951B8F42308AC12582A5005733E6,SCR-Technologie,ND,s. Abgaskatalysator
-6E2FEAA6D0296F43C125723E003B05F0,Sekundärrohstoff,ND,s. Recycling
-75A0601266B93EC9C12582A50057590D,Selektive katalytische Reduktion,ND,s. Abgaskatalysator
-9258CD22E6DA807DC12582B1005D1D31,Serengeti,ND,s. Nationalpark
-F67D3E96F251047DC12582B5003BD71A,Shredder,ND,s. Recycling
-85675294F2CAB1BCC1256F230035DF80,Sierra Nevada (USA),D,s.a. Yosemite
-A289D1C3BF6A2C37C1256F230035C5B1,Sierra Nevada (USA),DS,"Gebirgskette in Kalifornien (USA), bis 4418 m hoch."
-C2C3671C027C37A8C12582C90053560E,Solaranlage,ND,s. Solarenergie
-DAB311B439134E54C1256F230035C5F3,Solarenergie,DS,"Die neben anderen Energieformen zur Deckung des Energiebedarfs dienende, in Sonnenkraftwerken genutzte Strahlungsenergie der Sonne."
-E521D4A694B5D1F7C12582C90053AE58,Solarstrom,ND,s. Solarenergie
-DE1CA7323FBA58ADC1256F230035C5F4,Solartechnik,DS,"Alle Technik und Entwicklungen, die zur Erzeugung bzw. Verwendung von Solarenergie nötig ist."
-D8FA46DF917CD6BDC12584540057D8F8,Solartechnik,D,s.a. Photovoltaik
-62515EA9B269E4E6C1257478003561F7,Solarthermie,ND,s. Solarenergie
-7CEAAEE0F5465227C12574780035961D,Solarthermie,ND,s. Erneuerbare Energie
-AFE32DB5382057C9C12582C90053D1A1,Solarthermik,ND,s. Solarenergie
-8EC5FF2978B7E82CC12572B100290F53,Solarthermisches Sonnenkraftwerk,ND,s. Solarenergie
-72CE2E746CE45A2CC12582C90053E262,Solarwärme,ND,s. Solarenergie
-984C748EE8DF8EAFC125815C0059444E,Solarwärmekraftwerk,ND,s. Solarenergie
-3AEF8ECE4A0E30DCC12582CD005B9939,Sommersmog,ND,s. Smog
-79E23875A0B9AA0CC1256F23003603A4,Sonnenenergie,ND,s. Solarenergie
-BAC07148B7D62817C1256F230035C603,Sonnenfinsternis,DS,"Entsteht dadurch, dass der Mond zwischen Erde und Sonne tritt. Erdorte, die vom Kernschatten des Mondes getroffen sind, haben totale Sonnenfinsternis, Orte, die im Gegenkegel des Mondkernschattens liegen, ringförmige Sonnenfinsternis."
-FCFE0954E3F40B46C1256F23003603A8,Sonnenkraftwerk,ND,s. Solarenergie
-FC7618CBFA209C24C125815C00593862,Sonnenwärmekraftwerk,ND,s. Solarenergie
-B8742E40EECFC1BCC12572B2004C7A0B,Stadtentwässerung,ND,s. Abwasser
-B6B4165B24E96D19C125830C00582F54,Stand-by-Zustand,ND,s. Energiesparen
-30D5437C7B11D9ACC1256F230036052A,Steinbruch,ND,s. Kiesgrube
-269223839EFFBB51C1256F2300360580,Störfall,ND,s. Reaktorkatastrophe
-783C3F8B7FD6B463C12572AA0030BA4E,Strahlungsenergie,ND,s. Solarenergie
-64E18783DD17DA27C125832F00561932,Strömungskraftwerk,ND,s. Erneuerbare Energie
-569DD9A837F6511DC125833D00646DA0,Stromnutzung,ND,s. Energieeffizienz
-3390BC873FF5EE7AC125833D00652299,Stromspeicher,ND,s. Erneuerbare Energie
-58A1DD58D5B70375C1256F2300360629,Super-GAU,ND,s. Reaktorkatastrophe
-A64037CC3BC8F00BC1257B760035D803,Synthetischer Kraftstoff,ND,s. Biokraftstoff
-ABAC1BA93271DAA6C125835100641FC3,Tankerunglück,ND,s. Ölpest
-5E874456BB807AD5C1256F23003606D0,Technologie (Umwelt),ND,s. Umwelttechnologie
-DCB4633A8758C07BC12583610065BA55,Tetrapode,ND,s. Küstenschutz
-E2B72CEDF709346FC1258366005ED0A5,Thermisches Recycling,ND,s. Recycling
-BDD5707BC2C6FE2CC125836700618290,Tiefengeothermie,ND,s. Geothermie
-2993AD2C4556DE25C1256F230035E18C,Treibhauseffekt,D,s.a. Umweltverschmutzung
-7D231C74AF16729AC1256F230035E18A,Treibhauseffekt,D,s.a. Ozonloch
-78D8814FB233FBE9C12583840060BBA9,Treibhausgas,ND,s. Treibhauseffekt
-5A2B683EDA262FC9C1256F230035E198,Trinkwasser,D,s.a. Wasserverschmutzung
-BBF3518A1185FCEBC1256F230035E194,Trinkwasser,D,s.a. Abwasser
-0EBD8E5F223902A3C1258386005F56DA,Trinkwasserschutz,ND,s. Gewässerschutz
-B0D358B91A3C1019C1256F23003607EF,Trittschall,ND,s. Lärmschutz
-A3280096EEF9BE2CC1256F230035E19A,Trockengebiet,D,s.a. Desertifikation
-06CF411E6F2AC9A0C1256F2300360812,Tschernobyl,ND,s. Reaktorkatastrophe
-9CD25A23E8F9C185C1256F230035E1AF,Überdüngung,D,s.a. Eutrophierung
-A5B689922C42E59AC1256F230035C89D,Überdüngung,DS,"Übermäßige Gaben von Pflanzennährstoffen in Form der Düngung mit dem Effekt der Übermineralisierung des Bodens u. der Gewässer, die mit Äckern durch den Bodenwasserhaushalt verbunden sind. Eine Folge ist Eutrophierung Oberflächengewässer."
-C5DFF08340B495F0C1258392006518A5,Überflutung,ND,s. Überschwemmung
-10E2A5ECB7A6DB81C12581EE00512ECF,Übernutzung,D,s.a. Eutrophierung
-76158545EB2B1CEFC12581EE00513D2F,Übernutzung,D,s.a. Nachhaltige Entwicklung
-DA44D518356FBD73C12581EE0050D57A,Übernutzung,DS,"Unter Übernutzung versteht man die Nutzung von Ressourcen in einem Übermaß ohne Rücksicht auf die Folgewirkungen. Beispiele für eine Übernutzung sind Überweidung oder Überfischung, aber auch irreversible Bodenerosion, Entwaldung oder Grundwasserabsenkung. Auch die Eutrophierung und andere Umweltverschmutzungsarten stehen in engem Zusammenhang mit einer Landschaftsübernutzung. Im Gegensatz zur Übernutzung steht die Nachhaltigkeit. Übernutzung kann eine direkte Folge von lokaler und globaler Überbevölkerung und der Notwendigkeit zur Ernährungssicherung sein, sie kann aber auch durch Profitstreben ohne unmittelbar drängende menschliche Bedürfnisse verursacht werden."
-ED1D986F25028C05C12581EE00510564,Übernutzung,D,s.a. Überweidung
-5E93DFED9ACB2CD3C1256F230035C8A2,Überproduktion,DS,Die Erzeugung von Waren über den Bedarf des Marktes hinaus. Überproduktion führt durch den verstärkten Wettbewerb zu einem Sinken der Preise oder zur Vernichtung der Ware (v.a. Landwirtschaft).
-7D2685924F2B25CEC12581310059FE5A,Umgehungsgewässer,ND,s. Renaturierung
-4BF415137197484CC12572CD004E4B09,Umkippen (Gewässer),ND,s. Eutrophierung
-1A7BFA2DEC6EBB1BC1256F230035E1C1,Umwelt (allgemein),D,s.a. Umweltverschmutzung
-889F1676D2891B4FC1256F230035E1BB,Umwelt (allgemein),D,s.a. Umweltbelastung
-8A0E5DCB731CEED2C1256F230035E1C2,Umwelt (allgemein),D,s.a. Umweltzerstörung
-8D410FC2F5166A28C1256F230035E1C0,Umwelt (allgemein),D,s.a. Umweltveränderung
-CCC401BBE9DC9635C1256F230035E1BF,Umwelt (allgemein),D,s.a. Umweltschutz
-DC6C36519F0D8AE0C1256F230035E1BD,Umwelt (allgemein),D,s.a. Umweltgefährdung
-0F7C743198EBD2F0C125757700558943,Umweltbelastung,D,s.a. Emission (Umwelt)
-170704402EAEE679C12575770055BE97,Umweltbelastung,D,s.a. Überdüngung
-4526C8D4B9A80802C12575770055908B,Umweltbelastung,D,s.a. Immission
-4AE26A5FD83A3073C125757700559E15,Umweltbelastung,D,s.a. Saurer Regen
-4E13E28D88751FFBC12575770055B173,Umweltbelastung,D,s.a. Tenside
-4FD4C3CC0A1716B5C1256F230035E1C7,Umweltbelastung,D,s.a. Umweltgefährdung
-58DF4692BEA18AA1C12575770055A47B,Umweltbelastung,D,s.a. Schadstoff
-6684AFFA33B3ECBCC125757700559840,Umweltbelastung,D,s.a. Ölpest
-6F7B0AD792773B56C125757700558185,Umweltbelastung,D,s.a. Bebauungsplan
-91946A284BCD99C4C1256F230035E1C6,Umweltbelastung,D,s.a. Umweltzerstörung
-BEC0018DB3B14CADC125757700557608,Umweltbelastung,D,s.a. Abwasser
-D217DEEF01C7FD9FC12575770055C76C,Umweltbelastung,D,s.a. Überweidung
-DB82B3E3A851E701C12575770055B7FB,Umweltbelastung,D,s.a. Treibhauseffekt
-E168B8041C669169C1256F230035C8C2,Umweltbelastung,DS,Im Sinne der Belastung von Ökosystemen technogene bzw. anthropogene Eingriffe in die Umwelt. Sie führen meist zu Umweltschäden.
-E604548C20401488C12575770055AB28,Umweltbelastung,D,s.a. Smog
-026F8A141750CEA9C12583A30054E9F1,Umweltbelastung,D,s.a. Umweltschaden
-70CD826257A91EDFC12583D700594758,Umweltbelastung,D,s.a. Flächenversiegelung
-5F35ED8C69456C72C1256F2300360865,Umweltbewusstsein,DS,"Das Umweltbewusstsein ist die Einsicht eines Menschen in die Tatsache, dass Menschen die natürliche Umwelt – und damit die Lebensgrundlage der Menschen – durch ihr Tun und Lassen bzw. durch Eingriffe in die Umwelt schädigen oder ihr natürliches Gleichgewicht gefährden."
-8D59160FBAB2E92BC1256F230035E1D3,Umwelterziehung,D,s.a. Umweltschutz
-96D97FEE2AF858D9C1256F230035C8C4,Umwelterziehung,DS,"Schaffung bzw. Aufbau eines Umweltbewusstseins v.a. bei Kindern aber auch bei Erwachsenen, d.h. Erziehung zu umweltschonendem, -schützendem Verhalten."
-EC741F8943393DACC1256F230035E1CF,Umwelterziehung,D,s.a. Müllvermeidung
-F04C1002218AA1CBC12583A2005DCA7C,Umwelterziehung,D,s.a. Umweltbewusstsein
-053A5957DA68D127C12575770055E9A4,Umweltgefährdung,D,s.a. Umweltverschmutzung
-0774E066C6F4F270C1256F230035C8C6,Umweltgefährdung,DS,"Erfolgt durch anthropogene bzw. technogene Eingriffe in die Ökosysteme der Umwelt, so dass die Umweltqualität Schaden nimmt."
-182053F04EB772F7C1256F230035E1D5,Umweltgefährdung,D,s.a. Umweltbelastung
-5DF5C35E84D9EF74C1256F230035E1D4,Umweltgefährdung,D,s.a. Greenpeace
-81BCB9EAF35278F4C1256F230035E1D6,Umweltgefährdung,D,s.a. Umweltzerstörung
-5A375F4532534CD8C1257797005532F2,Umweltgefährliche Stoffe,D,s.a. Schadstoff
-9983B8C6F44E5244C12583A2005F2E05,Umweltgift,ND,s. Umweltgefährliche Stoffe
-2138C9294A66992BC1256F230035C8C7,Umweltkatastrophe,DS,"Beschreibung von Umweltschäden, die zu katastrophalen Folgen (meist für Menschen) geführt haben (z.B. Bergrutsch, Überschwemmungen)."
-B47380EE0AC4C089C125757700561D21,Umweltkatastrophe,D,s.a. Reaktorkatastrophe
-CED2E8AB4719D9A2C12572CD004FFE6A,Umweltkriminalität,ND,s. Umweltgefährdung
-87A0CB9BCB750662C12583A30053D211,Umweltmanagement,DS,"Das Umweltmanagement ist der Teilbereich des Managements einer Organisation (Unternehmen, Behörde etc.), der sich mit den betrieblichen und behördlichen Umwelt(schutz)belangen der Organisation beschäftigt. Es dient zur Sicherung einer nachhaltigen Umweltverträglichkeit der betrieblichen Produkte und Prozesse einerseits sowie der Verhaltensweisen der Mitarbeiter und Stakeholder andererseits."
-36A3BCEE6F9B213CC1256F2300360867,Umweltproblem,ND,s. Umweltbelastung
-58BBED2324F9BED8C1256F2300360868,Umweltproblem,ND,s. Umweltzerstörung
-7A9EC39276F8DD16C12583A30054C51A,Umweltschaden,D,s.a. Umweltzerstörung
-987AA6D6C051CA32C12583A30054E31D,Umweltschaden,D,s.a. Umweltbelastung
-B04DD1A493285A5CC12583A30054B034,Umweltschaden,DS,Ein Umweltschaden ist ein von Menschen ausgehender direkter oder indirekter Schaden für die Umwelt und die menschlichen Lebensräume und Siedlungsgebiete. Zu den indirekten Schadensauswirkungen gehören durch Emissionen und Klimaveränderung ausgelöste Elementarschäden.
-3CFC2A0F2A805D16C125725F0037C5B9,Umweltschadstoff,ND,s. Schadstoff
-CE916C248C71A063C12583A30054BBFF,Umweltschäden,ND,s. Umweltschaden
-075DA7C049E3156FC12575770054EDFC,Umweltschutz,D,s.a. Biotop
-0DA25F4437B8ECC6C1256F230035E1DF,Umweltschutz,D,s.a. Umwelttechnologie
-19E5B10B3C787647C125757700550B4E,Umweltschutz,D,s.a. Küstenschutz
-234A37E090294E10C1256F230035E1DC,Umweltschutz,D,s.a. Umweltveränderung
-2C73BC224DC2997BC1256F230035E1E3,Umweltschutz,D,s.a. Nationalpark
-4FB6270AF987F766C12575770054F654,Umweltschutz,D,s.a. Energiesparen
-5B5BEACF9FB732A3C12575770054E47B,Umweltschutz,D,s.a. Erneuerbare Energie
-6666D59D4484BE82C12575770055045A,Umweltschutz,D,s.a. Kompost
-6ADFCCE7D731ADEEC1256F230035E1DA,Umweltschutz,D,s.a. Landschaftsschutz
-6CAB7FAFF3596DC8C1256F230035C8C8,Umweltschutz,DS,"Sammelbegriff für alle Maßnahmen zur Erhaltung und Schaffung lebensgerechter Umweltbedingungen. Zum Umweltschutz zählen besonders Luft- und Wasserreinhaltung, geordnete und sachgerechte Abfallbeseitigung, Recycling, Lärm-, Pestizid- und Herbizideinschränkung."
-6FF0B90F0EE06E3CC1256F230035E1D8,Umweltschutz,D,s.a. Müllbeseitigung
-85A6527E82C0AFBCC1256F230035E1DD,Umweltschutz,D,s.a. Lärmschutz
-983D4A727D75DE81C125723C00395183,Umweltschutz,D,s.a. Greenpeace
-9BDE672AEED8F6DBC1256F230035E1EC,Umweltschutz,D,s.a. Umweltverschmutzung
-A14D3A474180D51DC1256F230035E1D7,Umweltschutz,D,s.a. Luftreinhaltung
-B23DE8D159E57583C125757700551196,Umweltschutz,D,s.a. Landschaftspflege
-BB62C78FF3E191D1C1256F230035E1D9,Umweltschutz,D,s.a. Recycling
-C9ECA421A2E0EB6EC125757700551A05,Umweltschutz,D,s.a. Nachhaltige Entwicklung
-F4728945BDDCEE18C12575770054FD3B,Umweltschutz,D,s.a. Gewässerschutz
-6FFC3BEF76655085C1258422003866D5,Umweltschutz,D,s.a. Wasserverbrauch
-C2A3C79D772D708AC1256F230035C8C9,Umweltschutzfachwirt,DS,Berufsbild
-CA0BF0276252641EC12571FB002F79AB,Umweltschutzorganisation,ND,s. Greenpeace
-A5852A32239B19A3C12573FA003F803D,Umweltschutzverband,ND,s. Umweltschutz
-CA25CED745CCB214C1256F230036086B,Umwelttechnik,ND,s. Umwelttechnologie
-0AACEB9FE5AE1486C1256F230035C8CA,Umwelttechnologie,DS,"Die Bereiche der Technik und Technologie, die für Maßnahmen des Umweltschutzes von Bedeutung sind, z.B. Abwasserreinigung, Vorrichtungen zur Wasserreinhaltung, zur Beseitigung von Luftverschmutzung."
-24367CABF1B0481FC1256F230035E1ED,Umwelttechnologie,D,s.a. Luftreinhaltung
-FFF3B09B0F955AF0C1256F230035E1EE,Umwelttechnologie,D,s.a. Abwasser
-2109F40D030B5C61C1257577005628BF,Umweltveränderung,D,s.a. Ozonloch
-37ED15D856306129C125757700561366,Umweltverschmutzung,D,s.a. Wasserverschmutzung
-60124FFDBE8B664BC1256F230035E1F4,Umweltverschmutzung,D,s.a. Treibhauseffekt
-93C6789945835E38C125757700560D7E,Umweltverschmutzung,D,s.a. Meeresverschmutzung
-ACBF1E1CEDD2C716C1256F230035E1F3,Umweltverschmutzung,D,s.a. Saurer Regen
-D0AE8AF016573D83C12575770056036D,Umweltverschmutzung,D,s.a. Bodenverschmutzung
-EBE19A79D7ACC237C1256F230035E1F0,Umweltverschmutzung,D,s.a. Umweltbelastung
-F9EEC8426426FE5CC1256F230035E1F5,Umweltverschmutzung,D,s.a. Umweltschutz
-FCFB21BBF513FA64C1256F230035C8CD,Umweltverschmutzung,DS,"Folge verschiedener Effekte der Umweltbeeinflussung und ausschließlich anthropogen-technogener Ursache. Erfolgt durch Einbringen von Abfall, Abwasser, Abwärme, Lärm, Schädlingsbekämpfungsmittel etc. in die Umwelt."
-73EB364043E016E7C125812C00594BBA,Umweltverschmutzung,D,s.a. Ökologischer Fußabdruck
-06CEF53B8FD05404C12575770056411C,Umweltzerstörung,D,s.a. Eutrophierung
-14C6072FE6842E0AC1256F230035E1F7,Umweltzerstörung,D,s.a. Umweltgefährdung
-3BC91EF44508CD80C1256F230035C8CE,Umweltzerstörung,DS,"Zerstörung der Umwelt. Irreversible Eingriffe in die Natur. Folge von Umweltbelastung, -gefährdung, -veränderung, -verschmutzung."
-4CC0BA7633DF6C79C125757700563386,Umweltzerstörung,D,s.a. Bodenzerstörung
-75654FAB08A3F3D9C1257577005646B9,Umweltzerstörung,D,s.a. Waldsterben
-A4481A1E092787BCC1256F230035E1F6,Umweltzerstörung,D,s.a. Umweltbelastung
-EA5B1E1A2779EAC1C125757700563BA7,Umweltzerstörung,D,s.a. Desertifikation
-801E5B8C44C45556C12583A30054F378,Umweltzerstörung,D,s.a. Umweltschaden
-78B77B49CF48933AC1256F230035C8CF,Umzug,DS,"Wechsel des ständigen Wohnortes, wobei Wechsel der Wohnung innerhalb einer Stadt, zw. zwei Städten, aber auch innerhalb von Ländern möglich ist."
-4A58685EC4CCE11EC1256F230036086E,Unfall (atomarer),ND,s. Reaktorkatastrophe
-5DB39E72E5C0C029C12583610062337A,Upcycling,ND,s. Recycling
-7F6E36924C5FB34AC1256F230035E265,USA (Staat),D,s.a. Yellowstone Nationalpark
-98D18DF9F7F74BCAC12579130053FEC4,Verarbeitung (Abfall),ND,s. Müllbeseitigung
-3425F649F8623972C1257916002FF642,Verbrennung (Müll),ND,s. Müllverbrennung
-2BE9C5BD36C2C206C1256F2300360958,Verklappung,ND,s. Meeresverschmutzung
-322CFB8FB841459FC1256F230035E2EE,Verpackung,D,s.a. Müllvermeidung
-CC5163D310E9BF78C1256F230035C984,Verpackung,DS,"Bei Handelswaren die zur Aufnahme, zum Zusammenhalt und Schutz des Gutes gegen äußere Einflüsse dienende Umhüllung."
-05B93BB1466F6493C1256F230035C98D,Verpackungsmittelmechaniker,DS,Berufsbild
-E04442F83DBE6F7EC12581520058E94A,Versauerung der Meere,ND,s. Ozeanversauerung
-29EFBBF49915B6F4C12583D60059224F,Versauerung (Gewässer),ND,s. Eutrophierung
-718A506F7315F4D9C1256F2300360969,Verschmutzung (Umwelt),ND,s. Umweltverschmutzung
-4FC0CEBAF72A87ECC12583D70059334C,Versiegelung (Fläche/Boden),ND,s. Flächenversiegelung
-40A910EE58A93DACC1256F230035C99A,Versöhnung,DS,Wieder Zusammenfinden/Vertragen nach Konflikten etc.
-74BE595DB7B39697C1256F2300360979,Verunreinigung,ND,s. Umweltverschmutzung
-0897BC5FDEC57850C1256F230035C9AA,Verwahrlosung,DS,"I.e.S. auffällige Entwicklungs- und Verhaltensformen v.a. bei Kindern und Jugendlichen, die als Abweichen von der Norm zu einem Konflikt mit der geltenden gesellschaftlichen Ordnung führen."
-1ED1321AC127662DC125844A005DFB43,Verwertung von Kunststoffabfällen,ND,s. Werkstoffliches Recycling
-7E2A55E3FBEDAA57C1256F230036097C,Verwüstung (Desertifikation),ND,s. Desertifikation
-5D50A4E42B6A9D1BC1257D9500616314,Wärmepumpe,D,s.a. Geothermie
-7F67C5FB4A59D3E1C1256F230035E355,Wald,D,s.a. Waldsterben
-F3F82A8D57C63B0BC1256F230035E365,Waldsterben,D,s.a. Saurer Regen
-246F0129C6A5EE46C1256F230035E375,Waschmittel,D,s.a. Tenside
-E827A8B811D803B9C1256F230035CA76,Waschmittel,DS,Meist pulverförmige Erzeugnisse zum Waschen von Wäsche oder Waschstücke bzw. -lotionen zur Körperpflege.
-A8A6864BD5CA3AFDC12572D80034B797,Waschmittelphosphate,ND,s. Tenside
-F6DACF4642983614C1256F230035E383,Wasseraufbereitung,D,s.a. Wasserverschmutzung
-44E64EDBA12082CFC1256F2300360A89,Wasserbedrohung,ND,s. Wasserverschmutzung
-53059C830750F4F9C1256F2300360A8C,Wasserenergie,ND,s. Erneuerbare Energie
-B93CFEA627181CC2C1256F230035CA84,Wasserfall,DS,"Absturz fließenden Wassers, oft in Stufen (Kaskaden); oft zur Energieerzeugung genutzt. Beispiele: Angel Fall, Yosemite-Fall, Niagarafälle, Triberger Fälle etc."
-A3841A50B0982196C125842200376F33,Wasserkosten,ND,s. Wasserverbrauch
-99E7D22229E1602EC1256F2300360A97,Wasserkraft,DS,"Wasserkraft (auch: Hydroenergie) ist eine regenerative Energiequelle. Der Begriff bezeichnet die Umsetzung potenzieller oder kinetischer Energie des Wassers mittels einer Wasserkraftmaschine in mechanische Arbeit. Bis zum Anfang des 20. Jahrhunderts wurde Wasserkraft hauptsächlich in Mühlen genutzt. Heute wird fast immer elektrischer Strom mit Hilfe von Generatoren erzeugt. Mit einem Anteil von 15,58 % an der weltweiten Stromerzeugung war Wasserkraft 2011 nach der Verstromung von Kohle und Erdgas und vor der Kernenergie die drittbedeutendste Form der Stromproduktion."
-5320F9FD7CA89A90C1258422003B8C37,Wassernutzung,ND,s. Wasserverbrauch
-1BD8A6CD0DFF66A3C1256F230035CA88,Wasserpflanzen,DS,"Wasserpflanzen oder Hydrophyten sind Pflanzen, die ganz oder teilweise unter Wasser leben. Es sind Landpflanzen, die sich sekundär an das Leben im Wasser angepasst haben. Wasserpflanzen kommen im Süß-, Brack- und Meerwasser vor."
-FC7998D96B1045A1C1256F2300360AA6,Wasserreinhaltung,ND,s. Gewässerschutz
-09939FC1F2C634DEC1256F2300360AA9,Wasserschutz,ND,s. Gewässerschutz
-EB9497BD7AD6C11FC125842700580829,Wasserschutzgebiet,DS,"Wasserschutzgebiete (WSG) sind Gebiete, in denen zum Schutz von Gewässern (Grundwasser, oberirdische Gewässer, Küstengewässer) vor schädlichen Einflüssen besondere Ge- und Verbote gelten. In Wasserschutzgebieten gelten festgelegte Verbote und Handlungsbeschränkungen, um das Wasser vor Verunreinigungen zu schützen."
-24D1ED2E7BB67007C1256F230035E390,Wasserverschmutzung,D,s.a. Gewässerschutz
-793D96B67C7ADE16C125842200382357,Wasserversorgung,D,s.a. Wasserverbrauch
-6BD0A8E3D65165B3C1256F230035E39C,Wasserwirtschaft,D,s.a. Abwasser
-978A3EB7BD300E6AC1256F9A0030C141,Wasserwirtschaft,D,s.a. Abwasser
-A23B1FAF6F53B4BDC1256F230035CA90,Wasserwirtschaft,DS,"Gesamtheit der Planungen und Massnahmen, die der Ordnung, Nutzung und Pflege der Wasservorkommen eines Einzugsgebietes dienen. Die wichtigsten Bereiche der Wasserwirtschaft sind die Be-, Entwässerung, Wasserversorgung, Stadtentwässerung, Gewässerschutz."
-C258557505C5B665C1256F230035E39A,Wasserwirtschaft,D,s.a. Gewässerschutz
-3BCA511DDB5A8670C125842200382CAD,Wasserwirtschaft,D,s.a. Wasserverbrauch
-095C1865229E63E1C1257233003D7B80,Weiterverwendung (Recycling),ND,s. Recycling
-8E45A841F1F88B05C1257233003D9BFC,Weiterverwertung (Recycling),ND,s. Recycling
-705AFEC50DEE85CAC1256F230035CACB,"Weitsch, Friedrich Georg",DS,Deutscher Maler und Radierer (1758-1828).
-44FAF4CA04EE016FC1256F2300360AF5,Weitsichtigkeit,DS,"Bei der allgemeinsprachlich Weitsichtigkeit genannten Übersichtigkeit (Synonym: Hyperopie oder Hypermetropie) handelt es sich um einen sogenannten axialen Brechungsfehler des Auges (Ametropie), bei dem der Augapfel im Verhältnis zur Brechkraft seiner optischen Einrichtung zu kurz beziehungsweise die Brechkraft zu gering ist. Dies führt dazu, dass sich die Bildlage für optisch unendlich weit entfernte Objekte bei entspanntem (nicht akkommodiertem) Auge nicht in der Netzhautebene befindet, und damit eine wesentliche Voraussetzung für einen scharfen Seheindruck nicht erfüllt ist."
-B587A9B4C3CEC0D2C1258312005E9B36,Weitsprung,DS,"Als Weitsprung bezeichnet man eine olympische Disziplin der Leichtathletik, in der ein Sportler versucht, nach einem Anlauf mittels eines einzelnen Sprungs eine möglichst große Weite zu erzielen. Weitsprung wird als Einzeldisziplin sowie als Mehrkampfdisziplin (Siebenkampf, Zehnkampf) ausgetragen. Als Abwandlung gibt es den Dreisprung. Der Weitsprung ist seit 1896 olympische Disziplin für Männer und seit 1948 für Frauen. Von 1900 bis 1912 wurde bei Olympischen Spielen auch ein Wettbewerb im Standweitsprung, ohne Anlauf, ausgetragen."
-2B1AA15784002579C1256F2300360B02,Wellenergie,ND,s. Erneuerbare Energie
-3E4FF5E5FEF0BDC6C125843C00579725,Wellenkraftwerk,DS,"Wellenkraftwerke sind eine Form kleinerer Wasserkraftwerke. Sie nutzen die Energie der Meereswellen zum Gewinnen elektrischen Stroms und zählen zu den erneuerbaren Energien. Bisher realisierte Anlagen sind Prototypen und dienen verschiedenen Versuchen und Erprobungen. Im Unterschied zum Gezeitenkraftwerk wird nicht der Tidenhub zwecks Nutzung der Energiedifferenz zwischen Ebbe und Flut ausgenutzt, sondern die kontinuierliche Wellenbewegung."
-F89C0FBC3127C7EBC12572DB002C89D3,Wellenlänge,DS,"Die Wellenlänge (Lambda) iner periodischen Welle ist der kleinste Abstand zweier Punkte gleicher Phase. Dabei haben zwei Punkte die gleiche Phase, wenn sie im zeitlichen Ablauf die gleiche Auslenkung (Elongation) und die gleiche Bewegungsrichtung haben. Die Wellenlänge ist das räumliche Analogon zur zeitlichen Periodendauer."
-28F1AC8368D2B5AFC12572DB00348C00,Weltklimakonferenz,ND,s. Umweltschutz
-B7AA607CE3B80778C1258146005B37E4,Weltraumschrott,ND,s. Weltraummüll
-9ABEDAB7B7AC4CA9C1257987005D138E,Wiederaufbereitung,ND,s. Recycling
-4928C6D1E1DEC6E5C1257233003D57A1,Wiederverwendung (Recycling),ND,s. Recycling
-4EA1C9336695757CC1257233003D8C8A,Wiederverwertung (Recycling),ND,s. Recycling
-DC1C4609A9D5F437C1258469005B477B,Wildtiermanagement,D,s.a. Landschaftsschutz
-9DFF4F278510947BC1256F2300360BC3,Windkraft,ND,s. Windenergie
-3BF76438B39041F3C125846D0057AB3E,Windkraftwerk,D,s.a. Windenergie
-32673B0D0ED77981C125847200556184,Wintersmog,ND,s. Smog
-0E8969500CDEE525C12572DF003D23E0,World Wide Fund of Nature,ND,s. Umweltschutz
-4BD26543CC85561EC12572DF003D3983,World Wildlife Fund,ND,s. Umweltschutz
-7BFD843B9C0BDE51C1256F230035E49E,Wüste,D,s.a. Desertifikation
-C44D43751595EF78C125772C0038497D,Wüstenbildung (fortschreitende),ND,s. Desertifikation
-DC789C6F202D6926C12572DF003D104B,WWF,ND,s. Umweltschutz
-057A1910EBDA492AC1256F2300360C2D,Yellowstone-Park,ND,s. Yellowstone Nationalpark
-6519D172FDF0D92FC12572E30027ABDF,Yellowstone National Park,ND,s. Yellowstone Nationalpark
-62C9D2424AB7A28DC1256F230035CBCA,Yellowstone Nationalpark,DS,"Der Yellowstone Nationalpark liegt im Quellgebiet des Yellowstone Rivers (schiffbarer Nebenfluss des Missouri in Nordamerika); ein Naturschutzgebiet von 8992qkm, mit den Yellowstonesee, dem Yellowstone-Canon, heißen Quellen, Geysiren."
-45DA1DC55EA61EEDC1256F2300360C2B,Yellowstone (Fluß),ND,s. Yellowstone Nationalpark
-893944FBF02151D2C1256F2300360C33,Yosemite-Nationalpark,ND,s. Yosemite
-9DCBBBAB6E0D61AFC12572E30028EB2D,Yosemite National Park,ND,s. Yosemite
-4E29CC75EF7FF2ECC1256F230035CBCE,"Youmans, Vincent",DS,Amerikanischer Komponist (1898-1964).
-C458D43AF2184DFAC1256F230035CBCF,Youngplan,DS,"Plan des Amerikaners Owen D. Young zur Regelung der deutschen Reparationen nach dem ersten Weltkrieg, löste 1930 den Dawesplan ab. War praktisch nur bis 1931, formal bis 1932 in Kraft."
-817F62C9F5621AE9C125772B0051694B,Zeigerart,ND,s. Bioindikator
-1B0D383ED7C34037C125772B005175F5,Zeigerpflanze,D,s.a. Bioindikator
-D750D59AACADEC53C1256F230035CC01,Zeigerpflanze,DS,"Bodenzeigende Pflanzen, die nur oder vorzugsweise auf Böden mit bestimmten Eigenschaften wie sauer, basisch, kalkhaltig, silikatreich, erzhaltig vorkommen, i.Ggs. zu bodenvagen Pflanzen, die nicht an bestimmte Böden gebunden sind."
+DOKUMENT-ID,SCHLAGWORT,ART,TEXT,discipline,narrower,broader
+2B8E5A2AD8BEB60FC1257A44005A7FEE,Abbauprozess (See),ND,s. Eutrophierung,,,F8C4780273F77E89C1256F230035B4BA
+B1E7622B1B047058C1256F230035E51D,Abfall,ND,s. Müll,,,8EFDDEBA26CFBB61C1256F230035BF9F
+2CDEBC423891F275C1256F230035E51E,Abfallbeseitigung,ND,s. Müllbeseitigung,,,A5E49E28ACDCDB7DC1256F230035BFA1
+3211CF30C185920AC12572F8002BD169,Abfallbeseitigung,ND,s. Recycling,,,BC0E5C6D7FD5B396C1256F230035C2DE
+1163C068D0DFFF88C125742E005468BE,Abfallcontainer,ND,s. Müllbeseitigung,,,A5E49E28ACDCDB7DC1256F230035BFA1
+4FD92BF8B9ACFDD4C1256F230035E51F,Abfalldeponie,ND,s. Mülldeponie,,,56EBBB54EF5CB399C1256F230035BFA2
+2665610178F8F936C1257A4600531EF4,Abfallentsorgung,ND,s. Müllbeseitigung,,,A5E49E28ACDCDB7DC1256F230035BFA1
+C0E0DD2EF181B8F5C1257A460053330F,Abfallentsorgung,ND,s. Recycling,,,BC0E5C6D7FD5B396C1256F230035C2DE
+D961F6A1B3832040C1257A46005338B3,Abfallentsorgung,ND,s. Müllverbrennung,,,9107B6A56BB21D75C1256F230035BFA9
+F9298D1544AEB886C1257A4600533E23,Abfallentsorgung,ND,s. Müllverwertung,,,CD648CAE8F3B985BC1256F230035BFAB
+FF37A1D1A00AE6E0C1257A4600535B1E,Abfallentsorgung,ND,s. Müll,,,8EFDDEBA26CFBB61C1256F230035BF9F
+B7CEAFBBB0F2A356C1257CE4005C8C13,Abfallrecycling,ND,s. Recycling,,,BC0E5C6D7FD5B396C1256F230035C2DE
+1220ADD4565AFBFBC1256F230035E520,Abfallverarbeitung,ND,s. Müllbeseitigung,,,A5E49E28ACDCDB7DC1256F230035BFA1
+C103FA57C61527C2C12572F8002BE808,Abfallverbrennung,ND,s. Müllverbrennung,,,9107B6A56BB21D75C1256F230035BFA9
+0415E57C1913EC63C125783D005433AA,Abfallvermeidung,ND,s. Müllvermeidung,,,7ED5B62625C10ADDC1256F230035BFAA
+1AA9547B9DE01901C1257A4600538C9E,Abfallverwertung,ND,s. Recycling,,,BC0E5C6D7FD5B396C1256F230035C2DE
+6B847352382EEDC5C1257A46005384DB,Abfallverwertung,ND,s. Müllverwertung,,,CD648CAE8F3B985BC1256F230035BFAB
+D52BECD8FDE1D332C1256F230035E521,Abfallwirtschaft,ND,s. Müll,,,8EFDDEBA26CFBB61C1256F230035BF9F
+EE2A26A8C443CF32C1256F230035E529,Abgas,ND,s. Schadstoff,,,E6C9012D8253F94AC1256F230035C469
+9A6DD010CCAE813BC1257A4600541A94,Abgase,ND,s. Schadstoff,,,E6C9012D8253F94AC1256F230035C469
+5E3BBF7A81CC75E4C1257A4600543377,Abgasfilterung,ND,s. Abgaskatalysator,,,630FC2C84892EF74C1256F230035ACED
+630FC2C84892EF74C1256F230035ACED,Abgaskatalysator,DS,Vorrichtung zur Abgasreinigung beim Kfz und in der Industrie.,"Umweltgefährdung, Umweltschutz",,
+743DC381A517379CC1256F230035CC89,Abgaskatalysator,D,s.a. Luftreinhaltung,,,E4B4FEEE0DE32E3BC1256F230035BDBF
+1504AD18ECDCE368C12576C600583E04,Abgasnachbehandlung,ND,s. Abgaskatalysator,,,630FC2C84892EF74C1256F230035ACED
+87F50B5CBB50CDF6C1256F230035E52B,Abgasreinigung,ND,s. Abgaskatalysator,,,630FC2C84892EF74C1256F230035ACED
+3750808CE1898E47C12572F8002C3140,Abgasuntersuchung,ND,s. Abgaskatalysator,,,630FC2C84892EF74C1256F230035ACED
+DC3DFABF017BF8E8C1257A4B0056AEA9,Ablaufverhalten,ND,s. Abwasser,,,244569E7D64B9A37C1256F230035AD72
+3FE2D49B33DAD9FAC1257A4D0059AE13,Absaugung,ND,s. Abwasser,,,244569E7D64B9A37C1256F230035AD72
+359255AE33BE15D9C1257A4E00542805,Absorption (Umwelt),ND,s. Umweltbelastung,,,E168B8041C669169C1256F230035C8C2
+A66F580BEA7D04E5C1257A4E00545D71,Absorption (Umwelt),ND,s. Umweltgefährdung,,,0774E066C6F4F270C1256F230035C8C6
+244569E7D64B9A37C1256F230035AD72,Abwasser,DS,"Verunreinigtes Wasser aus Haushalten, Gewerbe- und Industriebetrieben sowie Niederschlagswasser, das vor der Einleitung in einen Wasserlauf in einer Kläranlage zu reinigen ist. Zur Entstehung, Mengen, Entsorgung, Reinigung und Vermeidung.","Umweltgefährdung, Umweltschutz",,
+D408FE311E3FD179C1256F230035CC98,Abwasser,D,s.a. Kläranlage,,,C3AD86D86AC756BFC1256F230035BB19
+A1F6B9C8F5842F11C1256F230035E551,Abwasseranlage,ND,s. Abwasser,,,244569E7D64B9A37C1256F230035AD72
+B8061D2565BED9B5C1256F230035E552,Abwasserbeseitigung,ND,s. Abwasser,,,244569E7D64B9A37C1256F230035AD72
+30FC9B62613B7664C1256F230035E553,Abwasserreinigung,ND,s. Abwasser,,,244569E7D64B9A37C1256F230035AD72
+35FC1D4799236FF6C1256F230035E554,Abwasserreinigung,ND,s. Kläranlage,,,C3AD86D86AC756BFC1256F230035BB19
+D7B5558F291D8301C12577FF005A5BED,Abwasserreinigungsanlage,ND,s. Kläranlage,,,C3AD86D86AC756BFC1256F230035BB19
+BEA0D9797455988CC1257A560055B2CA,Abwasserzweckverband,ND,s. Abwasser,,,244569E7D64B9A37C1256F230035AD72
+5E21DA61D20387FFC1257A5600553A12,Abwärme,ND,s. Erneuerbare Energie,,,89868840F261C7EEC1256F230035B48A
+ECEED8A768FD541DC1256F230035E550,Abwärmenutzung,ND,s. Erneuerbare Energie,,,89868840F261C7EEC1256F230035B48A
+A236F9C0D4C44203C1257A6600390D2F,Aerosol,ND,s. Umweltverschmutzung,,,FCFB21BBF513FA64C1256F230035C8CD
+8B1E21627C874947C1256F230035E594,Agenda 21,ND,s. Nachhaltige Entwicklung,,,7D219AA12A2025CAC1256F230035BFEA
+19FE2380FCFA98B0C1257A9E003096F1,Agrotreibstoff,ND,s. Biokraftstoff,,,A29CB6678CE08F97C1257A9E0030295D
+75B9EC69412273DAC1256F230035E60A,Alternative Energie,ND,s. Erneuerbare Energie,,,89868840F261C7EEC1256F230035B48A
+2FA1A987B7455502C1256F230035E60B,Alternative Energiequelle,ND,s. Erneuerbare Energie,,,89868840F261C7EEC1256F230035B48A
+DE5DD0C835A39E5FC125747800349BD8,Alternative Kraftstoffe,ND,s. Erneuerbare Energie,,,89868840F261C7EEC1256F230035B48A
+C9747CF79CE88E77C1256F230035E60D,Alternativenergie,ND,s. Erneuerbare Energie,,,89868840F261C7EEC1256F230035B48A
+0EB9D92DD9AE73F0C1256F230035E61F,Altglas,ND,s. Recycling,,,BC0E5C6D7FD5B396C1256F230035C2DE
+F25468270354E31FC1257AA3005783C0,Altglassammlung,ND,s. Recycling,,,BC0E5C6D7FD5B396C1256F230035C2DE
+29D72B6A9B03CE4DC1257AA300579F2A,Altglasverwertung,ND,s. Recycling,,,BC0E5C6D7FD5B396C1256F230035C2DE
+411D8C09985330C5C1257AA300585879,Altkleider,ND,s. Recycling,,,BC0E5C6D7FD5B396C1256F230035C2DE
+07323A1F476D9EA6C1257AA3005877EC,Altkleidersammlung,ND,s. Recycling,,,BC0E5C6D7FD5B396C1256F230035C2DE
+F40F8554223E0276C1257AA3005895D9,Altkleiderverwertung,ND,s. Recycling,,,BC0E5C6D7FD5B396C1256F230035C2DE
+1F0CA91F35A30217C1256F230035E625,Altpapier,ND,s. Recycling,,,BC0E5C6D7FD5B396C1256F230035C2DE
+2303A3EBCD84F1C0C1256F230035E627,Altpapieraufbereitung,ND,s. Recycling,,,BC0E5C6D7FD5B396C1256F230035C2DE
+5D9E813A5A1C756FC1256F230035E623,Altöl,ND,s. Recycling,,,BC0E5C6D7FD5B396C1256F230035C2DE
+E9775FCDCD8A30FEC1257AA600597B0F,Amboseli-Nationalpark,ND,s. Nationalpark,,,3B8C871EA49958FDC1256F230035C016
+50A75243E5D75037C125798A005D001D,Anti-Atomkraft-Bewegung,ND,s. Atomausstieg,,,BCB4EE6447587771C1256F230035E739
+55E614C593DAE172C1256F230035CDAF,Artenschutz,D,s.a. Biotop,,,742F14EC34FA7AC4C1256F230035B0CF
+B514C02CFBF9E96AC1256F230035CDAE,Artenschutz,D,s.a. Umweltschutz,,,6CAB7FAFF3596DC8C1256F230035C8C8
+E8037F26BC213C4BC1256F230035CDAB,Artenschutz,D,s.a. Nationalpark,,,3B8C871EA49958FDC1256F230035C016
+BCB4EE6447587771C1256F230035E739,Atomausstieg,DS,"Als Atomausstieg bezeichnet man vier Sachverhalte: 1. die Entscheidung, beim Eintreten bestimmter Bedingungen oder zu einem bestimmten zukünftigen Zeitpunkt vorhandene Kernkraftwerke abzuschalten oder 2. den Prozess bzw. Zeitraum, in dem man diese Entscheidung in die Tat umsetzt oder 3. die im Jahr 2000 getroffene Vereinbarung der rot-grünen Bundesregierung mit den vier deutschen Kernkraftwerksbetreibern, die deutschen Kernkraftwerke nach dem Erzeugen bestimmter Strommengen abzuschalten (auch Atomkonsens genannt) oder 4. die Entscheidung des Deutschen Bundestages vom 30. Juni 2011, die im Herbst 2010 beschlossene Laufzeitverlängerung rückgängig zu machen, acht Kernkraftwerke dauerhaft abzuschalten und die übrigen neun spätestens zu bestimmten Zeitpunkten dauerhaft abzuschalten (Dreizehntes Gesetz zur Änderung des Atomgesetzes (AtG)). Diese atompolitische Kehrtwende beschloss Bundeskanzlerin Angela Merkel wenige Tage nach der Nuklearkatastrophe von Fukushima (Japan) im März 2011, später auch ihr Kabinett, der Bundestag und der Bundesrat. In allen vier Fällen bedeutet 'Atomausstieg' nur, dass im jeweiligen Land kein Strom aus Atomenergie erzeugt wird. Sobald ein Land Strom importiert, importiert es einen 'Strommix', in dem je nach Land auch Atomstrom enthalten sein kann, jedoch nicht muss. Der Begriff ""Atomausstieg"" entstand als politisches Schlagwort in der Anti-Atomkraft-Bewegung. Er wurde seit etwa Mitte der 1970er Jahre gefordert; nach der Katastrophe von Tschernobyl 1986 forderten mehr Menschen – auch in anderen europäischen Ländern – Atomausstiege in ihren Ländern. Pannen, Störfälle, bekannt gewordene Vertuschungen, die seit über 50 Jahren ungelöste Endlagerfrage sowie 2011 die Katastrophe in vier japanischen Reaktorblöcken in Fukushima haben die Frage nach dem Atomausstieg sowie die Frage, wie lange man alte Kernkraftwerke betreiben will bzw. angesichts der Restrisiken darf, immer wieder aufgeworfen.","Umweltgefährdung, Umweltschutz",,
+8F9C5002CD3BB91AC125798A005CBCF6,Atomenergie,ND,s. Atomausstieg,,,BCB4EE6447587771C1256F230035E739
+BD769F29EDD5A88FC125798A005D5176,Atomkatastrophe,ND,s. Reaktorkatastrophe,,,254D2C5F291CE1ADC1256F230035C2CF
+4C30D0C21ACA1C70C125798A005CDCC1,Atomkonsens,ND,s. Atomausstieg,,,BCB4EE6447587771C1256F230035E739
+BC85A668DC70281FC1257AF3005990CB,Atomkraftgegner,ND,s. Atomausstieg,,,BCB4EE6447587771C1256F230035E739
+78D4BA048116A15BC1256F230035E74E,Atommüll,ND,s. Sondermüll,,,4CF616DA1F6327EDC1256F230035C5FE
+8043CEC91EEFDA21C125798A005DC27C,Atompolitik,ND,s. Atomausstieg,,,BCB4EE6447587771C1256F230035E739
+BE8D2E7EB42EC4CBC125798A005CF11C,Atomstrom,ND,s. Atomausstieg,,,BCB4EE6447587771C1256F230035E739
+E1420986F5332B4EC1256F230035E751,Atomunfall,ND,s. Reaktorkatastrophe,,,254D2C5F291CE1ADC1256F230035C2CF
+EAA3C361ED25134AC1257AF5005981D9,Aufbereitung (Recycling),ND,s. Recycling,,,BC0E5C6D7FD5B396C1256F230035C2DE
+102D70D9AE90D4A0C1257AF500598DF1,Aufbereitungsanlage,ND,s. Recycling,,,BC0E5C6D7FD5B396C1256F230035C2DE
+D1CDC163D59AAFFEC1256F230035CDF8,Aufforstung,D,s.a. Landschaftsschutz,,,B7CD39126ABB3BCDC1256F230035BCA2
+E4402B0EDF9093C6C1256F230035E793,Ausbeutung (Rohstoff),ND,s. Umweltgefährdung,,,0774E066C6F4F270C1256F230035C8C6
+531AF7AB56B397C7C1257738004711B8,Ausstoß (Umwelt),ND,s. Emission (Umwelt),,,0450AAC6AF5A0DA1C1256F230035B43C
+3F5D33146BA00F8CC125773800470763,Austrag (Umwelt),ND,s. Emission (Umwelt),,,0450AAC6AF5A0DA1C1256F230035B43C
+CBFF6E5F61781982C1257B0D003A211C,Automatische Abschaltung,ND,s. Energiesparen,,,754913BDE042F9FCC1256F230035B44A
+F92CED8D7396B82AC1257B1000476AB7,Bachrenaturierung,ND,s. Renaturierung,,,6F94418C59FD1FBEC1256F230035C341
+836F1A8731519A0CC1257B1F0064C16B,Bauen,ND,s. Nachhaltige Entwicklung,,,7D219AA12A2025CAC1256F230035BFEA
+1124B304400D9BBFC1257B1F00650C4C,Bauen (nachhaltig),ND,s. Nachhaltige Entwicklung,,,7D219AA12A2025CAC1256F230035BFEA
+3C8F932B7D11ABF0C1256F230035CEE5,Bauindustrie,D,s.a. Bebauungsplan,,,D951E1A122805FF3C1256F230035AFE4
+1172C94030ABD8F5C1257B20005D6B7E,Bauleitplanung,ND,s. Bebauungsplan,,,D951E1A122805FF3C1256F230035AFE4
+D5821039304CF440C1256F230035CEEA,Baum (Pflanze),D,s.a. Waldsterben,,,4C6C5C533A3F7921C1256F230035CA43
+84BE5BD914C840BCC1256F230035E878,Baumsterben,ND,s. Waldsterben,,,4C6C5C533A3F7921C1256F230035CA43
+B1D75BA7733DE4AFC1257B210051B371,Bauphysik,ND,s. Lärmschutz,,,715A17120D3E399BC1256F230035BCB9
+2FBA37C85A7DD733C1257B21005200E4,Baurestmassen,ND,s. Recycling,,,BC0E5C6D7FD5B396C1256F230035C2DE
+0CB12E0D41BD1CBBC1257524004AE45C,Bautechnik,D,s.a. Umwelttechnologie,,,0AACEB9FE5AE1486C1256F230035C8CA
+D951E1A122805FF3C1256F230035AFE4,Bebauungsplan,DS,"Hier der Plan zur Bebauung oder die Bebauung selbst von noch ""unberührter"" Natur. Besprochen werden nicht nur die Planung, sondern auch Auswirkungen.","Umweltgefährdung, Umweltschutz",,
+FC986BD5395234B5C125731E00385D2B,Belastung (Umwelt),ND,s. Umweltbelastung,,,E168B8041C669169C1256F230035C8C2
+67A597ECDA4D9614C1257B2E0060CBCB,Belo Monte,ND,s. Erneuerbare Energie,,,89868840F261C7EEC1256F230035B48A
+B670EF3D6241BED0C1257B2E0060D340,Belo Monte,ND,s. Nachhaltige Entwicklung,,,7D219AA12A2025CAC1256F230035BFEA
+F0AEDBF1002DB143C1257B2E0060EC94,Belo Monte,ND,s. Umweltgefährdung,,,0774E066C6F4F270C1256F230035C8C6
+D1FD6D9243254213C12572AA0032DFBE,Besonders überwachungsbedürftige Abfälle,ND,s. Sondermüll,,,4CF616DA1F6327EDC1256F230035C5FE
+A68466D227DBFB16C1257B7500540C77,Bio-basierter Kunststoff,ND,s. Biokunststoff,,,EC6CF766D6B63D33C1257B750053B809
+45882F6C677CF897C125747800342F15,Biodiesel,ND,s. Biokraftstoff,,,A29CB6678CE08F97C1257A9E0030295D
+0FA49956487D30E2C1256F230035E9B5,Bioenergie,ND,s. Erneuerbare Energie,,,89868840F261C7EEC1256F230035B48A
+453BB2C800949BDBC1257A9E0030D61C,Bioethanol,ND,s. Biokraftstoff,,,A29CB6678CE08F97C1257A9E0030295D
+F10EFEF12C56D959C1256F230035E9B6,Biogas,DS,"Biogas ist ein brennbares Gas, das durch Vergärung von Biomasse jeder Art entsteht. Es wird in Biogasanlagen hergestellt, wozu sowohl Abfälle als auch nachwachsende Rohstoffe vergoren werden. Das Präfix Bio weist auf die ""biotische"" Bildungsweise im Gegensatz zum fossilen Erdgas hin, nicht auf eine Herkunft aus ökologischer Landwirtschaft. Das Gas kann zur Erzeugung von elektrischer Energie, zum Betrieb von Fahrzeugen oder zur Einspeisung in ein Gasversorgungsnetz eingesetzt werden. Für die Verwertung von Biogas ist der Methananteil am wichtigsten, da seine Verbrennung Energie freisetzt. Ausgangsstoffe sind biogene Materialien wie die folgenden: vergärbare, biomasse­haltige Reststoffe wie Klärschlamm, Bioabfall oder Speisereste, Wirtschaftsdünger (Gülle, Mist), bisher nicht genutzte Pflanzen sowie Pflanzenteile (beispielsweise Zwischenfrüchte, Pflanzenreste und dergleichen) und gezielt angebaute Energiepflanzen (Nachwachsende Rohstoffe).","Umweltgefährdung, Umweltschutz",,
+631F0B7F827A0B85C1257B740058906F,Biogasanlage,ND,s. Biogas,,,F10EFEF12C56D959C1256F230035E9B6
+EDE4D19ED6318C96C1257B740058B100,Biogasproduktion,ND,s. Biogas,,,F10EFEF12C56D959C1256F230035E9B6
+254FF7BC28506A1AC1257354002D8504,Biogeozönose,ND,s. Biotop,,,742F14EC34FA7AC4C1256F230035B0CF
+73D142D01C891625C1256F230035B0C3,Bioindikator,DS,"Ein Bioindikator, auch Indikatorart, Zeigerart oder Indikatororganismus, ist ein Lebewesen, welches auf Einflüsse des Menschen mit der Veränderung dessen Lebensfunktionen oder dessen Vorkommen/Fehlen reagiert, sowie die vom Menschen in die Umwelt eingebrachten Stoffe speichert.","Umweltgefährdung, Umweltschutz",,
+7DA8F6F2FFC6B422C1257B740058EBD9,Biokapazität,ND,s. Nachhaltige Entwicklung,,,7D219AA12A2025CAC1256F230035BFEA
+37D2731DB5696A69C1257A9E0030FCE5,Biokerosin,ND,s. Biokraftstoff,,,A29CB6678CE08F97C1257A9E0030295D
+A29CB6678CE08F97C1257A9E0030295D,Biokraftstoff,DS,"Biokraftstoffe (auch Biotreibstoffe, Agrotreibstoffe) sind eine Form der Biomasse. Es handelt sich um flüssige oder gasförmige Kraftstoffe, die aus Biomasse hergestellt werden. Sie kommen für den Betrieb von Verbrennungsmotoren in mobilen und stationären Anwendungen zum Einsatz. Ausgangsstoffe der Biokraftstoffe sind nachwachsende Rohstoffe wie Ölpflanzen, Getreide, Zuckerrüben oder -rohr, Wald- und Restholz, Holz aus Schnellwuchsplantagen, spezielle Energiepflanzen und tierische Abfälle. Das Präfix Bio weist hier nicht auf eine Herkunft aus ökologischer Landwirtschaft hin, sondern auf den pflanzlichen Ursprung im Gegensatz zu Mineralöl. Die Klimaneutralität und ökologische Vorteilhaftigkeit von Biokraftstoffen ist umstritten.","Umweltgefährdung, Umweltschutz",,
+EC6CF766D6B63D33C1257B750053B809,Biokunststoff,DS,"Als Biokunststoff oder auch Bioplastik (engl. bioplastics) werden Kunststoffe bezeichnet, die auf Basis von nachwachsenden Rohstoffen erzeugt werden (bio-basierte Kunststoffe oder biobased plastics). Nach einer alternativen Definition sind Biokunststoffe alle biologisch abbaubaren Kunststoffe unabhängig von ihrer Rohstoffbasis, welche alle Kriterien zum Nachweis der biologischen Abbaubarkeit und Kompostierbarkeit von Kunststoff(produkt)en erfüllen (bio-abbaubare Kunststoffe oder compostable plastics).","Umweltgefährdung, Umweltschutz",,
+1BC037858F0C2801C1257B740058F724,Biologische Kapazität,ND,s. Nachhaltige Entwicklung,,,7D219AA12A2025CAC1256F230035BFEA
+0A1938F26FBAEB05C1257B7500546504,Biologische Kläranlage,ND,s. Kläranlage,,,C3AD86D86AC756BFC1256F230035BB19
+C70CEFF4922D38F2C1256F230035E9BA,Biologische Klärung,ND,s. Kläranlage,,,C3AD86D86AC756BFC1256F230035BB19
+DD78100168140AF6C1256F230035E9C1,Biologisches Gleichgewicht,ND,s. Ökologisches Gleichgewicht,,,FA94A5666C135187C1256F230035B700
+C7C72963E4CAA12AC1257B760035A124,Biomass-to-Liquid,ND,s. Biokraftstoff,,,A29CB6678CE08F97C1257A9E0030295D
+E51A29FD08BEDB14C1257B7600360C32,Biomassekraftwerk,ND,s. Erneuerbare Energie,,,89868840F261C7EEC1256F230035B48A
+034E6132D2FC148FC1257B760035CC68,Biomasseverflüssigung,ND,s. Biokraftstoff,,,A29CB6678CE08F97C1257A9E0030295D
+D6C03D94262296EAC1257A9E0030DDEC,Biomethan,ND,s. Biokraftstoff,,,A29CB6678CE08F97C1257A9E0030295D
+4467FF09FF45F87EC1257B750053E433,Bioplastics,ND,s. Biokunststoff,,,EC6CF766D6B63D33C1257B750053B809
+742F14EC34FA7AC4C1256F230035B0CF,Biotop,DS,"Von der Umwelt abgegrenzter, relativ einheitlich gestalteter Lebensraum, z.B. Wiese, Moor, See. Auch der Schutz dieses Lebensraumes bzw. Erhaltung.","Umweltgefährdung, Umweltschutz",,
+706FCB0AEBDD04CFC1256F230035E9C4,Biotopschutz,ND,s. Biotop,,,742F14EC34FA7AC4C1256F230035B0CF
+314157DE840BC962C1257A9E00308F4B,Biotreibstoff,ND,s. Biokraftstoff,,,A29CB6678CE08F97C1257A9E0030295D
+FD7742F86B8B0E8BC1256F230035D074,Biozönose,D,s.a. Biotop,,,742F14EC34FA7AC4C1256F230035B0CF
+36A3430BF1A7EB20C1257B79002FC116,Bleiche,ND,s. Tenside,,,591C2BB85ECAA7FFC1256F230035C79C
+A79FF07B06EC5341C1257B79002FEC60,Bleichen,ND,s. Tenside,,,591C2BB85ECAA7FFC1256F230035C79C
+1500DAEDAA39C4C2C1257B7900300C93,Bleichmittel,ND,s. Tenside,,,591C2BB85ECAA7FFC1256F230035C79C
+8A4E386D950F5DC3C1256F230035D0A2,Boden (Bodenkunde),D,s.a. Bodenzerstörung,,,F64616E38F62F29AC1256F230035B110
+CBDE1CABB3309613C1256F230035D0A1,Boden (Bodenkunde),D,s.a. Bodenverschmutzung,,,EFDE3581D1C7D369C1256F230035B10F
+CF3B346C402E0BB3C1256F230035EA19,Bodenbelastung,ND,s. Bodenverschmutzung,,,EFDE3581D1C7D369C1256F230035B10F
+7424B072BE6090B1C1256F230035D0A6,Bodenerosion,D,s.a. Bodenzerstörung,,,F64616E38F62F29AC1256F230035B110
+C04E923C3632194FC1256F230035D0A8,Bodenkunde,D,s.a. Bodenzerstörung,,,F64616E38F62F29AC1256F230035B110
+F59AA46B52CD4583C1256F230035D0AA,Bodenkunde,D,s.a. Bodenverschmutzung,,,EFDE3581D1C7D369C1256F230035B10F
+59B8028029AF550FC1256F230035EA23,Bodennutzung,ND,s. Bodenverschmutzung,,,EFDE3581D1C7D369C1256F230035B10F
+ECA117AE8802E12AC1256F230035EA22,Bodennutzung,ND,s. Bodenzerstörung,,,F64616E38F62F29AC1256F230035B110
+5E89FF14C0501A65C1256F230035EA27,Bodenschaden,ND,s. Bodenverschmutzung,,,EFDE3581D1C7D369C1256F230035B10F
+96B6BCD4C874D896C1256F230035EA26,Bodenschaden,ND,s. Bodenzerstörung,,,F64616E38F62F29AC1256F230035B110
+B69998A803AD1354C1256F230035EA2E,Bodenverbrauch,ND,s. Bodenzerstörung,,,F64616E38F62F29AC1256F230035B110
+F0A938903B37CA79C1256F230035EA2F,Bodenverdichtung,ND,s. Bodenzerstörung,,,F64616E38F62F29AC1256F230035B110
+24A22F32B9CA8704C1256F230035EA30,Bodenversalzung,ND,s. Bodenzerstörung,,,F64616E38F62F29AC1256F230035B110
+70371CE433B47C5AC1256F230035D0B1,Bodenverschmutzung,D,s.a. Bodenzerstörung,,,F64616E38F62F29AC1256F230035B110
+EFDE3581D1C7D369C1256F230035B10F,Bodenverschmutzung,DS,"Allgemeine Verschmutzung bzw. Belastungen des Bodens, durch Bodennutzung oder Industrie o.ä. ausgelöst, die zu einer Zerstörung des Bodens führen kann.","Umweltgefährdung, Umweltschutz",,
+66D4944F6124A4B0C12583D700592A17,Bodenversiegelung,ND,s. Flächenversiegelung,,,6DC54EF523AEC256C12583D700591BDA
+AFA4ECB07077ACCBC1256F230035D0B3,Bodenzerstörung,D,s.a. Bodenverschmutzung,,,EFDE3581D1C7D369C1256F230035B10F
+F64616E38F62F29AC1256F230035B110,Bodenzerstörung,DS,"Sammelbegriff für alle Arten von Bodenschäden, die v.a. eine Zerstörung der Fruchtbarkeit des Bodens zur Folge haben (z.B. durch Zerstörung der Vegetation, Überweidung, Grundwasserspiegelabsenkung, Überdüngung, Ablagerung von Schadstoffen).","Umweltgefährdung, Umweltschutz",,
+2F5837EFBA70AFCCC1256F230035D0BA,Borkenkäfer,D,s.a. Waldsterben,,,4C6C5C533A3F7921C1256F230035CA43
+3B32F66BFD1130FBC1257BB400543CF0,Brennstoff (Energie),ND,s. Erneuerbare Energie,,,89868840F261C7EEC1256F230035B48A
+CC96823DEAE66F5EC1257BD300533DDB,BtL,ND,s. Biokraftstoff,,,A29CB6678CE08F97C1257A9E0030295D
+A8F5A660FE4A9FF1C1257A9E0030E5BA,BtL-Kraftstoff,ND,s. Biokraftstoff,,,A29CB6678CE08F97C1257A9E0030295D
+CF7C71CCC69885E3C12573FA003F6D73,Bund für Umwelt und Naturschutz Deutschland e.V.,ND,s. Umweltschutz,,,6CAB7FAFF3596DC8C1256F230035C8C8
+10CC9F55BC7A6E99C1257011003354D8,Bundesimmissionsschutzgesetz,ND,s. Immission,,,35DAF37D07D014D7C1256F230035B945
+967A087611202D2CC1257BFB0047DCFD,CO2-Bilanz,ND,s. Umweltbelastung,,,E168B8041C669169C1256F230035C8C2
+E51159E7905669B6C1257BFB0047EE93,CO2-Bilanz,ND,s. Umweltschutz,,,6CAB7FAFF3596DC8C1256F230035C8C8
+7B04AEE106545DFBC1257BFB0048195F,CO2-Emission,ND,s. Umweltgefährdung,,,0774E066C6F4F270C1256F230035C8C6
+48C66B805852B6BFC1257EF9005B74F0,CO2-Fußabdruck,ND,s. Umweltbelastung,,,E168B8041C669169C1256F230035C8C2
+6F5D7A6C6802C094C1257EF9005B6914,CO2-Fußabdruck,ND,s. Umweltschutz,,,6CAB7FAFF3596DC8C1256F230035C8C8
+B4B983367159A127C125741F00398963,Castor,ND,s. Sondermüll,,,4CF616DA1F6327EDC1256F230035C5FE
+BF2C621639DFF84AC1257A9E0030EF95,Cellulose-Ethanol,ND,s. Biokraftstoff,,,A29CB6678CE08F97C1257A9E0030295D
+1ECF9EB270E722DCC1256F230035EB34,Chemiemüll,ND,s. Sondermüll,,,4CF616DA1F6327EDC1256F230035C5FE
+CFC44F2DE9DBC4BCC1257BFB0044BDE4,Cloaca Maxima,ND,s. Abwasser,,,244569E7D64B9A37C1256F230035AD72
+2E8093AC52DB88BEC1256F55003760E3,Container (Abfall),ND,s. Müll,,,8EFDDEBA26CFBB61C1256F230035BF9F
+D5005386B362BAFFC1257C14005480E6,Dach isolieren,ND,s. Energiesparen,,,754913BDE042F9FCC1256F230035B44A
+933B67C0DA4F562CC1256F230035EBD7,Deponie,ND,s. Mülldeponie,,,56EBBB54EF5CB399C1256F230035BFA2
+77EE0D0FDFE4E997C1257478003548F8,Deponiegas,ND,s. Erneuerbare Energie,,,89868840F261C7EEC1256F230035B48A
+64E494779B936F0BC1256F8C0035532C,Der Grüne Punkt,ND,s. Müllverwertung,,,CD648CAE8F3B985BC1256F230035BFAB
+C5ADD6B7299D50B7C1257C290062F82F,Desertec,ND,s. Erneuerbare Energie,,,89868840F261C7EEC1256F230035B48A
+D70FAADCE5434574C1257C2900630AD0,Desertec,ND,s. Solarenergie,,,DAB311B439134E54C1256F230035C5F3
+3F540FBCFF2F6443C1256F230035B318,Desertifikation,DS,"Anthropogener Landschaftswandel in Trockengebieten, der zur Verwüstung infolge Übernutzung der Ökosysteme führt. Dabei wird der Vegetationstyp geändert und in dessen Gefolge vor allem Boden- und Wasserhaushalt.","Umweltgefährdung, Umweltschutz",,
+6D9324681AF5FA16C1257C310061FDC2,Dezibel,ND,s. Lärmschutz,,,715A17120D3E399BC1256F230035BCB9
+3319BA58CA33A5BEC1257C3E005C88B3,Diesotto-Motor,ND,s. Energiesparen,,,754913BDE042F9FCC1256F230035B44A
+60CCC907986622D0C12577F100545785,Drei-Wege-Katalysator,ND,s. Abgaskatalysator,,,630FC2C84892EF74C1256F230035ACED
+E0B52859925B1CC2C1256F8B003ACF5A,Dreiwegekatalysator,ND,s. Abgaskatalysator,,,630FC2C84892EF74C1256F230035ACED
+8336A59397EAB9CAC1256F230035EC76,Duales System Deutschland GmbH (Müll),ND,s. Müllverwertung,,,CD648CAE8F3B985BC1256F230035BFAB
+F92F9EADF671501FC1257C5F005D920C,Dynamisierung,ND,s. Renaturierung,,,6F94418C59FD1FBEC1256F230035C341
+FC96C637552FB004C1257C1400563376,Dämmstoff,ND,s. Energiesparen,,,754913BDE042F9FCC1256F230035B44A
+6A43CE24A0D8CE5EC1257C14005644D8,Dämmung,ND,s. Energiesparen,,,754913BDE042F9FCC1256F230035B44A
+08D1AB45C492CC6CC1256F230035D29B,Dünger,D,s.a. Überdüngung,,,A5B689922C42E59AC1256F230035C89D
+1A9E279EEB3F4986C1256F230035D29A,Dünger,D,s.a. Kompost,,,22E95385D1F2DE16C1256F230035BB81
+638E68ED953CF871C1257C59005BEDFF,Dürre,D,s.a. Desertifikation,,,3F540FBCFF2F6443C1256F230035B318
+0706FEC5DEC27DB3C1257C6F005AA77D,Einschalige Wand,ND,s. Energiesparen,,,754913BDE042F9FCC1256F230035B44A
+7EEE906BC8FB4F93C1257C6F005BA913,Einsparung von Ressourcen,ND,s. Energiesparen,,,754913BDE042F9FCC1256F230035B44A
+4B79F815F4E56F08C1256F900032732D,Elektrosmog,ND,s. Umweltverschmutzung,,,FCFB21BBF513FA64C1256F230035C8CD
+0450AAC6AF5A0DA1C1256F230035B43C,Emission (Umwelt),DS,"Deutsch Austrag oder Ausstoß, bedeutet allgemein Aussendung von Störfaktoren in die Umwelt. Speziell luftverunreinigende Stoffe, die von einer emittierenden Anlage (z.B. Kraftwerk) abgegeben werden.","Umweltgefährdung, Umweltschutz",,
+96E83167AE0AC580C1256F230035D301,Emission (Umwelt),D,s.a. Luftreinhaltung,,,E4B4FEEE0DE32E3BC1256F230035BDBF
+BA0F8BFCBE352A5EC1256F230035D300,Emission (Umwelt),D,s.a. Immission,,,35DAF37D07D014D7C1256F230035B945
+C37D733A95E029ABC1256F230035D302,Emission (Umwelt),D,s.a. Schadstoff,,,E6C9012D8253F94AC1256F230035C469
+FB2B655358051F4AC1256F230035D303,Emission (Umwelt),D,s.a. Smog,,,BE1BC1449381CFD9C1256F230035C5E7
+A7DA0DD8B5119EF7C1256F230035ED0E,Emissionsgrenzwert,ND,s. Luftreinhaltung,,,E4B4FEEE0DE32E3BC1256F230035BDBF
+54ABCD3C1BEA3D22C1257C84005DC584,Emittent,ND,s. Emission (Umwelt),,,0450AAC6AF5A0DA1C1256F230035B43C
+E486280E8398887AC1256F230035ED18,Endlagerung (Atommüll),ND,s. Sondermüll,,,4CF616DA1F6327EDC1256F230035C5FE
+B29C1E2D7F6B0F28C125756C00354364,Energie,D,s.a. Solarenergie,,,DAB311B439134E54C1256F230035C5F3
+0D1D992514CA5C1AC1256F230035ED1B,Energie (alternative),ND,s. Erneuerbare Energie,,,89868840F261C7EEC1256F230035B48A
+960D327D3B6EC18FC1256F230035ED20,Energie (regenerative),ND,s. Erneuerbare Energie,,,89868840F261C7EEC1256F230035B48A
+9F0BAB42FCA8EDFDC1257C89005BD9A4,Energiebilanz (Umwelt),ND,s. Energiesparen,,,754913BDE042F9FCC1256F230035B44A
+9450005BA5BDABB9C1257C89005C09A5,Energieeffiziente Produkte,ND,s. Energiesparen,,,754913BDE042F9FCC1256F230035B44A
+CD3F62A70C4DF971C1257C89005D2FB5,Energieeffiziente Produkte,ND,s. Energieeffizienz,,,1C8D8192A8A16E03C1257C89005D07A4
+3E7923DB33AC1A45C1257C89005CD97E,Energieeffiziente Produktion,ND,s. Energiesparen,,,754913BDE042F9FCC1256F230035B44A
+404A5759B10692E8C1257C89005CD111,Energieeffiziente Produktion,ND,s. Erneuerbare Energie,,,89868840F261C7EEC1256F230035B48A
+57F77942DEDD4674C1257C89005D3AC1,Energieeffiziente Produktion,ND,s. Energieeffizienz,,,1C8D8192A8A16E03C1257C89005D07A4
+1C8D8192A8A16E03C1257C89005D07A4,Energieeffizienz,DS,"Die Energieeffizienz ist ein Maß für den Energieaufwand zur Erreichung eines festgelegten Nutzens. Im Gegensatz zum Wirkungsgrad bedarf der Nutzen hier keiner energetischen Definition. Ein Vorgang ist dann effizient, wenn ein bestimmter Nutzen mit minimalem Energieaufwand erreicht wird. Dies entspricht dem ökonomischen Prinzip (namentlich dem Minimalprinzip).","Umweltgefährdung, Umweltschutz",,
+54A8ACB066EC5FC2C1257C89005D48F1,Energieeffizienz,D,s.a. Energiesparen,,,754913BDE042F9FCC1256F230035B44A
+8A94886A6888DB86C1257C89005D9E61,Energieeffizienz,D,s.a. Erneuerbare Energie,,,89868840F261C7EEC1256F230035B48A
+22E817BD79C62515C12584220038462C,Energieeffizienz,D,s.a. Wasserverbrauch,,,6AB9E6082F831E16C1256F2300360AB1
+87E08DE131A5B6BCC1257C89005DDFD6,Energieeinsparung,ND,s. Energiesparen,,,754913BDE042F9FCC1256F230035B44A
+EE5691A3381AF843C1256F230035D309,Energieerzeugung,D,s.a. Erneuerbare Energie,,,89868840F261C7EEC1256F230035B48A
+082407107C448186C1257C89005E208D,Energieform,ND,s. Erneuerbare Energie,,,89868840F261C7EEC1256F230035B48A
+834CC13CA7248172C1257C8B005D1AE6,Energiekosten,ND,s. Energieeffizienz,,,1C8D8192A8A16E03C1257C89005D07A4
+8C2630B2E2F05E5FC1257C8B005D2439,Energiekosten,ND,s. Energiesparen,,,754913BDE042F9FCC1256F230035B44A
+7A538E534369013FC1257C8B005E0F7B,Energiemanagement,ND,s. Erneuerbare Energie,,,89868840F261C7EEC1256F230035B48A
+D72340F3E7D9C283C1257C8B005E187C,Energiemanagement,ND,s. Energieeffizienz,,,1C8D8192A8A16E03C1257C89005D07A4
+6C47B2452304EFA5C1257C8B005EA20C,Energieproduktion,ND,s. Erneuerbare Energie,,,89868840F261C7EEC1256F230035B48A
+4779523BF0660934C1256F230035ED22,Energiequelle,ND,s. Erneuerbare Energie,,,89868840F261C7EEC1256F230035B48A
+4FED1440057C53C3C1257C8B005ED92F,Energierohstoff,ND,s. Erneuerbare Energie,,,89868840F261C7EEC1256F230035B48A
+754913BDE042F9FCC1256F230035B44A,Energiesparen,DS,"Maßnahmen zur Senkung des Energieverbrauchs, umfassen technische Neuerungen und zielen auch auf Verhaltensänderungen der Verbraucher.","Umweltgefährdung, Umweltschutz",,
+1BDDDD22E867E0DEC1257C89005D7BEE,Energiesparen,D,s.a. Energieeffizienz,,,1C8D8192A8A16E03C1257C89005D07A4
+34A7CDAB881D46C5C1257C8C005CE6E2,Energieverbrauch,D,s.a. Energieeffizienz,,,1C8D8192A8A16E03C1257C89005D07A4
+5177EB97D4A1A3A2C1257C8C005CE015,Energieverbrauch,D,s.a. Energiesparen,,,754913BDE042F9FCC1256F230035B44A
+B7AA4D489ED50037C1256F230035D310,Energieversorgung,D,s.a. Energiesparen,,,754913BDE042F9FCC1256F230035B44A
+06C75A400D7154E5C1257C8C005ED7B1,Energiewende,ND,s. Erneuerbare Energie,,,89868840F261C7EEC1256F230035B48A
+0E8E489850D4B64AC1257C8E005F50B5,Entschwefeln,ND,s. Luftreinhaltung,,,E4B4FEEE0DE32E3BC1256F230035BDBF
+5E2F636670DE07A7C1256F230035ED39,Entschwefelung,ND,s. Luftreinhaltung,,,E4B4FEEE0DE32E3BC1256F230035BDBF
+38179D55DCF9D82DC1256F230035ED3A,Entsorgung,ND,s. Müllbeseitigung,,,A5E49E28ACDCDB7DC1256F230035BFA1
+D2E289720388BE9BC1256F9A00306A89,Entsorgung,ND,s. Sondermüll,,,4CF616DA1F6327EDC1256F230035C5FE
+309AFB1C6132D5B0C1256F230035ED3C,Entsorgung (Abwasser),ND,s. Abwasser,,,244569E7D64B9A37C1256F230035AD72
+DF26F097FEE77695C1257C90005D7E5F,Entwaldung,ND,s. Waldsterben,,,4C6C5C533A3F7921C1256F230035CA43
+65903F2E9D36A27EC12581EE00512165,Entwaldung,ND,s. Übernutzung,,,DA44D518356FBD73C12581EE0050D57A
+AD162BA3C4AA35F7C1256F230035ED3E,Entwässerung (Abwasser),ND,s. Abwasser,,,244569E7D64B9A37C1256F230035AD72
+8E4C2D89DF7412E9C1257C90005D3431,Entwässerungsanlage,ND,s. Abwasser,,,244569E7D64B9A37C1256F230035AD72
+68FB68C983880F2EC1256F230035ED61,Erdaufwärmung,ND,s. Treibhauseffekt,,,FF067AF52B34C2D2C1256F230035C854
+CDA3346B31E88466C1256F230035ED79,Erdwärme,ND,s. Geothermie,,,84B5FEFE3BCDAE3DC125747800347CBA
+8ABDBCFDB91ADE89C1256F230035D33E,Erdöl,D,s.a. Ölpest,,,953A4D69A421C26FC1256F230035C0DF
+5F0528820CD31945C1256F230035D359,Erneuerbare Energie,D,s.a. Solarenergie,,,DAB311B439134E54C1256F230035C5F3
+89868840F261C7EEC1256F230035B48A,Erneuerbare Energie,DS,"Jede zur Energieversorgung nutzbare, sich erneuernde, natürliche Energie, auch regenerative Energien (z.B. Wind-, Gezeiten-, Sonnen-, geothermische Energie) und Energie, die ohnehin vorhanden ist und ohne Nutzung verloren wäre (z.B. Abwärme).","Umweltgefährdung, Umweltschutz",,
+77A3AEFFEFFE9841C1257A9E003060B8,Erneuerbare Energie,D,s.a. Biokraftstoff,,,A29CB6678CE08F97C1257A9E0030295D
+48B173CB5193EF74C1257C89005DA7ED,Erneuerbare Energie,D,s.a. Energieeffizienz,,,1C8D8192A8A16E03C1257C89005D07A4
+93A3EC900B8F5CA7C1257D9500614880,Erneuerbare Energie,D,s.a. Geothermie,,,84B5FEFE3BCDAE3DC125747800347CBA
+7C5431D947670051C1257F7100628D7C,Erneuerbare Energie,D,s.a. Biogas,,,F10EFEF12C56D959C1256F230035E9B6
+DB5CC28FEB50840AC12584220038DFD2,Erneuerbare Energie,D,s.a. Wasserkraft,,,99E7D22229E1602EC1256F2300360A97
+319B97890DCFA4BAC125846D0057A1AC,Erneuerbare Energie,D,s.a. Windenergie,,,684A0E765E3227AFC125846D00577FD7
+75D5E27E4D2CF71EC12584540057CC3B,Erneuerbare Energie,D,s.a. Photovoltaik,,,59A8488D325727B0C1256F230035FDBD
+F8C4780273F77E89C1256F230035B4BA,Eutrophierung,DS,"Überangebot an Pflanzennährstoffen in Oberflächengewässern. Daraus resultiert ein starkes Algenwachstum und aus dem Abbau der Biomasse ein Sauerstoffentzug v.a. in tieferen Wasserschichten, der zum ""Umkippen"" des Gewässers führt.","Umweltgefährdung, Umweltschutz",,
+4EE1F996B5D575CAC1257CB9004C4158,Exxon Valdesz,ND,s. Umweltkatastrophe,,,2138C9294A66992BC1256F230035C8C7
+B4497CFB9165EB14C1257CB9004C2A1D,Exxon Valdesz,ND,s. Ölpest,,,953A4D69A421C26FC1256F230035C0DF
+0E801EB7242192C7C12576C600582C7E,Fahrzeugkatalysator,ND,s. Abgaskatalysator,,,630FC2C84892EF74C1256F230035ACED
+7FEC526D6E078B17C1257DCF005B4084,Faulschlamm,ND,s. Erneuerbare Energie,,,89868840F261C7EEC1256F230035B48A
+88D44B5AF13B1DDBC1257DCF005B386C,Faulschlamm,ND,s. Kläranlage,,,C3AD86D86AC756BFC1256F230035BB19
+54D5B25A62B49E24C1257CEF0056C00E,Fifty-fifty-Ansatz,ND,s. Umweltschutz,,,6CAB7FAFF3596DC8C1256F230035C8C8
+78E3078AC97BC7D9C1256F230035EE77,Filteranlage,ND,s. Abgaskatalysator,,,630FC2C84892EF74C1256F230035ACED
+14B29933BC670DDFC1257CFB0032D42C,Fischer-Tropsch-Synthese,ND,s. Biokraftstoff,,,A29CB6678CE08F97C1257A9E0030295D
+16F48898BACC1950C1256F230035D3F4,Flasche,D,s.a. Mehrwegflasche,,,2112B85DF67AC48EC1256F230035BE9E
+B133ABF5FB72A113C1257D02005C1E2F,Fließgeschwindigkeit,ND,s. Abwasser,,,244569E7D64B9A37C1256F230035AD72
+33E7CEFE6970740BC1257D0B005CAE2E,Fluglärm,ND,s. Lärmschutz,,,715A17120D3E399BC1256F230035BCB9
+494AADF6E8C45688C1256F230035D402,Fluorchlorkohlenwasserstoffe,D,s.a. Ozonloch,,,51765F1E1D067561C1256F230035C12D
+CDEFDB5832A19146C1256F230035EEB5,Flusskraftwerk,ND,s. Erneuerbare Energie,,,89868840F261C7EEC1256F230035B48A
+12209E96084F005BC1257D0E005CAC97,Flutung,ND,s. Renaturierung,,,6F94418C59FD1FBEC1256F230035C341
+6DC54EF523AEC256C12583D700591BDA,Flächenversiegelung,DS,"Flächenversiegelung oder Bodenversiegelung bezeichnet das Bedecken des natürlichen Bodens durch Bauwerke des Menschen. Von Flächenversiegelung wird deshalb gesprochen, weil in den Boden von oben kein Niederschlag mehr eindringen kann und so viele der dort normalerweise ablaufenden Prozesse gestoppt werden. Zur Versiegelung werden auch nicht sichtbare Bauwerke unter der Erdoberfläche gezählt, wie z. B. Leitungen, Kanäle, Fundamente sowie stark verdichtete Böden.","Umweltgefährdung, Umweltschutz",,
+DE7E899836102CF3C1257D13003745B6,Fontäne,ND,s. Erneuerbare Energie,,,89868840F261C7EEC1256F230035B48A
+49FA2C2654FF0761C125772C00383EB0,Fortschreitende Wüstenbildung,ND,s. Desertifikation,,,3F540FBCFF2F6443C1256F230035B318
+E8EB415BCA1C3083C12583FC005A1437,Fotovoltaik,ND,s. Photovoltaik,,,59A8488D325727B0C1256F230035FDBD
+1FAACCD31E5D117EC1257B9E0058ED03,Fracking,D,s.a. Umweltgefährdung,,,0774E066C6F4F270C1256F230035C8C6
+838D5371DCEADB43C1257B9E0058F767,Fracking,D,s.a. Umweltzerstörung,,,3BC91EF44508CD80C1256F230035C8CE
+8DF9D720A31BBF44C12578B300355BB4,Fukushima,ND,s. Reaktorkatastrophe,,,254D2C5F291CE1ADC1256F230035C2CF
+73C4611C7C302A03C1257D4900578F19,"Funktionalität von Haushaltsgroßgeräten (Kühlschrank, Geschirrspüler, Trockner)",ND,s. Energieeffizienz,,,1C8D8192A8A16E03C1257C89005D07A4
+E780402F0786E56DC12577F100544AC5,G-Kat,ND,s. Abgaskatalysator,,,630FC2C84892EF74C1256F230035ACED
+9B23C7A19AE45CF8C1256F230035EFBB,Gefällsenergie,ND,s. Erneuerbare Energie,,,89868840F261C7EEC1256F230035B48A
+D10BA14791D2C14BC1257D950060D3A9,Geothermalenergie,ND,s. Geothermie,,,84B5FEFE3BCDAE3DC125747800347CBA
+84B5FEFE3BCDAE3DC125747800347CBA,Geothermie,DS,"Erdwärme ist die im zugänglichen Teil der Erdkruste gespeicherte Wärme. Sie umfasst die in der Erde gespeicherte Energie, soweit sie entzogen und genutzt werden kann, und zählt zu den regenerativen Energien. Sie kann sowohl direkt genutzt werden, etwa zum Heizen und Kühlen im Wärmemarkt (Wärmepumpenheizung), als auch zur Erzeugung von elektrischem Strom oder in einer Kraft-Wärme-Kopplung.","Umweltgefährdung, Umweltschutz",,
+C9FF5D4D79DBEB9FC1257D9A004AC0A7,Geothermische Energie,ND,s. Geothermie,,,84B5FEFE3BCDAE3DC125747800347CBA
+9405138A2D918278C1257D9C005257D6,Geschichte der Geothermie,ND,s. Geothermie,,,84B5FEFE3BCDAE3DC125747800347CBA
+0D87EA80088B1FD5C1257DAB005D1DF0,Gewichtsreduktion am Fahrzeug,ND,s. Energieeffizienz,,,1C8D8192A8A16E03C1257C89005D07A4
+2A49FCD009A4F066C1256F230035D571,Gewässer,D,s.a. Gewässerschutz,,,7A81ACE9C001DE6BC1256F230035B6C4
+E01853DEC76D7572C1256F230035D56F,Gewässer,D,s.a. Wasserverschmutzung,,,22A971E73B4F86BAC1256F230035CA8C
+34D2AA56E0DCA9A2C1257DA600366817,Gewässergüte,ND,s. Gewässerschutz,,,7A81ACE9C001DE6BC1256F230035B6C4
+97F73C54940BF1CDC1256F230035D577,Gewässerkunde,D,s.a. Gewässerschutz,,,7A81ACE9C001DE6BC1256F230035B6C4
+7A81ACE9C001DE6BC1256F230035B6C4,Gewässerschutz,DS,"Die Reinhaltung der Gewässer, ein Teilgebiet des Umweltschutzes, Naturschutzes und der Wasserwirtschaft.","Umweltgefährdung, Umweltschutz",,
+89EB80EE5FF1564FC1256F230035D579,Gewässerschutz,D,s.a. Wasserverschmutzung,,,22A971E73B4F86BAC1256F230035CA8C
+D0F8512801E77A5CC125757700552760,Gewässerschutz,D,s.a. Kläranlage,,,C3AD86D86AC756BFC1256F230035BB19
+55998F59DDDA8140C125842700581446,Gewässerschutz,D,s.a. Wasserschutzgebiet,,,EB9497BD7AD6C11FC125842700580829
+985F73D6EFE94DF4C1257DA60036A900,Gewässeruntersuchung,ND,s. Gewässerschutz,,,7A81ACE9C001DE6BC1256F230035B6C4
+330EE9B55BB1DF99C1256F230035F043,Gewässerverschmutzung,ND,s. Wasserverschmutzung,,,22A971E73B4F86BAC1256F230035CA8C
+95D077816B13653DC1257DA60036BCB4,Gewässerverunreinigung,ND,s. Wasserverschmutzung,,,22A971E73B4F86BAC1256F230035CA8C
+57E6D818A288F9E5C1256F230035F042,Gewässerökologie,ND,s. Wasserverschmutzung,,,22A971E73B4F86BAC1256F230035CA8C
+EB207FA4B33E6870C1256F230035F04C,Gezeitenkraftwerk,ND,s. Erneuerbare Energie,,,89868840F261C7EEC1256F230035B48A
+A1B082FB9AAB73CDC125725F0037E127,Gift,ND,s. Schadstoff,,,E6C9012D8253F94AC1256F230035C469
+832FDC71B07CE8BFC1256F230035F052,Giftmüll,ND,s. Sondermüll,,,4CF616DA1F6327EDC1256F230035C5FE
+405ABA79EACB0087C125725F0037D70D,Giftstoff,ND,s. Schadstoff,,,E6C9012D8253F94AC1256F230035C469
+76F3C9E7656D870CC1256F550037838C,Glascontainer,ND,s. Müllbeseitigung,,,A5E49E28ACDCDB7DC1256F230035BFA1
+6D33DD3244E6BAF4C1256F230035F05C,Glashauseffekt,ND,s. Treibhauseffekt,,,FF067AF52B34C2D2C1256F230035C854
+9AA1ECB8CA3DE045C1256F230035F061,Glasrecycling,ND,s. Recycling,,,BC0E5C6D7FD5B396C1256F230035C2DE
+F4FA038E33EF6C94C1256F230035FC29,Gleichgewicht (Ökologie),ND,s. Ökologisches Gleichgewicht,,,FA94A5666C135187C1256F230035B700
+11A3CE15AB825CC0C12575D3004B6D7D,Globale Erwärmung,D,s.a. Treibhauseffekt,,,FF067AF52B34C2D2C1256F230035C854
+81A22E5600556F8CC1256F230035B765,Greenpeace,DS,"Greenpeace ist eine 1971 von Friedensaktivisten in Vancouver, Kanada gegründete internationale politische Non-Profit-Organisation, die den Umweltschutz zum Gegenstand hat. Sie wurde vor allem durch Kampagnen gegen Kernwaffentests und Aktionen gegen den Walfang bekannt. Später konzentrierte sich die Organisation darüber hinaus auf weitere ökologische Probleme wie Überfischung, die globale Erwärmung, die Zerstörung von Urwäldern und die Gentechnik. Greenpeace hat nach eigenen Angaben weltweit um die 2,74 Millionen Fördermitglieder und beschäftigt rund 1200 Mitarbeiter.","Umweltgefährdung, Umweltschutz",,
+824372314736B6A5C125842700582218,Grundwasserschutzgebiet,ND,s. Wasserschutzgebiet,,,EB9497BD7AD6C11FC125842700580829
+A225E37CA950E5E0C1256F230035F0DA,Grüner Punkt,ND,s. Müllverwertung,,,CD648CAE8F3B985BC1256F230035BFAB
+838AF15D7EBF2F7FC1257E1E00441968,HDR Verfahren,ND,s. Geothermie,,,84B5FEFE3BCDAE3DC125747800347CBA
+2D1C8EA64414F289C1257E040053EA8D,Halde,ND,s. Mülldeponie,,,56EBBB54EF5CB399C1256F230035BFA2
+75C9CB4CB427D166C1256F230035D62F,Hausbau,D,s.a. Bebauungsplan,,,D951E1A122805FF3C1256F230035AFE4
+CD571E5BD7885B19C1257D490057959D,Haushaltsgerät,D,s.a. Energieeffizienz,,,1C8D8192A8A16E03C1257C89005D07A4
+B978987B724F60EEC1256F230035F154,Hausmüll,ND,s. Müll,,,8EFDDEBA26CFBB61C1256F230035BF9F
+564C974EC06E0636C1257E2700449B23,Heizlastberechnung,ND,s. Energiesparen,,,754913BDE042F9FCC1256F230035B44A
+2902E203F0E00385C12574780033C52F,Heizung,D,s.a. Erneuerbare Energie,,,89868840F261C7EEC1256F230035B48A
+AF45A5EEA9C6C616C125747800340C7A,Heizung,D,s.a. Energiesparen,,,754913BDE042F9FCC1256F230035B44A
+CF8F95015BEA7B81C1257478003451C5,Holzpellets,ND,s. Erneuerbare Energie,,,89868840F261C7EEC1256F230035B48A
+04E52607A697AAABC1257E51005F9CB4,Holzrecycling,ND,s. Recycling,,,BC0E5C6D7FD5B396C1256F230035C2DE
+3317EDEA42F047CBC1257E51005FE64F,Holzschnitzel,ND,s. Erneuerbare Energie,,,89868840F261C7EEC1256F230035B48A
+59EBABFC459AB6A9C1257E1E0044281B,Hot-Dry-Rock-Verfahren,ND,s. Geothermie,,,84B5FEFE3BCDAE3DC125747800347CBA
+16B58C53F170ABE4C12584220038EA36,Hydroenergie,ND,s. Wasserkraft,,,99E7D22229E1602EC1256F2300360A97
+6B72DBD81109E2E6C1257E610051A299,Hydrothermale Energiegewinnung,ND,s. Geothermie,,,84B5FEFE3BCDAE3DC125747800347CBA
+04E3A7773AED7C5DC1256F230035D6B9,Immission,D,s.a. Luftreinhaltung,,,E4B4FEEE0DE32E3BC1256F230035BDBF
+35DAF37D07D014D7C1256F230035B945,Immission,DS,"Die Einwirkung und Zuführung von Dämpfen, Gerüchen, Geräuschen und Erschütterungen auf die Umwelt. Den öffentlich-rechtlichen Schutz vor Immission regeln das Bundesimmissionsschutzgesetz in der Fassung vom 14.5.1990 mit ergänzenden Verordnungen und Technischen Anleitungen. Der Immissionsschutz wird besonders dadurch verwirklicht, dass Anlagen mit umweltschädlichen Emissionen der Genehmigung und Überwachung unterliegen.","Umweltgefährdung, Umweltschutz",,
+611379D29FF7791FC1256F230035D6BC,Immission,D,s.a. Schadstoff,,,E6C9012D8253F94AC1256F230035C469
+6A9D371C1DB0F826C1256F230035D6BB,Immission,D,s.a. Saurer Regen,,,4D48CD27E09EB9A5C1256F230035C45F
+E036D0FB5FFF27FCC1256F230035D6BA,Immission,D,s.a. Emission (Umwelt),,,0450AAC6AF5A0DA1C1256F230035B43C
+4AA0B4761E21394BC1257E70004942FA,Indikator (Biologie),ND,s. Bioindikator,,,73D142D01C891625C1256F230035B0C3
+8746D4B53F0D004BC125772B005141F1,Indikatorart,ND,s. Bioindikator,,,73D142D01C891625C1256F230035B0C3
+31A4D737F6E06EA7C125772B00516166,Indikatororganismus,ND,s. Bioindikator,,,73D142D01C891625C1256F230035B0C3
+7F69FE59FF77B237C1257E840054E0B2,Industriemüll,ND,s. Müll,,,8EFDDEBA26CFBB61C1256F230035BF9F
+A8AA8FEFC6482B49C125714D00526EDF,Isolation (Dämmung),ND,s. Energiesparen,,,754913BDE042F9FCC1256F230035B44A
+6B30F747C7BF2AEDC1257EA50029DA64,Isolieren,ND,s. Energiesparen,,,754913BDE042F9FCC1256F230035B44A
+E02A27FBE69B3EB8C1257EA700377ED3,Jahrhunderthochwasser,ND,s. Umweltkatastrophe,,,2138C9294A66992BC1256F230035C8C7
+EB4B1204C7E6FEF0C1257BFB0044CBA2,Kanal (Abwasser),ND,s. Abwasser,,,244569E7D64B9A37C1256F230035AD72
+6F13FFFA9DC671ACC1256F230035F365,Kanalisation,ND,s. Abwasser,,,244569E7D64B9A37C1256F230035AD72
+2FDC344E60141012C1257B7400590067,Kapazität (biologische),ND,s. Nachhaltige Entwicklung,,,7D219AA12A2025CAC1256F230035BFEA
+BE5E110488C976A5C1257B7400590E3E,Kapazität eines Ökosystems,ND,s. Nachhaltige Entwicklung,,,7D219AA12A2025CAC1256F230035BFEA
+F059DC1FB55AEF28C12576C6005835A2,Kat,ND,s. Abgaskatalysator,,,630FC2C84892EF74C1256F230035ACED
+85BF731C04EEE7EDC1256F230035F3B9,Katalysator (Kfz),ND,s. Abgaskatalysator,,,630FC2C84892EF74C1256F230035ACED
+ED924E8CE68EE208C1256F230035D7B4,Katastrophe,D,s.a. Umweltkatastrophe,,,2138C9294A66992BC1256F230035C8C7
+CD1390A43B33E841C125798A005D665A,Katastrophe,D,s.a. Reaktorkatastrophe,,,254D2C5F291CE1ADC1256F230035C2CF
+AE91E49EA73F608DC1256F230035F3DB,Kehricht,ND,s. Müll,,,8EFDDEBA26CFBB61C1256F230035BF9F
+302093C7D9568C6DC1256F230035D7D8,Kernkraftwerk,D,s.a. Reaktorkatastrophe,,,254D2C5F291CE1ADC1256F230035C2CF
+63BD73C9877B3F99C125798A005C9533,Kernkraftwerk,D,s.a. Atomausstieg,,,BCB4EE6447587771C1256F230035E739
+24FDF2B46AA776ADC1257EE50055E9F5,Kernschmelze,ND,s. Reaktorkatastrophe,,,254D2C5F291CE1ADC1256F230035C2CF
+73203CF57CF9FE0BC1256F230035BAEA,Kiesgrube,DS,"V.a. zur Rekultivierung von Kiesgruben, Steinbrüchen und Sandgruben etc.","Umweltgefährdung, Umweltschutz",,
+26BB6B8A828D166DC1257EF1005FCA3D,Kippe,ND,s. Mülldeponie,,,56EBBB54EF5CB399C1256F230035BFA2
+673028076924FCB2C12572DB003479F1,Klimakonferenz,ND,s. Umweltschutz,,,6CAB7FAFF3596DC8C1256F230035C8C8
+31B45CED5C1AD0E6C1257EFB005D585C,Klimaschutz,ND,s. Umweltschutz,,,6CAB7FAFF3596DC8C1256F230035C8C8
+075CE852A9840259C1256F230035D824,Kläranlage,D,s.a. Abwasser,,,244569E7D64B9A37C1256F230035AD72
+C3AD86D86AC756BFC1256F230035BB19,Kläranlage,DS,"Anlage zur Reinigung der häuslichen, gewerblichen und industriellen Abwässer. Kläranlagen arbeiten nach mechanischen, biologischen und chemischen Verfahren. Qualität des Abwassers muss so  verbessert werden, dass es ohne Schadwirkung in Vorfluter einzuleiten ist.","Umweltgefährdung, Umweltschutz",,
+2E4C9DB01268B83BC1257478003553FF,Klärgas,ND,s. Erneuerbare Energie,,,89868840F261C7EEC1256F230035B48A
+7ADA4BCD2BB5AA68C125747800353D8D,Klärschlamm,ND,s. Erneuerbare Energie,,,89868840F261C7EEC1256F230035B48A
+28E275E98D627F57C1256F230035F454,Klärung (biologische),ND,s. Kläranlage,,,C3AD86D86AC756BFC1256F230035BB19
+22E95385D1F2DE16C1256F230035BB81,Kompost,DS,"Mischdünger aus Erde, Abfälle, Jauche. Die Herstellung des Kompost (kompostieren), die Nutzung und der Umweltfaktor.","Umweltgefährdung, Umweltschutz",,
+28B38B90C2021D96C1256F230035F4BD,Kompostierung,ND,s. Kompost,,,22E95385D1F2DE16C1256F230035BB81
+DED3C7805AD07D17C1257F37005D3042,Kontamination,ND,s. Bodenverschmutzung,,,EFDE3581D1C7D369C1256F230035B10F
+AE9EDB06C2C2601EC1257F3F005FC3E8,Korallenbleiche,ND,s. Umweltbelastung,,,E168B8041C669169C1256F230035C8C2
+19EEE90CF3E3F3DFC1257F45005F986C,Kostenreduktion durch Energieeffizienz,ND,s. Energieeffizienz,,,1C8D8192A8A16E03C1257C89005D07A4
+A84439818B25F6E8C1257A9E00307CA9,Kraftstoffe,ND,s. Biokraftstoff,,,A29CB6678CE08F97C1257A9E0030295D
+6FB61124BD61048AC125747800349327,Kraftstoffe (alternative),ND,s. Biokraftstoff,,,A29CB6678CE08F97C1257A9E0030295D
+D578FA3F93B35F8EC12574780034C108,Kraftstoffe (pflanzliche),ND,s. Biokraftstoff,,,A29CB6678CE08F97C1257A9E0030295D
+2A5908272EDC5F93C1256F230035D89A,Kraftwerk,D,s.a. Erneuerbare Energie,,,89868840F261C7EEC1256F230035B48A
+F52DA49C37038AD6C1257F4D005CEDDA,Kreislauf (Recycling),ND,s. Recycling,,,BC0E5C6D7FD5B396C1256F230035C2DE
+8A3DB0EC8F62AD2AC1257F4D005D8998,Kreislaufwirtschaft,ND,s. Recycling,,,BC0E5C6D7FD5B396C1256F230035C2DE
+519625D291577F39C1257F68006125A5,Kruger Nationalpark,ND,s. Nationalpark,,,3B8C871EA49958FDC1256F230035C016
+BFA68AC80F726889C1257F7100629FFB,Kuhmist,ND,s. Biogas,,,F10EFEF12C56D959C1256F230035E9B6
+AC85446151F96536C1257B750053EECD,Kunststoff,D,s.a. Biokunststoff,,,EC6CF766D6B63D33C1257B750053B809
+A80666EA30629DF3C1256F230035D928,Küste,D,s.a. Küstenschutz,,,DADDFBCE7D666FB5C1256F230035BC51
+123379D0263EFC9CC1257744005B7EBD,Küstenerosion,ND,s. Küstenschutz,,,DADDFBCE7D666FB5C1256F230035BC51
+DADDFBCE7D666FB5C1256F230035BC51,Küstenschutz,DS,"Sammelbegriff für Maßnahmen, die direkt oder indirekt Küsten vor Brandungserosion und damit Abtragung schützen, so dass auch Landverluste vermieden werden. Letztlich eine Baumaßnahme, die in die geomorphologischen Prozesse an der Küste eingreift.","Umweltgefährdung, Umweltschutz",,
+E84F2914256C2B30C1258064005E51EA,Küstenschutz,D,s.a. Meeresschutzgebiet,,,B4A53A4D3F0C7519C1258064005DECD4
+38B254419DCF59CCC1256FE400332EB3,Labiles Ökosystem,ND,s. Ökologisches Gleichgewicht,,,FA94A5666C135187C1256F230035B700
+D27D118F89B27A64C1256F230035F61E,Lambda-Regelkreis,ND,s. Abgaskatalysator,,,630FC2C84892EF74C1256F230035ACED
+ED2E30BEA65E8931C1257F8E005A6169,Lambda-Sonde,ND,s. Abgaskatalysator,,,630FC2C84892EF74C1256F230035ACED
+51D59C8BB78B96C7C12575770055489F,Landschaftspflege,D,s.a. Rekultivierung,,,4EC43A6DE23DD3F8C1256F230035C332
+A5A6E52223222A56C1256F230035BCA1,Landschaftspflege,DS,Maßnahmen zur Erhaltung und zum Schutz der Landschaft außerhalb der bebauten Gebiete. Also aktive Maßnahmen zur Wahrung des biologischen Gleichgewichts der Landschaft.,"Umweltgefährdung, Umweltschutz",,
+A601F3FD2A83E7ACC12575770055399B,Landschaftspflege,D,s.a. Ökologisches Gleichgewicht ,,,FA94A5666C135187C1256F230035B700
+E043AC16DBED30C2C1256F230035D940,Landschaftspflege,D,s.a. Landschaftsschutz,,,B7CD39126ABB3BCDC1256F230035BCA2
+13E8D88BE750806BC1256F230035D943,Landschaftsschutz,D,s.a. Landschaftspflege,,,A5A6E52223222A56C1256F230035BCA1
+748D09F3BB724868C1256F230035D941,Landschaftsschutz,D,s.a. Nationalpark,,,3B8C871EA49958FDC1256F230035C016
+B7CD39126ABB3BCDC1256F230035BCA2,Landschaftsschutz,DS,"Befasst sich mit der Sicherung der Landschaft als Lebensraum von Menschen, Tieren und Pflanzen. Es findet kein Eingriff in die Natur statt. Insofern spielt sich Landschaftsschutz im administrativen Bereich ab.","Umweltgefährdung, Umweltschutz",,
+C48A04FB84435786C1258064005E9965,Landschaftsschutz,D,s.a. Meeresschutzgebiet,,,B4A53A4D3F0C7519C1258064005DECD4
+B5A12486D82FD196C125781D00565D3F,Landschaftsschutzgebiet,ND,s. Landschaftsschutz,,,B7CD39126ABB3BCDC1256F230035BCA2
+D8B07DA60056A3A7C1256F230035F654,Landschaftsverbrauch,ND,s. Landschaftsschutz,,,B7CD39126ABB3BCDC1256F230035BCA2
+D47DB5D8FA02B4A0C1256F230035F653,Landschaftsveränderung,ND,s. Umweltveränderung,,,9CAE13A6A2A7F09BC1256F230035C8CB
+00F028AB7D7DF2D7C1257F920059CCF0,Landschaftswandel,ND,s. Umweltveränderung,,,9CAE13A6A2A7F09BC1256F230035C8CB
+946409A3E015B857C1256F230035D986,Lebensraum,D,s.a. Biotop,,,742F14EC34FA7AC4C1256F230035B0CF
+8B88565DF0019E1EC1256F230035F6E0,Lebensstätte,ND,s. Biotop,,,742F14EC34FA7AC4C1256F230035B0CF
+5185AAD7FEE6E867C1256F230035D9DE,Luft,D,s.a. Luftreinhaltung,,,E4B4FEEE0DE32E3BC1256F230035BDBF
+10585E3184FC86D7C1256F230035D9E2,Luftreinhaltung,D,s.a. Immission,,,35DAF37D07D014D7C1256F230035B945
+B5D7FBA35A959A85C1256F230035D9E3,Luftreinhaltung,D,s.a. Abgaskatalysator,,,630FC2C84892EF74C1256F230035ACED
+E29F475E769B6EFBC125757700555D9C,Luftreinhaltung,D,s.a. Bioindikator,,,73D142D01C891625C1256F230035B0C3
+E4B4FEEE0DE32E3BC1256F230035BDBF,Luftreinhaltung,DS,"Maßnahmen zur Erhaltung guter Luftbedingungen bzw. zur Verbesserung der Luftqualität. Die Luftreinhaltung enthält sowohl Verhütungsmaßnahmen (gesetzliche Emissionsgrenzwerte) als auch Maßnahmen, die Schadstoffminderungstechnologien einsetzen.","Umweltgefährdung, Umweltschutz",,
+D1E547CED5092481C1256F230035F7FB,Luftverschmutzung,ND,s. Immission,,,35DAF37D07D014D7C1256F230035B945
+6C39671E12292F43C1256F230035D95A,Lärm,D,s.a. Lärmschutz,,,715A17120D3E399BC1256F230035BCB9
+0BCE7C4025EBB512C1257F8A0033CDC2,Lärmbelästigung,ND,s. Lärmschutz,,,715A17120D3E399BC1256F230035BCB9
+3EB11A55C2F55658C1257F8A0033E11D,Lärmminderung,ND,s. Lärmschutz,,,715A17120D3E399BC1256F230035BCB9
+715A17120D3E399BC1256F230035BCB9,Lärmschutz,DS,Maßnahmen zum Schutz gegen Lärm; Verringerung der Einwirkung von vorhandenem Lärm auf die Menschen; baulicher Schallschutz v.a. durch Schalldämmung durch Bauteile; Verringerung der Schallerzeugung und -abstrahlung (z.B. Schalldämpfer).,"Umweltgefährdung, Umweltschutz",,
+BD2716FB012644FEC1257FEE005BA883,Madidi-Nationalpark,ND,s. Nationalpark,,,3B8C871EA49958FDC1256F230035C016
+FFBB8FE2EDB951C2C1257B56005C3E4A,Masada,ND,s. Nationalpark,,,3B8C871EA49958FDC1256F230035C016
+BF6DDBB389A0528CC1256F230035DA59,Meer,D,s.a. Meeresverschmutzung,,,DE74967B05387010C1256F230035BE99
+8A9A9C901C06D407C1256F230035F90B,Meerenergie,ND,s. Erneuerbare Energie,,,89868840F261C7EEC1256F230035B48A
+B4A53A4D3F0C7519C1258064005DECD4,Meeresschutzgebiet,DS,"Ein Meeresschutzgebiet ist ein Schutzgebiet, das mindestens teilweise Seegebiet umfasst. Meeresschutzgebiete sind ein wesentliches Instrument des Meeresschutzes.","Umweltgefährdung, Umweltschutz",,
+EB2B823EEAA2669AC1258064005E0FD0,Meeresschutzgebiet,D,s.a. Küstenschutz,,,DADDFBCE7D666FB5C1256F230035BC51
+DE74967B05387010C1256F230035BE99,Meeresverschmutzung,DS,Ökosystemschädigende Verunreinigungen des Meeres durch Ablassen und Versenken von systemfremden Stoffen. Problematisch sind v.a. giftige anorganische Industrieabfälle sowie Rohöl von Förderstellen und Tankschiffen (Verklappung).,"Umweltgefährdung, Umweltschutz",,
+FA759E6747A294E1C12580660060A61F,Mehrweg,ND,s. Mehrwegflasche,,,2112B85DF67AC48EC1256F230035BE9E
+2112B85DF67AC48EC1256F230035BE9E,Mehrwegflasche,DS,"Eine Flasche, die mehrfach benutzt wird. Sie wird gereinigt und erneut gefüllt. Bei der Rückgabe der Mehrwegflasche erhält man das beim Kauf entrichtete Pfand zurück.","Umweltgefährdung, Umweltschutz",,
+18CE0A43C5448F0DC1256F230035DB00,Müll,D,s.a. Müllvermeidung,,,7ED5B62625C10ADDC1256F230035BFAA
+569743E41F10DCF5C12575770054ACAF,Müll,D,s.a. Sondermüll,,,4CF616DA1F6327EDC1256F230035C5FE
+8EFDDEBA26CFBB61C1256F230035BF9F,Müll,DS,"Sammelbegriff für feste Abfallstoffe verschiedenster Herkunft, wie Hausmüll, Straßenkehricht, Gewerbe- und Industriemüll.","Umweltgefährdung, Umweltschutz",,
+B68D29C8F4340B5DC1256F230035DB01,Müll,D,s.a. Müllverbrennung,,,9107B6A56BB21D75C1256F230035BFA9
+C35DA7AA14E0DD15C1256F230035DAFF,Müll,D,s.a. Mülldeponie,,,56EBBB54EF5CB399C1256F230035BFA2
+CC8D8EE17DA75E60C1256F230035DAFE,Müll,D,s.a. Müllbeseitigung,,,A5E49E28ACDCDB7DC1256F230035BFA1
+FCC5B01403C79AC7C1256F230035DB02,Müll,D,s.a. Müllverwertung,,,CD648CAE8F3B985BC1256F230035BFAB
+008FB5639237EEDCC1258146005B43C8,Müll,D,s.a. Weltraummüll,,,83F04E3560464607C1258146005B19FD
+FDF02CC3311FA31BC1256F230035DB03,Müllabfuhr,D,s.a. Müllbeseitigung,,,A5E49E28ACDCDB7DC1256F230035BFA1
+017A3B51CB828500C1256F230035FA59,Müllanfall,ND,s. Müll,,,8EFDDEBA26CFBB61C1256F230035BF9F
+311EC3BE2F3397DAC1256F230035FA5A,Müllanfall,ND,s. Müllvermeidung,,,7ED5B62625C10ADDC1256F230035BFAA
+AF48E2C4F92B04A4C12580CA005EBA8D,Müllberg,ND,s. Müll,,,8EFDDEBA26CFBB61C1256F230035BF9F
+0F6908C99E4CD44EC1256F230035DB09,Müllbeseitigung,D,s.a. Recycling,,,BC0E5C6D7FD5B396C1256F230035C2DE
+184755557D00D6FDC1256F230035DB07,Müllbeseitigung,D,s.a. Müllverbrennung,,,9107B6A56BB21D75C1256F230035BFA9
+1A7A03A74CEF151EC1256F230035DB08,Müllbeseitigung,D,s.a. Müllverwertung,,,CD648CAE8F3B985BC1256F230035BFAB
+A5E49E28ACDCDB7DC1256F230035BFA1,Müllbeseitigung,DS,Sammelbegriff für die Ablage und auch Weiterverarbeitung von Müll.,"Umweltgefährdung, Umweltschutz",,
+A5F1089874F38CE0C1256F230035DB06,Müllbeseitigung,D,s.a. Müllvermeidung,,,7ED5B62625C10ADDC1256F230035BFAA
+A9872362A83308C6C1256F230035DB05,Müllbeseitigung,D,s.a. Mülldeponie,,,56EBBB54EF5CB399C1256F230035BFA2
+DDF8B2B5091A6F07C1256F5500379FD2,Müllcontainer,ND,s. Müllbeseitigung,,,A5E49E28ACDCDB7DC1256F230035BFA1
+2F2384C2EC42EEFFC1256F230035DB0A,Mülldeponie,D,s.a. Müllbeseitigung,,,A5E49E28ACDCDB7DC1256F230035BFA1
+536FA2C29EE0C1F9C1256F230035DB0D,Mülldeponie,D,s.a. Müllverwertung,,,CD648CAE8F3B985BC1256F230035BFAB
+56EBBB54EF5CB399C1256F230035BFA2,Mülldeponie,DS,"Unter behördlicher Aufsicht erfolgende geordnete Ablagerung von Müll auf eigens dafür festgelegten Plätzen. Auf Mülldeponien wird der Müll gleichmäßig ausgebreitet, verdichtet und mit Humuszwischenschichten zur schnelleren Verrottung versehen.","Umweltgefährdung, Umweltschutz",,
+820016F379AB5FE0C1256F230035DB0C,Mülldeponie,D,s.a. Müllverbrennung,,,9107B6A56BB21D75C1256F230035BFA9
+0EB451A3F6EE99E2C1256F230035FA5F,Müllentsorgung,ND,s. Müllverbrennung,,,9107B6A56BB21D75C1256F230035BFA9
+190864C488FB6C86C1256F230035FA5B,Müllentsorgung,ND,s. Müll,,,8EFDDEBA26CFBB61C1256F230035BF9F
+5B4B517F398364D3C1256F230035FA5D,Müllentsorgung,ND,s. Müllbeseitigung,,,A5E49E28ACDCDB7DC1256F230035BFA1
+623ED94F09E7F184C1256F230035FA60,Müllentsorgung,ND,s. Müllverwertung,,,CD648CAE8F3B985BC1256F230035BFAB
+E8E4D414374B49F3C1256F230035FA5E,Müllentsorgung,ND,s. Mülldeponie,,,56EBBB54EF5CB399C1256F230035BFA2
+319813FC5695722AC1257E040053F0A5,Müllhalde,ND,s. Mülldeponie,,,56EBBB54EF5CB399C1256F230035BFA2
+08C07B538F807546C1256F230035FA64,Müllheizkraftwerk,ND,s. Müll,,,8EFDDEBA26CFBB61C1256F230035BF9F
+99223307D5C1D341C1256F230035FA66,Müllheizkraftwerk,ND,s. Müllverbrennung,,,9107B6A56BB21D75C1256F230035BFA9
+A6009C28AF0A889BC1256F230035FA69,Müllheizkraftwerk,ND,s. Erneuerbare Energie,,,89868840F261C7EEC1256F230035B48A
+C00BC23F30DD7028C1256F230035FA65,Müllheizkraftwerk,ND,s. Müllbeseitigung,,,A5E49E28ACDCDB7DC1256F230035BFA1
+FADE62F854FC7CF6C1256F230035FA67,Müllheizkraftwerk,ND,s. Müllverwertung,,,CD648CAE8F3B985BC1256F230035BFAB
+5CDC0F8D358F11E7C12580CD00622C74,Müllkippe,ND,s. Mülldeponie,,,56EBBB54EF5CB399C1256F230035BFA2
+ABA8774CD00B3C82C1256F230035FA6A,Müllreduzierung,ND,s. Müll,,,8EFDDEBA26CFBB61C1256F230035BF9F
+E550536E0BDC80DFC1256F230035FA6B,Müllreduzierung,ND,s. Müllvermeidung,,,7ED5B62625C10ADDC1256F230035BFAA
+9107B6A56BB21D75C1256F230035BFA9,Müllverbrennung,DS,"Verfahren der Müllbeseitigung, bei dem gleichzeitig Energie gewonnen werden kann. Ein Problem stellt die von Müllverbrenungsanlagen ausgehende Emissionsbelastung dar.","Umweltgefährdung, Umweltschutz",,
+DD4CC7B0C80F5046C12580CD0063A9A3,Müllverbrennungsanlage,ND,s. Müllverbrennung,,,9107B6A56BB21D75C1256F230035BFA9
+005E508CC7A6466CC1256F230035DB0F,Müllvermeidung,D,s.a. Mehrwegflasche,,,2112B85DF67AC48EC1256F230035BE9E
+3C249C375057571BC1256F230035DB0E,Müllvermeidung,D,s.a. Müllverwertung,,,CD648CAE8F3B985BC1256F230035BFAB
+7ED5B62625C10ADDC1256F230035BFAA,Müllvermeidung,DS,"Jegliche Möglichkeiten, Maßnahmen zur Reduzierung des Müllaufkommens.","Umweltgefährdung, Umweltschutz",,
+CD648CAE8F3B985BC1256F230035BFAB,Müllverwertung,DS,"Jegliche Möglichkeiten zur Weiterverarbeitung, Nutzung von Müll.","Umweltgefährdung, Umweltschutz",,
+DFD2C9EE7C8053A9C1256F230035DB11,Müllverwertung,D,s.a. Recycling,,,BC0E5C6D7FD5B396C1256F230035C2DE
+CC9EB0C5E1D8F24DC1258114005CA7C2,NMVOC,ND,s. Immission,,,35DAF37D07D014D7C1256F230035B945
+ABC65E6669643BD7C1257B1F006531AF,Nachhaltig Bauen,ND,s. Nachhaltige Entwicklung,,,7D219AA12A2025CAC1256F230035BFEA
+7D219AA12A2025CAC1256F230035BFEA,Nachhaltige Entwicklung,DS,"Aktionsplan, um unser Überleben und das von Tieren und Pflanzen zu sichern. Und zwar in Zusammenarbeit von BürgerInnen und Verwaltung. Wurde 1992 auf der Konferenz der UN zum Thema ""Umwelt und Entwicklung"" von 173 Staatschefs verabschiedet.","Umweltgefährdung, Umweltschutz",,
+1BD4949971BA634BC1257B1F00651ABC,Nachhaltige Entwicklung,D,s.a. Energiesparen,,,754913BDE042F9FCC1256F230035B44A
+6722C075FD0B8EB7C125812C00593B99,Nachhaltige Entwicklung,D,s.a. Ökologischer Fußabdruck,,,DD976AEFB2A06B18C125812C0058E643
+239ED5F439720248C12581EE00514632,Nachhaltige Entwicklung,D,s.a. Übernutzung,,,DA44D518356FBD73C12581EE0050D57A
+ECB39190A59226AEC125754100497F25,Nachhaltigkeit,ND,s. Nachhaltige Entwicklung,,,7D219AA12A2025CAC1256F230035BFEA
+C13128D9E9BA228AC125812C0059304D,Nachhaltigkeitsdefizit,ND,s. Ökologischer Fußabdruck,,,DD976AEFB2A06B18C125812C0058E643
+ECEF8AAE875172C4C1257B750053FAEF,Nachwachsender Rohstoff,D,s.a. Biokunststoff,,,EC6CF766D6B63D33C1257B750053B809
+218B0E4B3D18D79DC1256F230035DB5A,Nationalpark,D,s.a. Yosemite,,,BA6596C84B3D6F5BC1256F230035CBCD
+243A77499DF2B141C1256F230035DB5B,Nationalpark,D,s.a. Taubergießen,,,FE1B6E899EB166F9C1256F230035C779
+3B8C871EA49958FDC1256F230035C016,Nationalpark,DS,"Großräumige Naturlandschaft, die durch ihre besondere Eigenart oft keine Parallele auf der Erde mehr hat. Nationalparks werden strengen Schutzbestimmungen im Sinne des Vollnaturschutzes unterworfen, können aber in Teilen auch Erholungszwecken dienen.","Umweltgefährdung, Umweltschutz",,
+58B0CD997D89527BC1256F230035DB5C,Nationalpark,D,s.a. Umweltschutz,,,6CAB7FAFF3596DC8C1256F230035C8C8
+FF076E9DBAC03FD8C1256F230035DB59,Nationalpark,D,s.a. Yellowstone Nationalpark,,,62C9D2424AB7A28DC1256F230035CBCA
+BED1E25CF9B4C018C1258064005E05F0,Nationalpark,D,s.a. Meeresschutzgebiet,,,B4A53A4D3F0C7519C1258064005DECD4
+934AA45B83A15612C1256F230035FB08,Nationalpark Yosemite,ND,s. Yosemite,,,BA6596C84B3D6F5BC1256F230035CBCD
+78020E8AFDF5AE4CC12580F20057F06A,Natriumperborat,ND,s. Tenside,,,591C2BB85ECAA7FFC1256F230035C79C
+37562B1366D26181C1256F230035DB65,Natur,D,s.a. Landschaftsschutz,,,B7CD39126ABB3BCDC1256F230035BCA2
+DEB0305A791943C1C1256F230035FB0E,Natur- und Landschaftsschutz,ND,s. Landschaftsschutz,,,B7CD39126ABB3BCDC1256F230035BCA2
+AF5458F337CF80BDC1256F230035FB18,Naturpark,ND,s. Nationalpark,,,3B8C871EA49958FDC1256F230035C016
+119BCF044DFAF77BC1256F230035FB19,Naturreservat,ND,s. Nationalpark,,,3B8C871EA49958FDC1256F230035C016
+0F97BCB325DFB6C9C1256F230035FB1C,Naturschutz,ND,s. Umweltschutz,,,6CAB7FAFF3596DC8C1256F230035C8C8
+8EB8B5890D00BC1DC1256F230035FB1D,Naturschutzgebiet,ND,s. Nationalpark,,,3B8C871EA49958FDC1256F230035C016
+1B82ECB5E1E698D8C12580F8005A3542,Naturschutzreservat,ND,s. Nationalpark,,,3B8C871EA49958FDC1256F230035C016
+7A8B397880E2A2ECC1256F230035FB1F,Naturveränderung,ND,s. Umweltveränderung,,,9CAE13A6A2A7F09BC1256F230035C8CB
+0E94198D4DB733B6C12580F8005C700F,Naturwissenschaft,D,s.a. Umweltschutz,,,6CAB7FAFF3596DC8C1256F230035C8C8
+C99FCE0A853C1F1DC1256F230035FB21,Naturzerstörung,ND,s. Umweltzerstörung,,,3BC91EF44508CD80C1256F230035C8CE
+37B59CA581870A4EC12580F2005A1F05,Natürlicher Treibhauseffekt,ND,s. Treibhauseffekt,,,FF067AF52B34C2D2C1256F230035C854
+16F89DC7F201ECAFC12571FB002F1128,Nichtregierungsorganisation,D,s.a. Greenpeace,,,81A22E5600556F8CC1256F230035B765
+932D3573E6F6FC3EC1256F230035FB9B,Nitratbelastung,ND,s. Überdüngung,,,A5B689922C42E59AC1256F230035C89D
+86B6798908D2F47BC1256F230035FBD2,Nuklearkatastrophe,ND,s. Reaktorkatastrophe,,,254D2C5F291CE1ADC1256F230035C2CF
+98C8EF74DFEEF0AEC125811E005E6655,Nutzung,ND,s. Erneuerbare Energie,,,89868840F261C7EEC1256F230035B48A
+29DCEE2C7D5B570FC1258120004E7B9C,Oberflächennahe Geothermie,ND,s. Geothermie,,,84B5FEFE3BCDAE3DC125747800347CBA
+CE9D06510949AA89C125813700557925,Okavango Nationalpark,ND,s. Nationalpark,,,3B8C871EA49958FDC1256F230035C016
+2C3FC2C9F245348FC12581520058D0D9,Ozeanversauerung,DS,"Als Versauerung der Meere wird die Abnahme des pH-Wertes des Meerwassers bezeichnet. Verursacht wird sie durch die Aufnahme von Kohlenstoffdioxid (CO2) aus der Erdatmosphäre. Der Vorgang zählt neben der globalen Erwärmung zu den Hauptfolgen der menschlichen Emissionen von Kohlenstoffdioxid. Während Kohlenstoffdioxid in der Erdatmosphäre physikalisch zu steigenden Temperaturen auf der Erde führt, wirkt es im Meerwasser chemisch. Das Meerwasser ist leicht basisch. Durch die Versauerung wird es nicht sauer, sondern weniger basisch.","Umweltgefährdung, Umweltschutz",,
+51765F1E1D067561C1256F230035C12D,Ozonloch,DS,Seit etwa 30 Jahren gemessene Verringerung der Ozonkonzentration im September/Oktober in der Ozonschicht der Hochatmosphäre über der Antarktis. 1993 wurde erstmals auch über dem Nordpol eine Verdünnung der Ozonschicht nachgewiesen. Verantwortlich sind u.a. FCKW.,"Umweltgefährdung, Umweltschutz",,
+57A9679D7277612EC1257AF600540352,PET,D,s.a. Mehrwegflasche,,,2112B85DF67AC48EC1256F230035BE9E
+22DB7745A24BE293C1256F230035FCE2,Papierrecycling,ND,s. Recycling,,,BC0E5C6D7FD5B396C1256F230035C2DE
+87E77B7D3B5743BDC125815C00590E7C,Parabolrinnenkraftwerk,ND,s. Solarenergie,,,DAB311B439134E54C1256F230035C5F3
+DDF2BD72D9EBB2A3C125747800343C91,Pellets,ND,s. Erneuerbare Energie,,,89868840F261C7EEC1256F230035B48A
+3506849D21EE038AC1256F230035FD51,Pfandflasche,ND,s. Mehrwegflasche,,,2112B85DF67AC48EC1256F230035BE9E
+9F6D59C714B18C7DC1257A9E0030AF28,Pflanzenölkraftstoff,ND,s. Biokraftstoff,,,A29CB6678CE08F97C1257A9E0030295D
+E6D2834FE03DB00FC12574780034CD50,Pflanzlicher Kraftstoff,ND,s. Erneuerbare Energie,,,89868840F261C7EEC1256F230035B48A
+4350DAFF42A407FBC1258178005E7B62,Phosphate,D,s.a. Eutrophierung,,,F8C4780273F77E89C1256F230035B4BA
+BFFCBF5F774BB6F8C1258178005F48F6,Phosphatfreisetzung,ND,s. Eutrophierung,,,F8C4780273F77E89C1256F230035B4BA
+BAD029DF379256DFC1258178005F5B84,Phosphatimport,ND,s. Eutrophierung,,,F8C4780273F77E89C1256F230035B4BA
+84AE707A1A70FB6DC1258178005F7F39,Phosphatkreislauf,ND,s. Eutrophierung,,,F8C4780273F77E89C1256F230035B4BA
+59A8488D325727B0C1256F230035FDBD,Photovoltaik,DS,"Unter Photovoltaik bzw. Fotovoltaik versteht man die direkte Umwandlung von Lichtenergie, meist aus Sonnenlicht, in elektrische Energie mittels Solarzellen. Seit 1958 wird sie in der Raumfahrt genutzt. Inzwischen wird sie auf der Erde überwiegend zur Stromerzeugung eingesetzt und findet unter anderem Anwendung auf Dachflächen, bei Parkscheinautomaten, in Taschenrechnern, an Schallschutzwänden, Freiflächen und auf dem Wasser. Die Photovoltaik ist ein Teilbereich der Solartechnik, die weitere technische Nutzungen der Sonnenenergie einschließt.","Umweltgefährdung, Umweltschutz",,
+C6A87777F97975F0C1256F230035FF34,Radioaktiver Abfall,ND,s. Sondermüll,,,4CF616DA1F6327EDC1256F230035C5FE
+95920D7BF2CF372AC125725F00380662,Radioaktiver Stoff,ND,s. Schadstoff,,,E6C9012D8253F94AC1256F230035C469
+DE17BCC2BB59F62DC12581EE0050E89E,Raubbau,ND,s. Übernutzung,,,DA44D518356FBD73C12581EE0050D57A
+F47B28F34E079B51C1256F230035FF65,Rauchgasreinigung,ND,s. Luftreinhaltung,,,E4B4FEEE0DE32E3BC1256F230035BDBF
+254D2C5F291CE1ADC1256F230035C2CF,Reaktorkatastrophe,DS,"Beschreibung konkreter Beispiele von Unfällen/Katastrophen, die in Zusammenhang mit Kernkraft stehen; z.B. Tschernobyl, Fukushima.","Umweltgefährdung, Umweltschutz",,
+5A02189B7AEDA2AAC1256F230035DDB7,Recycling,D,s.a. Müllverwertung,,,CD648CAE8F3B985BC1256F230035BFAB
+BC0E5C6D7FD5B396C1256F230035C2DE,Recycling,DS,"Wiederverwendung von Abfällen, wie Nebenprodukte oder (verbrauchte) Endprodukte als Rohstoffe für die Herstellung neuer Produkte. Recyclingformen: Wiederverwendung (z.B. bei Pfandflaschen), Weiterverwendung in einem neuen Anwendungsbereich (z.B. Altpapier als Dämmmaterial), Wiederverwertung (z.B. Flaschen aus Altglas), Weiterverwertung in einem anderen Produktionsprozess (z.B. Stahl aus Schrott).","Umweltgefährdung, Umweltschutz",,
+5CF3B4388614BCC3C125844A005DF201,Recycling,D,s.a. Werkstoffliches Recycling,,,F421E322F5E05D47C125844A005DB21B
+A0F3E943E0A31776C1256F230035FFA2,Regen (saurer),ND,s. Saurer Regen,,,4D48CD27E09EB9A5C1256F230035C45F
+BB98103188832965C125723300411531,Regeneration (Energie),ND,s. Erneuerbare Energie,,,89868840F261C7EEC1256F230035B48A
+83EAD3BD7BEDDADFC1256F230035FFA5,Regenerative Energie,ND,s. Erneuerbare Energie,,,89868840F261C7EEC1256F230035B48A
+7170378BE74FF38BC12582040061D102,Regenerative Energiequelle,ND,s. Erneuerbare Energie,,,89868840F261C7EEC1256F230035B48A
+03D95CC2BB299399C1256F230035DDF4,Rekultivierung,D,s.a. Kiesgrube,,,73203CF57CF9FE0BC1256F230035BAEA
+4EC43A6DE23DD3F8C1256F230035C332,Rekultivierung,DS,Maßnahmen zur Wiedereingliederung der durch wirtschaftliche Aktivitäten gestörten Landschaftsteile in eine ausgewogene Kulturlandschaft. Rekultivierungen werden z.B. in ehemaligen Bergbaulandschaften durchgeführt.,"Umweltgefährdung, Umweltschutz",,
+D4E86093AB9A8920C1256F230035DDF6,Rekultivierung,D,s.a. Renaturierung,,,6F94418C59FD1FBEC1256F230035C341
+509CA2D92403E15FC1256F230035DE07,Renaturierung,D,s.a. Rekultivierung,,,4EC43A6DE23DD3F8C1256F230035C332
+6F94418C59FD1FBEC1256F230035C341,Renaturierung,DS,"Wiederherstellen der natürlichen, ursprünglichen Gegebenheiten der Landschaft, z.B. Revidieren einer Flussbegradigung.","Umweltgefährdung, Umweltschutz",,
+01C65D802B0C948EC12580F8005A3B2C,Reservat (Natur),ND,s. Nationalpark,,,3B8C871EA49958FDC1256F230035C016
+56F052CA944708D3C1258221005E2935,Ressourcenschonung,ND,s. Nachhaltige Entwicklung,,,7D219AA12A2025CAC1256F230035BFEA
+6EDCD3A682B4B674C12578B30036F2F6,Rezyklierung,ND,s. Recycling,,,BC0E5C6D7FD5B396C1256F230035C2DE
+3F3ACE3DA136DCB8C125723C00395AC4,Robin Wood,ND,s. Umweltschutz,,,6CAB7FAFF3596DC8C1256F230035C8C8
+4140F600AEF41C98C1256F230035DE30,Rodung,D,s.a. Umweltgefährdung,,,0774E066C6F4F270C1256F230035C8C6
+0E4AA3524D57FA79C125723E003AF6AC,Rohstoff,D,s.a. Recycling,,,BC0E5C6D7FD5B396C1256F230035C2DE
+CD40058F5E0F6EE3C1256F230035DE3F,Rohstoff,D,s.a. Erneuerbare Energie,,,89868840F261C7EEC1256F230035B48A
+594D98F01B2428B4C12581EE0050F6B0,Rohstoff,D,s.a. Übernutzung,,,DA44D518356FBD73C12581EE0050D57A
+34D494FDC7130E43C125824400603F89,Rohstoffliches Recycling,ND,s. Recycling,,,BC0E5C6D7FD5B396C1256F230035C2DE
+D0BA3EA53477B491C1258252005B6609,Ruhezone,ND,s. Umweltschutz,,,6CAB7FAFF3596DC8C1256F230035C8C8
+036090FD5BEFEF15C1257243003645C2,Rußfilter,ND,s. Abgaskatalysator,,,630FC2C84892EF74C1256F230035ACED
+BCC5CFF7DA77701DC125724300363B2C,Rußfilter,ND,s. Luftreinhaltung,,,E4B4FEEE0DE32E3BC1256F230035BDBF
+EE77BF7DF447C829C12582500061B071,Rückgangsinsel,ND,s. Küstenschutz,,,DADDFBCE7D666FB5C1256F230035BC51
+0CBD951B8F42308AC12582A5005733E6,SCR-Technologie,ND,s. Abgaskatalysator,,,630FC2C84892EF74C1256F230035ACED
+B1B4881667C6395BC1256F2300360121,Sandgrube,ND,s. Kiesgrube,,,73203CF57CF9FE0BC1256F230035BAEA
+D140D2654EB4BF0CC125826E0059A43A,Sandvorspülung,ND,s. Küstenschutz,,,DADDFBCE7D666FB5C1256F230035BC51
+60E934902388C700C12582720056851E,Sauerstoffdefizit,ND,s. Eutrophierung,,,F8C4780273F77E89C1256F230035B4BA
+F79396415508A824C12582720056A885,Sauerstoffsättigung,ND,s. Eutrophierung,,,F8C4780273F77E89C1256F230035B4BA
+037B124C2D1BD5D7C1256F230035DEC4,Saurer Regen,D,s.a. Immission,,,35DAF37D07D014D7C1256F230035B945
+4D48CD27E09EB9A5C1256F230035C45F,Saurer Regen,DS,"Durch Schwefel- und Salpetersäure sowie saure Sulfate und Nitrate angereicherter Niederschlag. Quellen saurer Substanzen sind u.a. die Verbrennung fossiler Energieträger, Ölverarbeitung, Prozesse in der chemischen Industrie.","Umweltgefährdung, Umweltschutz",,
+5F5F178092376F54C1256F230035DEC3,Saurer Regen,D,s.a. Waldsterben,,,4C6C5C533A3F7921C1256F230035CA43
+381723CB72766CEAC12582720059900C,Schadgas,ND,s. Schadstoff,,,E6C9012D8253F94AC1256F230035C469
+11DF07F598A7ECEFC1256F230035DED3,Schadstoff,D,s.a. Immission,,,35DAF37D07D014D7C1256F230035B945
+97B0C5355BF3C21EC1256F230035DED2,Schadstoff,D,s.a. Emission (Umwelt),,,0450AAC6AF5A0DA1C1256F230035B43C
+E6C9012D8253F94AC1256F230035C469,Schadstoff,DS,"Sammelbezeichnung für chemische Stoffe, die Mensch und Umwelt schädigen können, z.B. organische Giftstoffe, Abgase, Schwermetalle, radioaktive Stoffe.","Umweltgefährdung, Umweltschutz",,
+EECB3BEA83C91065C1256F230036015B,Schadstoffemission,ND,s. Emission (Umwelt),,,0450AAC6AF5A0DA1C1256F230035B43C
+BCFDB8C1BEA01895C1256F230036015C,Schadstoffnachweis,ND,s. Bioindikator,,,73D142D01C891625C1256F230035B0C3
+B495FB4DC8BD4A37C1256F2300360169,Schalldämmung,ND,s. Lärmschutz,,,715A17120D3E399BC1256F230035BCB9
+E0E502DC7AC8F91CC1256F230036016A,Schallschutz,ND,s. Lärmschutz,,,715A17120D3E399BC1256F230035BCB9
+074976A258064DCBC12582780059D9F3,Schaum,ND,s. Tenside,,,591C2BB85ECAA7FFC1256F230035C79C
+32071482DEA0D798C1256F23003601D3,Schmutzwasser,ND,s. Abwasser,,,244569E7D64B9A37C1256F230035AD72
+960D0C968D61D5A7C1258146005B4BA0,Schrott,D,s.a. Weltraummüll,,,83F04E3560464607C1258146005B19FD
+E4FC7A2B7942396BC1258297005D94C6,Schutt,ND,s. Müll,,,8EFDDEBA26CFBB61C1256F230035BF9F
+50AA2186F349E120C1258297005DECD0,Schutz,ND,s. Lärmschutz,,,715A17120D3E399BC1256F230035BCB9
+A1F096C8C11D7378C125829A002EADFC,Schutzmaßnahme (Umwelt),ND,s. Umweltschutz,,,6CAB7FAFF3596DC8C1256F230035C8C8
+F0ABC0A3809386F2C125829A002E9069,Schutzmaßnahme (Wasser),ND,s. Gewässerschutz,,,7A81ACE9C001DE6BC1256F230035B6C4
+D2281FC68EDE7ECCC125829A003112F5,Schutzzone,ND,s. Gewässerschutz,,,7A81ACE9C001DE6BC1256F230035B6C4
+5B9777B45521F0DFC125725F0037ECFB,Schwermetalle,D,s.a. Schadstoff,,,E6C9012D8253F94AC1256F230035C469
+6E2FEAA6D0296F43C125723E003B05F0,Sekundärrohstoff,ND,s. Recycling,,,BC0E5C6D7FD5B396C1256F230035C2DE
+75A0601266B93EC9C12582A50057590D,Selektive katalytische Reduktion,ND,s. Abgaskatalysator,,,630FC2C84892EF74C1256F230035ACED
+9258CD22E6DA807DC12582B1005D1D31,Serengeti,ND,s. Nationalpark,,,3B8C871EA49958FDC1256F230035C016
+F67D3E96F251047DC12582B5003BD71A,Shredder,ND,s. Recycling,,,BC0E5C6D7FD5B396C1256F230035C2DE
+85675294F2CAB1BCC1256F230035DF80,Sierra Nevada (USA),D,s.a. Yosemite,,,BA6596C84B3D6F5BC1256F230035CBCD
+BE1BC1449381CFD9C1256F230035C5E7,Smog,DS,"Gefährliche Anreicherung von Verbrennungsprodukten (Kohlenwasserstoffe, Kohlenmonoxid, Schwefeldioxid, Stickoxide, Ruß, Flugasche) in der Luft, besonders bei Nebel.","Umweltgefährdung, Umweltschutz",,
+C2C3671C027C37A8C12582C90053560E,Solaranlage,ND,s. Solarenergie,,,DAB311B439134E54C1256F230035C5F3
+DAB311B439134E54C1256F230035C5F3,Solarenergie,DS,"Die neben anderen Energieformen zur Deckung des Energiebedarfs dienende, in Sonnenkraftwerken genutzte Strahlungsenergie der Sonne.","Umweltgefährdung, Umweltschutz",,
+E521D4A694B5D1F7C12582C90053AE58,Solarstrom,ND,s. Solarenergie,,,DAB311B439134E54C1256F230035C5F3
+D8FA46DF917CD6BDC12584540057D8F8,Solartechnik,D,s.a. Photovoltaik,,,59A8488D325727B0C1256F230035FDBD
+62515EA9B269E4E6C1257478003561F7,Solarthermie,ND,s. Solarenergie,,,DAB311B439134E54C1256F230035C5F3
+7CEAAEE0F5465227C12574780035961D,Solarthermie,ND,s. Erneuerbare Energie,,,89868840F261C7EEC1256F230035B48A
+AFE32DB5382057C9C12582C90053D1A1,Solarthermik,ND,s. Solarenergie,,,DAB311B439134E54C1256F230035C5F3
+8EC5FF2978B7E82CC12572B100290F53,Solarthermisches Sonnenkraftwerk,ND,s. Solarenergie,,,DAB311B439134E54C1256F230035C5F3
+72CE2E746CE45A2CC12582C90053E262,Solarwärme,ND,s. Solarenergie,,,DAB311B439134E54C1256F230035C5F3
+984C748EE8DF8EAFC125815C0059444E,Solarwärmekraftwerk,ND,s. Solarenergie,,,DAB311B439134E54C1256F230035C5F3
+3AEF8ECE4A0E30DCC12582CD005B9939,Sommersmog,ND,s. Smog,,,BE1BC1449381CFD9C1256F230035C5E7
+4CF616DA1F6327EDC1256F230035C5FE,Sondermüll,DS,"Abfallstoffe, die wegen ihrer toxischen Wirkung nicht zusammen mit dem normalen Haus- und Gewerbemüll beseitigt bzw. behandelt werden dürfen. Sondermüll unterliegt einer speziellen Behandlung und ist auf Ssondermülldeponien zu lagern.","Umweltgefährdung, Umweltschutz",,
+79E23875A0B9AA0CC1256F23003603A4,Sonnenenergie,ND,s. Solarenergie,,,DAB311B439134E54C1256F230035C5F3
+FCFE0954E3F40B46C1256F23003603A8,Sonnenkraftwerk,ND,s. Solarenergie,,,DAB311B439134E54C1256F230035C5F3
+FC7618CBFA209C24C125815C00593862,Sonnenwärmekraftwerk,ND,s. Solarenergie,,,DAB311B439134E54C1256F230035C5F3
+B8742E40EECFC1BCC12572B2004C7A0B,Stadtentwässerung,ND,s. Abwasser,,,244569E7D64B9A37C1256F230035AD72
+B6B4165B24E96D19C125830C00582F54,Stand-by-Zustand,ND,s. Energiesparen,,,754913BDE042F9FCC1256F230035B44A
+30D5437C7B11D9ACC1256F230036052A,Steinbruch,ND,s. Kiesgrube,,,73203CF57CF9FE0BC1256F230035BAEA
+783C3F8B7FD6B463C12572AA0030BA4E,Strahlungsenergie,ND,s. Solarenergie,,,DAB311B439134E54C1256F230035C5F3
+569DD9A837F6511DC125833D00646DA0,Stromnutzung,ND,s. Energieeffizienz,,,1C8D8192A8A16E03C1257C89005D07A4
+3390BC873FF5EE7AC125833D00652299,Stromspeicher,ND,s. Erneuerbare Energie,,,89868840F261C7EEC1256F230035B48A
+64E18783DD17DA27C125832F00561932,Strömungskraftwerk,ND,s. Erneuerbare Energie,,,89868840F261C7EEC1256F230035B48A
+269223839EFFBB51C1256F2300360580,Störfall,ND,s. Reaktorkatastrophe,,,254D2C5F291CE1ADC1256F230035C2CF
+58A1DD58D5B70375C1256F2300360629,Super-GAU,ND,s. Reaktorkatastrophe,,,254D2C5F291CE1ADC1256F230035C2CF
+A64037CC3BC8F00BC1257B760035D803,Synthetischer Kraftstoff,ND,s. Biokraftstoff,,,A29CB6678CE08F97C1257A9E0030295D
+ABAC1BA93271DAA6C125835100641FC3,Tankerunglück,ND,s. Ölpest,,,953A4D69A421C26FC1256F230035C0DF
+FE1B6E899EB166F9C1256F230035C779,Taubergießen,DS,Das heutige Naturschutzgebiet Taubergießen erstreckt sich auf einer Länge von 12 km und einer Breite von bis zu 2 km. 1955 wurde es unter Landschaftsschutz und  1979 unter Naturschutz gestellt.,"Umweltgefährdung, Umweltschutz",,
+5E874456BB807AD5C1256F23003606D0,Technologie (Umwelt),ND,s. Umwelttechnologie,,,0AACEB9FE5AE1486C1256F230035C8CA
+591C2BB85ECAA7FFC1256F230035C79C,Tenside,DS,"Grenzflächenaktive chemische Verbindungen: seidenartige Substanzen, die die Oberflächenspannung des Wassers herabsetzen und Schmutzstoffe lösen.","Umweltgefährdung, Umweltschutz",,
+DCB4633A8758C07BC12583610065BA55,Tetrapode,ND,s. Küstenschutz,,,DADDFBCE7D666FB5C1256F230035BC51
+E2B72CEDF709346FC1258366005ED0A5,Thermisches Recycling,ND,s. Recycling,,,BC0E5C6D7FD5B396C1256F230035C2DE
+BDD5707BC2C6FE2CC125836700618290,Tiefengeothermie,ND,s. Geothermie,,,84B5FEFE3BCDAE3DC125747800347CBA
+2993AD2C4556DE25C1256F230035E18C,Treibhauseffekt,D,s.a. Umweltverschmutzung,,,FCFB21BBF513FA64C1256F230035C8CD
+7D231C74AF16729AC1256F230035E18A,Treibhauseffekt,D,s.a. Ozonloch,,,51765F1E1D067561C1256F230035C12D
+FF067AF52B34C2D2C1256F230035C854,Treibhauseffekt,DS,"Bezeichnung für die Erscheinung, dass sich die Atmosphäre erwärmt, da Wasserdampf und Treibhausgase (CO2, Methan, Ozon, FCKW u.a.) sichtbares Licht der Sonne zwar durchlassen, die von der Erdoberfläche emittierte Wärmestrahlung jedoch absorbieren.","Umweltgefährdung, Umweltschutz",,
+78D8814FB233FBE9C12583840060BBA9,Treibhausgas,ND,s. Treibhauseffekt,,,FF067AF52B34C2D2C1256F230035C854
+5A2B683EDA262FC9C1256F230035E198,Trinkwasser,D,s.a. Wasserverschmutzung,,,22A971E73B4F86BAC1256F230035CA8C
+BBF3518A1185FCEBC1256F230035E194,Trinkwasser,D,s.a. Abwasser,,,244569E7D64B9A37C1256F230035AD72
+0EBD8E5F223902A3C1258386005F56DA,Trinkwasserschutz,ND,s. Gewässerschutz,,,7A81ACE9C001DE6BC1256F230035B6C4
+B0D358B91A3C1019C1256F23003607EF,Trittschall,ND,s. Lärmschutz,,,715A17120D3E399BC1256F230035BCB9
+A3280096EEF9BE2CC1256F230035E19A,Trockengebiet,D,s.a. Desertifikation,,,3F540FBCFF2F6443C1256F230035B318
+06CF411E6F2AC9A0C1256F2300360812,Tschernobyl,ND,s. Reaktorkatastrophe,,,254D2C5F291CE1ADC1256F230035C2CF
+7F6E36924C5FB34AC1256F230035E265,USA (Staat),D,s.a. Yellowstone Nationalpark,,,62C9D2424AB7A28DC1256F230035CBCA
+7D2685924F2B25CEC12581310059FE5A,Umgehungsgewässer,ND,s. Renaturierung,,,6F94418C59FD1FBEC1256F230035C341
+4BF415137197484CC12572CD004E4B09,Umkippen (Gewässer),ND,s. Eutrophierung,,,F8C4780273F77E89C1256F230035B4BA
+1A7BFA2DEC6EBB1BC1256F230035E1C1,Umwelt (allgemein),D,s.a. Umweltverschmutzung,,,FCFB21BBF513FA64C1256F230035C8CD
+889F1676D2891B4FC1256F230035E1BB,Umwelt (allgemein),D,s.a. Umweltbelastung,,,E168B8041C669169C1256F230035C8C2
+8A0E5DCB731CEED2C1256F230035E1C2,Umwelt (allgemein),D,s.a. Umweltzerstörung,,,3BC91EF44508CD80C1256F230035C8CE
+8D410FC2F5166A28C1256F230035E1C0,Umwelt (allgemein),D,s.a. Umweltveränderung,,,9CAE13A6A2A7F09BC1256F230035C8CB
+CCC401BBE9DC9635C1256F230035E1BF,Umwelt (allgemein),D,s.a. Umweltschutz,,,6CAB7FAFF3596DC8C1256F230035C8C8
+DC6C36519F0D8AE0C1256F230035E1BD,Umwelt (allgemein),D,s.a. Umweltgefährdung,,,0774E066C6F4F270C1256F230035C8C6
+0F7C743198EBD2F0C125757700558943,Umweltbelastung,D,s.a. Emission (Umwelt),,,0450AAC6AF5A0DA1C1256F230035B43C
+170704402EAEE679C12575770055BE97,Umweltbelastung,D,s.a. Überdüngung,,,A5B689922C42E59AC1256F230035C89D
+4526C8D4B9A80802C12575770055908B,Umweltbelastung,D,s.a. Immission,,,35DAF37D07D014D7C1256F230035B945
+4AE26A5FD83A3073C125757700559E15,Umweltbelastung,D,s.a. Saurer Regen,,,4D48CD27E09EB9A5C1256F230035C45F
+4E13E28D88751FFBC12575770055B173,Umweltbelastung,D,s.a. Tenside,,,591C2BB85ECAA7FFC1256F230035C79C
+4FD4C3CC0A1716B5C1256F230035E1C7,Umweltbelastung,D,s.a. Umweltgefährdung,,,0774E066C6F4F270C1256F230035C8C6
+58DF4692BEA18AA1C12575770055A47B,Umweltbelastung,D,s.a. Schadstoff,,,E6C9012D8253F94AC1256F230035C469
+6684AFFA33B3ECBCC125757700559840,Umweltbelastung,D,s.a. Ölpest,,,953A4D69A421C26FC1256F230035C0DF
+6F7B0AD792773B56C125757700558185,Umweltbelastung,D,s.a. Bebauungsplan,,,D951E1A122805FF3C1256F230035AFE4
+91946A284BCD99C4C1256F230035E1C6,Umweltbelastung,D,s.a. Umweltzerstörung,,,3BC91EF44508CD80C1256F230035C8CE
+BEC0018DB3B14CADC125757700557608,Umweltbelastung,D,s.a. Abwasser,,,244569E7D64B9A37C1256F230035AD72
+D217DEEF01C7FD9FC12575770055C76C,Umweltbelastung,D,s.a. Überweidung,,,1904A17DFF721E61C1256F230035C8A6
+DB82B3E3A851E701C12575770055B7FB,Umweltbelastung,D,s.a. Treibhauseffekt,,,FF067AF52B34C2D2C1256F230035C854
+E168B8041C669169C1256F230035C8C2,Umweltbelastung,DS,Im Sinne der Belastung von Ökosystemen technogene bzw. anthropogene Eingriffe in die Umwelt. Sie führen meist zu Umweltschäden.,"Umweltgefährdung, Umweltschutz",,
+E604548C20401488C12575770055AB28,Umweltbelastung,D,s.a. Smog,,,BE1BC1449381CFD9C1256F230035C5E7
+026F8A141750CEA9C12583A30054E9F1,Umweltbelastung,D,s.a. Umweltschaden,,,B04DD1A493285A5CC12583A30054B034
+70CD826257A91EDFC12583D700594758,Umweltbelastung,D,s.a. Flächenversiegelung,,,6DC54EF523AEC256C12583D700591BDA
+5F35ED8C69456C72C1256F2300360865,Umweltbewusstsein,DS,"Das Umweltbewusstsein ist die Einsicht eines Menschen in die Tatsache, dass Menschen die natürliche Umwelt – und damit die Lebensgrundlage der Menschen – durch ihr Tun und Lassen bzw. durch Eingriffe in die Umwelt schädigen oder ihr natürliches Gleichgewicht gefährden.","Umweltgefährdung, Umweltschutz",,
+8D59160FBAB2E92BC1256F230035E1D3,Umwelterziehung,D,s.a. Umweltschutz,,,6CAB7FAFF3596DC8C1256F230035C8C8
+EC741F8943393DACC1256F230035E1CF,Umwelterziehung,D,s.a. Müllvermeidung,,,7ED5B62625C10ADDC1256F230035BFAA
+F04C1002218AA1CBC12583A2005DCA7C,Umwelterziehung,D,s.a. Umweltbewusstsein,,,5F35ED8C69456C72C1256F2300360865
+595B711182717D21C1256F230035C8C5,Umweltforschung,DS,Im soziologischen Sinne die Untersuchung und Erforschung der durch die Tätigkeit des Menschen auftretenden Veränderungen seiner Umwelt und der komplexen Wechselwirkungen zwischen dieser künstlichen Umwelt und dem natürlichen Ökosystem.,"Umweltgefährdung, Umweltschutz",,
+053A5957DA68D127C12575770055E9A4,Umweltgefährdung,D,s.a. Umweltverschmutzung,,,FCFB21BBF513FA64C1256F230035C8CD
+0774E066C6F4F270C1256F230035C8C6,Umweltgefährdung,DS,"Erfolgt durch anthropogene bzw. technogene Eingriffe in die Ökosysteme der Umwelt, so dass die Umweltqualität Schaden nimmt.","Umweltgefährdung, Umweltschutz",,
+182053F04EB772F7C1256F230035E1D5,Umweltgefährdung,D,s.a. Umweltbelastung,,,E168B8041C669169C1256F230035C8C2
+5DF5C35E84D9EF74C1256F230035E1D4,Umweltgefährdung,D,s.a. Greenpeace,,,81A22E5600556F8CC1256F230035B765
+81BCB9EAF35278F4C1256F230035E1D6,Umweltgefährdung,D,s.a. Umweltzerstörung,,,3BC91EF44508CD80C1256F230035C8CE
+5A375F4532534CD8C1257797005532F2,Umweltgefährliche Stoffe,D,s.a. Schadstoff,,,E6C9012D8253F94AC1256F230035C469
+C0C76C82963D8BF8C12583A2005ED8F0,Umweltgefährliche Stoffe,DS,"Als umweltgefährliche Stoffe werden im Chemikalien- und Verkehrsrecht Stoffe oder Zubereitungen verstanden, die selbst oder deren Umwandlungsprodukte geeignet sind, die Beschaffenheit des Naturhaushaltes, von Wasser, Boden oder Luft, Klima, Tieren, Pflanzen oder Mikroorganismen derart zu verändern, dass dadurch sofort oder später Gefahren für die Umwelt herbeigeführt werden können.","Umweltgefährdung, Umweltschutz",,
+9983B8C6F44E5244C12583A2005F2E05,Umweltgift,ND,s. Umweltgefährliche Stoffe,,,C0C76C82963D8BF8C12583A2005ED8F0
+2138C9294A66992BC1256F230035C8C7,Umweltkatastrophe,DS,"Beschreibung von Umweltschäden, die zu katastrophalen Folgen (meist für Menschen) geführt haben (z.B. Bergrutsch, Überschwemmungen).","Umweltgefährdung, Umweltschutz",,
+B47380EE0AC4C089C125757700561D21,Umweltkatastrophe,D,s.a. Reaktorkatastrophe,,,254D2C5F291CE1ADC1256F230035C2CF
+CED2E8AB4719D9A2C12572CD004FFE6A,Umweltkriminalität,ND,s. Umweltgefährdung,,,0774E066C6F4F270C1256F230035C8C6
+87A0CB9BCB750662C12583A30053D211,Umweltmanagement,DS,"Das Umweltmanagement ist der Teilbereich des Managements einer Organisation (Unternehmen, Behörde etc.), der sich mit den betrieblichen und behördlichen Umwelt(schutz)belangen der Organisation beschäftigt. Es dient zur Sicherung einer nachhaltigen Umweltverträglichkeit der betrieblichen Produkte und Prozesse einerseits sowie der Verhaltensweisen der Mitarbeiter und Stakeholder andererseits.","Umweltgefährdung, Umweltschutz",,
+36A3BCEE6F9B213CC1256F2300360867,Umweltproblem,ND,s. Umweltbelastung,,,E168B8041C669169C1256F230035C8C2
+58BBED2324F9BED8C1256F2300360868,Umweltproblem,ND,s. Umweltzerstörung,,,3BC91EF44508CD80C1256F230035C8CE
+7A9EC39276F8DD16C12583A30054C51A,Umweltschaden,D,s.a. Umweltzerstörung,,,3BC91EF44508CD80C1256F230035C8CE
+987AA6D6C051CA32C12583A30054E31D,Umweltschaden,D,s.a. Umweltbelastung,,,E168B8041C669169C1256F230035C8C2
+B04DD1A493285A5CC12583A30054B034,Umweltschaden,DS,Ein Umweltschaden ist ein von Menschen ausgehender direkter oder indirekter Schaden für die Umwelt und die menschlichen Lebensräume und Siedlungsgebiete. Zu den indirekten Schadensauswirkungen gehören durch Emissionen und Klimaveränderung ausgelöste Elementarschäden.,"Umweltgefährdung, Umweltschutz",,
+3CFC2A0F2A805D16C125725F0037C5B9,Umweltschadstoff,ND,s. Schadstoff,,,E6C9012D8253F94AC1256F230035C469
+075DA7C049E3156FC12575770054EDFC,Umweltschutz,D,s.a. Biotop,,,742F14EC34FA7AC4C1256F230035B0CF
+0DA25F4437B8ECC6C1256F230035E1DF,Umweltschutz,D,s.a. Umwelttechnologie,,,0AACEB9FE5AE1486C1256F230035C8CA
+19E5B10B3C787647C125757700550B4E,Umweltschutz,D,s.a. Küstenschutz,,,DADDFBCE7D666FB5C1256F230035BC51
+234A37E090294E10C1256F230035E1DC,Umweltschutz,D,s.a. Umweltveränderung,,,9CAE13A6A2A7F09BC1256F230035C8CB
+2C73BC224DC2997BC1256F230035E1E3,Umweltschutz,D,s.a. Nationalpark,,,3B8C871EA49958FDC1256F230035C016
+4FB6270AF987F766C12575770054F654,Umweltschutz,D,s.a. Energiesparen,,,754913BDE042F9FCC1256F230035B44A
+5B5BEACF9FB732A3C12575770054E47B,Umweltschutz,D,s.a. Erneuerbare Energie,,,89868840F261C7EEC1256F230035B48A
+6666D59D4484BE82C12575770055045A,Umweltschutz,D,s.a. Kompost,,,22E95385D1F2DE16C1256F230035BB81
+6ADFCCE7D731ADEEC1256F230035E1DA,Umweltschutz,D,s.a. Landschaftsschutz,,,B7CD39126ABB3BCDC1256F230035BCA2
+6CAB7FAFF3596DC8C1256F230035C8C8,Umweltschutz,DS,"Sammelbegriff für alle Maßnahmen zur Erhaltung und Schaffung lebensgerechter Umweltbedingungen. Zum Umweltschutz zählen besonders Luft- und Wasserreinhaltung, geordnete und sachgerechte Abfallbeseitigung, Recycling, Lärm-, Pestizid- und Herbizideinschränkung.","Umweltgefährdung, Umweltschutz",,
+6FF0B90F0EE06E3CC1256F230035E1D8,Umweltschutz,D,s.a. Müllbeseitigung,,,A5E49E28ACDCDB7DC1256F230035BFA1
+85A6527E82C0AFBCC1256F230035E1DD,Umweltschutz,D,s.a. Lärmschutz,,,715A17120D3E399BC1256F230035BCB9
+983D4A727D75DE81C125723C00395183,Umweltschutz,D,s.a. Greenpeace,,,81A22E5600556F8CC1256F230035B765
+9BDE672AEED8F6DBC1256F230035E1EC,Umweltschutz,D,s.a. Umweltverschmutzung,,,FCFB21BBF513FA64C1256F230035C8CD
+A14D3A474180D51DC1256F230035E1D7,Umweltschutz,D,s.a. Luftreinhaltung,,,E4B4FEEE0DE32E3BC1256F230035BDBF
+B23DE8D159E57583C125757700551196,Umweltschutz,D,s.a. Landschaftspflege,,,A5A6E52223222A56C1256F230035BCA1
+BB62C78FF3E191D1C1256F230035E1D9,Umweltschutz,D,s.a. Recycling,,,BC0E5C6D7FD5B396C1256F230035C2DE
+C9ECA421A2E0EB6EC125757700551A05,Umweltschutz,D,s.a. Nachhaltige Entwicklung,,,7D219AA12A2025CAC1256F230035BFEA
+F4728945BDDCEE18C12575770054FD3B,Umweltschutz,D,s.a. Gewässerschutz,,,7A81ACE9C001DE6BC1256F230035B6C4
+6FFC3BEF76655085C1258422003866D5,Umweltschutz,D,s.a. Wasserverbrauch,,,6AB9E6082F831E16C1256F2300360AB1
+CA0BF0276252641EC12571FB002F79AB,Umweltschutzorganisation,ND,s. Greenpeace,,,81A22E5600556F8CC1256F230035B765
+A5852A32239B19A3C12573FA003F803D,Umweltschutzverband,ND,s. Umweltschutz,,,6CAB7FAFF3596DC8C1256F230035C8C8
+CE916C248C71A063C12583A30054BBFF,Umweltschäden,ND,s. Umweltschaden,,,B04DD1A493285A5CC12583A30054B034
+CA25CED745CCB214C1256F230036086B,Umwelttechnik,ND,s. Umwelttechnologie,,,0AACEB9FE5AE1486C1256F230035C8CA
+0AACEB9FE5AE1486C1256F230035C8CA,Umwelttechnologie,DS,"Die Bereiche der Technik und Technologie, die für Maßnahmen des Umweltschutzes von Bedeutung sind, z.B. Abwasserreinigung, Vorrichtungen zur Wasserreinhaltung, zur Beseitigung von Luftverschmutzung.","Umweltgefährdung, Umweltschutz",,
+24367CABF1B0481FC1256F230035E1ED,Umwelttechnologie,D,s.a. Luftreinhaltung,,,E4B4FEEE0DE32E3BC1256F230035BDBF
+FFF3B09B0F955AF0C1256F230035E1EE,Umwelttechnologie,D,s.a. Abwasser,,,244569E7D64B9A37C1256F230035AD72
+37ED15D856306129C125757700561366,Umweltverschmutzung,D,s.a. Wasserverschmutzung,,,22A971E73B4F86BAC1256F230035CA8C
+60124FFDBE8B664BC1256F230035E1F4,Umweltverschmutzung,D,s.a. Treibhauseffekt,,,FF067AF52B34C2D2C1256F230035C854
+93C6789945835E38C125757700560D7E,Umweltverschmutzung,D,s.a. Meeresverschmutzung,,,DE74967B05387010C1256F230035BE99
+ACBF1E1CEDD2C716C1256F230035E1F3,Umweltverschmutzung,D,s.a. Saurer Regen,,,4D48CD27E09EB9A5C1256F230035C45F
+D0AE8AF016573D83C12575770056036D,Umweltverschmutzung,D,s.a. Bodenverschmutzung,,,EFDE3581D1C7D369C1256F230035B10F
+EBE19A79D7ACC237C1256F230035E1F0,Umweltverschmutzung,D,s.a. Umweltbelastung,,,E168B8041C669169C1256F230035C8C2
+F9EEC8426426FE5CC1256F230035E1F5,Umweltverschmutzung,D,s.a. Umweltschutz,,,6CAB7FAFF3596DC8C1256F230035C8C8
+FCFB21BBF513FA64C1256F230035C8CD,Umweltverschmutzung,DS,"Folge verschiedener Effekte der Umweltbeeinflussung und ausschließlich anthropogen-technogener Ursache. Erfolgt durch Einbringen von Abfall, Abwasser, Abwärme, Lärm, Schädlingsbekämpfungsmittel etc. in die Umwelt.","Umweltgefährdung, Umweltschutz",,
+73EB364043E016E7C125812C00594BBA,Umweltverschmutzung,D,s.a. Ökologischer Fußabdruck,,,DD976AEFB2A06B18C125812C0058E643
+2109F40D030B5C61C1257577005628BF,Umweltveränderung,D,s.a. Ozonloch,,,51765F1E1D067561C1256F230035C12D
+9CAE13A6A2A7F09BC1256F230035C8CB,Umweltveränderung,DS,"Beschreibung von Veränderungen in der Umwelt (also auch Landschaft), die u.U. zu einer Umweltgefährdung führen können.","Umweltgefährdung, Umweltschutz",,
+06CEF53B8FD05404C12575770056411C,Umweltzerstörung,D,s.a. Eutrophierung,,,F8C4780273F77E89C1256F230035B4BA
+14C6072FE6842E0AC1256F230035E1F7,Umweltzerstörung,D,s.a. Umweltgefährdung,,,0774E066C6F4F270C1256F230035C8C6
+3BC91EF44508CD80C1256F230035C8CE,Umweltzerstörung,DS,"Zerstörung der Umwelt. Irreversible Eingriffe in die Natur. Folge von Umweltbelastung, -gefährdung, -veränderung, -verschmutzung.","Umweltgefährdung, Umweltschutz",,
+4CC0BA7633DF6C79C125757700563386,Umweltzerstörung,D,s.a. Bodenzerstörung,,,F64616E38F62F29AC1256F230035B110
+75654FAB08A3F3D9C1257577005646B9,Umweltzerstörung,D,s.a. Waldsterben,,,4C6C5C533A3F7921C1256F230035CA43
+A4481A1E092787BCC1256F230035E1F6,Umweltzerstörung,D,s.a. Umweltbelastung,,,E168B8041C669169C1256F230035C8C2
+EA5B1E1A2779EAC1C125757700563BA7,Umweltzerstörung,D,s.a. Desertifikation,,,3F540FBCFF2F6443C1256F230035B318
+801E5B8C44C45556C12583A30054F378,Umweltzerstörung,D,s.a. Umweltschaden,,,B04DD1A493285A5CC12583A30054B034
+4A58685EC4CCE11EC1256F230036086E,Unfall (atomarer),ND,s. Reaktorkatastrophe,,,254D2C5F291CE1ADC1256F230035C2CF
+5DB39E72E5C0C029C12583610062337A,Upcycling,ND,s. Recycling,,,BC0E5C6D7FD5B396C1256F230035C2DE
+98D18DF9F7F74BCAC12579130053FEC4,Verarbeitung (Abfall),ND,s. Müllbeseitigung,,,A5E49E28ACDCDB7DC1256F230035BFA1
+3425F649F8623972C1257916002FF642,Verbrennung (Müll),ND,s. Müllverbrennung,,,9107B6A56BB21D75C1256F230035BFA9
+2BE9C5BD36C2C206C1256F2300360958,Verklappung,ND,s. Meeresverschmutzung,,,DE74967B05387010C1256F230035BE99
+322CFB8FB841459FC1256F230035E2EE,Verpackung,D,s.a. Müllvermeidung,,,7ED5B62625C10ADDC1256F230035BFAA
+29EFBBF49915B6F4C12583D60059224F,Versauerung (Gewässer),ND,s. Eutrophierung,,,F8C4780273F77E89C1256F230035B4BA
+E04442F83DBE6F7EC12581520058E94A,Versauerung der Meere,ND,s. Ozeanversauerung,,,2C3FC2C9F245348FC12581520058D0D9
+718A506F7315F4D9C1256F2300360969,Verschmutzung (Umwelt),ND,s. Umweltverschmutzung,,,FCFB21BBF513FA64C1256F230035C8CD
+4FC0CEBAF72A87ECC12583D70059334C,Versiegelung (Fläche/Boden),ND,s. Flächenversiegelung,,,6DC54EF523AEC256C12583D700591BDA
+74BE595DB7B39697C1256F2300360979,Verunreinigung,ND,s. Umweltverschmutzung,,,FCFB21BBF513FA64C1256F230035C8CD
+1ED1321AC127662DC125844A005DFB43,Verwertung von Kunststoffabfällen,ND,s. Werkstoffliches Recycling,,,F421E322F5E05D47C125844A005DB21B
+7E2A55E3FBEDAA57C1256F230036097C,Verwüstung (Desertifikation),ND,s. Desertifikation,,,3F540FBCFF2F6443C1256F230035B318
+DC789C6F202D6926C12572DF003D104B,WWF,ND,s. Umweltschutz,,,6CAB7FAFF3596DC8C1256F230035C8C8
+7F67C5FB4A59D3E1C1256F230035E355,Wald,D,s.a. Waldsterben,,,4C6C5C533A3F7921C1256F230035CA43
+4C6C5C533A3F7921C1256F230035CA43,Waldsterben,DS,In Europa besonders in den Hoch- und Mittelgebirgen auftretendes Kränkeln und Absterben von Laub- und Nadelbäumen; vermutlich durch hohe Schadstoffbelastung der Luft verursacht.,"Umweltgefährdung, Umweltschutz",,
+F3F82A8D57C63B0BC1256F230035E365,Waldsterben,D,s.a. Saurer Regen,,,4D48CD27E09EB9A5C1256F230035C45F
+246F0129C6A5EE46C1256F230035E375,Waschmittel,D,s.a. Tenside,,,591C2BB85ECAA7FFC1256F230035C79C
+A8A6864BD5CA3AFDC12572D80034B797,Waschmittelphosphate,ND,s. Tenside,,,591C2BB85ECAA7FFC1256F230035C79C
+F6DACF4642983614C1256F230035E383,Wasseraufbereitung,D,s.a. Wasserverschmutzung,,,22A971E73B4F86BAC1256F230035CA8C
+44E64EDBA12082CFC1256F2300360A89,Wasserbedrohung,ND,s. Wasserverschmutzung,,,22A971E73B4F86BAC1256F230035CA8C
+53059C830750F4F9C1256F2300360A8C,Wasserenergie,ND,s. Erneuerbare Energie,,,89868840F261C7EEC1256F230035B48A
+A3841A50B0982196C125842200376F33,Wasserkosten,ND,s. Wasserverbrauch,,,6AB9E6082F831E16C1256F2300360AB1
+99E7D22229E1602EC1256F2300360A97,Wasserkraft,DS,"Wasserkraft (auch: Hydroenergie) ist eine regenerative Energiequelle. Der Begriff bezeichnet die Umsetzung potenzieller oder kinetischer Energie des Wassers mittels einer Wasserkraftmaschine in mechanische Arbeit. Bis zum Anfang des 20. Jahrhunderts wurde Wasserkraft hauptsächlich in Mühlen genutzt. Heute wird fast immer elektrischer Strom mit Hilfe von Generatoren erzeugt. Mit einem Anteil von 15,58 % an der weltweiten Stromerzeugung war Wasserkraft 2011 nach der Verstromung von Kohle und Erdgas und vor der Kernenergie die drittbedeutendste Form der Stromproduktion.","Umweltgefährdung, Umweltschutz",,
+5320F9FD7CA89A90C1258422003B8C37,Wassernutzung,ND,s. Wasserverbrauch,,,6AB9E6082F831E16C1256F2300360AB1
+FC7998D96B1045A1C1256F2300360AA6,Wasserreinhaltung,ND,s. Gewässerschutz,,,7A81ACE9C001DE6BC1256F230035B6C4
+09939FC1F2C634DEC1256F2300360AA9,Wasserschutz,ND,s. Gewässerschutz,,,7A81ACE9C001DE6BC1256F230035B6C4
+EB9497BD7AD6C11FC125842700580829,Wasserschutzgebiet,DS,"Wasserschutzgebiete (WSG) sind Gebiete, in denen zum Schutz von Gewässern (Grundwasser, oberirdische Gewässer, Küstengewässer) vor schädlichen Einflüssen besondere Ge- und Verbote gelten. In Wasserschutzgebieten gelten festgelegte Verbote und Handlungsbeschränkungen, um das Wasser vor Verunreinigungen zu schützen.","Umweltgefährdung, Umweltschutz",,
+6AB9E6082F831E16C1256F2300360AB1,Wasserverbrauch,DS,"Als Wasserverbrauch wird umgangssprachlich die für den menschlichen Gebrauch verwendete Wassermenge bezeichnet. Dies umfasst den unmittelbaren menschlichen Genuss (Trinkwasser) ebenso wie den zum alltäglichen Leben (Waschen, Kochen etc.) sowie für die Landwirtschaft, das Gewerbe und die Industrie abgegebene Wassermenge. Durch Wasserzähler werden die Verbrauchszahlen ermittelt, die zu deren Berechnung herangezogen werden.","Umweltgefährdung, Umweltschutz",,
+22A971E73B4F86BAC1256F230035CA8C,Wasserverschmutzung,DS,"Verunreinigung fließender oder stehender Gewässer durch die Einleitung von Abwasser aus Haushalten und Wirtschaft, durch die Auswaschung von Feststoffen und Einsickern zusammen mit dem Niederschlagswasser.","Umweltgefährdung, Umweltschutz",,
+24D1ED2E7BB67007C1256F230035E390,Wasserverschmutzung,D,s.a. Gewässerschutz,,,7A81ACE9C001DE6BC1256F230035B6C4
+793D96B67C7ADE16C125842200382357,Wasserversorgung,D,s.a. Wasserverbrauch,,,6AB9E6082F831E16C1256F2300360AB1
+6BD0A8E3D65165B3C1256F230035E39C,Wasserwirtschaft,D,s.a. Abwasser,,,244569E7D64B9A37C1256F230035AD72
+978A3EB7BD300E6AC1256F9A0030C141,Wasserwirtschaft,D,s.a. Abwasser,,,244569E7D64B9A37C1256F230035AD72
+C258557505C5B665C1256F230035E39A,Wasserwirtschaft,D,s.a. Gewässerschutz,,,7A81ACE9C001DE6BC1256F230035B6C4
+3BCA511DDB5A8670C125842200382CAD,Wasserwirtschaft,D,s.a. Wasserverbrauch,,,6AB9E6082F831E16C1256F2300360AB1
+095C1865229E63E1C1257233003D7B80,Weiterverwendung (Recycling),ND,s. Recycling,,,BC0E5C6D7FD5B396C1256F230035C2DE
+8E45A841F1F88B05C1257233003D9BFC,Weiterverwertung (Recycling),ND,s. Recycling,,,BC0E5C6D7FD5B396C1256F230035C2DE
+2B1AA15784002579C1256F2300360B02,Wellenergie,ND,s. Erneuerbare Energie,,,89868840F261C7EEC1256F230035B48A
+28F1AC8368D2B5AFC12572DB00348C00,Weltklimakonferenz,ND,s. Umweltschutz,,,6CAB7FAFF3596DC8C1256F230035C8C8
+83F04E3560464607C1258146005B19FD,Weltraummüll,DS,"Weltraummüll , auch Weltraumschrott, besteht aus künstlichen Objekten ohne Gebrauchswert, welche sich in einer Umlaufbahn um die Erde befinden und eine Gefahr für die Raumfahrt darstellen.","Umweltgefährdung, Umweltschutz",,
+B7AA607CE3B80778C1258146005B37E4,Weltraumschrott,ND,s. Weltraummüll,,,83F04E3560464607C1258146005B19FD
+F421E322F5E05D47C125844A005DB21B,Werkstoffliches Recycling,DS,"Unter werktstofflichem Recycling versteht man die Verwertung von Kunststoffabfällen, dabei bleibt die chemische Struktur (Zusammensetzung) sortenreiner Kunststoffe zu einem neuen Produkt erhalten.","Umweltgefährdung, Umweltschutz",,
+9ABEDAB7B7AC4CA9C1257987005D138E,Wiederaufbereitung,ND,s. Recycling,,,BC0E5C6D7FD5B396C1256F230035C2DE
+4928C6D1E1DEC6E5C1257233003D57A1,Wiederverwendung (Recycling),ND,s. Recycling,,,BC0E5C6D7FD5B396C1256F230035C2DE
+4EA1C9336695757CC1257233003D8C8A,Wiederverwertung (Recycling),ND,s. Recycling,,,BC0E5C6D7FD5B396C1256F230035C2DE
+DC1C4609A9D5F437C1258469005B477B,Wildtiermanagement,D,s.a. Landschaftsschutz,,,B7CD39126ABB3BCDC1256F230035BCA2
+684A0E765E3227AFC125846D00577FD7,Windenergie,DS,"Die Windenergie oder Windkraft ist die großtechnische Nutzung des Winds als erneuerbare Energiequelle. Die Windenergie wird seit dem Altertum genutzt, um Energie aus der Umwelt für technische Zwecke verfügbar zu machen. In der Vergangenheit wurde die mit Windmühlen verfügbar gemachte mechanische Energie direkt vor Ort genutzt um Maschinen und Vorrichtungen anzutreiben. Mit ihrer Hilfe wurde Korn zu Mehl gemahlen, Grundwasser an die Erdoberfläche gefördert, oder Sägewerke betrieben. Heute ist die Erzeugung von elektrischer Energie mit Windkraftanlagen die mit großem Abstand wichtigste Nutzung.","Umweltgefährdung, Umweltschutz",,
+9DFF4F278510947BC1256F2300360BC3,Windkraft,ND,s. Windenergie,,,684A0E765E3227AFC125846D00577FD7
+3BF76438B39041F3C125846D0057AB3E,Windkraftwerk,D,s.a. Windenergie,,,684A0E765E3227AFC125846D00577FD7
+32673B0D0ED77981C125847200556184,Wintersmog,ND,s. Smog,,,BE1BC1449381CFD9C1256F230035C5E7
+0E8969500CDEE525C12572DF003D23E0,World Wide Fund of Nature,ND,s. Umweltschutz,,,6CAB7FAFF3596DC8C1256F230035C8C8
+4BD26543CC85561EC12572DF003D3983,World Wildlife Fund,ND,s. Umweltschutz,,,6CAB7FAFF3596DC8C1256F230035C8C8
+5D50A4E42B6A9D1BC1257D9500616314,Wärmepumpe,D,s.a. Geothermie,,,84B5FEFE3BCDAE3DC125747800347CBA
+7BFD843B9C0BDE51C1256F230035E49E,Wüste,D,s.a. Desertifikation,,,3F540FBCFF2F6443C1256F230035B318
+C44D43751595EF78C125772C0038497D,Wüstenbildung (fortschreitende),ND,s. Desertifikation,,,3F540FBCFF2F6443C1256F230035B318
+45DA1DC55EA61EEDC1256F2300360C2B,Yellowstone (Fluß),ND,s. Yellowstone Nationalpark,,,62C9D2424AB7A28DC1256F230035CBCA
+6519D172FDF0D92FC12572E30027ABDF,Yellowstone National Park,ND,s. Yellowstone Nationalpark,,,62C9D2424AB7A28DC1256F230035CBCA
+62C9D2424AB7A28DC1256F230035CBCA,Yellowstone Nationalpark,DS,"Der Yellowstone Nationalpark liegt im Quellgebiet des Yellowstone Rivers (schiffbarer Nebenfluss des Missouri in Nordamerika); ein Naturschutzgebiet von 8992qkm, mit den Yellowstonesee, dem Yellowstone-Canon, heißen Quellen, Geysiren.","Umweltgefährdung, Umweltschutz",,
+057A1910EBDA492AC1256F2300360C2D,Yellowstone-Park,ND,s. Yellowstone Nationalpark,,,62C9D2424AB7A28DC1256F230035CBCA
+BA6596C84B3D6F5BC1256F230035CBCD,Yosemite,DS,"Tief eingeschnittenes Felsental in der kalifornischen Sierra Nevada, mit Wasserfällen, seit 1890 Nationalpark (3079 qkm).","Umweltgefährdung, Umweltschutz",,
+9DCBBBAB6E0D61AFC12572E30028EB2D,Yosemite National Park,ND,s. Yosemite,,,BA6596C84B3D6F5BC1256F230035CBCD
+893944FBF02151D2C1256F2300360C33,Yosemite-Nationalpark,ND,s. Yosemite,,,BA6596C84B3D6F5BC1256F230035CBCD
+817F62C9F5621AE9C125772B0051694B,Zeigerart,ND,s. Bioindikator,,,73D142D01C891625C1256F230035B0C3
+1B0D383ED7C34037C125772B005175F5,Zeigerpflanze,D,s.a. Bioindikator,,,73D142D01C891625C1256F230035B0C3
+CCD61F54E33BA0E3C1257EF9005B425F,Ökobilanz,ND,s. Umweltforschung,,,595B711182717D21C1256F230035C8C5
+F1CB4E204E2FDDAFC1257EF9005B5342,Ökobilanz,ND,s. Umweltschutz,,,6CAB7FAFF3596DC8C1256F230035C8C8
+32A0091F7A178064C125812C00592207,Ökodefizit,ND,s. Ökologischer Fußabdruck,,,DD976AEFB2A06B18C125812C0058E643
+6F040195C453BF29C125812C00585E8F,Ökodesign-Richtlinie,ND,s. Energieeffizienz,,,1C8D8192A8A16E03C1257C89005D07A4
+01F861E378AA0055C1256F230035DC40,Ökologie,D,s.a. Umweltschutz,,,6CAB7FAFF3596DC8C1256F230035C8C8
+857C9F55F2BB5DD5C1256F230035DC3D,Ökologie,D,s.a. Ökologisches Gleichgewicht ,,,FA94A5666C135187C1256F230035B700
+D454F00726D49D40C1256F230035DC41,Ökologie,D,s.a. Umweltverschmutzung,,,FCFB21BBF513FA64C1256F230035C8CD
+12054E04A446C9CCC1258131005B3DE1,Ökologische Flutung,ND,s. Renaturierung,,,6F94418C59FD1FBEC1256F230035C341
+91785A16FF545284C1258131005B48B6,Ökologische Flutung,ND,s. Umweltschutz,,,6CAB7FAFF3596DC8C1256F230035C8C8
+61EDFCA552B550F5C125812C005914C7,Ökologischer Fußabdruck,D,s.a. Umweltverschmutzung,,,FCFB21BBF513FA64C1256F230035C8CD
+836C24DC33AD79B9C125812C00590EFC,Ökologischer Fußabdruck,D,s.a. Nachhaltige Entwicklung,,,7D219AA12A2025CAC1256F230035BFEA
+DD976AEFB2A06B18C125812C0058E643,Ökologischer Fußabdruck,DS,"Unter dem ökologischen Fußabdruck wird die Fläche auf der Erde verstanden, die notwendig ist, um den Lebensstil und Lebensstandard eines Menschen (unter den heutigen Produktionsbedingungen) dauerhaft zu ermöglichen. Das schließt Flächen ein, die zur Produktion von Kleidung und Nahrung oder zur Bereitstellung von Energie benötigt werden, aber z. B. auch zur Entsorgung von Müll oder zum Binden des durch menschliche Aktivitäten freigesetzten Kohlenstoffdioxids.","Umweltgefährdung, Umweltschutz",,
+FA94A5666C135187C1256F230035B700,Ökologisches Gleichgewicht,DS,"Zustand des ökologischen Systems, bei dem die wesentlichen Größen zeitlich konstant sind und/oder Wirkung und Gegenwirkung aufheben sowie die (menschliche) Zerstörung dieses Systems bzw. Wiederherstellung.","Umweltgefährdung, Umweltschutz",,
+334C9E053C3C78B3C1256F230035DC47,Ökosystem,D,s.a. Ökologisches Gleichgewicht ,,,FA94A5666C135187C1256F230035B700
+CE5ED4084CB138FDC1256F230035DC44,Ökosystem,D,s.a. Biotop,,,742F14EC34FA7AC4C1256F230035B0CF
+2DD75A9BBBB99140C1256F230035FC2C,Ökosystem (labiles),ND,s. Ökologisches Gleichgewicht,,,FA94A5666C135187C1256F230035B700
+75A6C3C6BED0DFF2C125812F0059968A,Öleinleitung,ND,s. Ölpest,,,953A4D69A421C26FC1256F230035C0DF
+C71527A74B65B964C125812F005A7A57,Ölkatastrophe,ND,s. Ölpest,,,953A4D69A421C26FC1256F230035C0DF
+C7C13BFD71D310A5C125812F005A85A9,Ölkatastrophe,ND,s. Umweltkatastrophe,,,2138C9294A66992BC1256F230035C8C7
+953A4D69A421C26FC1256F230035C0DF,Ölpest,DS,"Verschmutzung küstennaher Meeresgebiete durch in das Meer gelaufenes Öl, das durch das Salzwasser verkrustet. Auch die Auswirkungen auf die Tierwelt.","Umweltgefährdung, Umweltschutz",,
+9CD25A23E8F9C185C1256F230035E1AF,Überdüngung,D,s.a. Eutrophierung,,,F8C4780273F77E89C1256F230035B4BA
+A5B689922C42E59AC1256F230035C89D,Überdüngung,DS,"Übermäßige Gaben von Pflanzennährstoffen in Form der Düngung mit dem Effekt der Übermineralisierung des Bodens u. der Gewässer, die mit Äckern durch den Bodenwasserhaushalt verbunden sind. Eine Folge ist Eutrophierung Oberflächengewässer.","Umweltgefährdung, Umweltschutz",,
+C5DFF08340B495F0C1258392006518A5,Überflutung,ND,s. Überschwemmung,,,28C5F731DEA03176C12581DC00566D7D
+10E2A5ECB7A6DB81C12581EE00512ECF,Übernutzung,D,s.a. Eutrophierung,,,F8C4780273F77E89C1256F230035B4BA
+76158545EB2B1CEFC12581EE00513D2F,Übernutzung,D,s.a. Nachhaltige Entwicklung,,,7D219AA12A2025CAC1256F230035BFEA
+DA44D518356FBD73C12581EE0050D57A,Übernutzung,DS,"Unter Übernutzung versteht man die Nutzung von Ressourcen in einem Übermaß ohne Rücksicht auf die Folgewirkungen. Beispiele für eine Übernutzung sind Überweidung oder Überfischung, aber auch irreversible Bodenerosion, Entwaldung oder Grundwasserabsenkung. Auch die Eutrophierung und andere Umweltverschmutzungsarten stehen in engem Zusammenhang mit einer Landschaftsübernutzung. Im Gegensatz zur Übernutzung steht die Nachhaltigkeit. Übernutzung kann eine direkte Folge von lokaler und globaler Überbevölkerung und der Notwendigkeit zur Ernährungssicherung sein, sie kann aber auch durch Profitstreben ohne unmittelbar drängende menschliche Bedürfnisse verursacht werden.","Umweltgefährdung, Umweltschutz",,
+ED1D986F25028C05C12581EE00510564,Übernutzung,D,s.a. Überweidung,,,1904A17DFF721E61C1256F230035C8A6
+28C5F731DEA03176C12581DC00566D7D,Überschwemmung,DS,"Als Überschwemmung bezeichnet man einen Zustand, bei dem eine normalerweise trockenliegende Bodenfläche vollständig von Wasser bedeckt ist. Überschwemmungen können hervorgerufen werden durch: über die Ufer tretende Gewässer (Hochwasser oder Tsunami); zu langsam abfließendes Wasser, zum Beispiel nach Starkregen, Wasserrohrbrüche, Bruch von Dämmen oder Talsperren; absichtliches Unterwassersetzen/Fluten; Gletscher, die Wasser am Abfließen hindern (Eisstausee); Verklausung; Bodenverdichtung.","Umweltgefährdung, Umweltschutz",,
+1904A17DFF721E61C1256F230035C8A6,Überweidung,DS,"Folge der Überstockung infolge zu starken Beweidens der Vegetation semihumider bis arider Geoökosysteme, oft zentriert um eine Wasserstelle, um die sich dann letztlich anthropogen verursachte Wüstenbereiche ausbilden.","Umweltgefährdung, Umweltschutz",,

@@ -1,34 +1,40 @@
-notation,prefLabel,art,definition
-22F4CED7196DAC28C1257A44005CA731,Abenteuer,ND,s. Abenteuerhörspiel (für Kinder)
-DB3332C7EBD879DCC1256F230035CCB9,Agraringenieur,D,s.a. Bauer
-40D11A2662A30C9AC1257315003619A9,BahnCard,ND,s. Bahnreise
-AA9C36B3FCBAD6D0C1257B120057C3A6,Bahnfahrt,ND,s. Bahnreise
-D9291C54F1674E72C1257FD1005B176E,Ballon,ND,s. Luftballon
-B5B9D9D7844FBAA1C1256F230035CED4,Bauer,D,s.a. Bauernhof
-EA875A2BB6A576AAC1256F230035AFBA,Bauer,DS,"Eigentümer oder Pächter eines kleinen oder mittleren Landgrundstücks, das er hauptberuflich unter persönlicher Mitarbeit landwirtschaftlich bebaut."
-E33AFC5A44BDF7DCC1256F230035CEDB,Bauernhof,D,s.a. Bauer
-0EA334EB940DC742C1256F230035AFBF,Bauernkrieg,DS,"Die große Erhebung der süd- und mitteldeutschen Bauern 1524/25. Sie forderten Einschränkung ihrer Frondienste und Lasten, vielfach auch eine Neuordnung des Reichs. Die Fürsten warfen den Aufstand nieder."
-A3CD702C6FC72EF2C1256F230035E93D,Betrieb (landwirtschaftlicher),ND,s. Bauernhof
-6E91ED41B467C682C1257B790030248B,Bleistiftmine,ND,s. Bleistift
-5BA208369745E912C1256F230035ED2C,Englisch (Anfangsunterricht),ND,s. Grundschulenglisch
-C03E2C66E846B911C1256F230035D316,Englische Sprache,D,s.a. Grundschulenglisch
-956EB4C4FB6E3E8EC1256F4600392977,Französische Sprache,D,s.a. Grundschulfranzösisch
-6594F8DAC2F3BCAEC1256F230035D687,Hörspiel (für Kinder),D,s.a. Religionshörspiel (für Kinder)
-7310CF67DC450047C1256F230035D686,Hörspiel (für Kinder),D,s.a. Abenteuerhörspiel (für Kinder)
-BCA6F51EA8F35258C1256F230035D685,Hörspiel (für Kinder),D,s.a. Weihnachtshörspiel (für Kinder)
-BD03C3DD48A55FEEC1256F230035F238,Hörspiel (für Kinder/Religion),ND,s. Religionshörspiel (für Kinder)
-3B73224E264E0949C1256F230035F239,Hörspiel (Kinder/Abenteuer),ND,s. Abenteuerhörspiel (für Kinder)
-32346B356921FAB5C1256F230035F23A,Hörspiel (Kinder/Weihnachten),ND,s. Weihnachtshörspiel (für Kinder)
-9F29C1413D3341FAC1256F230035F41A,Kindererzählung (Hörspiel),ND,s. Hörspiel (für Kinder)
-33547797055337E6C1256F230035F422,Kindergeschichte,ND,s. Hörspiel (für Kinder)
-B4292291C6A9D2B7C1257EF9005E1AE9,Kleinbauer,ND,s. Bauer
-749A3F3EA261C5F4C1256F230035F65D,Landwirt,ND,s. Bauer
-850333FC80436E11C1256F230035F666,Landwirtschaftlicher Betrieb,ND,s. Bauernhof
-065DDEC5926A53DBC1256F230035DE02,Religionshörspiel (für Kinder),D,s.a. Weihnachtshörspiel (für Kinder)
-483D0683E6986EA5C1256F230035C339,Religionshörspiel (für Kinder),DS,Hörkunstwerk für Kinder über religiöse Themen.
-D696DDD43CBF2C97C1256F230035BB0C,Religionskritik,DS,Kritische Auseinandersetzung mit den Grundlagen und zentralen Aussagen der Religionen und ihrer Rolle innerhalb der Gesellschaft.
-B3D8B1ABD66C97CCC1256F230035C33A,Religionspädagogik,DS,"Belehrung über Inhalte einer Religion, i.e.S. ein Schulfach, das auch die Entscheidung zum Glaubensleben ermöglichen soll."
-CB37893D7DD36399C1257D7E004A1EFD,Schreibmaterial,D,s.a. Bleistift
-1DE8FE9B38C57DEDC1256F4600398474,Sprachunterricht (Englisch),D,s.a. Grundschulenglisch
-84230CE8D168E056C1256F460039904D,Sprachunterricht (Französisch),D,s.a. Grundschulfranzösisch
-9BDAE6DB22540C9DC125830B005C24E8,Stall,ND,s. Bauernhof
+DOKUMENT-ID,SCHLAGWORT,ART,TEXT,discipline,narrower,broader
+22F4CED7196DAC28C1257A44005CA731,Abenteuer,ND,s. Abenteuerhörspiel (für Kinder),,,6272D58AC6D7465FC1256F230035ACCD
+6272D58AC6D7465FC1256F230035ACCD,Abenteuerhörspiel (für Kinder),DS,Hörkunstwerk für Kinder mit abenteuerlichem Themenhintergrund.,Grundschule,,
+DB3332C7EBD879DCC1256F230035CCB9,Agraringenieur,D,s.a. Bauer,,,EA875A2BB6A576AAC1256F230035AFBA
+40D11A2662A30C9AC1257315003619A9,BahnCard,ND,s. Bahnreise,,,FC047177204EF1C6C1256F230035AF63
+AA9C36B3FCBAD6D0C1257B120057C3A6,Bahnfahrt,ND,s. Bahnreise,,,FC047177204EF1C6C1256F230035AF63
+FC047177204EF1C6C1256F230035AF63,Bahnreise,DS,"Die Reise mit der Eisenbahn. Was zu beachten, beobachten und wichtig ist (für Kinder).",Grundschule,,
+D9291C54F1674E72C1257FD1005B176E,Ballon,ND,s. Luftballon,,,2FC4E9839D45CECCC1257FD1005AF280
+B5B9D9D7844FBAA1C1256F230035CED4,Bauer,D,s.a. Bauernhof,,,26E06FF031B5149BC1256F230035AFBE
+EA875A2BB6A576AAC1256F230035AFBA,Bauer,DS,"Eigentümer oder Pächter eines kleinen oder mittleren Landgrundstücks, das er hauptberuflich unter persönlicher Mitarbeit landwirtschaftlich bebaut.",Grundschule,,
+26E06FF031B5149BC1256F230035AFBE,Bauernhof,DS,"Beschreibung des Lebens und Arbeitens auf einem Bauernhof (ausschließlich Zielgruppe Kinder, keine wissenschaftlichen Ausführungen).",Grundschule,,
+E33AFC5A44BDF7DCC1256F230035CEDB,Bauernhof,D,s.a. Bauer,,,EA875A2BB6A576AAC1256F230035AFBA
+A3CD702C6FC72EF2C1256F230035E93D,Betrieb (landwirtschaftlicher),ND,s. Bauernhof,,,26E06FF031B5149BC1256F230035AFBE
+BE4C69B6D18DC94EC1256F230035B0EA,Bleistift,DS,Schreib- und Zeichenstift mit Graphitmine in Holzfassung. Zur Herstellung und Gebrauch beschrieben für Vor- und Grundschule.,Grundschule,,
+6E91ED41B467C682C1257B790030248B,Bleistiftmine,ND,s. Bleistift,,,BE4C69B6D18DC94EC1256F230035B0EA
+5BA208369745E912C1256F230035ED2C,Englisch (Anfangsunterricht),ND,s. Grundschulenglisch,,,A9671290E5C67BD1C1256F230035B78C
+C03E2C66E846B911C1256F230035D316,Englische Sprache,D,s.a. Grundschulenglisch,,,A9671290E5C67BD1C1256F230035B78C
+956EB4C4FB6E3E8EC1256F4600392977,Französische Sprache,D,s.a. Grundschulfranzösisch,,,757404E7D04108CCC1256F46003939A4
+A9671290E5C67BD1C1256F230035B78C,Grundschulenglisch,DS,Medien in englischer Sprache ausgerichtet auf die Grundschule.,Grundschule,,
+757404E7D04108CCC1256F46003939A4,Grundschulfranzösisch,DS,"Medien in französischer Sprache, ausgerichtet auf die Grundschule.",Grundschule,,
+3B73224E264E0949C1256F230035F239,Hörspiel (Kinder/Abenteuer),ND,s. Abenteuerhörspiel (für Kinder),,,6272D58AC6D7465FC1256F230035ACCD
+32346B356921FAB5C1256F230035F23A,Hörspiel (Kinder/Weihnachten),ND,s. Weihnachtshörspiel (für Kinder),,,02FADCDD8603CAC7C1256F230035CAB5
+0146F40D0D6CB87FC1256F230035B8FE,Hörspiel (für Kinder),DS,Hörkunstwerk für Kinder.,Grundschule,,
+6594F8DAC2F3BCAEC1256F230035D687,Hörspiel (für Kinder),D,s.a. Religionshörspiel (für Kinder),,,483D0683E6986EA5C1256F230035C339
+7310CF67DC450047C1256F230035D686,Hörspiel (für Kinder),D,s.a. Abenteuerhörspiel (für Kinder),,,6272D58AC6D7465FC1256F230035ACCD
+BCA6F51EA8F35258C1256F230035D685,Hörspiel (für Kinder),D,s.a. Weihnachtshörspiel (für Kinder),,,02FADCDD8603CAC7C1256F230035CAB5
+BD03C3DD48A55FEEC1256F230035F238,Hörspiel (für Kinder/Religion),ND,s. Religionshörspiel (für Kinder),,,483D0683E6986EA5C1256F230035C339
+9F29C1413D3341FAC1256F230035F41A,Kindererzählung (Hörspiel),ND,s. Hörspiel (für Kinder),,,0146F40D0D6CB87FC1256F230035B8FE
+33547797055337E6C1256F230035F422,Kindergeschichte,ND,s. Hörspiel (für Kinder),,,0146F40D0D6CB87FC1256F230035B8FE
+B4292291C6A9D2B7C1257EF9005E1AE9,Kleinbauer,ND,s. Bauer,,,EA875A2BB6A576AAC1256F230035AFBA
+749A3F3EA261C5F4C1256F230035F65D,Landwirt,ND,s. Bauer,,,EA875A2BB6A576AAC1256F230035AFBA
+850333FC80436E11C1256F230035F666,Landwirtschaftlicher Betrieb,ND,s. Bauernhof,,,26E06FF031B5149BC1256F230035AFBE
+2FC4E9839D45CECCC1257FD1005AF280,Luftballon,DS,"Ein Luftballon ist ein elastischer Hohlkörper, der mit Gas befüllbar ist und sich dabei um ein Vielfaches seiner ursprünglichen Größe ausdehnt. Er ist zumeist aus Gummi, Kunststoff oder umweltfreundlichem Naturkautschuk hergestellt. Ausnahmen bilden Folienballons, deren Material sich fast nicht ausdehnt. Die Füllung besteht in der Regel aus Luft oder Helium.",Grundschule,,
+065DDEC5926A53DBC1256F230035DE02,Religionshörspiel (für Kinder),D,s.a. Weihnachtshörspiel (für Kinder),,,02FADCDD8603CAC7C1256F230035CAB5
+483D0683E6986EA5C1256F230035C339,Religionshörspiel (für Kinder),DS,Hörkunstwerk für Kinder über religiöse Themen.,Grundschule,,
+CB37893D7DD36399C1257D7E004A1EFD,Schreibmaterial,D,s.a. Bleistift,,,BE4C69B6D18DC94EC1256F230035B0EA
+1DE8FE9B38C57DEDC1256F4600398474,Sprachunterricht (Englisch),D,s.a. Grundschulenglisch,,,A9671290E5C67BD1C1256F230035B78C
+84230CE8D168E056C1256F460039904D,Sprachunterricht (Französisch),D,s.a. Grundschulfranzösisch,,,757404E7D04108CCC1256F46003939A4
+9BDAE6DB22540C9DC125830B005C24E8,Stall,ND,s. Bauernhof,,,26E06FF031B5149BC1256F230035AFBE
+02FADCDD8603CAC7C1256F230035CAB5,Weihnachtshörspiel (für Kinder),DS,Hörkunstwerk für Kinder zu weihnachtlichen Themen.,Grundschule,,

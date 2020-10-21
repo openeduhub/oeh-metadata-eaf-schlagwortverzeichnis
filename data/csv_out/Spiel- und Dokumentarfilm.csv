@@ -1,434 +1,487 @@
-notation,prefLabel,art,definition
-16C2E38D486EC91AC1257A44005C91FE,Abenteuer,ND,s. Abenteuerfilm (für Kinder)
-C696CE8A5054A9E5C1257A44005C8850,Abenteuer,ND,s. Abenteuerfilm (für Jugendliche)
-CA523775860B95EBC1257A44005C80B7,Abenteuer,ND,s. Abenteuerfilm (für Erwachsene)
-BC6008150FD03322C1256F230035CC84,Abenteuerfilm (für Erwachsene),D,s.a. Abenteuerfilm (für Kinder)
-C09ACA75B48563F3C125720D00326B92,Abenteuerfilm (für Erwachsene),D,s.a. Abenteuerfilm (für Jugendliche)
-D8E395051F562D78C1256F230035ACBC,Abenteuerfilm (für Erwachsene),DS,"Spielfilm, in dem der Held in eine Kette von Ereignissen verwickelt wird; Adressaten ab ca. 21 Jahre."
-FF32E869C5CC6D67C1256F230035CC85,Abenteuerfilm (für Erwachsene),D,s.a. Actionfilm
-834F7B6CEA90BEC8C125720D00322DA3,Abenteuerfilm (für Jugendliche),DS,"Spielfilm, in dem der Held in eine Kette von Ereignissen verwickelt wird; Adressaten von ca. 14 - 21 Jahre."
-A5CF1243171E6F95C125720D003279F7,Abenteuerfilm (für Jugendliche),D,s.a. Abenteuerfilm (für Erwachsene)
-E76A18005DEA5F3DC125720D00328323,Abenteuerfilm (für Jugendliche),D,s.a. Abenteuerfilm (für Kinder)
-143CDE56BFC37E6EC1256F230035CC86,Abenteuerfilm (für Kinder),D,s.a. Abenteuerfilm (für Erwachsene)
-623DCAA4CB8CDC35C125720D00328FF6,Abenteuerfilm (für Kinder),D,s.a. Abenteuerfilm (für Jugendliche)
-7C3C64510DA86B94C1256F230035CC88,Abenteuerfilm (für Kinder),D,s.a. Puppentrickfilm
-93066A4D8826617EC1256F230035ACC1,Abenteuerfilm (für Kinder),DS,"Spielfilm, in dem der Held in eine Kette von Ereignissen verwickelt wird; Adressaten bis ca. 14 Jahre."
-9964E030467CDBFEC125720D00339DBB,Abenteuerhörspiel (für Jugendliche),DS,Hörkunstwerk für Jugendliche mit abenteuerlichem Themenhintergrund.
-6272D58AC6D7465FC1256F230035ACCD,Abenteuerhörspiel (für Kinder),DS,Hörkunstwerk für Kinder mit abenteuerlichem Themenhintergrund.
-CC2D69190D7BFDECC1256F230035E59A,Agitationsfilm,ND,s. Propagandafilm
-6E65BB78187EFCB1C1256F230035E5B6,Aktionfilm,ND,s. Actionfilm
-3D308F1B0F36FD60C12574750050EE54,"Albach-Retty, Rosemarie Magdalena",ND,"s. Schneider, Romy"
-2773BD6EAB05E0F4C1256F230035ADD8,Albanien,DS,Volksrepublik an der Westküste der Balkanhalbinsel; Hauptstadt: Tirana.
-9F663FC4ABBCF593C12572FF003F62BA,Animation (Trickfilm),ND,s. Trickfilm (allgemein)
-FC2E78FE3788C48EC125778E0054BE34,Animationsfilm,ND,s. Trickfilm (allgemein)
-9A9C132BAD900DB3C125778E00547083,Anime,ND,s. Zeichentrickfilm (allgemein)
-FAAEBEB9162147B7C125778E00548942,Anime,ND,s. Trickfilm (allgemein)
-D5304CBE2C40550DC1256F230035E6D4,"Arbuckle, Roscoe",ND,"s. Arbuckle, Fatty"
-051F0882857A45E7C1256F230035CF62,Bergsteigen,D,s.a. Bergfilm
-4BDCE966816C3F59C1256F230035B036,Bergsteigen,DS,Die Technik des Gehens und Kletterns in Fels oder Eis. Bergsteigen als Sport wird nach 6 Schwierigkeitsstufen bewertet.
-ED90E54B49976AE4C1256F230035E8E2,Bergwelt,ND,s. Bergfilm
-C60585650A7F4398C1256F230035D018,Bilderbuch,D,s.a. Kinderbuchverfilmung
-FF4FBFA0BD1E615EC1256F230035B0A9,Bilderbuch,DS,"Geschichten in einem für Kinder von 2 bis 4 Jahren entworfenen Buch mit zahlreichen Illustrationen und wenig oder gar keinem Text. Hier Medien, deren Herstellung/Inhalt auf Bilderbuchgeschichten basiert. Z.B. Diareihen, Tonbildreihen oder DVDs zu einem Bilderbuch."
-92D761F056C13CEBC12581B40056DCDC,Bollywood-Film,ND,s. Liebesfilm
-1B77F168E764BC27C1257BB7005A2BC2,"Brice, Pierre",ND,s. Western
-0703351B80B6ED23C1256F230035D15C,"Burroughs, Edgar Rice",D,s.a. Tarzan
-D0EAE3252E33B28AC1256F230035B1D9,"Burroughs, Edgar Rice",DS,"Amerikanischer Unterhaltungsschriftsteller (1875-1950), Verfasser der Tarzan-Romane."
-B5AD671EE9E8E0E3C1256F230035B1DB,"Burton, Richard",DS,"Englischer Bühnen- und Filmschauspieler (1925-84), eigtlich Richard Walter Jenkins, war verheiratet mit Elisabeth Taylor."
-441BFBF80CEE1EF2C1256F230035B1DC,"Burton, Scott",DS,Amerikanischer Bildhauer (1939-89).
-37E449B641CCA260C1256F230035EB29,"Chaplin, Charles",ND,"s. Chaplin, Charlie"
-83E8377848946448C1256F230035EB28,"Chaplin, Charles Spencer",ND,"s. Chaplin, Charlie"
-FDC1EDD0262E5D65C1256F230035B221,"Chaplin, Charlie",DS,"Sir (1975) Charles Spencer Chaplin; englischer Filmkomiker, -autor, -regisseur, -produzent (1889-1977); Meister der Komik und der Bildregie, entwickelte die Slapstick-Komödie zu einer eigenen Form weiter. 1919 Mitbegründer der ""United Artists""."
-F79930C238E76870C1256F230035EB2B,Charakterrolle,ND,s. Rolle (Theater)
-3447E013D047A116C1256F230035B222,"Chardin, Jean-Baptiste",DS,"Französischer Maler (1699-1779); Meister des Stillebens und alltäglichen Szenen; klarer Bildaufbau, feinste Farbigkeit."
-1783CC3E59F05BD7C1256F230035B223,"Chardin, Pierre Teilhard de",DS,"Französischer Jesuit (1881-1955); Vorgeschichtsforscher, Anthropologe, zugleich um Einführung der modernen Entwicklungslehre in die kirchliche Philosophie und Theologie bemüht."
-4256FEA4E45B94E3C12578F10038310A,Comedy,D,s.a. Slapstick
-3B7FB4001180DDA7C1256F230035B284,"Comenius, Johann Amos",DS,"Tschechisch Jan Amos Komensky, tschechischer Pädagoge, Jugenderzieher, Seelsorger (1592-1670); war Bischof der Brüdergemeine, verbesserte den Schulunterricht, verfasste zahlreiche Lehrbücher."
-DC9DA3C1B9122D20C125778E00546343,Comic,D,s.a. Zeichentrickfilm (allgemein)
-E698C48CEFC68A3AC125778E0054934E,Comic,D,s.a. Trickfilm (allgemein)
-8103090C488BA923C125778E0053C3D2,Computeranimation,ND,s. Trickfilm (allgemein)
-D1D72CBBC4542DC9C1256F230035EBE0,Detektivfilm,ND,s. Kriminalfilm (für Erwachsene)
-E5DCC5245DB6193DC125720D003542F9,Detektivfilm,ND,s. Kriminalfilm (für Jugendliche)
-090661C45A7925DEC125720D0037AAE6,Dichtung (Literatur),D,s.a. Science-Fiction (für Kinder)
-9715C234CA8ED919C125720D003798E8,Dichtung (Literatur),D,s.a. Science-Fiction (für Jugendliche)
-9BECA18DAF9792A9C1256F230035D256,Dichtung (Literatur),D,s.a. Science-Fiction (für Erwachsene)
-5E444E8519D240ADC125717F00330182,Dick und Doof,ND,"s. Laurel, Stan"
-F5EA2E5A28CCD8FBC125717F003307DB,Dick und Doof,ND,"s. Hardy, Oliver"
-1B16B026B9A72E92C1256F230035EC27,Disney-Film,ND,s. Trickfilm (Disney)
-11E9F9D104F1CE80C1256F230035D262,"Disney, Walt",D,s.a. Trickfilm (Disney)
-7ADD857E28990CF6C1256F230035D261,"Disney, Walt",D,s.a. Mickey Mouse
-E18C7EDD8D7D4886C1256F230035B364,"Disney, Walt",DS,Us-amerikanischer Trickfilmzeichner (1901-66); begann 1928 die Mickey-Maus-Serie; Farb- und Dokumentarfilme.
-FBD87245628ADE3AC1257F5500573C4C,Disparität,DS,Der Ausdruck Disparität bezeichnet ein Nebeneinander von Ungleichem. Übersetzen lässt er sich mit Verschiedenheit oder Anderssein.
-9D9EACC34C2A05AEC1257480003DEF9E,Doku-Drama,ND,s. Dokumentarfilm
-89C48C7154C7E2B9C1257480003DE850,Doku-Soap,ND,s. Dokumentarfilm
-BE9DD357BB3850E0C125757200352763,Dokumentarfilm,D,s.a. Bergfilm
-6C470703CCDFEDB1C1257480003D5CED,Dokumentation (Dokumentarfilm),ND,s. Dokumentarfilm
-EDF79C2467B277B2C1257480003DDB10,Dokumentationsfilm,ND,s. Dokumentarfilm
-2E7649CC6D53A441C1256F230035B370,"Dolbin, Benedikt Fred",DS,"Us-amerikanischer Graphiker, Karikaturist, Federzeichner österreichischer Herkunft (1884-1971)."
-7F8B2008E4A9EB65C1256F230035B372,Doldenblütler,DS,"Ordnung der Blütenpflanzen mit zyklischen, meist vier- bis fünfzähligen, kleinen Blüten, meist in Dolden oder Köpfchen; 7 Familien u.a. Doldengewächse, Araliengewächse, Hartriegelgewächse."
-4818BB2E9C5EBAA3C1256F230035D276,Drama (Literatur),D,s.a. Drama (Spielfilm)
-7C6FE09CBEF4553DC1256F230035B393,Drama (Literatur),DS,"Auf Bühnendarstellung hin angelegte Dichtungsgattung, gewöhnlich aufgebaut aus Dialogen (auch Monologen) mehrerer Figuren. D. werden nach dem Ausgang, den sie nehmen in 3 Hauptgattungen eingeteilt: Tragödie, Komödie, Schauspiel."
-79C406949DFA226BC1256F230035D277,Dramaturgie,D,s.a. Drama (Spielfilm)
-B7AAF5453F399E45C1256F230035B395,Dramaturgie,DS,"Lehre von Wesen, Wirkung und Formgesetz des Dramas, Teilgebiet der Poetik."
-AEEC947052B9A033C1256F230035D2F7,Eltern-Kind-Beziehung,D,s.a. Kind
-2C345909CC0AA1A3C1256F230035EDDC,Experimentalfilm,ND,s. Avantgardefilm
-9DC6878974F7FBEBC1256F230035EE08,Familienserie,ND,s. Familienfilm
-666EE13F7B9C724CC1256F230035DCEC,Fantasie,D,s.a. Fantasy-Film
-EE019891BB5EC5DFC1256F230035C1C3,Fantasie,DS,"Vorstellung, Vorstellungsvermögen, Einbildungskraft; die schöpferische Imagination als Inhalt, Vermögen oder Vorgang der passiven oder aktiven Erzeugung v.a. neuer Bewusstseinsinhalte."
-2BB703E060811601C12572100029FE00,Fantasiefilm,ND,s. Fantasy-Film
-CEF6A84F210EB986C1256F230035EE0C,Fantasiefilm,ND,s. Fantasy-Film
-2646BC659798D93EC1256F230035D3B5,Fantasy-Film,D,s.a. Märchenfilm
-0EEA56651EA2BCEDC12572D0004E634C,"Fey, Valentin Ludwig",ND,"s. Valentin, Karl"
-02D25F486D52CAEAC1257CF600347B70,Film,ND,s. Western
-0BBC7B565863B1F6C1257CF60034AC2D,Film,ND,s. Jugendfilm
-15354EF2E781363BC1257CF600341A42,Film,ND,s. Kriminalfilm (für Kinder)
-1A19B91F8F2A57B2C1257CF600348072,Film,ND,s. Westernpersiflage
-292E4F6F512FBEC0C1257CF60033FE90,Film,ND,s. Katastrophenfilm
-2A161F89C268EAA4C1257CF60033A7C2,Film,ND,s. Abenteuerfilm (für Erwachsene)
-2F4F06750CF5B47AC1257CF6003492E6,Film,ND,s. Kurzspielfilm
-30F7F3D33CCB0F5EC1257CF600341557,Film,ND,s. Kriminalfilm (für Jugendliche)
-368AFD20D7283971C1257CF6003425B2,Film,ND,s. Literaturverfilmung
-4408D667F472CA54C1257CF6003452D5,Film,ND,s. Science-Fiction (für Erwachsene)
-4A5D88D7BA790024C1257CF60033B9AE,Film,ND,s. Actionfilm
-4A7F8D7A2672BE59C1257CF600340F65,Film,ND,s. Kriminalfilm (für Erwachsene)
-4A836D07E58DFB99C1257CF600341EB5,Film,ND,s. Liebesfilm
-4D998F03F5650098C1257CF600349C40,Film,ND,s. Familienfilm
-4F793839B404D1E5C1257CF60033B3CF,Film,ND,s. Abenteuerfilm (für Kinder)
-5DE1E18E35814E09C1257CF600348463,Film,ND,s. Trickfilm (allgemein)
-5F6F96DA90BADF34C1257CF600346B67,Film,ND,s. Stummfilm
-61C884264BFA675EC1257CF6003440F3,Film,ND,s. Musikfilm
-707DCB3A4891901DC1257CF60033AC38,Film,ND,s. Abenteuerfilm (für Jugendliche)
-7AEF9BE58048D93AC1257CF60033EAF1,Film,ND,s. Heimatfilm
-7B783A5309198D06C1257CF600344770,Film,ND,s. Propagandafilm
-8F40D822D88926ADC1257CF600345919,Film,ND,s. Science-Fiction (für Jugendliche)
-94835CD782EC0B97C1257CF600346F68,Film,ND,s. Tierfilm
-9FFA3DB436F38228C1257CF60033D544,Film,ND,s. Drama (Spielfilm)
-AAB4AC55922C0070C1257CF60033E37B,Film,ND,s. Fantasy-Film
-AC1D4E15852C914BC1257CF60033F7DE,Film,ND,s. Horrorfilm
-B265F5657EA3CB22C1257CF600340890,Film,ND,s. Kriegsfilm
-B273D14CFDC42AF9C1257CF60033BFF0,Film,ND,s. Agentenfilm
-B7BE45ACA6A22DC7C1257CF600343618,Film,ND,s. Monumentalfilm
-BAB58137E4AABB0BC1257CF600345D76,Film,ND,s. Science-Fiction (für Kinder)
-BB5983CF89C1B3D7C1257CF6003461A7,Film,ND,s. Sozialkritischer Film
-C43141D4FB595FF6C1257CF600344E38,Film,ND,s. Roadmovie
-C7B2A9B1263E5DC2C1257CF600342D92,Film,ND,s. Melodrama
-C7D1BDEA7D7E859DC1257CF60033F1A6,Film,ND,s. Historienfilm
-D56568E73889031BC1257CF600347598,Film,ND,s. Thriller
-D640DEC92B4BFCA2C1257CF60034A4FD,Film,ND,s. Filmklassiker
-DB6A1997D2895193C1257CF60034B78F,Film,ND,s. Werbefilm
-DC0A99D4DBE413B1C1257CF60033CE35,Film,ND,s. Avantgardefilm
-E39434BFFC8E6F4EC1257CF60033C685,Film,ND,s. Antikriegsfilm
-F30FAE5EBCF521B5C1257CF60033DD3C,Film,ND,s. Erotik
-F9BEB0C52D6CF576C1257CF600338988,Film,ND,s. Dokumentarfilm
-FAAA00FBF1EB0B74C1257CF60034B28C,Film,ND,s. Kinderfilm
-8019D99A0D640140C1256F230035B53F,Filmanalyse,DS,Medien zur Analyse/Erklärung eines Films.
-904C4EF9E4FCDCB0C1256F230035D3D9,Filmgeschichte,D,s.a. Filmdokument
-B7C2E964583F81BFC1256F230035D3DA,Filmgeschichte,D,s.a. Stummfilm
-3E671950CDBD9B65C125720D00354B90,Gangsterfilm,ND,s. Kriminalfilm (für Jugendliche)
-83B399989E9EB2CEC1256F230035EF82,Gangsterfilm,ND,s. Kriminalfilm (für Erwachsene)
-5B38909B6E1E07E5C1256F230035EFCC,Geisterfilm,ND,s. Fantasy-Film
-C26B9012F60A9AE4C1256F230035EFD0,Geistig behindertes Kind,ND,s. Kind
-5F458D34A33E5BF4C1256F230035D53F,Gesellschaftskritik,D,s.a. Sozialkritischer Film
-AEC6D8540B1CDAF7C1256F230035B6AE,Gesellschaftskritik,DS,Die kritische Reflexion über Mängel der Rechts- und Sozialordnung oder des Gesamtsystems einer Gesellschaft.
-FA9499CB5553266BC1256F230035F088,Gracia Patrizia,ND,"s. Kelly, Grace"
-DB619DCD3EB7DB8BC1256F230035D62A,"Hardy, Oliver",D,"s.a. Laurel, Stan"
-4B4F20C4E8F509E8C12581B40056EE7B,Hindifilm,ND,s. Liebesfilm
-B4EDCAB3000A6586C12572D5002C4731,Historienfilm,D,s.a. Kriegsfilm
-BA51E007C9CDC052C12572D5002C18E7,Historienfilm,D,s.a. Monumentalfilm
-BB29C27E238CB938C1256F230035F1E3,Historienfilm,DS,"Als Historienfilme werden Filme bezeichnet, die in gewissem Maß versuchen historische Ereignisse auzufarbeiten oder  fiktive Handlungen in einen historischen Kontext einzubetten. Der Übergang von Historienfilmen zu Abenteuerfilmen, Western, Eastern und Kriegsfilmen bzw. Antikriegsfilmen ist nicht klar abgegrenzt. Historienfilme, die im alten Ägypten oder in der griechisch-römischen Antike spielen, werden oft auch als Sandalenfilme bezeichnet. Historienfilme sind häufig mit großem Aufwand als Monumentalfilme produziert worden."
-C75CDC3020EDBAB6C12572D5002C403C,Historienfilm,D,s.a. Western
-AC4A888BD8898B67C1256F230035F285,Indianerfilm,ND,s. Western
-49ECDCB15D144E22C1257906003307AB,Inszenierung,D,s.a. Szene (Theater)
-1F7AEEF7BB256473C1256F230035F308,"Jefferson, Arthur Stanley",ND,"s. Laurel, Stan"
-1BF87FA5F61E8416C1256F230035F30A,"Jenkins, Richard",ND,"s. Burton, Richard"
-249ED341BB1EE1BEC1256F230035B9F2,"Jenner, Edward",DS,Englischer Landarzt (1749-1823); führte die Pockenschutzimpfung ein.
-7F665AD477F486C9C1256F230035B9F3,"Jenney, Neil",DS,"Amerikanischer Bildhauer, Maler; geb. 1945."
-EA0616031474C3D8C1256F230035B9F4,"Jenny, Hans",DS,"Schweizer Physiker, studierte Naturwissenschaften, Medizin (1904-72); war praktizierender Arzt, Kymatik."
-BA75E7367A441AE0C1256F230035B9F6,Jenseits,DS,"In der religiösen Vorstellung Bezeichnung für jenen Bereich, der die sichtbare Welt und ihre Erfahrungen übersteigt und dem irdischen ""Diesseits"" gegenübersteht."
-1DF7E8262543A1A2C125720D0033594C,Jugendfilm,D,s.a. Abenteuerfilm (für Jugendliche)
-68B7943A61E066C7C125720D0037B8AA,Jugendfilm,D,s.a. Science-Fiction (für Jugendliche)
-A00DE5F39C4D4008C125720D00353B3F,Jugendfilm,D,s.a. Kriminalfilm (für Jugendliche)
-295EA88E111C9DAEC1257AF0005F0635,Jugendfreiwilligendienst,DS,"Jugendfreiwilligendienste sind eine besondere Form für Jugendliche und junge Erwachsene, sich freiwillig zu engagieren. Angeboten werden in Deutschland z.B. das Freiwillige Soziale Jahr, das Freiwillige Ökologische Jahr, das Freiwillige Jahr in der Denkmalpflege und im Sport sowie das Freiwillige Soziale Jahr im Kulturbereich. Der Internationale Jugendfreiwilligendienst ist eine neue Möglichkeit für Jugendliche und junge Erwachsene, ein Auslandsjahr zu absolvieren."
-B38F0E0CFD395FFBC1257ABC005DB062,Junge,D,s.a. Kind
-ED9B8CA5C2D1C6FCC1256F230035D7A9,"Karlstadt, Liesl",D,"s.a. Valentin, Karl"
-287D65C8BAB8E75DC1256F230035D7F7,Kinder- und Jugendliteratur,D,s.a. Kind
-BD7B45BB4465E261C1256F230035D7F3,Kinder- und Jugendliteratur,D,s.a. Kinderbuchverfilmung
-AA3458DA3959E07AC1256F230035D7F9,Kinderbuchverfilmung,D,s.a. Märchenfilm
-D10DF4D1D8407F47C1256F230035D7FA,Kinderbuchverfilmung,D,s.a. Literaturverfilmung
-E0C8DF8E695AB834C1256F230035BAF4,Kinderbuchverfilmung,DS,Verfilmung eines Kinderbuches (keine Märchen).
-050C2DFBA8E75CA8C1256F230035D7FC,Kinderfilm,D,s.a. Zeichentrickfilm (allgemein)
-4803F8E647F01B37C1256F230035D7FF,Kinderfilm,D,s.a. Kinderbuchverfilmung
-78EDF889DC886A5EC1256F230035D7FD,Kinderfilm,D,s.a. Puppentrickfilm
-87B0B9A258BBE8AFC1256F230035D7FE,Kinderfilm,D,s.a. Kriminalfilm (für Kinder)
-9003177B737AADEBC1256F230035BAF6,Kinderfilm,DS,Spielfilme und Kurzspielfilme mit der Zielgruppe Kinder.
-FBB74A2AD5A53EC2C1256F230035D7FB,Kinderfilm,D,s.a. Abenteuerfilm (für Kinder)
-AEAF48E686E3469AC1256F230035F438,Kindesalter,ND,s. Kind
-122D52F430ABBCA3C1256F230035BAFD,Kindesmisshandlung,DS,"Eigentlich Misshandlung von Schutzbefohlenen, schwere Form der Körperverletzung, mit Freiheitsstrafe von 6 Monaten bis zu 10 Jahren bedroht."
-05A0FEA171F14DF1C1256F230035F439,Kindheit,ND,s. Kind
-28685AB1F33DBFC1C1256F230035BAFE,Kindheitserfahrung,DS,"Erfahrungen, Eindrücke, die ein Mensch während seiner Kindheit erfahren hat und die u.U. sein ganzes Leben prägen bzw. beeinflussen."
-0566FFCC6A6FC093C1257EF1005F1A48,Kinofilm,ND,s. Roadmovie
-0B98C616F909309BC1257EF1005F39BF,Kinofilm,ND,s. Stummfilm
-13EC95423BC72164C1257EF1005EC0CC,Kinofilm,ND,s. Historienfilm
-21554617290BF442C1257EF1005F413C,Kinofilm,ND,s. Tierfilm
-28753EF675E542E8C1257EF1005E6647,Kinofilm,ND,s. Dokumentarfilm
-2A33958E00EA2776C1257EF1005E6DC9,Kinofilm,ND,s. Abenteuerfilm (für Erwachsene)
-312D19BCE81EA92DC1257EF1005F79F4,Kinofilm,ND,s. Jugendfilm
-3623E26ACACA97BEC1257EF1005ED56A,Kinofilm,ND,s. Kriegsfilm
-3C79FA8402524C61C1257EF1005E87E2,Kinofilm,ND,s. Agentenfilm
-49F46AE7F61480C1C1257EF1005E7A5A,Kinofilm,ND,s. Abenteuerfilm (für Kinder)
-4DE682A6BF7395F0C1257EF1005EE753,Kinofilm,ND,s. Kriminalfilm (für Kinder)
-5AC4CA5918F2FFE1C1257EF1005EB064,Kinofilm,ND,s. Fantasy-Film
-63A994BE4E80E478C1257EF1005EE1DF,Kinofilm,ND,s. Kriminalfilm (für Jugendliche)
-66F840D01AE01881C1257EF1005F148B,Kinofilm,ND,s. Propagandafilm
-6AA99A9DD95A833CC1257EF1005F59D3,Kinofilm,ND,s. Trickfilm (allgemein)
-6D2DEC8F48C1F9F8C1257EF1005EC63B,Kinofilm,ND,s. Horrorfilm
-6FF511574F11CEF5C1257EF1005EB614,Kinofilm,ND,s. Heimatfilm
-72318074CE1114B8C1257EF1005EA528,Kinofilm,ND,s. Drama (Spielfilm)
-72966CA3CD055E18C1257EF1005F622B,Kinofilm,ND,s. Kurzspielfilm
-7F8B4E77DE37CF74C1257EF1005F3297,Kinofilm,ND,s. Sozialkritischer Film
-7FA33644D93AD515C1257EF1005F0D03,Kinofilm,ND,s. Musikfilm
-82E4CD861A4BE884C1257EF1005EDBF4,Kinofilm,ND,s. Kriminalfilm (für Erwachsene)
-8C53DDED8CC8D483C1257EF1005E922B,Kinofilm,ND,s. Antikriegsfilm
-8C9DE593F1411D03C1257EF1005EEC83,Kinofilm,ND,s. Liebesfilm
-91B10212FB6771C8C1257EF1005F70E2,Kinofilm,ND,s. Filmklassiker
-B19D99AAB67F42F7C1257EF1005F2CEF,Kinofilm,ND,s. Science-Fiction (für Kinder)
-B46C9D8436263A81C1257EF1005F27BD,Kinofilm,ND,s. Science-Fiction (für Jugendliche)
-B9E2A3B23057FFF0C1257EF1005ECC0A,Kinofilm,ND,s. Katastrophenfilm
-BC2FF386E6160A74C1257EF1005EAB6B,Kinofilm,ND,s. Erotik
-BC3CB0DF19ABAA06C1257EF1005F1FA4,Kinofilm,ND,s. Science-Fiction (für Erwachsene)
-BCF2C730DF89C14EC1257EF1005F01BA,Kinofilm,ND,s. Monumentalfilm
-BF1136A9585307A8C1257EF1005E9887,Kinofilm,ND,s. Avantgardefilm
-C693985A5ED835D3C1257EF1005EFCE6,Kinofilm,ND,s. Melodrama
-D6DAF5C69BB6FFB5C1257EF1005E748C,Kinofilm,ND,s. Abenteuerfilm (für Jugendliche)
-D7E2C96702D0E3B2C1257EF1005F53D0,Kinofilm,ND,s. Westernpersiflage
-D85D855EF9C75B96C1257EF1005E8209,Kinofilm,ND,s. Actionfilm
-DE0DC7B66C2BD491C1257EF1005F7FE8,Kinofilm,ND,s. Kinderfilm
-E4EC04BD5D241575C1257EF1005F4C90,Kinofilm,ND,s. Western
-E8E747B4BF3EFADAC1257EF1005F6A40,Kinofilm,ND,s. Familienfilm
-EFCD00985570BF4BC1257EF1005F46E3,Kinofilm,ND,s. Thriller
-FDA6882674C680E1C1257EF1005EF257,Kinofilm,ND,s. Literaturverfilmung
-96E8993D95896E62C1256F230035F455,Klassiker (Film),ND,s. Filmklassiker
-C4D22AED5A859608C1256F230035D832,Kleinkind,D,s.a. Kind
-D9B00D3E6DD6E022C1257F03005F79EA,Knetanimation,ND,s. Trickfilm (allgemein)
-5A1FC37F8D7C5B57C125778E005530A2,Knetfilm,ND,s. Knettrickfilm
-EC624CDFC0CC888CC1256F230035BB42,Knettrickfilm,DS,Filmische Darstellung mit Elementen aus Knetmaterial.
-54AF4ABA1656BF47C12572D5002C4F3C,Kriegsfilm,D,s.a. Historienfilm
-9B4FB309959AF5BCC1256F230035BBFC,Kriegsfolge,DS,"Alle Folgen die ein Krieg haben kann; z.B. Zerstörungen, Schaden, menschliche bzw. soziale Tragödien etc."
-07D024D63B2E67C1C125720D0034DB16,Krimi,ND,s. Kriminalfilm (für Jugendliche)
-F8054D1B7DE23209C1256F230035F578,Krimi,ND,s. Kriminalfilm (für Erwachsene)
-D0595EBB56922081C1256F230035BC02,Kriminalbeamter,DS,Berufsbild
-7B14C59F988A190EC1256F230035D8D8,Kriminalfilm (für Erwachsene),D,s.a. Thriller
-D8F70620367BD332C1256F230035BC03,Kriminalfilm (für Erwachsene),DS,"Spielfilm, der auf die Geschichte oder speziell die Aufdeckung eines Verbrechens zum Inhalt hat. Adressaten ab ca. 21 Jahre."
-5012E27E1760CBB2C125720D0034BC4D,Kriminalfilm (für Jugendliche),DS,"Spielfilm, der die Geschichte oder speziell die Aufdeckung eines Verbrechens zum Inhalt hat. Adressaten von ca. 14 - 21 Jahre."
-36481777FED0B542C1256F230035BC04,Kriminalfilm (für Kinder),DS,"Spielfilm, der die Geschichte oder speziell die Aufdeckung eines Verbrechens zum Inhalt hat. Adressaten bis ca. 14 Jahre."
-EFE0A2DFC7094E3EC1256F230035F57A,Kriminalkomödie,ND,s. Kriminalfilm (für Erwachsene)
-0AE20630EBBE4DC1C125720D0034E428,Kriminalliteratur,D,s.a. Kriminalfilm (für Jugendliche)
-3C21F64A5602E75DC1256F230035BC07,Kriminalliteratur,DS,"Populäre Gattung der Unterhaltungsliteratur; umfasst alle das Verbrechen in den Mittelpunkt stellenden literarischen Werke mit ausführlicher Darstellung der Anstrengungen, die zur Aufdeckung und Bestrafung notwendig sind. Nach der Erzählstruktur wird zwischen Detektivroman und Kriminalroman unterschieden.  Über die Literatur an sich oder Hörspiele."
-EDB09DD4DF207AE6C1256F230035D8DE,Kriminalliteratur,D,s.a. Kriminalfilm (für Kinder)
-F3E596BEA11521F7C1256F230035D8DD,Kriminalliteratur,D,s.a. Kriminalfilm (für Erwachsene)
-124CB46E3DAA080FC1256F230035BC06,Kriminalobermeister,DS,Berufsbild
-E70E0851091BA369C1256F230035F5A7,Kulturfilm,ND,s. Dokumentarfilm
-806ABFCDFCA396D7C1256F230035BC24,Kulturfolger,DS,"Kulturfolger oder Hemerophile sind Tiere oder Pflanzen, die aufgrund anthropogener landschaftverändernder Maßnahmen Vorteile erlangen und deshalb dem Menschen in seine Kulturlandschaft (Äcker, Wiesen, Verkehrswege, Siedlungen, Behausungen) folgen."
-D797203462CB2456C1256F230035F5B3,Kung-Fu-Film,ND,s. Actionfilm
-FC1B7F5BE4215A17C1256F230035F5EF,Kurzfilm,ND,s. Kurzspielfilm
-55638B46513FEF09C1256F230035BC4B,Kurzgeschichte,DS,"Die Kurzgeschichte ist eine moderne literarische Form der Prosa, deren Hauptmerkmal eben in ihrer Kürze liegt."
-EC15E2672EE36DF9C125717F0032F882,"Laurel, Stan",D,"s.a. Hardy, Oliver"
-D25BC72C8BADF216C1256F230035D994,Lebensweg,D,s.a. Kind
-26A97025F201A073C12579F2005C3220,Legende (Film),ND,s. Märchenfilm
-DE037B4EAE6F4920C12579F2005C3BA4,Legende (Film),ND,s. Fantasy-Film
-7EA9BE8C8B3F8142C1256F230035F6F4,Legetrickfilm,ND,s. Trickfilm (allgemein)
-4D936459FA278258C1256F230035BD01,"Legien, Carl",DS,Deutscher Gewerkschaftsführer und Politiker (SPD) (1861-1920).
-4BB0FB32072CF111C1257FAB005F1066,Legierung,DS,"Eine Legierung ist ein metallischer Werkstoff, der aus mindestens zwei Elementen besteht, die gemeinsam das metalltypische Merkmal des kristallinen Aufbaus mit Metallbindung aufweisen. Das Verhalten der Elemente in einer Legierung und ihr Einfluss auf deren Eigenschaften sind in der Regel von drei Faktoren abhängig: Art und Anzahl der Legierungspartner, ihrem Massenanteil an der Legierung sowie der Temperatur. Diese Faktoren bestimmen die jeweilige Aufnahmefähigkeit, das heißt Löslichkeit des einen Elementes im anderen und ob die Legierungspartner Mischkristalle oder Gemische aus reinen Kristallen (auch Kristallgemische) der jeweiligen Legierungskomponenten bilden."
-CCAFE1771C45AF2DC1256F230035D9CC,Literatur,D,s.a. Rolle (Theater)
-548C0AFE79E8B55DC1256F230035D9CF,Literaturverfilmung,D,s.a. Kinderbuchverfilmung
-8529218A87A1A680C1256F230035BD75,Literaturverfilmung,DS,"Verfilmung eines Literaturwerkes, z.B. Roman, Kurzgeschichte, Erzählung, Theaterstücke nur, wenn es sich um keine Abfilmung von Bühnenaufführung handelt (aber keine Kinderbücher, Märchen)."
-906486860816461EC1256F230035D9CE,Literaturverfilmung,D,s.a. Märchenfilm
-F8ED33A71BC58A36C1256F230035D9D0,Literaturverfilmung,D,s.a. Theaterverfilmung
-A263B965C834C6B9C1256F230035F7A9,"Livi, Ivo",ND,"s. Montand, Yves"
-55E4B01A609E47DEC1256F860032E6F8,"Losch, Maria Magdalena von",ND,"s. Dietrich, Marlene"
-138192B1879BA55EC125754D005995F3,"Lose-Wächter, Elfriede",DS,Dresdner Malerin der Avantgarde (1899-1940). Sie wurde im Rahmen der nationalsozialistischen Euthanasie-Aktion T4 in der Heil- und Pflegeanstalt Pirna-Sonnenstein getötet.
-CA6483CE3B579C13C1256F230035F7DA,Lovestory,ND,s. Liebesfilm
-F034404EE7B0494CC1256F230035D9F5,Mädchen,D,s.a. Kind
-BC2D031315E68399C1256F230035DA12,Märchen,D,s.a. Märchenfilm
-16917F97DE8722E8C1256F230035DA14,Märchenfilm,D,s.a. Kinderbuchverfilmung
-73D0BF31A03CCF57C1256F230035DA15,Märchenfilm,D,s.a. Literaturverfilmung
-AA1F514F92AA34D7C1256F230035BE2A,Märchenfilm,DS,"Märchenfilme sind Filme, die von magischen Abenteuern von sagenhaften Prinzen und Prinzessinnen, Feen, Zauberern, Zwergen, Hexen, Drachen, Trollen, Riesen, Kobolden, Nixen, Wassermänner und anderen märchenhaften Wesen handeln und oft Sagen und Legenden wiedergeben. Wichtig sind auch zauberische Gegenstände wie Siebenmeilenstiefel, Tarnkappe, Zauberspiegel, Zaubernüsse, Tischlein deck dich und Wünschelruten. Märchenfilme changieren zwischen Kinderfilm, Literaturfilm und Fantasyfilm - in den gelungensten Fällen sind sie eine Synthese dieser Aspekte."
-BD97EA3D915251A2C125778E00546AAF,Manga,ND,s. Zeichentrickfilm (allgemein)
-EF5B5B86B9175C94C125778E00549B90,Manga,ND,s. Trickfilm (allgemein)
-768A661E6E282926C1256F230035DA0E,Mann,D,s.a. Kind
-DB99D108C47C14EBC1256F230035BE19,Mann,DS,"Erwachsener Mensch männlichen Geschlechts. Die bestimmenden körperlich-seelischen Merkmale des Mannes ergeben sich aus den sich z.T. wechselseitig beeinflussenden,  geschlechts- und individualspezifischen Eigenarten und soziokulturell geprägten Rollenschemata."
-FF385FABB3DADA37C1256F230035F883,Mantel- und Degenfilm,ND,s. Abenteuerfilm (für Erwachsene)
-1C121A800F884F84C125782B005A4308,Melodram,ND,s. Melodrama
-8C2DD9342A6B87BDC1256F230035BEAD,Melodrama,DS,"Schauspiel oder Gedicht, begleitet von Musik, die Spiel und Wort ausdeutend untermalt oder verbindet."
-CDD5EBE42DDFFF03C1256F230035DA6E,Mensch,D,s.a. Kind
-D738661DCCDBADA3C12574DE0039E852,"Messter, Oskar",ND,"s. Meßter, Oskar"
-4013E535F3039A04C12571B700325004,Mickymaus,ND,s. Mickey Mouse
-61CC3F143F9F9980C125778E0054F1F5,Modellanimationsfilm,ND,s. Trickfilm (allgemein)
-0C1F6A33C9E8BDD4C1256F230035BF32,Modellbau,DS,"Hobby; Nachbau von meist technischen Anlagen der Realwelt in Miniatur und deren ""Nutzung"". Z.B. Modelleisenbahn, Modellflugzeug."
-497A6C99A8F273A9C1256F230035F9F0,"Modrone, Visconti di",ND,"s. Visconti, Luchino"
-42F9BBFA50173A0DC1256F230035BF40,"Modrow, Hans",DS,"Deutscher Politiker (SED/PDS), geb. 1928; 1973-89 Erster Sekretär der SED-Bezirksleitung Dresden, war 1989/90 Ministerpräsident der DDR."
-AB5A453D1F9AF134C1256F230035BF41,Modulation,DS,"Beeinflussung der Frequenz, Amplitude o.a. Größen einer Schwingung durch die gleiche Größe einer gleichartigen zweiten Schwingung. Frequenzmodulation wird im Ultrakurzwellenbereich, Amplitudenmodulation im Kurz-, Mittel- und Langwellenbereich angewandt."
-19D73A3D67310F70C12572D5002C2140,Monumentalfilm,D,s.a. Historienfilm
-D21B2D889374103FC1256F230035BF68,Monumentalfilm,DS,"Filmgattung mit großem oder überdimensionalem Dekor und Bauten, meist verbunden mit entsprechendem Aufwand an Schauplätzen und Komparserie. Oft fließender Übergang zum Kostüm-, Ausstattungs- und/oder Historienfilm. Meist Laufzeit weit über 90 min."
-2443831E48FBD674C1256F230035BF69,"Moog, Christa",DS,Deutsche Schriftstellerin; geb. 1952.
-45CDFE2CA8661CADC1256F230035DB22,Musical,D,s.a. Musikfilm
-9FDE90502E957A7CC1256F230035FA8B,Musicalverfilmung,ND,s. Musikfilm
-12C0B62951DE8FC5C1256F230035FBBD,"Normand, Mabel",ND,"s. Arbuckle, Fatty"
-4857B601C8B3D2C3C1256F230035FBBE,Normannen,DS,"Das Wort Normanne bezeichnet zwei regional verschiedene Gemeinschaften: Zum einen handelt es sich um Nordgermanen, d. h. die germanischsprachigen Einwohner Skandinaviens und Islands, die zwischen dem späten 8. und dem 11. Jahrhundert Raubzüge in Richtung Süden (England, Irland, Frankenreich, Mittelmeerraum und heutiges Russland) unternahmen, zum anderen wurden damit romanisierte Normannen bezeichnet, die sich ab dem 9. Jahrhundert von der Normandie ausbreiteten. Die Normannen waren keine geschlossene Volksgruppe."
-C540924846B5DBE8C1257AF300570BFF,Perry Rhodan,ND,s. Science-Fiction (für Erwachsene)
-EF065909B86383A1C1256F230035FD9C,Phantasie-Film,ND,s. Fantasy-Film
-843B56933E2AB6D5C1256F230035FD9E,Phantastischer Film,ND,s. Fantasy-Film
-A5EF4BEB4D438918C125778E005544CE,Pixilation,ND,s. Trickfilm (allgemein)
-2ACD88431A636B02C1256F230035C1EE,"Pizarro, Francisco",DS,"Spanischer Konquistador (1476 oder 1478-1541); eroberte 1531-33 das Inkareich in Peru, ließ den letzten Herrscher hinrichten, gründete 1535 Lima."
-9C58995DEA63BA12C1256F230035FE1F,Polit-Thriller,ND,s. Politthriller
-077B815327E8C59CC1256F230035DD54,Propaganda,D,s.a. Propagandafilm
-48A8C8D10565FA94C1256F230035C25E,Propaganda,DS,"Form der Werbung, besonders für bestimmte geistige Ziele und politische, religiöse, wirtschaftliche, aber auch künstlerische oder humanitäre Ideen. Hier besonders auch die Propaganda im Dritten Reich."
-DCE899F2ECDA9F24C1256F230035C25F,Propagandafilm,DS,Hier Werbefilme für die politischen Ziele und Ideen des Dritten Reichs.
-453B9DB02478E785C1256F230035FEED,Psycho Thriller,ND,s. Thriller
-35747C8783F21296C1256F230035FEF3,Psychothriller,ND,s. Thriller
-37153A1F51E21E35C1256F230035DD6D,Puppentrickfilm,D,s.a. Zeichentrickfilm (allgemein)
-9E9402944D948A32C1256F230035C27E,Puppentrickfilm,DS,"Filmische Darstellung mit Hilfe von Puppen, die u.a. durch technische Tricks zum Leben erweckt werden."
-E3D424C6F7C7799CC1256F230035C27F,"Purcell, Henry",DS,Englischer Komponist (1659-95).
-5C78D0BC042534CEC1257ED3002C17A3,"Puryear, Martin",DS,Martin Puryear; geb. 1941; ist ein amerikanischer Künstler.
-BE6EF46270E80FD5C1256F230035C280,"Puschkin, Alexander",DS,Russischer Dichter (1799-1837).
-6BAA150861256B2CC1256F230035FF44,"Raimann, Ferdinand",ND,"s. Raimund, Ferdinand"
-03B15D8CDEA9B296C1256F230035C2A7,"Raimund, Ferdinand",DS,"Eigentlich F. Raimann, österreichischer Schauspieler und Dramatiker (1790-1836)."
-F0D84BDC86381C26C1256F230035C2A8,"Rainer, Arnulf",DS,Österreichischer Maler und Zeichner; geb. 1929.
-2B046CAC3048DDD1C12579060032F786,Regie,D,s.a. Szene (Theater)
-04E252A0D344E738C1256F230035C2F6,Regieassistent,DS,Berufsbild
-13938A647BF7C15AC1257A94005F725C,"Rhodan, Perry",ND,s. Science-Fiction (für Jugendliche)
-182648DCFE4B5DB7C1257A94005F66A0,"Rhodan, Perry",ND,s. Science-Fiction (für Erwachsene)
-5EDDF9B4B6A9EC3DC1256F2300360092,Romanverfilmung,ND,s. Literaturverfilmung
-576CA5DD397C6065C1256F230035DEBE,Säugling,D,s.a. Kind
-985DE8736C8C73DBC12579F2005C182E,Sage (Film),ND,s. Märchenfilm
-B14D7751F2D526F0C12579F2005C256A,Sage (Film),ND,s. Fantasy-Film
-A67DA174F97A9BE0C1256F230035C41F,"Sagebiel, Ernst",DS,Deutscher Architekt (1892-1970).
-A37731EEC0D8EF19C1256F230035C421,"Sagert, Horst",DS,Deutscher Maler und Grafiker; geb. 1934.
-0FA776347CE02F41C1256F230035C422,Sahara,DS,"Größte Wüste der Erde, in Nordafrika, rund 9 Mio. qkm."
-35F88B7D5A1F5502C1257E0300622166,Schatten,D,s.a. Schattenspiel
-0870254376518B2BC1256F230036017A,Schattenfigur,ND,s. Schattenspiel
-0DB1E3FC99AF9126C125726400379370,Schattenriss,ND,s. Schattenspiel
-70DCFC68C59487A6C1256F230035C47A,Schattenspiel,DS,"Darstellung, Spiel, Bild mit Silhouetten, schwarz ausgefüllte Umrisszeichnung."
-A8CD3D60116F3AA2C1256F230035DED8,Schattenspiel,D,s.a. Scherenschnittfilm
-7927C212618BDCD5C1256F230035DEDA,Schauspiel,D,s.a. Drama (Spielfilm)
-F664A0DE0C06A50FC1256F230036018F,Scherenschnitt,ND,s. Schattenspiel
-C7EDA1631FBFBAA8C1256F230035C485,Scherenschnittfilm,DS,"Trickfilm, der in Scherenschnitttechnik hergestellt wurde."
-CF83F83432D6C303C1256F2300360222,Schulkind,ND,s. Kind
-C9B8B8CB97463181C1256F2300360233,"Schulz, Heinz Georg",ND,"s. George, Heinrich"
-E8E898AE9C601CB7C1256F230035C514,"Schulz, Johann Abraham Peter",DS,Deutscher Liederkomponist (1747-1800).
-97775E9751CA8E04C1256F230035C515,"Schulz, Wilhelm",DS,Deutscher Karikaturist (1865-1952). Politische Karikaturen während und nach der Wilhelminischen Ära (1924).
-A26DE2DB672A80B8C1256F230035C516,"Schumacher, Kurt",DS,"Deutscher Politiker (SPD) (1895-1952); war 1930-33 Mitglied des Reichstages, 1933-45 im KZ, seit 1946 Vorsitzender der SPD, deren antikommunistische Frontstellung er bestimmte; sah in der Wiedervereinigung Deutschlands oberstes Ziel."
-C6D18709F4F0F419C125758100448325,"Schumakov, Michael",DS,"Sowjetischer U-Boot Kommandant. Sein U-Boot wurde am 27. Oktober 1962, auf dem Höhepunkt der Kuba-Krise, von einem US-Zerstörer angegriffen. Schumakow hatte den Befehl, in einem solchen Fall seine Torpedos abzuschießen. Er wollte die Mannschaft und das Boot vor dem Untergang bewahren und handelte entgegen der Anweisungen."
-13C9105C19ABEDC8C1256F230035C519,"Schumann, Clara",DS,"Deutsche Pianistin (1819-96); Schülerin ihres Vaters F. Wieck, unternahm schon als 13jährige Konzertreisen; Frau von Robert Schumann."
-9BAA19A004869A99C1256F230035C51A,"Schumann, Robert",DS,"Deutscher Komponist (1810-56); wirkte in Leipzig, Dresden, Düsseldorf; Meister der Hochromantik."
-31E31AF3C5358E41C1256F230035C517,"Schuman, Robert",DS,Französischer volksrepublikanischer Politiker (1886-1963).
-CF94D78CE6430E7FC1256F230035C518,"Schuman, William",DS,Amerikanischer Komponist (1910-92).
-E8A110E6E4FA23DCC125720D00365331,Science-Fiction (für Erwachsene),D,s.a. Science-Fiction (für Jugendliche)
-E8EB238DD1856140C1256F230035DF4D,Science-Fiction (für Erwachsene),D,s.a. Science-Fiction (für Kinder)
-1EB55346E42E1CBFC125720D003672E8,Science-Fiction (für Jugendliche),D,s.a. Science-Fiction (für Kinder)
-7D8EE52CC6E61F97C125720D00361373,Science-Fiction (für Jugendliche),DS,"Spielfilm, der sich spekulativ mit künftigen, z.T. aber physikalisch und technisch (zum Drehzeitpunkt) nicht realisierbaren Entwicklungen der Menschheit befassen. Adressaten von ca. 14 - 21 Jahre."
-BE570F006F83F839C125720D00366917,Science-Fiction (für Jugendliche),D,s.a. Science-Fiction (für Erwachsene)
-6DCE6052CEB58E5DC1256F230035C548,Science-Fiction (für Kinder),DS,"Spielfilm, der sich spekulativ mit künftigen, z.T. aber physikalisch und technisch (zum Drehzeitpunkt) nicht realisierbaren Entwicklungen der Menschheit befassen. Adressaten bis ca. 14 Jahre."
-B443EBEDDC0510DCC125720D00365E42,Science-Fiction (für Kinder),D,s.a. Science-Fiction (für Jugendliche)
-7A7E87729D233934C1257B600058166D,Science-Fiction (Zukunft),DS,"Science-Fiction ist ein Genre innerhalb der Literatur und des Films, aber auch anderer Disziplinen wie etwa der bildenden Kunst , das den Einzelnen, die Gesellschaft oder die Umwelt in zeitlich, räumlich oder historisch (oft radikal) alternativen Konstellationen betrachtet. Science-Fiction entwirft – häufig in der Zukunft verortete, teilweise auch räumlich entfernte – Konstellationen des Möglichen, beschreibt deren Auswirkungen auf die Gesellschaft und den Menschen und reichert reale wissenschaftliche und technische Möglichkeiten mit fiktionalen Spekulationen an."
-1B6812A665E95390C1256F2300360281,Sciencefiction,ND,s. Science-Fiction (für Erwachsene)
-261770D942F4000DC1256F2300360282,Sciencefiction,ND,s. Science-Fiction (für Kinder)
-5B835AF4CC19C134C125720D0036462F,Sciencefiction,ND,s. Science-Fiction (für Jugendliche)
-0891B8FB2A3D2787C1257282003895C8,Sex,ND,s. Erotik
-7A8F0AE0EFF1DAC6C125726400378B3E,Silhouette,ND,s. Schattenspiel
-EF6B7CC381168144C1256F230035C5B8,Silicium,DS,"Chemisches Element, Halbmetall; bildet schwarz-graue, glänzende Kristalle. Anwendung z.B. für Legierungen, Heizleiter, elektrische Isolierstoffe."
-B367F7A78F9CBB01C12578F100382442,Situationskomik,ND,s. Slapstick
-086D8033D5BC3B29C1257572003607D6,Spielfilm,ND,s. Stummfilm
-0D14E0BD45A4B938C125757200354904,Spielfilm,ND,s. Agentenfilm
-116410107DD6D5D9C1257572003590A0,Spielfilm,ND,s. Horrorfilm
-1F973C4853030B6AC12575720035E917,Spielfilm,ND,s. Roadmovie
-2C15B9B1B94041F0C1257572003581A9,Spielfilm,ND,s. Historienfilm
-4162B3F40D5AC82FC12575720035B180,Spielfilm,ND,s. Kriminalfilm (für Jugendliche)
-45E42CF629A5F5A9C12575720035A228,Spielfilm,ND,s. Kriegsfilm
-4D89F54CE5F525B1C125757200359A39,Spielfilm,ND,s. Katastrophenfilm
-51B35A1627F90195C12575720035E232,Spielfilm,ND,s. Propagandafilm
-5B80F3BE82DF3C45C1257572003570A6,Spielfilm,ND,s. Erotik
-5C8CE01D583F3E33C12575720035DAA0,Spielfilm,ND,s. Musikfilm
-686F41F19EBA478BC1257572003575E2,Spielfilm,ND,s. Fantasy-Film
-68AFE13C68A58522C12575720035BE82,Spielfilm,ND,s. Liebesfilm
-6917D46800B0B516C12575720035A933,Spielfilm,ND,s. Kriminalfilm (für Erwachsene)
-768EF1A24111F5AEC12575720036122C,Spielfilm,ND,s. Thriller
-7BC1E789D7E93ADEC12575720035C4C8,Spielfilm,ND,s. Literaturverfilmung
-7BEA2DF87182D6CCC125757200362130,Spielfilm,ND,s. Westernpersiflage
-87ECFE817E17914BC125757200361814,Spielfilm,ND,s. Western
-912161E3558BD845C12575720035D29B,Spielfilm,ND,s. Monumentalfilm
-9FE0E4D0B0C5CE93C1256F230035C636,Spielfilm,DS,"Film, der über eine spielende Handlung verfügt."
-A1348E0F1F3EF816C125757200357C3B,Spielfilm,ND,s. Heimatfilm
-A3BFC1E574E6983EC12575720035383D,Spielfilm,ND,s. Abenteuerfilm (für Jugendliche)
-AC472584E03CF982C1257572003561B2,Spielfilm,ND,s. Drama (Spielfilm)
-BEF4543EA94F0546C12575720035EF14,Spielfilm,ND,s. Science-Fiction (für Erwachsene)
-BF7239345B01B5D9C12575720035310B,Spielfilm,ND,s. Abenteuerfilm (für Erwachsene)
-C23A2F981824FD11C12575720035F5A3,Spielfilm,ND,s. Science-Fiction (für Jugendliche)
-C30A58DAB66A1D3BC1257572003600FB,Spielfilm,ND,s. Sozialkritischer Film
-C4602841370FA173C12575720035CC40,Spielfilm,ND,s. Melodrama
-CFD851F35038B6E6C125757200353DF8,Spielfilm,ND,s. Abenteuerfilm (für Kinder)
-DA66D872CE506D22C125757200354405,Spielfilm,ND,s. Actionfilm
-E205688DB84C227BC12575720035B878,Spielfilm,ND,s. Kriminalfilm (für Kinder)
-E375D34117EC6129C125757200355483,Spielfilm,ND,s. Avantgardefilm
-F7E9C640C38E4E90C125757200360CE1,Spielfilm,ND,s. Tierfilm
-F9D173934B28B8DAC125757200354E82,Spielfilm,ND,s. Antikriegsfilm
-FCB21599E0BE6C6FC12575720035FB52,Spielfilm,ND,s. Science-Fiction (für Kinder)
-10024D27157D64B2C1256F230035DFFB,Spionage,D,s.a. Agentenfilm
-72D6A35CC9090713C1256F230035C641,Spionage,DS,"Ausspähen und Verrat von Staatsgeheimnissen zugunsten eines fremden Staates, auch vorbereitende Handlungen hierzu. Ist als Landesverrat strafbar."
-F3C358CC251F814EC1256F2300360450,Spot (Werbung),ND,s. Werbefilm
-FE8E7089688A4099C1258314005DC3E2,Star Trek,ND,s. Science-Fiction (für Erwachsene)
-354E59DE783F8791C125790600331A7A,Szene (Film),ND,s. Szene (Theater)
-D8ED7795EB96D066C1256F230035C74D,Szene (Theater),DS,"Die Szene bzw. der Auftritt ist ein probetechnisch bedingter Abschnitt eines Theaterstücks und auch Teil eines Films, ebenso wie Akt, Sequenz (länger oder kürzer als die Szene) und Einstellung (meist kürzer als die Szene). "
-30F8E2B185848A08C1256F230036069B,"Tatischeff, Jacques",ND,"s. Tati, Jacques"
-4564C26AD6D3A9B5C1256F230035C776,"Tati, Jacques",DS,"Eigentlich Tatischeff, frzanzösischer Filmkomiker, -regisseur und -produzent (1908-82)."
-90BD531CBD75651FC1256F230035E131,Theater,D,s.a. Rolle (Theater)
-64529CF94C845FE4C12579060032F0E7,Theater,D,s.a. Szene (Theater)
-5055FFD35185632CC1256F230035E134,Theaterverfilmung,D,s.a. Literaturverfilmung
-DAE7DC2D20E978B7C1256F230035C7CE,Theaterverfilmung,DS,"Verfilmung eines Theaterstückes, wobei hier nur die Abfilmung von Bühnenaufführungen gemeint ist."
-38D38E4C2494A7FAC125720D003553CE,Thriller,D,s.a. Kriminalfilm (für Jugendliche)
-527D8230DFAF1843C1256F230035E13C,Thriller,D,s.a. Kriminalfilm (für Erwachsene)
-5EDB8E8335C64F5DC1256F230035C7E3,Thriller,DS,"Besonders spannungsreiches filmisches Werk, meist Horror- oder Kriminalfilme bzw. deren Verbindung."
-6C4692B85531DC4CC1256F230035E13B,Thriller,D,s.a. Politthriller
-7D8B98C7BF8CEBFCC1256F230035E13D,Thriller,D,s.a. Horrorfilm
-1DFE4B48E7028DC5C1256F230035E193,Trickfilm (allgemein),D,s.a. Knettrickfilm
-3A09C0DFE90F4392C1256F230035C85A,Trickfilm (allgemein),DS,"Bei einem Trickfilm oder Animationsfilm werden die Bewegungsabläufe von Figuren, Objekten und Effekten nicht in Echtzeit gefilmt, wie bei einem Spielfilm, sondern Bild für Bild künstlich geschaffen. Die Technik, derer sich der Film bedient, ist die Animation. Als Bewegtbildsequenz hintereinander abgespielt, erzeugt der Trickfilm beim Betrachter die Illusion von echter Bewegung mit erstaunlichen Effekten. Ein 90 Minuten langer Film kann 129.600 Einzelbilder enthalten. Trickfilm bezeichnet ein synthetisches Medium, das der Einzelbildanimation von Gegenständen (Modellanimation, Puppentrick, Knetfilm), Zeichnungen (Zeichentrickfilm), Flachfiguren (Legetrick) oder Schauspielern (Pixilation), oder das Erstellen der einzelnen Filmbilder mit Hilfe eines Computers (Computeranimation)."
-8030504B93C8475FC125757200365791,Trickfilm (allgemein),D,s.a. Schattenspiel
-C84BB1AB84D8525CC1256F230035E190,Trickfilm (allgemein),D,s.a. Puppentrickfilm
-E40C3C8D4FA16E00C1256F230035E191,Trickfilm (allgemein),D,s.a. Scherenschnittfilm
-E7B4EBA7064FCECBC1256F230035E18F,Trickfilm (allgemein),D,s.a. Zeichentrickfilm (allgemein)
-E3FB0F6FA9B29A27C1258335005D6218,Trickfilm (allgemein),D,s.a. Trickfilm (Disney)
-639276D1A1EBE382C1256F230035CBFF,Trickfilm (Disney),DS,"Trickfilm, der aus den Disney-Studios stammt."
-220E27EC14D21E12C1256F230035C85B,Trickfilmherstellung,DS,"Zur Herstellung eines Trickfilms; Techniken, Möglichkeiten etc."
-365A63F100FECAF7C1256F230035E2FD,Video,D,s.a. Spielfilm
-16D86C95110C7599C1256F2300360A53,Walt Disney,ND,"s. Disney, Walt"
-359587E42C58C744C1256F230035CA4F,Walther von der Vogelweide,DS,Der bedeutendste Lyriker des deutschen Mittelalters (um 1170-um 1230).
-37EF2161B87AF879C1256F230035CA50,"Walther, Joachim",DS,Deutscher Schriftsteller; geb. 1943.
-8CDECEE9BCA49EA1C1256F230035CA51,"Walther, Pan",DS,Deutscher Fotograf (1921-87).
-EA8843BED5D21A99C1256F230035CA52,"Walton, William",DS,"Sir William Turner Walton, englischer Komponist (1902-83)."
-2A3C932939FDF8EDC1256F230035E36F,Wandern,D,s.a. Bergfilm
-F145EFAF15AB1E23C1256F2300360AFF,"Wellano, Elisabeth",ND,"s. Karlstadt, Liesl"
-C6F457A3AAEFCA81C125752700517152,Werbeagentur,D,s.a. Werbefilm
-CBDA7C27A0B3F05DC1256F230035CAEA,Werbefilm,DS,"Ein Werbespot ist ein kurzer Filmbeitrag oder eine Durchsage, mit dem für eine Ware, eine Marke oder eine Dienstleistung geworben wird. Häufig werden sie von Werbeagenturen im Auftrag eines Markeninhabers oder Produktanbieters entworfen."
-9F476BC26203E88CC1256F230035CAF2,Werbefotograf,DS,Berufsbild
-C7F00FF84715C8B6C1256F230035CAF1,Werbefotografie,DS,Spezielle fotografische Techniken und Tricks zur Darstellung von Werbegut.
-3C3D7D9D1A38B070C1256F2300360B24,Werbespot,ND,s. Werbefilm
-ACC25B96370F0B61C1256F230035E3D5,Werbung,D,s.a. Werbefilm
-346B7D4187662F6FC1256F2300360B67,Westen (Wilder),ND,s. Western
-9A93774F4D7726A6C12572D5002C2EAB,Western,D,s.a. Historienfilm
-FA4431395A61C162C1256F2300360BA9,Wilder Westen,D,s.a. Western
-A849DDEF9B2B5FF9C1256F230035CB3D,"Wilder, Alec",DS,US-Amerikanischer Komponist (1907-80).
-049391D2AB7A6C39C1256F230035CB3E,"Wilder, Thornton",DS,Nordamerikanischer Schriftsteller (1897-1975).
-BE7DAC5CD54322BEC1256F230035CB3C,"Wilde, Oscar",DS,Irischer Schriftsteller (1854-1900).
-C4C56B4564C5B563C1256F2300360BAF,Wildwestfilm,ND,s. Western
-07E0335D60396C2BC12572D600358CD2,"Wortmann, Clara",ND,"s. Waldoff, Claire"
-7CF4F90754BBF36FC12579550033E6A2,"Wortmann, Sönke",DS,"Sönke Wortmann, geb. 1959, ist ein deutscher Regisseur, Produzent und ehemaliger Fußballspieler."
-06D3FD821FA5FE0BC125720D00329EF2,Zeichentrickfilm (allgemein),D,s.a. Abenteuerfilm (für Jugendliche)
-63900E6CD9EA8249C1256F230035E4AF,Zeichentrickfilm (allgemein),D,s.a. Abenteuerfilm (für Kinder)
-7BC878CA48CE5ED5C1256F230035E4B1,Zeichentrickfilm (allgemein),D,s.a. Trickfilm (Disney)
-983BC89FF1AF2625C1256F230035E4B0,Zeichentrickfilm (allgemein),D,s.a. Kinderfilm
-DF76804E4028C497C1256F230035E4AE,Zeichentrickfilm (allgemein),D,s.a. Puppentrickfilm
-FAF296DA0AF0019FC12579A30057264C,Zeichentrickfilm (allgemein),D,s.a. Trickfilm (allgemein)
-EE66B493C5309833C1258335005C5D63,Zeichentrickfilm (Disney),ND,s. Trickfilm (Disney)
-18C4286BF4C1BB84C125720D003783E8,Zukunft,D,s.a. Science-Fiction (für Jugendliche)
-1FDC06EE86D3D101C125720D00378DCE,Zukunft,D,s.a. Science-Fiction (für Kinder)
-5AB6C0F10995943DC1256F230035E4FA,Zukunft,D,s.a. Science-Fiction (für Erwachsene)
-6DC09CD40FB5AB1DC1256F230035CC5A,Zukunft,DS,"Die erwartete Zeit, in ihrem Inhalt oft von gegenwärtiger Hoffnung oder Sorge und damit vom Lebensgefühl bestimmt."
+DOKUMENT-ID,SCHLAGWORT,ART,TEXT,discipline,narrower,broader
+16C2E38D486EC91AC1257A44005C91FE,Abenteuer,ND,s. Abenteuerfilm (für Kinder),,,93066A4D8826617EC1256F230035ACC1
+C696CE8A5054A9E5C1257A44005C8850,Abenteuer,ND,s. Abenteuerfilm (für Jugendliche),,,834F7B6CEA90BEC8C125720D00322DA3
+CA523775860B95EBC1257A44005C80B7,Abenteuer,ND,s. Abenteuerfilm (für Erwachsene),,,D8E395051F562D78C1256F230035ACBC
+BC6008150FD03322C1256F230035CC84,Abenteuerfilm (für Erwachsene),D,s.a. Abenteuerfilm (für Kinder),,,93066A4D8826617EC1256F230035ACC1
+C09ACA75B48563F3C125720D00326B92,Abenteuerfilm (für Erwachsene),D,s.a. Abenteuerfilm (für Jugendliche),,,834F7B6CEA90BEC8C125720D00322DA3
+D8E395051F562D78C1256F230035ACBC,Abenteuerfilm (für Erwachsene),DS,"Spielfilm, in dem der Held in eine Kette von Ereignissen verwickelt wird; Adressaten ab ca. 21 Jahre.",Spiel- und Dokumentarfilm,,
+FF32E869C5CC6D67C1256F230035CC85,Abenteuerfilm (für Erwachsene),D,s.a. Actionfilm,,,0A38372456CC103FC1256F230035AD79
+834F7B6CEA90BEC8C125720D00322DA3,Abenteuerfilm (für Jugendliche),DS,"Spielfilm, in dem der Held in eine Kette von Ereignissen verwickelt wird; Adressaten von ca. 14 - 21 Jahre.",Spiel- und Dokumentarfilm,,
+A5CF1243171E6F95C125720D003279F7,Abenteuerfilm (für Jugendliche),D,s.a. Abenteuerfilm (für Erwachsene),,,D8E395051F562D78C1256F230035ACBC
+E76A18005DEA5F3DC125720D00328323,Abenteuerfilm (für Jugendliche),D,s.a. Abenteuerfilm (für Kinder),,,93066A4D8826617EC1256F230035ACC1
+143CDE56BFC37E6EC1256F230035CC86,Abenteuerfilm (für Kinder),D,s.a. Abenteuerfilm (für Erwachsene),,,D8E395051F562D78C1256F230035ACBC
+623DCAA4CB8CDC35C125720D00328FF6,Abenteuerfilm (für Kinder),D,s.a. Abenteuerfilm (für Jugendliche),,,834F7B6CEA90BEC8C125720D00322DA3
+7C3C64510DA86B94C1256F230035CC88,Abenteuerfilm (für Kinder),D,s.a. Puppentrickfilm,,,9E9402944D948A32C1256F230035C27E
+93066A4D8826617EC1256F230035ACC1,Abenteuerfilm (für Kinder),DS,"Spielfilm, in dem der Held in eine Kette von Ereignissen verwickelt wird; Adressaten bis ca. 14 Jahre.",Spiel- und Dokumentarfilm,,
+0A38372456CC103FC1256F230035AD79,Actionfilm,DS,"Spielfilm, der in raschem Szenenwechsel eine Abfolge oft ""harter"" Aktionsabläufe bietet.",Spiel- und Dokumentarfilm,,
+05141F720CFCAE30C1256F230035AD8D,Agentenfilm,DS,"Meist actionreicher Spielfilm, in dessen Hauptthemenbereich die Spionagewelt steht.",Spiel- und Dokumentarfilm,,
+CC2D69190D7BFDECC1256F230035E59A,Agitationsfilm,ND,s. Propagandafilm,,,DCE899F2ECDA9F24C1256F230035C25F
+6E65BB78187EFCB1C1256F230035E5B6,Aktionfilm,ND,s. Actionfilm,,,0A38372456CC103FC1256F230035AD79
+3D308F1B0F36FD60C12574750050EE54,"Albach-Retty, Rosemarie Magdalena",ND,"s. Schneider, Romy",,,4AB17CA38E98966EC12574750050A195
+58EE1EDC23C30493C1256F230035ADDB,"Albers, Hans",DS,Deutscher Schauspieler (1891-1960).,Spiel- und Dokumentarfilm,,
+6DE7BBB2816E1BDCC1256F230035ADF1,"Allen, Woody",DS,"Amerikanischer Regisseur, Schauspieler, geb. 1935.",Spiel- und Dokumentarfilm,,
+7782058DE8D911A6C12575D0004E8CA7,"Almodóvar, Pedro ",DS,"Pedro Almodóvar Caballero, geb. 1949 oder 1951 ist ein spanischer Filmregisseur und Drehbuchautor. ",Spiel- und Dokumentarfilm,,
+9F663FC4ABBCF593C12572FF003F62BA,Animation (Trickfilm),ND,s. Trickfilm (allgemein),,,3A09C0DFE90F4392C1256F230035C85A
+FC2E78FE3788C48EC125778E0054BE34,Animationsfilm,ND,s. Trickfilm (allgemein),,,3A09C0DFE90F4392C1256F230035C85A
+9A9C132BAD900DB3C125778E00547083,Anime,ND,s. Zeichentrickfilm (allgemein),,,01006686C79654FBC1256F230035CBFE
+FAAEBEB9162147B7C125778E00548942,Anime,ND,s. Trickfilm (allgemein),,,3A09C0DFE90F4392C1256F230035C85A
+99FEF17061BF5FDDC1256F230035AE3D,Antikriegsfilm,DS,"Film, desen Handlung sich auf Themen gegen den Krieg bzw. für den Frieden konzentriert.",Spiel- und Dokumentarfilm,,
+7A318A1CE5CDC6DCC1256F230035AE9B,"Arbuckle, Fatty",DS,"Eigentlich Roscoe Arbuckle, amerikanischer Schauspieler der Stummfilmzeit (1887-1933). Slapstickstar und zusammen mit Mabel Normand (1894-1930) frühes Film-Liebspaar.",Spiel- und Dokumentarfilm,,
+D5304CBE2C40550DC1256F230035E6D4,"Arbuckle, Roscoe",ND,"s. Arbuckle, Fatty",,,7A318A1CE5CDC6DCC1256F230035AE9B
+67AA5D02A927C549C1256F230035AEC8,Asterix,DS,Comic-Held von Uderzo und Goscinny; häufig als Zeichentrickfilm nachempfunden.,Spiel- und Dokumentarfilm,,
+DCA7BFBC30075010C1256F230035AEDB,"Attenborough, Richard",DS,Amerikanischer Regisseur (1923-2014).,Spiel- und Dokumentarfilm,,
+697E1FE44BB1E285C1256F230035AF1F,Avantgardefilm,DS,"Filmgattung (französisch avantgarde = die Vorhut), die überlieferte Ausdrucks- und Darstellungsformen zu sprengen bzw. zu erweitern sucht und neue Entwicklungen einleitet (z.B. ""Moulin rouge"" in Bezug auf eine spezielle Farbdramaturgie).",Spiel- und Dokumentarfilm,,
+E916AED1E730F972C1256F230035AF9E,"Barrault, Jean-Louis",DS,"Französischer Schauspieler, Regisseur (1910-94).",Spiel- und Dokumentarfilm,,
+428FE0233BC440F7C1256F230035AFA7,"Bartosch, Berthold",DS,"In Österreich-Ungarn (heutige Tschechische Republik) geborener, in Deutschland und Frankreich lebender Trickfilmer (1893-1968). Benutzte Seidenpapier und Schmierseife sowie eine räumliche Anordnung seiner bewegten Figuren.",Spiel- und Dokumentarfilm,,
+4E90F9F6D90837DCC1256F230035B014,"Belmondo, Jean-Paul",DS,"Französischer Filmschauspieler, geb. 1933.",Spiel- und Dokumentarfilm,,
+D16801A9E9C12F96C1256F230035B02D,Bergfilm,DS,"Film, der eine Gebirgslandschaft zeigt, in einer Gebirgslandschaft spielt oder z.B. eine Bergbesteigung, Wanderweg oder Klettersteig dokumentiert.",Spiel- und Dokumentarfilm,,
+AC08FA3FAB62B1FDC1256F230035B030,"Bergman, Ingmar",DS,Schwedischer Filmregisseur und Drehbuchautor (1918-2007).,Spiel- und Dokumentarfilm,,
+E8CA93719255AF12C1256F230035B031,"Bergman, Ingrid",DS,Schwedische Filmschauspielerin (1915-1982).,Spiel- und Dokumentarfilm,,
+051F0882857A45E7C1256F230035CF62,Bergsteigen,D,s.a. Bergfilm,,,D16801A9E9C12F96C1256F230035B02D
+ED90E54B49976AE4C1256F230035E8E2,Bergwelt,ND,s. Bergfilm,,,D16801A9E9C12F96C1256F230035B02D
+C60585650A7F4398C1256F230035D018,Bilderbuch,D,s.a. Kinderbuchverfilmung,,,E0C8DF8E695AB834C1256F230035BAF4
+DDD09A41FC6221FAC12581520055F2C8,Bilderbuchverfilmung,DS,Die Verfilmung eines Bilderbuches (keine Märchen).,Spiel- und Dokumentarfilm,,
+F9EF12BDC9B1CFD1C1256F230035B113,"Bogart, Humphrey",DS,"Amerikanischer Filmschauspieler (1899-1957); legendärer Charakterdarsteller in Kriminal- und Abenteuerfilmen (""Die Spur des Falken"", ""Casablanca"").",Spiel- und Dokumentarfilm,,
+92D761F056C13CEBC12581B40056DCDC,Bollywood-Film,ND,s. Liebesfilm,,,5153C1FAD7E10F85C1256F230035BD51
+3509CED2E137FEF0C1257B9E005C4544,"Bouzid, Nouri",DS,Tunesischer Regisseur; geb. 1945.,Spiel- und Dokumentarfilm,,
+1B77F168E764BC27C1257BB7005A2BC2,"Brice, Pierre",ND,s. Western,,,397830177432AD78C1256F230035CB12
+0703351B80B6ED23C1256F230035D15C,"Burroughs, Edgar Rice",D,s.a. Tarzan,,,D8B63EB266F97CCFC1256F230035C770
+B5AD671EE9E8E0E3C1256F230035B1DB,"Burton, Richard",DS,"Englischer Bühnen- und Filmschauspieler (1925-84), eigtlich Richard Walter Jenkins, war verheiratet mit Elisabeth Taylor.",Spiel- und Dokumentarfilm,,
+D1E5B6441CC032B5C1256F230035B1DD,"Busch, Ernst",DS,"Deutscher Schauspieler, Sänger, Regisseur (1900-80); ehemaliger Bewohner der Künstlerkolonie in Berlin.",Spiel- und Dokumentarfilm,,
+37E449B641CCA260C1256F230035EB29,"Chaplin, Charles",ND,"s. Chaplin, Charlie",,,FDC1EDD0262E5D65C1256F230035B221
+83E8377848946448C1256F230035EB28,"Chaplin, Charles Spencer",ND,"s. Chaplin, Charlie",,,FDC1EDD0262E5D65C1256F230035B221
+FDC1EDD0262E5D65C1256F230035B221,"Chaplin, Charlie",DS,"Sir (1975) Charles Spencer Chaplin; englischer Filmkomiker, -autor, -regisseur, -produzent (1889-1977); Meister der Komik und der Bildregie, entwickelte die Slapstick-Komödie zu einer eigenen Form weiter. 1919 Mitbegründer der ""United Artists"".",Spiel- und Dokumentarfilm,,
+F79930C238E76870C1256F230035EB2B,Charakterrolle,ND,s. Rolle (Theater),,,38CACA71B84254BEC1256F230035C3BC
+D99E667109322491C1256F230035B26E,"Cleve, Bastian",DS,"Deutscher Filmemacher, Vertreter des deutschen Experimentalfilms, geb. 1950.",Spiel- und Dokumentarfilm,,
+4256FEA4E45B94E3C12578F10038310A,Comedy,D,s.a. Slapstick,,,1355AEAF404065DCC1256F230035C5DE
+DC9DA3C1B9122D20C125778E00546343,Comic,D,s.a. Zeichentrickfilm (allgemein),,,01006686C79654FBC1256F230035CBFE
+E698C48CEFC68A3AC125778E0054934E,Comic,D,s.a. Trickfilm (allgemein),,,3A09C0DFE90F4392C1256F230035C85A
+8103090C488BA923C125778E0053C3D2,Computeranimation,ND,s. Trickfilm (allgemein),,,3A09C0DFE90F4392C1256F230035C85A
+EA085AC538E2CF74C1256F230035B293,"Connery, Sean",DS,"Britischer Filmschauspieler, Sir, geb. 1930; Bekannt geworden durch die Darstellung des James Bond.",Spiel- und Dokumentarfilm,,
+9CCB84E9D4EDDE6FC1256F230035B296,"Cooper, Gary",DS,Amerikanischer Filmschauspieler (1901-61).,Spiel- und Dokumentarfilm,,
+03991459BFE27A5BC1256F230035B2A3,"Costner, Kevin",DS,Amerikanischer Schauspieler; geb. 1955.,Spiel- und Dokumentarfilm,,
+216BB86BC9B98683C1256F230035B2A8,"Courteline, Georges",DS,Französischer Komiker (1858-1929).,Spiel- und Dokumentarfilm,,
+EE30126B3623CEBAC1256F230035B2B9,"Cürlis, Hans",DS,Deutscher Kultur- und Dokumentarfilmer (1889-1982).,Spiel- und Dokumentarfilm,,
+50B2067290793D7FC1256F230035B2F0,"Dean, James",DS,Amerikanischer Filmschauspieler (1931-55 (Autounfall)).,Spiel- und Dokumentarfilm,,
+D1D72CBBC4542DC9C1256F230035EBE0,Detektivfilm,ND,s. Kriminalfilm (für Erwachsene),,,D8F70620367BD332C1256F230035BC03
+E5DCC5245DB6193DC125720D003542F9,Detektivfilm,ND,s. Kriminalfilm (für Jugendliche),,,5012E27E1760CBB2C125720D0034BC4D
+C05B051D08AFC3D9C1256F230035B326,"Deutsch, Ernst",DS,Österreichischer Schauspieler (1890-1969).,Spiel- und Dokumentarfilm,,
+090661C45A7925DEC125720D0037AAE6,Dichtung (Literatur),D,s.a. Science-Fiction (für Kinder),,,6DCE6052CEB58E5DC1256F230035C548
+9715C234CA8ED919C125720D003798E8,Dichtung (Literatur),D,s.a. Science-Fiction (für Jugendliche),,,7D8EE52CC6E61F97C125720D00361373
+9BECA18DAF9792A9C1256F230035D256,Dichtung (Literatur),D,s.a. Science-Fiction (für Erwachsene),,,D9A8591B0BECCC92C1256F230035C547
+5E444E8519D240ADC125717F00330182,Dick und Doof,ND,"s. Laurel, Stan",,,9EF523FB9E28D573C1256F230035BCCC
+F5EA2E5A28CCD8FBC125717F003307DB,Dick und Doof,ND,"s. Hardy, Oliver",,,59733397E9F66676C1256F230035B7F8
+4F0F2C91A14606EAC1256F230035B353,"Dietrich, Marlene",DS,"Deutsche Schauspielerin und Sängerin (1904-92); geboren als Maria Magdalena von Losch in Berlin kam sie nach internationalem Erfolg mit dem Film ""Der blaue Engel"" 1930 nach Hollywood. 1939 wurde sie amerikanische Staatsbürgerin.",Spiel- und Dokumentarfilm,,
+11E9F9D104F1CE80C1256F230035D262,"Disney, Walt",D,s.a. Trickfilm (Disney),,,639276D1A1EBE382C1256F230035CBFF
+7ADD857E28990CF6C1256F230035D261,"Disney, Walt",D,s.a. Mickey Mouse,,,DA5699909203F8D4C1256F230035BEE9
+E18C7EDD8D7D4886C1256F230035B364,"Disney, Walt",DS,Us-amerikanischer Trickfilmzeichner (1901-66); begann 1928 die Mickey-Maus-Serie; Farb- und Dokumentarfilme.,Spiel- und Dokumentarfilm,,
+1B16B026B9A72E92C1256F230035EC27,Disney-Film,ND,s. Trickfilm (Disney),,,639276D1A1EBE382C1256F230035CBFF
+9D9EACC34C2A05AEC1257480003DEF9E,Doku-Drama,ND,s. Dokumentarfilm,,,06836275F55A4155C1256F230035B36C
+89C48C7154C7E2B9C1257480003DE850,Doku-Soap,ND,s. Dokumentarfilm,,,06836275F55A4155C1256F230035B36C
+06836275F55A4155C1256F230035B36C,Dokumentarfilm,DS,"Der Dokumentarfilm versucht, Aspekte der uns umgebenden (oder historischen) Welt abzubilden, zu erzählen oder zu untersuchen. Im Gegensatz zum Spielfilm geschieht dies (meistens) ohne engagierte Schauspieler oder bezahlte Darsteller. An ihre Stelle treten Menschen, Tiere, Orte, Situationen, die mit den erzählten Geschichten übereinstimmen. Es gibt eine große Bandbreite von verschiedenen Dokumentarfilmarten, die sich vom Versuch ein reines Dokument zu erschaffen, über die Doku-Soap bis hin zum Doku-Drama erstreckt.",Spiel- und Dokumentarfilm,,
+BE9DD357BB3850E0C125757200352763,Dokumentarfilm,D,s.a. Bergfilm,,,D16801A9E9C12F96C1256F230035B02D
+6C470703CCDFEDB1C1257480003D5CED,Dokumentation (Dokumentarfilm),ND,s. Dokumentarfilm,,,06836275F55A4155C1256F230035B36C
+EDF79C2467B277B2C1257480003DDB10,Dokumentationsfilm,ND,s. Dokumentarfilm,,,06836275F55A4155C1256F230035B36C
+4818BB2E9C5EBAA3C1256F230035D276,Drama (Literatur),D,s.a. Drama (Spielfilm),,,D3441766EA8C2F68C1256F230035B394
+D3441766EA8C2F68C1256F230035B394,Drama (Spielfilm),DS,"Spielfilm, der über dramatische Handlungsabläufe verfügt.",Spiel- und Dokumentarfilm,,
+79C406949DFA226BC1256F230035D277,Dramaturgie,D,s.a. Drama (Spielfilm),,,D3441766EA8C2F68C1256F230035B394
+97EB80A74DD08888C1256F230035B406,"Eisenstein, Sergej",DS,Sowjetischer Filmregisseur (1898-1948).,Spiel- und Dokumentarfilm,,
+C120F9D6181962E4C1256F230035B481,"Erhardt, Heinz",DS,Deutscher Komiker und Filmschauspieler (1909-79).,Spiel- und Dokumentarfilm,,
+41E3E5A2CEB6C8A3C1256F230035B491,Erotik,DS,Spielfilme mit der Beschreibung der Gesamtheit des Liebeslebens in der Handlung; auch die seelisch verinnerlichte Liebe.,Spiel- und Dokumentarfilm,,
+2C345909CC0AA1A3C1256F230035EDDC,Experimentalfilm,ND,s. Avantgardefilm,,,697E1FE44BB1E285C1256F230035AF1F
+6905C6C0DA516744C1256F230035B4F1,Familienfilm,DS,"Filme, die sich (unabhängig von der Gattung) thematisch und von der Machart her in besonderer Weise eignen, von Kindern/Jugendlichen und Erwachsenen gemeinsam (Zielgruppe Familie) gesehen und diskutiert zu werden. Themen: Erziehungsfragen u.a.",Spiel- und Dokumentarfilm,,
+9DC6878974F7FBEBC1256F230035EE08,Familienserie,ND,s. Familienfilm,,,6905C6C0DA516744C1256F230035B4F1
+666EE13F7B9C724CC1256F230035DCEC,Fantasie,D,s.a. Fantasy-Film,,,19027C42FAC1E471C1256F230035B4F7
+2BB703E060811601C12572100029FE00,Fantasiefilm,ND,s. Fantasy-Film,,,19027C42FAC1E471C1256F230035B4F7
+CEF6A84F210EB986C1256F230035EE0C,Fantasiefilm,ND,s. Fantasy-Film,,,19027C42FAC1E471C1256F230035B4F7
+19027C42FAC1E471C1256F230035B4F7,Fantasy-Film,DS,"Ein dem englischen ""Fantasy"" nachgebildeter Genrebegriff, der alle Filme meint, in denen außer- oder überirdische Vorgänge und Gestalten wesentliche Bestandteile der realen Handlung sind. Formen: allegorischer Film, Geister-, Märchenfilm.",Spiel- und Dokumentarfilm,,
+2646BC659798D93EC1256F230035D3B5,Fantasy-Film,D,s.a. Märchenfilm,,,AA1F514F92AA34D7C1256F230035BE2A
+26CD145ACEEC077CC1256F230035B51C,"Fellini, Federico",DS,Italienischer Filmregisseur (1920-93).,Spiel- und Dokumentarfilm,,
+0EEA56651EA2BCEDC12572D0004E634C,"Fey, Valentin Ludwig",ND,"s. Valentin, Karl",,,E763880685D89A7EC1256F230035C90F
+02D25F486D52CAEAC1257CF600347B70,Film,ND,s. Western,,,397830177432AD78C1256F230035CB12
+0BBC7B565863B1F6C1257CF60034AC2D,Film,ND,s. Jugendfilm,,,14ED1A79B3B7A821C1256F230035BA20
+15354EF2E781363BC1257CF600341A42,Film,ND,s. Kriminalfilm (für Kinder),,,36481777FED0B542C1256F230035BC04
+1A19B91F8F2A57B2C1257CF600348072,Film,ND,s. Westernpersiflage,,,B3C97A774D8E61B8C1256F230035CB13
+292E4F6F512FBEC0C1257CF60033FE90,Film,ND,s. Katastrophenfilm,,,6DF191A67F359F33C1256F230035BA9D
+2A161F89C268EAA4C1257CF60033A7C2,Film,ND,s. Abenteuerfilm (für Erwachsene),,,D8E395051F562D78C1256F230035ACBC
+2F4F06750CF5B47AC1257CF6003492E6,Film,ND,s. Kurzspielfilm,,,F0AFCE4140DC497CC1256F230035BC4D
+30F7F3D33CCB0F5EC1257CF600341557,Film,ND,s. Kriminalfilm (für Jugendliche),,,5012E27E1760CBB2C125720D0034BC4D
+368AFD20D7283971C1257CF6003425B2,Film,ND,s. Literaturverfilmung,,,8529218A87A1A680C1256F230035BD75
+4408D667F472CA54C1257CF6003452D5,Film,ND,s. Science-Fiction (für Erwachsene),,,D9A8591B0BECCC92C1256F230035C547
+4A5D88D7BA790024C1257CF60033B9AE,Film,ND,s. Actionfilm,,,0A38372456CC103FC1256F230035AD79
+4A7F8D7A2672BE59C1257CF600340F65,Film,ND,s. Kriminalfilm (für Erwachsene),,,D8F70620367BD332C1256F230035BC03
+4A836D07E58DFB99C1257CF600341EB5,Film,ND,s. Liebesfilm,,,5153C1FAD7E10F85C1256F230035BD51
+4D998F03F5650098C1257CF600349C40,Film,ND,s. Familienfilm,,,6905C6C0DA516744C1256F230035B4F1
+4F793839B404D1E5C1257CF60033B3CF,Film,ND,s. Abenteuerfilm (für Kinder),,,93066A4D8826617EC1256F230035ACC1
+5DE1E18E35814E09C1257CF600348463,Film,ND,s. Trickfilm (allgemein),,,3A09C0DFE90F4392C1256F230035C85A
+5F6F96DA90BADF34C1257CF600346B67,Film,ND,s. Stummfilm,,,C1FF77A49D83DA6FC1256F230035C70F
+61C884264BFA675EC1257CF6003440F3,Film,ND,s. Musikfilm,,,13CF2E22524A6400C1256F230035BFCE
+707DCB3A4891901DC1257CF60033AC38,Film,ND,s. Abenteuerfilm (für Jugendliche),,,834F7B6CEA90BEC8C125720D00322DA3
+7AEF9BE58048D93AC1257CF60033EAF1,Film,ND,s. Heimatfilm,,,3193590FD3AFCF24C1256F230035B84F
+7B783A5309198D06C1257CF600344770,Film,ND,s. Propagandafilm,,,DCE899F2ECDA9F24C1256F230035C25F
+8F40D822D88926ADC1257CF600345919,Film,ND,s. Science-Fiction (für Jugendliche),,,7D8EE52CC6E61F97C125720D00361373
+94835CD782EC0B97C1257CF600346F68,Film,ND,s. Tierfilm,,,3B271062F69F9982C1256F230035C7F5
+9FFA3DB436F38228C1257CF60033D544,Film,ND,s. Drama (Spielfilm),,,D3441766EA8C2F68C1256F230035B394
+AAB4AC55922C0070C1257CF60033E37B,Film,ND,s. Fantasy-Film,,,19027C42FAC1E471C1256F230035B4F7
+AC1D4E15852C914BC1257CF60033F7DE,Film,ND,s. Horrorfilm,,,A2D11AF04238C4BBC1256F230035B8FA
+B265F5657EA3CB22C1257CF600340890,Film,ND,s. Kriegsfilm,,,09679F998220C237C1256F230035BBFB
+B273D14CFDC42AF9C1257CF60033BFF0,Film,ND,s. Agentenfilm,,,05141F720CFCAE30C1256F230035AD8D
+B7BE45ACA6A22DC7C1257CF600343618,Film,ND,s. Monumentalfilm,,,D21B2D889374103FC1256F230035BF68
+BAB58137E4AABB0BC1257CF600345D76,Film,ND,s. Science-Fiction (für Kinder),,,6DCE6052CEB58E5DC1256F230035C548
+BB5983CF89C1B3D7C1257CF6003461A7,Film,ND,s. Sozialkritischer Film,,,933AEE5902B7C943C1256F230035C619
+C43141D4FB595FF6C1257CF600344E38,Film,ND,s. Roadmovie,,,1EB6ECC56B54380BC1256F230035C3A6
+C7B2A9B1263E5DC2C1257CF600342D92,Film,ND,s. Melodrama,,,8C2DD9342A6B87BDC1256F230035BEAD
+C7D1BDEA7D7E859DC1257CF60033F1A6,Film,ND,s. Historienfilm,,,BB29C27E238CB938C1256F230035F1E3
+D56568E73889031BC1257CF600347598,Film,ND,s. Thriller,,,5EDB8E8335C64F5DC1256F230035C7E3
+D640DEC92B4BFCA2C1257CF60034A4FD,Film,ND,s. Filmklassiker,,,9BAE8048B4F5D85BC1256F230035B546
+DB6A1997D2895193C1257CF60034B78F,Film,ND,s. Werbefilm,,,CBDA7C27A0B3F05DC1256F230035CAEA
+DC0A99D4DBE413B1C1257CF60033CE35,Film,ND,s. Avantgardefilm,,,697E1FE44BB1E285C1256F230035AF1F
+E39434BFFC8E6F4EC1257CF60033C685,Film,ND,s. Antikriegsfilm,,,99FEF17061BF5FDDC1256F230035AE3D
+F30FAE5EBCF521B5C1257CF60033DD3C,Film,ND,s. Erotik,,,41E3E5A2CEB6C8A3C1256F230035B491
+F9BEB0C52D6CF576C1257CF600338988,Film,ND,s. Dokumentarfilm,,,06836275F55A4155C1256F230035B36C
+FAAA00FBF1EB0B74C1257CF60034B28C,Film,ND,s. Kinderfilm,,,9003177B737AADEBC1256F230035BAF6
+671A4596259E7224C1256F230035B540,Filmdokument,DS,Der Film als geschichtliches Dokument; historische Filme.,Spiel- und Dokumentarfilm,,
+904C4EF9E4FCDCB0C1256F230035D3D9,Filmgeschichte,D,s.a. Filmdokument,,,671A4596259E7224C1256F230035B540
+B7C2E964583F81BFC1256F230035D3DA,Filmgeschichte,D,s.a. Stummfilm,,,C1FF77A49D83DA6FC1256F230035C70F
+0E4AD90EEC25CB28C1256F230035D3E2,Filmherstellung,D,s.a. Regie,,,62BFFDD983972B1FC1256F230035C2F5
+9BAE8048B4F5D85BC1256F230035B546,Filmklassiker,DS,"Filme werden Klassiker, wenn sie über Generationen hinweg und unberührt von irgendwelchen Trends immer wieder ihr Publikum finden und begeistern.",Spiel- und Dokumentarfilm,,
+827D454767EBE642C1257839005BCEFF,Filmlexikon,DS,Filmlexikon mit Filmkritiken und anderen Einträgen zu Kinofilmen und vielen Fernsehfilmen aller Genre oder nur einzelner Genres.,Spiel- und Dokumentarfilm,,
+EBA6CD9594DEB1EAC1256F230035EE72,Filmregie,ND,s. Regie,,,62BFFDD983972B1FC1256F230035C2F5
+CBE8F3215825E41CC1256F230035B54D,"Finck, Werner",DS,"Deutscher Kabarettist, Schauspieler und Schriftsteller (1902-78).",Spiel- und Dokumentarfilm,,
+35C5883B8A6D8A35C1256F230035B596,"Ford, John",DS,Eigentlich Sean Aloysius O'Fearna (1895-1973); amerikanischer Filmregisseur irischer Herkunft. V.a. durch seine Western international bekannt.,Spiel- und Dokumentarfilm,,
+3DD94A5CB1C30108C1256F230035B617,"Funès, Louis de",DS,"Französischer Schauspieler, Filmkomiker (1914-83).",Spiel- und Dokumentarfilm,,
+3E671950CDBD9B65C125720D00354B90,Gangsterfilm,ND,s. Kriminalfilm (für Jugendliche),,,5012E27E1760CBB2C125720D0034BC4D
+83B399989E9EB2CEC1256F230035EF82,Gangsterfilm,ND,s. Kriminalfilm (für Erwachsene),,,D8F70620367BD332C1256F230035BC03
+5B38909B6E1E07E5C1256F230035EFCC,Geisterfilm,ND,s. Fantasy-Film,,,19027C42FAC1E471C1256F230035B4F7
+D44C09E72CC4ACF4C1256F230035B688,"George, Heinrich",DS,"Eigentlich Heinz Georg Schulz, deutscher Schauspieler (1893-1946 (Internierungslager Sachsenhausen)).",Spiel- und Dokumentarfilm,,
+5F458D34A33E5BF4C1256F230035D53F,Gesellschaftskritik,D,s.a. Sozialkritischer Film,,,933AEE5902B7C943C1256F230035C619
+417E4663FDCF7244C1256F230035B6DB,"Giehse, Therese",DS,"Eigentlich Therese Gift, deutsche Schauspielerin (1898-1975).",Spiel- und Dokumentarfilm,,
+14D6A544D93A97A2C1256F230035B716,"Godard, Jean-Luc",DS,"Französischer Regisseur, geb. 1930; war zunächst (ab 1952) Filmkritiker, drehte ab 1954 Kurzfilme. Durch den Erstling ""Außer Atem"" (1960) wurde er durch ungewöhnliche Kamera- und Montagetechniken ein Protagonist der frzanzösischen ""Nouvelle Vagne"".",Spiel- und Dokumentarfilm,,
+AD79E7E625564C29C1256F230035B741,"Gottschalk, Joachim",DS,"Deutscher Bühnen- und Filmschauspieler (1902-41); beging mit seiner Frau, die Jüdin war, und Sohn Selbstmord, nachdem die Nazis die Scheidung verlangt hatten.",Spiel- und Dokumentarfilm,,
+FA9499CB5553266BC1256F230035F088,Gracia Patrizia,ND,"s. Kelly, Grace",,,1A6EF64D5D52AABAC1256F230035BAC2
+900CE9F64BD5AF51C1256F230035B785,"Gründgens, Gustaf",DS,"Deutscher Schauspieler, Regisseur und Theaterleiter (1889-1963).",Spiel- und Dokumentarfilm,,
+3E5BF7C7D0757EF2C1256F230035B79E,"Guinness, Alec",DS,"Sir Alec Guinness, englischer Charakterschauspieler (Theater und Film) (1914-2000).",Spiel- und Dokumentarfilm,,
+1C234DD306BA4867C1256F230035B737,"Görner, Lutz",DS,"Deutscher Schauspieler, geb. 1945.",Spiel- und Dokumentarfilm,,
+50F3F8C117D70E86C1256F230035B7B2,"Haanstra, Bert",DS,Niederländischer Regisseur (1916-97).,Spiel- und Dokumentarfilm,,
+AAC932939A80DD43C1256F230035B7F1,"Hanks, Tom",DS,"Amerikanischer Filmschauspieler, geb. 1956.",Spiel- und Dokumentarfilm,,
+59733397E9F66676C1256F230035B7F8,"Hardy, Oliver",DS,"Amerikanischer Filmkomiker (1892-1957); Hardy und sein Partner Stan Laurel waren eines der beliebtesten amerikanischen Komikerpaare des Stumm- und Tonfilms, in Deutschland als ""Dick und Doof"" bekannt.",Spiel- und Dokumentarfilm,,
+DB619DCD3EB7DB8BC1256F230035D62A,"Hardy, Oliver",D,"s.a. Laurel, Stan",,,9EF523FB9E28D573C1256F230035BCCC
+3193590FD3AFCF24C1256F230035B84F,Heimatfilm,DS,"In dem Sinne, dass alle geographisch fixierten, von einheimischen Filmemachern realisierten Filme Berichte über die eigene Heimat sind, lassen sich fast alle an eine bestimmte Landschaft gebundenen Genrefilme als Heimatfilm bezeichnen. Hier v.a. deutsche Heimatfilme.",Spiel- und Dokumentarfilm,,
+E4D5EDB3CFBA2115C1256F230035B86C,"Hepburn, Katharine",DS,"Amerikanische Filmschauspielerin (1907-2003); ""African Queen"" u.a.",Spiel- und Dokumentarfilm,,
+77AEB5EE01CF7502C1257E2B0056DD44,"Hermann, Oliver",DS,"Oliver Hermann, geb. 1960; ist ein deutscher Schauspieler, Regisseur und Sprecher.",Spiel- und Dokumentarfilm,,
+A06A227D9C4A82E9C1256F230035B880,"Herzog, Werner (Regisseur)",DS,"Deutscher Filmregisseur, geb. 1942.",Spiel- und Dokumentarfilm,,
+4B4F20C4E8F509E8C12581B40056EE7B,Hindifilm,ND,s. Liebesfilm,,,5153C1FAD7E10F85C1256F230035BD51
+B4EDCAB3000A6586C12572D5002C4731,Historienfilm,D,s.a. Kriegsfilm,,,09679F998220C237C1256F230035BBFB
+BA51E007C9CDC052C12572D5002C18E7,Historienfilm,D,s.a. Monumentalfilm,,,D21B2D889374103FC1256F230035BF68
+BB29C27E238CB938C1256F230035F1E3,Historienfilm,DS,"Als Historienfilme werden Filme bezeichnet, die in gewissem Maß versuchen historische Ereignisse auzufarbeiten oder  fiktive Handlungen in einen historischen Kontext einzubetten. Der Übergang von Historienfilmen zu Abenteuerfilmen, Western, Eastern und Kriegsfilmen bzw. Antikriegsfilmen ist nicht klar abgegrenzt. Historienfilme, die im alten Ägypten oder in der griechisch-römischen Antike spielen, werden oft auch als Sandalenfilme bezeichnet. Historienfilme sind häufig mit großem Aufwand als Monumentalfilme produziert worden.",Spiel- und Dokumentarfilm,,
+C75CDC3020EDBAB6C12572D5002C403C,Historienfilm,D,s.a. Western,,,397830177432AD78C1256F230035CB12
+8824FB3E22705057C1256F230035B8A5,"Hitchcock, Alfred",DS,Englischer Filmregisseur (1899-1980).,Spiel- und Dokumentarfilm,,
+ECCFECDFC653B3A9C1256F230035B8BA,"Hoffman, Dustin",DS,"Amerikanischer Schauspieler, geb. 1937.",Spiel- und Dokumentarfilm,,
+A2D11AF04238C4BBC1256F230035B8FA,Horrorfilm,DS,"Spielfilm, bei dem grausige Handlungen überwiegen.",Spiel- und Dokumentarfilm,,
+EBEBFBA7DEA21FEAC1256F230035B8F3,"Hörbiger, Paul",DS,Österreichischer Bühnen- und Filmschauspieler (1894-1981).,Spiel- und Dokumentarfilm,,
+AC4A888BD8898B67C1256F230035F285,Indianerfilm,ND,s. Western,,,397830177432AD78C1256F230035CB12
+1BC3B7D68E427291C125714C00465C6D,Inszenierung,D,s.a. Regie,,,62BFFDD983972B1FC1256F230035C2F5
+49ECDCB15D144E22C1257906003307AB,Inszenierung,D,s.a. Szene (Theater),,,D8ED7795EB96D066C1256F230035C74D
+948D037541DDF18BC1256F230035B9DA,James Bond,DS,Phantasiefigur englischer Agentenfilme.,Spiel- und Dokumentarfilm,,
+21A3AF8310D506C0C1256F230035B9E4,"Jannings, Emil",DS,"Deutscher Schauspieler (1884-1950); Theater, Film (""Der blaue Engel"").",Spiel- und Dokumentarfilm,,
+1F7AEEF7BB256473C1256F230035F308,"Jefferson, Arthur Stanley",ND,"s. Laurel, Stan",,,9EF523FB9E28D573C1256F230035BCCC
+1BF87FA5F61E8416C1256F230035F30A,"Jenkins, Richard",ND,"s. Burton, Richard",,,B5AD671EE9E8E0E3C1256F230035B1DB
+14ED1A79B3B7A821C1256F230035BA20,Jugendfilm,DS,"Ein Film, der formal und inhaltlich für Jugendliche von etwa 14 bis 21 Jahren geeignet ist. Die Altersangabe ist eine Orientierung an der Erlebniswelt, dem Filmverständnis u. der Möglichkeit einer Identifizierung u.a.",Spiel- und Dokumentarfilm,,
+1DF7E8262543A1A2C125720D0033594C,Jugendfilm,D,s.a. Abenteuerfilm (für Jugendliche),,,834F7B6CEA90BEC8C125720D00322DA3
+68B7943A61E066C7C125720D0037B8AA,Jugendfilm,D,s.a. Science-Fiction (für Jugendliche),,,7D8EE52CC6E61F97C125720D00361373
+A00DE5F39C4D4008C125720D00353B3F,Jugendfilm,D,s.a. Kriminalfilm (für Jugendliche),,,5012E27E1760CBB2C125720D0034BC4D
+DBC41A11669E0091C1256F230035BA7E,"Karlstadt, Liesl",DS,"Eigentlich Elisabeth Wellano, Münchner Volksschauspielerin (1892-1960); Partnerin von Karl Valentin.",Spiel- und Dokumentarfilm,,
+ED9B8CA5C2D1C6FCC1256F230035D7A9,"Karlstadt, Liesl",D,"s.a. Valentin, Karl",,,E763880685D89A7EC1256F230035C90F
+6DF191A67F359F33C1256F230035BA9D,Katastrophenfilm,DS,"Spielfilm über Umweltkatastrophen, Unglücksfälle etc. (z.B. Erdbeben, Waldbrände, Hausbrände etc.).",Spiel- und Dokumentarfilm,,
+82B4256DCC95C0C6C1256F230035BAB7,"Keaton, Buster",DS,US-amerikanischer Stummfilmkomiker (1895-1966).,Spiel- und Dokumentarfilm,,
+1A6EF64D5D52AABAC1256F230035BAC2,"Kelly, Grace",DS,Amerikanische Filmschauspielerin (1929-82); seit 1956 verheiratet mit Fürst Rainier III von Monaco (seither Gracia Patrizia).,Spiel- und Dokumentarfilm,,
+BD7B45BB4465E261C1256F230035D7F3,Kinder- und Jugendliteratur,D,s.a. Kinderbuchverfilmung,,,E0C8DF8E695AB834C1256F230035BAF4
+AA3458DA3959E07AC1256F230035D7F9,Kinderbuchverfilmung,D,s.a. Märchenfilm,,,AA1F514F92AA34D7C1256F230035BE2A
+D10DF4D1D8407F47C1256F230035D7FA,Kinderbuchverfilmung,D,s.a. Literaturverfilmung,,,8529218A87A1A680C1256F230035BD75
+E0C8DF8E695AB834C1256F230035BAF4,Kinderbuchverfilmung,DS,Verfilmung eines Kinderbuches (keine Märchen).,Spiel- und Dokumentarfilm,,
+050C2DFBA8E75CA8C1256F230035D7FC,Kinderfilm,D,s.a. Zeichentrickfilm (allgemein),,,01006686C79654FBC1256F230035CBFE
+4803F8E647F01B37C1256F230035D7FF,Kinderfilm,D,s.a. Kinderbuchverfilmung,,,E0C8DF8E695AB834C1256F230035BAF4
+78EDF889DC886A5EC1256F230035D7FD,Kinderfilm,D,s.a. Puppentrickfilm,,,9E9402944D948A32C1256F230035C27E
+87B0B9A258BBE8AFC1256F230035D7FE,Kinderfilm,D,s.a. Kriminalfilm (für Kinder),,,36481777FED0B542C1256F230035BC04
+9003177B737AADEBC1256F230035BAF6,Kinderfilm,DS,Spielfilme und Kurzspielfilme mit der Zielgruppe Kinder.,Spiel- und Dokumentarfilm,,
+FBB74A2AD5A53EC2C1256F230035D7FB,Kinderfilm,D,s.a. Abenteuerfilm (für Kinder),,,93066A4D8826617EC1256F230035ACC1
+0566FFCC6A6FC093C1257EF1005F1A48,Kinofilm,ND,s. Roadmovie,,,1EB6ECC56B54380BC1256F230035C3A6
+0B98C616F909309BC1257EF1005F39BF,Kinofilm,ND,s. Stummfilm,,,C1FF77A49D83DA6FC1256F230035C70F
+13EC95423BC72164C1257EF1005EC0CC,Kinofilm,ND,s. Historienfilm,,,BB29C27E238CB938C1256F230035F1E3
+21554617290BF442C1257EF1005F413C,Kinofilm,ND,s. Tierfilm,,,3B271062F69F9982C1256F230035C7F5
+28753EF675E542E8C1257EF1005E6647,Kinofilm,ND,s. Dokumentarfilm,,,06836275F55A4155C1256F230035B36C
+2A33958E00EA2776C1257EF1005E6DC9,Kinofilm,ND,s. Abenteuerfilm (für Erwachsene),,,D8E395051F562D78C1256F230035ACBC
+312D19BCE81EA92DC1257EF1005F79F4,Kinofilm,ND,s. Jugendfilm,,,14ED1A79B3B7A821C1256F230035BA20
+3623E26ACACA97BEC1257EF1005ED56A,Kinofilm,ND,s. Kriegsfilm,,,09679F998220C237C1256F230035BBFB
+3C79FA8402524C61C1257EF1005E87E2,Kinofilm,ND,s. Agentenfilm,,,05141F720CFCAE30C1256F230035AD8D
+49F46AE7F61480C1C1257EF1005E7A5A,Kinofilm,ND,s. Abenteuerfilm (für Kinder),,,93066A4D8826617EC1256F230035ACC1
+4DE682A6BF7395F0C1257EF1005EE753,Kinofilm,ND,s. Kriminalfilm (für Kinder),,,36481777FED0B542C1256F230035BC04
+5AC4CA5918F2FFE1C1257EF1005EB064,Kinofilm,ND,s. Fantasy-Film,,,19027C42FAC1E471C1256F230035B4F7
+63A994BE4E80E478C1257EF1005EE1DF,Kinofilm,ND,s. Kriminalfilm (für Jugendliche),,,5012E27E1760CBB2C125720D0034BC4D
+66F840D01AE01881C1257EF1005F148B,Kinofilm,ND,s. Propagandafilm,,,DCE899F2ECDA9F24C1256F230035C25F
+6AA99A9DD95A833CC1257EF1005F59D3,Kinofilm,ND,s. Trickfilm (allgemein),,,3A09C0DFE90F4392C1256F230035C85A
+6D2DEC8F48C1F9F8C1257EF1005EC63B,Kinofilm,ND,s. Horrorfilm,,,A2D11AF04238C4BBC1256F230035B8FA
+6FF511574F11CEF5C1257EF1005EB614,Kinofilm,ND,s. Heimatfilm,,,3193590FD3AFCF24C1256F230035B84F
+72318074CE1114B8C1257EF1005EA528,Kinofilm,ND,s. Drama (Spielfilm),,,D3441766EA8C2F68C1256F230035B394
+72966CA3CD055E18C1257EF1005F622B,Kinofilm,ND,s. Kurzspielfilm,,,F0AFCE4140DC497CC1256F230035BC4D
+7F8B4E77DE37CF74C1257EF1005F3297,Kinofilm,ND,s. Sozialkritischer Film,,,933AEE5902B7C943C1256F230035C619
+7FA33644D93AD515C1257EF1005F0D03,Kinofilm,ND,s. Musikfilm,,,13CF2E22524A6400C1256F230035BFCE
+82E4CD861A4BE884C1257EF1005EDBF4,Kinofilm,ND,s. Kriminalfilm (für Erwachsene),,,D8F70620367BD332C1256F230035BC03
+8C53DDED8CC8D483C1257EF1005E922B,Kinofilm,ND,s. Antikriegsfilm,,,99FEF17061BF5FDDC1256F230035AE3D
+8C9DE593F1411D03C1257EF1005EEC83,Kinofilm,ND,s. Liebesfilm,,,5153C1FAD7E10F85C1256F230035BD51
+91B10212FB6771C8C1257EF1005F70E2,Kinofilm,ND,s. Filmklassiker,,,9BAE8048B4F5D85BC1256F230035B546
+B19D99AAB67F42F7C1257EF1005F2CEF,Kinofilm,ND,s. Science-Fiction (für Kinder),,,6DCE6052CEB58E5DC1256F230035C548
+B46C9D8436263A81C1257EF1005F27BD,Kinofilm,ND,s. Science-Fiction (für Jugendliche),,,7D8EE52CC6E61F97C125720D00361373
+B9E2A3B23057FFF0C1257EF1005ECC0A,Kinofilm,ND,s. Katastrophenfilm,,,6DF191A67F359F33C1256F230035BA9D
+BC2FF386E6160A74C1257EF1005EAB6B,Kinofilm,ND,s. Erotik,,,41E3E5A2CEB6C8A3C1256F230035B491
+BC3CB0DF19ABAA06C1257EF1005F1FA4,Kinofilm,ND,s. Science-Fiction (für Erwachsene),,,D9A8591B0BECCC92C1256F230035C547
+BCF2C730DF89C14EC1257EF1005F01BA,Kinofilm,ND,s. Monumentalfilm,,,D21B2D889374103FC1256F230035BF68
+BF1136A9585307A8C1257EF1005E9887,Kinofilm,ND,s. Avantgardefilm,,,697E1FE44BB1E285C1256F230035AF1F
+C693985A5ED835D3C1257EF1005EFCE6,Kinofilm,ND,s. Melodrama,,,8C2DD9342A6B87BDC1256F230035BEAD
+D6DAF5C69BB6FFB5C1257EF1005E748C,Kinofilm,ND,s. Abenteuerfilm (für Jugendliche),,,834F7B6CEA90BEC8C125720D00322DA3
+D7E2C96702D0E3B2C1257EF1005F53D0,Kinofilm,ND,s. Westernpersiflage,,,B3C97A774D8E61B8C1256F230035CB13
+D85D855EF9C75B96C1257EF1005E8209,Kinofilm,ND,s. Actionfilm,,,0A38372456CC103FC1256F230035AD79
+DE0DC7B66C2BD491C1257EF1005F7FE8,Kinofilm,ND,s. Kinderfilm,,,9003177B737AADEBC1256F230035BAF6
+E4EC04BD5D241575C1257EF1005F4C90,Kinofilm,ND,s. Western,,,397830177432AD78C1256F230035CB12
+E8E747B4BF3EFADAC1257EF1005F6A40,Kinofilm,ND,s. Familienfilm,,,6905C6C0DA516744C1256F230035B4F1
+EFCD00985570BF4BC1257EF1005F46E3,Kinofilm,ND,s. Thriller,,,5EDB8E8335C64F5DC1256F230035C7E3
+FDA6882674C680E1C1257EF1005EF257,Kinofilm,ND,s. Literaturverfilmung,,,8529218A87A1A680C1256F230035BD75
+96E8993D95896E62C1256F230035F455,Klassiker (Film),ND,s. Filmklassiker,,,9BAE8048B4F5D85BC1256F230035B546
+D9B00D3E6DD6E022C1257F03005F79EA,Knetanimation,ND,s. Trickfilm (allgemein),,,3A09C0DFE90F4392C1256F230035C85A
+5A1FC37F8D7C5B57C125778E005530A2,Knetfilm,ND,s. Knettrickfilm,,,EC624CDFC0CC888CC1256F230035BB42
+EC624CDFC0CC888CC1256F230035BB42,Knettrickfilm,DS,Filmische Darstellung mit Elementen aus Knetmaterial.,Spiel- und Dokumentarfilm,,
+8D995B60F6C4295FC125782F00393A2D,"Koepp, Volker",DS,"Volker Koepp, geb. 1944, ist ein deutscher Dokumentarfilm-Regisseur. ",Spiel- und Dokumentarfilm,,
+4CA618494A55F0C0C1256F230035BBC0,"Kortner, Fritz",DS,Österreichischer Schauspieler und Regisseur (1892-1970).,Spiel- und Dokumentarfilm,,
+8788666C186CF0F6C1256F230035BBE3,"Krauß, Werner",DS,Deutscher Bühnen- und Filmschauspieler (1884-1959).,Spiel- und Dokumentarfilm,,
+09679F998220C237C1256F230035BBFB,Kriegsfilm,DS,Spiel- oder Dokumentarfilm mit dem Thema Krieg bzw. über den Krieg.,Spiel- und Dokumentarfilm,,
+54AF4ABA1656BF47C12572D5002C4F3C,Kriegsfilm,D,s.a. Historienfilm,,,BB29C27E238CB938C1256F230035F1E3
+07D024D63B2E67C1C125720D0034DB16,Krimi,ND,s. Kriminalfilm (für Jugendliche),,,5012E27E1760CBB2C125720D0034BC4D
+F8054D1B7DE23209C1256F230035F578,Krimi,ND,s. Kriminalfilm (für Erwachsene),,,D8F70620367BD332C1256F230035BC03
+7B14C59F988A190EC1256F230035D8D8,Kriminalfilm (für Erwachsene),D,s.a. Thriller,,,5EDB8E8335C64F5DC1256F230035C7E3
+D8F70620367BD332C1256F230035BC03,Kriminalfilm (für Erwachsene),DS,"Spielfilm, der auf die Geschichte oder speziell die Aufdeckung eines Verbrechens zum Inhalt hat. Adressaten ab ca. 21 Jahre.",Spiel- und Dokumentarfilm,,
+5012E27E1760CBB2C125720D0034BC4D,Kriminalfilm (für Jugendliche),DS,"Spielfilm, der die Geschichte oder speziell die Aufdeckung eines Verbrechens zum Inhalt hat. Adressaten von ca. 14 - 21 Jahre.",Spiel- und Dokumentarfilm,,
+36481777FED0B542C1256F230035BC04,Kriminalfilm (für Kinder),DS,"Spielfilm, der die Geschichte oder speziell die Aufdeckung eines Verbrechens zum Inhalt hat. Adressaten bis ca. 14 Jahre.",Spiel- und Dokumentarfilm,,
+EFE0A2DFC7094E3EC1256F230035F57A,Kriminalkomödie,ND,s. Kriminalfilm (für Erwachsene),,,D8F70620367BD332C1256F230035BC03
+0AE20630EBBE4DC1C125720D0034E428,Kriminalliteratur,D,s.a. Kriminalfilm (für Jugendliche),,,5012E27E1760CBB2C125720D0034BC4D
+EDB09DD4DF207AE6C1256F230035D8DE,Kriminalliteratur,D,s.a. Kriminalfilm (für Kinder),,,36481777FED0B542C1256F230035BC04
+F3E596BEA11521F7C1256F230035D8DD,Kriminalliteratur,D,s.a. Kriminalfilm (für Erwachsene),,,D8F70620367BD332C1256F230035BC03
+E70E0851091BA369C1256F230035F5A7,Kulturfilm,ND,s. Dokumentarfilm,,,06836275F55A4155C1256F230035B36C
+D797203462CB2456C1256F230035F5B3,Kung-Fu-Film,ND,s. Actionfilm,,,0A38372456CC103FC1256F230035AD79
+FC1B7F5BE4215A17C1256F230035F5EF,Kurzfilm,ND,s. Kurzspielfilm,,,F0AFCE4140DC497CC1256F230035BC4D
+F0AFCE4140DC497CC1256F230035BC4D,Kurzspielfilm,DS,"Spielfilm, der nicht länger als 60 Minuten dauert.",Spiel- und Dokumentarfilm,,
+93AAF949BBE62281C1256F230035BAB3,"Käutner, Helmut",DS,"Deutscher Regisseur, Schauspieler und Autor (1908-80).",Spiel- und Dokumentarfilm,,
+B05573248B135B44C1256F230035BCAA,"Lang, Fritz",DS,Österreichisch-amerikanischer Filmregisseur (1890-1976); seit 1933 in den USA.,Spiel- und Dokumentarfilm,,
+682E5CAFCCF9A37AC1256F230035BCCB,"Laughton, Charles",DS,"Englischer Charakterdarsteller, auch im Film (1899-1962).",Spiel- und Dokumentarfilm,,
+9EF523FB9E28D573C1256F230035BCCC,"Laurel, Stan",DS,"Eigentlich Arthur Stanley Jefferson, angloamerikanischer Filmschauspieler (1890-1965); war Partner des amerikanischen Filmkomikers O. Hardy in vielen Filmen (in Deutschland als ""Dick und Doof"").",Spiel- und Dokumentarfilm,,
+EC15E2672EE36DF9C125717F0032F882,"Laurel, Stan",D,"s.a. Hardy, Oliver",,,59733397E9F66676C1256F230035B7F8
+26A97025F201A073C12579F2005C3220,Legende (Film),ND,s. Märchenfilm,,,AA1F514F92AA34D7C1256F230035BE2A
+DE037B4EAE6F4920C12579F2005C3BA4,Legende (Film),ND,s. Fantasy-Film,,,19027C42FAC1E471C1256F230035B4F7
+7EA9BE8C8B3F8142C1256F230035F6F4,Legetrickfilm,ND,s. Trickfilm (allgemein),,,3A09C0DFE90F4392C1256F230035C85A
+D12C4ECBFCC5CF3CC1256F230035BD3D,"Lewis, Jerry",DS,"Amerikanischer Filmschauspieler und -regisseur, geb. 1926; seit 1949 Filmrollen, seit 1960 eigene Filme.",Spiel- und Dokumentarfilm,,
+5153C1FAD7E10F85C1256F230035BD51,Liebesfilm,DS,"Spielfilm, der eine Liebesgeschichte zum Hauptthema hat.",Spiel- und Dokumentarfilm,,
+CCAFE1771C45AF2DC1256F230035D9CC,Literatur,D,s.a. Rolle (Theater),,,38CACA71B84254BEC1256F230035C3BC
+548C0AFE79E8B55DC1256F230035D9CF,Literaturverfilmung,D,s.a. Kinderbuchverfilmung,,,E0C8DF8E695AB834C1256F230035BAF4
+8529218A87A1A680C1256F230035BD75,Literaturverfilmung,DS,"Verfilmung eines Literaturwerkes, z.B. Roman, Kurzgeschichte, Erzählung, Theaterstücke nur, wenn es sich um keine Abfilmung von Bühnenaufführung handelt (aber keine Kinderbücher, Märchen).",Spiel- und Dokumentarfilm,,
+906486860816461EC1256F230035D9CE,Literaturverfilmung,D,s.a. Märchenfilm,,,AA1F514F92AA34D7C1256F230035BE2A
+F8ED33A71BC58A36C1256F230035D9D0,Literaturverfilmung,D,s.a. Theaterverfilmung,,,DAE7DC2D20E978B7C1256F230035C7CE
+A263B965C834C6B9C1256F230035F7A9,"Livi, Ivo",ND,"s. Montand, Yves",,,AB8B3603999A088CC1256F230035BF62
+4FF0C09C03AAF0A3C1256F230035BD7B,"Lloyd, Harold",DS,Amerikanischer Filmkomiker (1893-1971).,Spiel- und Dokumentarfilm,,
+55E4B01A609E47DEC1256F860032E6F8,"Losch, Maria Magdalena von",ND,"s. Dietrich, Marlene",,,4F0F2C91A14606EAC1256F230035B353
+CA6483CE3B579C13C1256F230035F7DA,Lovestory,ND,s. Liebesfilm,,,5153C1FAD7E10F85C1256F230035BD51
+ED36D091BE9BE63CC1256F230035BDB6,"Luft, Friedrich",DS,"Deutscher Theater- und Filmkritiker (1911-90); besonders bekannt als ""Stimme der Kritik"" im RIAS Berlin.",Spiel- und Dokumentarfilm,,
+DE9AC94BDF8D9BB2C1256F230035BE06,"Malle, Louis",DS,"Französischer Filmregisseur (1932-95); Vertreter der ""Neuen Welle"".",Spiel- und Dokumentarfilm,,
+BD97EA3D915251A2C125778E00546AAF,Manga,ND,s. Zeichentrickfilm (allgemein),,,01006686C79654FBC1256F230035CBFE
+EF5B5B86B9175C94C125778E00549B90,Manga,ND,s. Trickfilm (allgemein),,,3A09C0DFE90F4392C1256F230035C85A
+440493FF39A5DB29C1256F230035BE14,"Manger, Jürgen von",DS,"Deutscher Schauspieler, literarischer Kabarettist und Komiker (1923-94).",Spiel- und Dokumentarfilm,,
+FF385FABB3DADA37C1256F230035F883,Mantel- und Degenfilm,ND,s. Abenteuerfilm (für Erwachsene),,,D8E395051F562D78C1256F230035ACBC
+A6D03E9D6E7311C1C1256F230035BE80,"McLaren, Norman",DS,Kanadischer Pionier des Trickfilms (1914-87).,Spiel- und Dokumentarfilm,,
+1C121A800F884F84C125782B005A4308,Melodram,ND,s. Melodrama,,,8C2DD9342A6B87BDC1256F230035BEAD
+8C2DD9342A6B87BDC1256F230035BEAD,Melodrama,DS,"Schauspiel oder Gedicht, begleitet von Musik, die Spiel und Wort ausdeutend untermalt oder verbindet.",Spiel- und Dokumentarfilm,,
+D738661DCCDBADA3C12574DE0039E852,"Messter, Oskar",ND,"s. Meßter, Oskar",,,D590D5C70A1E8D54C1256F230035BED2
+6FE8164BD936BF37C1256F230035BEE6,"Meysel, Inge",DS,"Deutsche Schauspielerin (1910-2004), tätig in Berlin und Hamburg; Fernsehrollen.",Spiel- und Dokumentarfilm,,
+D590D5C70A1E8D54C1256F230035BED2,"Meßter, Oskar",DS,"Deutscher Filmpionier, Kinotechniker (1866-1943); verbesserte die kinematographischen Geräte, führte die erste Wochenschau vor (1914).",Spiel- und Dokumentarfilm,,
+DA5699909203F8D4C1256F230035BEE9,Mickey Mouse,DS,Von W. Disney geschaffene Trickfilmfigur.,Spiel- und Dokumentarfilm,,
+4013E535F3039A04C12571B700325004,Mickymaus,ND,s. Mickey Mouse,,,DA5699909203F8D4C1256F230035BEE9
+61CC3F143F9F9980C125778E0054F1F5,Modellanimationsfilm,ND,s. Trickfilm (allgemein),,,3A09C0DFE90F4392C1256F230035C85A
+497A6C99A8F273A9C1256F230035F9F0,"Modrone, Visconti di",ND,"s. Visconti, Luchino",,,DD5CBCAEDFC9170FC1256F230035C9C6
+6D47F5A5326ABFAAC1256F230035BF5E,"Monroe, Marilyn",DS,Amerikanische Filmschauspielerin (1926-62); in den 1950er Jahren Sexidol.,Spiel- und Dokumentarfilm,,
+AB8B3603999A088CC1256F230035BF62,"Montand, Yves",DS,"Eigentlich Ivo Livi, französischer Filmschauspieler und Chansonsänger (1921-91).",Spiel- und Dokumentarfilm,,
+19D73A3D67310F70C12572D5002C2140,Monumentalfilm,D,s.a. Historienfilm,,,BB29C27E238CB938C1256F230035F1E3
+D21B2D889374103FC1256F230035BF68,Monumentalfilm,DS,"Filmgattung mit großem oder überdimensionalem Dekor und Bauten, meist verbunden mit entsprechendem Aufwand an Schauplätzen und Komparserie. Oft fließender Übergang zum Kostüm-, Ausstattungs- und/oder Historienfilm. Meist Laufzeit weit über 90 min.",Spiel- und Dokumentarfilm,,
+45CDFE2CA8661CADC1256F230035DB22,Musical,D,s.a. Musikfilm,,,13CF2E22524A6400C1256F230035BFCE
+9FDE90502E957A7CC1256F230035FA8B,Musicalverfilmung,ND,s. Musikfilm,,,13CF2E22524A6400C1256F230035BFCE
+13CF2E22524A6400C1256F230035BFCE,Musikfilm,DS,"Spielfilm, in dessen Handlung Musikstücke und teilweise auch Tanzstücke eingebaut sind.",Spiel- und Dokumentarfilm,,
+BC2D031315E68399C1256F230035DA12,Märchen,D,s.a. Märchenfilm,,,AA1F514F92AA34D7C1256F230035BE2A
+16917F97DE8722E8C1256F230035DA14,Märchenfilm,D,s.a. Kinderbuchverfilmung,,,E0C8DF8E695AB834C1256F230035BAF4
+73D0BF31A03CCF57C1256F230035DA15,Märchenfilm,D,s.a. Literaturverfilmung,,,8529218A87A1A680C1256F230035BD75
+AA1F514F92AA34D7C1256F230035BE2A,Märchenfilm,DS,"Märchenfilme sind Filme, die von magischen Abenteuern von sagenhaften Prinzen und Prinzessinnen, Feen, Zauberern, Zwergen, Hexen, Drachen, Trollen, Riesen, Kobolden, Nixen, Wassermänner und anderen märchenhaften Wesen handeln und oft Sagen und Legenden wiedergeben. Wichtig sind auch zauberische Gegenstände wie Siebenmeilenstiefel, Tarnkappe, Zauberspiegel, Zaubernüsse, Tischlein deck dich und Wünschelruten. Märchenfilme changieren zwischen Kinderfilm, Literaturfilm und Fantasyfilm - in den gelungensten Fällen sind sie eine Synthese dieser Aspekte.",Spiel- und Dokumentarfilm,,
+F3D545BFB829713AC1256F230035C032,"Nekes, Werner",DS,Deutscher Filmemacher; geb. 1944.,Spiel- und Dokumentarfilm,,
+0BDF5617A95F2D2DC1256F230035C056,"Neuss, Wolfgang",DS,Deutscher Schauspieler und Kabarettist (1923-89).,Spiel- und Dokumentarfilm,,
+12C0B62951DE8FC5C1256F230035FBBD,"Normand, Mabel",ND,"s. Arbuckle, Fatty",,,7A318A1CE5CDC6DCC1256F230035AE9B
+699D6813DCE70BCCC1256F230035C141,Pan Tau,DS,Phantasiefigur.,Spiel- und Dokumentarfilm,,
+BB5306C3B5EA7356C1256F230035C16A,"Pasolini, Pier Paolo",DS,"Italienischer Filmregisseur, DIchter und Publizist (1922-75).",Spiel- und Dokumentarfilm,,
+6E775C0EA3F6E9C7C1258169005A4BC6,"Penn, Sean",DS,"Sean Justin Penn; geb. 1960; ist ein vielfach preisgekrönter US-amerikanischer Schauspieler, Filmregisseur und Drehbuchautor. Er gilt als einer der herausragenden Charakterdarsteller des zeitgenössischen US-amerikanischen Films. Als Schauspieler wurde er zweimal mit einem Oscar ausgezeichnet; weitere dreimal wurde er als Bester Hauptdarsteller nominiert.",Spiel- und Dokumentarfilm,,
+C540924846B5DBE8C1257AF300570BFF,Perry Rhodan,ND,s. Science-Fiction (für Erwachsene),,,D9A8591B0BECCC92C1256F230035C547
+2B46FC78F3CCB89CC1258170005F6498,"Pfeiffer, Michelle",DS,Michelle Marie Pfeiffer; geb. 1958; ist eine US-amerikanische Schauspielerin.,Spiel- und Dokumentarfilm,,
+EF065909B86383A1C1256F230035FD9C,Phantasie-Film,ND,s. Fantasy-Film,,,19027C42FAC1E471C1256F230035B4F7
+843B56933E2AB6D5C1256F230035FD9E,Phantastischer Film,ND,s. Fantasy-Film,,,19027C42FAC1E471C1256F230035B4F7
+A5EF4BEB4D438918C125778E005544CE,Pixilation,ND,s. Trickfilm (allgemein),,,3A09C0DFE90F4392C1256F230035C85A
+316A451D7B89F9BAC1256F230035C20C,"Polanski, Roman",DS,"Polnischer Filmregisseur, geb. 1933; vom Surrealismus und absurden Theater beeinflusst.",Spiel- und Dokumentarfilm,,
+9C58995DEA63BA12C1256F230035FE1F,Polit-Thriller,ND,s. Politthriller,,,FA4D7476BE6642BAC1256F230035C216
+FA4D7476BE6642BAC1256F230035C216,Politthriller,DS,"Besonders spannungsreiches filmisches Werk, meist Kriminalfilme, die auf politischer Ebene spielen.",Spiel- und Dokumentarfilm,,
+7B5C34F32E74F906C1256F230035C21F,"Polt, Gerhard",DS,"Deutscher Kabarettist und Schauspieler, geb. 1942.",Spiel- und Dokumentarfilm,,
+077B815327E8C59CC1256F230035DD54,Propaganda,D,s.a. Propagandafilm,,,DCE899F2ECDA9F24C1256F230035C25F
+DCE899F2ECDA9F24C1256F230035C25F,Propagandafilm,DS,Hier Werbefilme für die politischen Ziele und Ideen des Dritten Reichs.,Spiel- und Dokumentarfilm,,
+453B9DB02478E785C1256F230035FEED,Psycho Thriller,ND,s. Thriller,,,5EDB8E8335C64F5DC1256F230035C7E3
+35747C8783F21296C1256F230035FEF3,Psychothriller,ND,s. Thriller,,,5EDB8E8335C64F5DC1256F230035C7E3
+37153A1F51E21E35C1256F230035DD6D,Puppentrickfilm,D,s.a. Zeichentrickfilm (allgemein),,,01006686C79654FBC1256F230035CBFE
+9E9402944D948A32C1256F230035C27E,Puppentrickfilm,DS,"Filmische Darstellung mit Hilfe von Puppen, die u.a. durch technische Tricks zum Leben erweckt werden.",Spiel- und Dokumentarfilm,,
+8AB50304370058EEC1256F230035C287,"Quadflieg, Will",DS,Deutscher Schauspieler (1914-2003).,Spiel- und Dokumentarfilm,,
+6BAA150861256B2CC1256F230035FF44,"Raimann, Ferdinand",ND,"s. Raimund, Ferdinand",,,03B15D8CDEA9B296C1256F230035C2A7
+03B15D8CDEA9B296C1256F230035C2A7,"Raimund, Ferdinand",DS,"Eigentlich F. Raimann, österreichischer Schauspieler und Dramatiker (1790-1836).",Spiel- und Dokumentarfilm,,
+62BFFDD983972B1FC1256F230035C2F5,Regie,DS,"Theater, Film: Tätigkeit des Spielleiters (Regisseur), der die Stücke in Szene setzt, die Rollen verteilt usw.",Spiel- und Dokumentarfilm,,
+2B046CAC3048DDD1C12579060032F786,Regie,D,s.a. Szene (Theater),,,D8ED7795EB96D066C1256F230035C74D
+FAEBAB2BFB96E088C1256F230035FFB0,Regisseur,ND,s. Regie,,,62BFFDD983972B1FC1256F230035C2F5
+C7263C5FE4A7B27BC1256F230035C302,"Reichert, Willy",DS,"Deutscher Schauspieler (1896-1973); Komiker und Charakterdarsteller, Vorträge in schwäbischer Mundart.",Spiel- und Dokumentarfilm,,
+161EB701D674DB54C1256F230035C310,"Reiniger, Lotte",DS,Deutsche Scherenschnittkünstlerin (1899-1981); führte den Silhouettenfilm im deutschen Stummfilm der 20er Jahre ein; schuf für den Tonfilm v.a. Musikfilme.,Spiel- und Dokumentarfilm,,
+13938A647BF7C15AC1257A94005F725C,"Rhodan, Perry",ND,s. Science-Fiction (für Jugendliche),,,7D8EE52CC6E61F97C125720D00361373
+182648DCFE4B5DB7C1257A94005F66A0,"Rhodan, Perry",ND,s. Science-Fiction (für Erwachsene),,,D9A8591B0BECCC92C1256F230035C547
+68C8C7FAD7337926C1256F230035C386,"Riefenstahl, Leni",DS,"Deutsche Filmschauspielerin und -regisseurin, Fotografin (1902-2003); führte 1932 erstmals Regie in dem Film ""Das blaue Licht"". Sie gestaltete die Propagandafilme über de Reichsparteitage ""Sieg des Glaubens"" (1933) etc.",Spiel- und Dokumentarfilm,,
+1EB6ECC56B54380BC1256F230035C3A6,Roadmovie,DS,"Das Geschehen ist an die örtlichen Gegebenheiten der Straße gebunden. Die Ereignisse spielen sich in einem geographisch, entsprechend der Straße, weiten Raum ab. Sie sind nicht planmäßig sondern eher zufällig.",Spiel- und Dokumentarfilm,,
+38CACA71B84254BEC1256F230035C3BC,Rolle (Theater),DS,Von einem Schauspieler darzustellende Gestalt eines Stückes oder Films; der dem einzelnen Darsteller zugeteilte Text.,Spiel- und Dokumentarfilm,,
+5EDDF9B4B6A9EC3DC1256F2300360092,Romanverfilmung,ND,s. Literaturverfilmung,,,8529218A87A1A680C1256F230035BD75
+9143F5EF537236ECC1256F230035C3F9,"Rühmann, Heinz",DS,"Deutscher Filmschauspieler, Komiker, Regisseur (1902-94).",Spiel- und Dokumentarfilm,,
+985DE8736C8C73DBC12579F2005C182E,Sage (Film),ND,s. Märchenfilm,,,AA1F514F92AA34D7C1256F230035BE2A
+B14D7751F2D526F0C12579F2005C256A,Sage (Film),ND,s. Fantasy-Film,,,19027C42FAC1E471C1256F230035B4F7
+F132C04EC2D1EA39C1256F230035C472,"Schall, Ekkehard",DS,Deutscher Theaterregisseur und Schauspieler (1930-2005); lebte in Berlin.,Spiel- und Dokumentarfilm,,
+35F88B7D5A1F5502C1257E0300622166,Schatten,D,s.a. Schattenspiel,,,70DCFC68C59487A6C1256F230035C47A
+0870254376518B2BC1256F230036017A,Schattenfigur,ND,s. Schattenspiel,,,70DCFC68C59487A6C1256F230035C47A
+0DB1E3FC99AF9126C125726400379370,Schattenriss,ND,s. Schattenspiel,,,70DCFC68C59487A6C1256F230035C47A
+70DCFC68C59487A6C1256F230035C47A,Schattenspiel,DS,"Darstellung, Spiel, Bild mit Silhouetten, schwarz ausgefüllte Umrisszeichnung.",Spiel- und Dokumentarfilm,,
+A8CD3D60116F3AA2C1256F230035DED8,Schattenspiel,D,s.a. Scherenschnittfilm,,,C7EDA1631FBFBAA8C1256F230035C485
+7927C212618BDCD5C1256F230035DEDA,Schauspiel,D,s.a. Drama (Spielfilm),,,D3441766EA8C2F68C1256F230035B394
+F664A0DE0C06A50FC1256F230036018F,Scherenschnitt,ND,s. Schattenspiel,,,70DCFC68C59487A6C1256F230035C47A
+C7EDA1631FBFBAA8C1256F230035C485,Scherenschnittfilm,DS,"Trickfilm, der in Scherenschnitttechnik hergestellt wurde.",Spiel- und Dokumentarfilm,,
+A372EC3741E0620EC1256F230035C4B5,"Schlöndorff, Volker",DS,Deutscher Filmregisseur; geb. 1939.,Spiel- und Dokumentarfilm,,
+4AB17CA38E98966EC12574750050A195,"Schneider, Romy",DS,"Deutsch-Österreichische Schauspielerin, eigentlich Rosemarie Magdalena Albach-Retty (1938-82), im deutschsprachigen Raum insbesondere durch die Sissi-Trilogie (ab 1955) berühmt geworden. Ab den 1960er Jahren lebte und arbeitete die Schauspielerin vor allem in Frankreich, wo sie sehr populär war.",Spiel- und Dokumentarfilm,,
+9A4B08A93451C5CDC1256F230035C4EC,"Schröder, Ernst",DS,Deutscher Schauspieler und Regisseur (1915-94).,Spiel- und Dokumentarfilm,,
+C9B8B8CB97463181C1256F2300360233,"Schulz, Heinz Georg",ND,"s. George, Heinrich",,,D44C09E72CC4ACF4C1256F230035B688
+D9A8591B0BECCC92C1256F230035C547,Science-Fiction (für Erwachsene),DS,"Spielfilm, der sich spekulativ mit künftigen, z.T. aber physikalisch und technisch (zum Drehzeitpunkt) nicht realisierbaren Entwicklungen der Menschheit befassen. Adressaten ab ca. 21 Jahre.",Spiel- und Dokumentarfilm,,
+E8A110E6E4FA23DCC125720D00365331,Science-Fiction (für Erwachsene),D,s.a. Science-Fiction (für Jugendliche),,,7D8EE52CC6E61F97C125720D00361373
+E8EB238DD1856140C1256F230035DF4D,Science-Fiction (für Erwachsene),D,s.a. Science-Fiction (für Kinder),,,6DCE6052CEB58E5DC1256F230035C548
+1EB55346E42E1CBFC125720D003672E8,Science-Fiction (für Jugendliche),D,s.a. Science-Fiction (für Kinder),,,6DCE6052CEB58E5DC1256F230035C548
+7D8EE52CC6E61F97C125720D00361373,Science-Fiction (für Jugendliche),DS,"Spielfilm, der sich spekulativ mit künftigen, z.T. aber physikalisch und technisch (zum Drehzeitpunkt) nicht realisierbaren Entwicklungen der Menschheit befassen. Adressaten von ca. 14 - 21 Jahre.",Spiel- und Dokumentarfilm,,
+BE570F006F83F839C125720D00366917,Science-Fiction (für Jugendliche),D,s.a. Science-Fiction (für Erwachsene),,,D9A8591B0BECCC92C1256F230035C547
+6DCE6052CEB58E5DC1256F230035C548,Science-Fiction (für Kinder),DS,"Spielfilm, der sich spekulativ mit künftigen, z.T. aber physikalisch und technisch (zum Drehzeitpunkt) nicht realisierbaren Entwicklungen der Menschheit befassen. Adressaten bis ca. 14 Jahre.",Spiel- und Dokumentarfilm,,
+B443EBEDDC0510DCC125720D00365E42,Science-Fiction (für Kinder),D,s.a. Science-Fiction (für Jugendliche),,,7D8EE52CC6E61F97C125720D00361373
+1B6812A665E95390C1256F2300360281,Sciencefiction,ND,s. Science-Fiction (für Erwachsene),,,D9A8591B0BECCC92C1256F230035C547
+261770D942F4000DC1256F2300360282,Sciencefiction,ND,s. Science-Fiction (für Kinder),,,6DCE6052CEB58E5DC1256F230035C548
+5B835AF4CC19C134C125720D0036462F,Sciencefiction,ND,s. Science-Fiction (für Jugendliche),,,7D8EE52CC6E61F97C125720D00361373
+0891B8FB2A3D2787C1257282003895C8,Sex,ND,s. Erotik,,,41E3E5A2CEB6C8A3C1256F230035B491
+7A8F0AE0EFF1DAC6C125726400378B3E,Silhouette,ND,s. Schattenspiel,,,70DCFC68C59487A6C1256F230035C47A
+B367F7A78F9CBB01C12578F100382442,Situationskomik,ND,s. Slapstick,,,1355AEAF404065DCC1256F230035C5DE
+1355AEAF404065DCC1256F230035C5DE,Slapstick,DS,"Slapstick, eigentlich slapstick comedy bzw. Situationskomik ist ein Filmgenre und eine spezielle Form der Komödie. Bezeichnend für den Slapstick ist durch körperbezogene Aktion hervorgerufene Komik, die ohne Worte auskommt. Berühmte Beispiele sind das Ausrutschen auf einer Bananenschale sowie das Werfen von Sahnetorten. Slapstick spielte vor allem in der Stummfilmzeit eine große Rolle mit Schauspielern wie Charlie Chaplin, Buster Keaton, den Marx Brothers sowie Laurel und Hardy.",Spiel- und Dokumentarfilm,,
+933AEE5902B7C943C1256F230035C619,Sozialkritischer Film,DS,"Spielfilm mit einer Handlung, die das Gesellschaftssystem oder die Sozialordnung kritisiert.",Spiel- und Dokumentarfilm,,
+086D8033D5BC3B29C1257572003607D6,Spielfilm,ND,s. Stummfilm,,,C1FF77A49D83DA6FC1256F230035C70F
+0D14E0BD45A4B938C125757200354904,Spielfilm,ND,s. Agentenfilm,,,05141F720CFCAE30C1256F230035AD8D
+116410107DD6D5D9C1257572003590A0,Spielfilm,ND,s. Horrorfilm,,,A2D11AF04238C4BBC1256F230035B8FA
+1F973C4853030B6AC12575720035E917,Spielfilm,ND,s. Roadmovie,,,1EB6ECC56B54380BC1256F230035C3A6
+2C15B9B1B94041F0C1257572003581A9,Spielfilm,ND,s. Historienfilm,,,BB29C27E238CB938C1256F230035F1E3
+4162B3F40D5AC82FC12575720035B180,Spielfilm,ND,s. Kriminalfilm (für Jugendliche),,,5012E27E1760CBB2C125720D0034BC4D
+45E42CF629A5F5A9C12575720035A228,Spielfilm,ND,s. Kriegsfilm,,,09679F998220C237C1256F230035BBFB
+4D89F54CE5F525B1C125757200359A39,Spielfilm,ND,s. Katastrophenfilm,,,6DF191A67F359F33C1256F230035BA9D
+51B35A1627F90195C12575720035E232,Spielfilm,ND,s. Propagandafilm,,,DCE899F2ECDA9F24C1256F230035C25F
+5B80F3BE82DF3C45C1257572003570A6,Spielfilm,ND,s. Erotik,,,41E3E5A2CEB6C8A3C1256F230035B491
+5C8CE01D583F3E33C12575720035DAA0,Spielfilm,ND,s. Musikfilm,,,13CF2E22524A6400C1256F230035BFCE
+686F41F19EBA478BC1257572003575E2,Spielfilm,ND,s. Fantasy-Film,,,19027C42FAC1E471C1256F230035B4F7
+68AFE13C68A58522C12575720035BE82,Spielfilm,ND,s. Liebesfilm,,,5153C1FAD7E10F85C1256F230035BD51
+6917D46800B0B516C12575720035A933,Spielfilm,ND,s. Kriminalfilm (für Erwachsene),,,D8F70620367BD332C1256F230035BC03
+768EF1A24111F5AEC12575720036122C,Spielfilm,ND,s. Thriller,,,5EDB8E8335C64F5DC1256F230035C7E3
+7BC1E789D7E93ADEC12575720035C4C8,Spielfilm,ND,s. Literaturverfilmung,,,8529218A87A1A680C1256F230035BD75
+7BEA2DF87182D6CCC125757200362130,Spielfilm,ND,s. Westernpersiflage,,,B3C97A774D8E61B8C1256F230035CB13
+87ECFE817E17914BC125757200361814,Spielfilm,ND,s. Western,,,397830177432AD78C1256F230035CB12
+912161E3558BD845C12575720035D29B,Spielfilm,ND,s. Monumentalfilm,,,D21B2D889374103FC1256F230035BF68
+9FE0E4D0B0C5CE93C1256F230035C636,Spielfilm,DS,"Film, der über eine spielende Handlung verfügt.",Spiel- und Dokumentarfilm,,
+A1348E0F1F3EF816C125757200357C3B,Spielfilm,ND,s. Heimatfilm,,,3193590FD3AFCF24C1256F230035B84F
+A3BFC1E574E6983EC12575720035383D,Spielfilm,ND,s. Abenteuerfilm (für Jugendliche),,,834F7B6CEA90BEC8C125720D00322DA3
+AC472584E03CF982C1257572003561B2,Spielfilm,ND,s. Drama (Spielfilm),,,D3441766EA8C2F68C1256F230035B394
+BEF4543EA94F0546C12575720035EF14,Spielfilm,ND,s. Science-Fiction (für Erwachsene),,,D9A8591B0BECCC92C1256F230035C547
+BF7239345B01B5D9C12575720035310B,Spielfilm,ND,s. Abenteuerfilm (für Erwachsene),,,D8E395051F562D78C1256F230035ACBC
+C23A2F981824FD11C12575720035F5A3,Spielfilm,ND,s. Science-Fiction (für Jugendliche),,,7D8EE52CC6E61F97C125720D00361373
+C30A58DAB66A1D3BC1257572003600FB,Spielfilm,ND,s. Sozialkritischer Film,,,933AEE5902B7C943C1256F230035C619
+C4602841370FA173C12575720035CC40,Spielfilm,ND,s. Melodrama,,,8C2DD9342A6B87BDC1256F230035BEAD
+CFD851F35038B6E6C125757200353DF8,Spielfilm,ND,s. Abenteuerfilm (für Kinder),,,93066A4D8826617EC1256F230035ACC1
+DA66D872CE506D22C125757200354405,Spielfilm,ND,s. Actionfilm,,,0A38372456CC103FC1256F230035AD79
+E205688DB84C227BC12575720035B878,Spielfilm,ND,s. Kriminalfilm (für Kinder),,,36481777FED0B542C1256F230035BC04
+E375D34117EC6129C125757200355483,Spielfilm,ND,s. Avantgardefilm,,,697E1FE44BB1E285C1256F230035AF1F
+F7E9C640C38E4E90C125757200360CE1,Spielfilm,ND,s. Tierfilm,,,3B271062F69F9982C1256F230035C7F5
+F9D173934B28B8DAC125757200354E82,Spielfilm,ND,s. Antikriegsfilm,,,99FEF17061BF5FDDC1256F230035AE3D
+FCB21599E0BE6C6FC12575720035FB52,Spielfilm,ND,s. Science-Fiction (für Kinder),,,6DCE6052CEB58E5DC1256F230035C548
+10024D27157D64B2C1256F230035DFFB,Spionage,D,s.a. Agentenfilm,,,05141F720CFCAE30C1256F230035AD8D
+F3C358CC251F814EC1256F2300360450,Spot (Werbung),ND,s. Werbefilm,,,CBDA7C27A0B3F05DC1256F230035CAEA
+FE8E7089688A4099C1258314005DC3E2,Star Trek,ND,s. Science-Fiction (für Erwachsene),,,D9A8591B0BECCC92C1256F230035C547
+829A1BF2366DE99BC1256F230035C688,"Staudte, Wolfgang",DS,Deutscher Filmregisseur (1906-84).,Spiel- und Dokumentarfilm,,
+1AF24B9021CB3D26C1256F230035C693,"Stein, Peter",DS,"Deutscher Theaterregisseur, geb. 1937.",Spiel- und Dokumentarfilm,,
+4C36E6D5E46D2E24C1256F230035C6FF,"Streisand, Barbra",DS,"Amerikanische Filmschauspielerin, -regisseurin und Sängerin, geb. 1942.",Spiel- und Dokumentarfilm,,
+C1FF77A49D83DA6FC1256F230035C70F,Stummfilm,DS,"Film, der die Handlung ohne Ton, nur durch das Bild wiedergibt (bis etwa 1929).",Spiel- und Dokumentarfilm,,
+354E59DE783F8791C125790600331A7A,Szene (Film),ND,s. Szene (Theater),,,D8ED7795EB96D066C1256F230035C74D
+D8ED7795EB96D066C1256F230035C74D,Szene (Theater),DS,"Die Szene bzw. der Auftritt ist ein probetechnisch bedingter Abschnitt eines Theaterstücks und auch Teil eines Films, ebenso wie Akt, Sequenz (länger oder kürzer als die Szene) und Einstellung (meist kürzer als die Szene). ",Spiel- und Dokumentarfilm,,
+D8B63EB266F97CCFC1256F230035C770,Tarzan,DS,"Weißhäutiger, unter Tieren aufgewachsener und stets siegreicher Dschungelheld in den Abenteuerromanen von E.R. Burroughs (1914 ff.).",Spiel- und Dokumentarfilm,,
+4564C26AD6D3A9B5C1256F230035C776,"Tati, Jacques",DS,"Eigentlich Tatischeff, frzanzösischer Filmkomiker, -regisseur und -produzent (1908-82).",Spiel- und Dokumentarfilm,,
+30F8E2B185848A08C1256F230036069B,"Tatischeff, Jacques",ND,"s. Tati, Jacques",,,4564C26AD6D3A9B5C1256F230035C776
+30199A88F7751ACFC1256F230035C781,"Taylor, Elisabeth",DS,Angloamerikanische Filmschauspielerin (1932-2011).,Spiel- und Dokumentarfilm,,
+8BD65F2694E7A4CAC1256F230035C7CB,"Thate, Hilmar",DS,"Deutscher Schauspieler, geb. 1931.",Spiel- und Dokumentarfilm,,
+90BD531CBD75651FC1256F230035E131,Theater,D,s.a. Rolle (Theater),,,38CACA71B84254BEC1256F230035C3BC
+64529CF94C845FE4C12579060032F0E7,Theater,D,s.a. Szene (Theater),,,D8ED7795EB96D066C1256F230035C74D
+67859C5741C544D2C1256F2300360729,Theaterregie,ND,s. Regie,,,62BFFDD983972B1FC1256F230035C2F5
+5055FFD35185632CC1256F230035E134,Theaterverfilmung,D,s.a. Literaturverfilmung,,,8529218A87A1A680C1256F230035BD75
+DAE7DC2D20E978B7C1256F230035C7CE,Theaterverfilmung,DS,"Verfilmung eines Theaterstückes, wobei hier nur die Abfilmung von Bühnenaufführungen gemeint ist.",Spiel- und Dokumentarfilm,,
+38D38E4C2494A7FAC125720D003553CE,Thriller,D,s.a. Kriminalfilm (für Jugendliche),,,5012E27E1760CBB2C125720D0034BC4D
+527D8230DFAF1843C1256F230035E13C,Thriller,D,s.a. Kriminalfilm (für Erwachsene),,,D8F70620367BD332C1256F230035BC03
+5EDB8E8335C64F5DC1256F230035C7E3,Thriller,DS,"Besonders spannungsreiches filmisches Werk, meist Horror- oder Kriminalfilme bzw. deren Verbindung.",Spiel- und Dokumentarfilm,,
+6C4692B85531DC4CC1256F230035E13B,Thriller,D,s.a. Politthriller,,,FA4D7476BE6642BAC1256F230035C216
+7D8B98C7BF8CEBFCC1256F230035E13D,Thriller,D,s.a. Horrorfilm,,,A2D11AF04238C4BBC1256F230035B8FA
+3B271062F69F9982C1256F230035C7F5,Tierfilm,DS,"V.a. Spielfilm, bei dem ein Tier die Hauptrolle spielt.",Spiel- und Dokumentarfilm,,
+88BCDCCD8D5CF32FC1256F230035C855,"Trenker, Luis",DS,"Österreichisch-italienischer Filmschauspieler, -regisseur, Schriftsteller, Architekt und Bergsteiger (1892-1990).",Spiel- und Dokumentarfilm,,
+639276D1A1EBE382C1256F230035CBFF,Trickfilm (Disney),DS,"Trickfilm, der aus den Disney-Studios stammt.",Spiel- und Dokumentarfilm,,
+1DFE4B48E7028DC5C1256F230035E193,Trickfilm (allgemein),D,s.a. Knettrickfilm,,,EC624CDFC0CC888CC1256F230035BB42
+3A09C0DFE90F4392C1256F230035C85A,Trickfilm (allgemein),DS,"Bei einem Trickfilm oder Animationsfilm werden die Bewegungsabläufe von Figuren, Objekten und Effekten nicht in Echtzeit gefilmt, wie bei einem Spielfilm, sondern Bild für Bild künstlich geschaffen. Die Technik, derer sich der Film bedient, ist die Animation. Als Bewegtbildsequenz hintereinander abgespielt, erzeugt der Trickfilm beim Betrachter die Illusion von echter Bewegung mit erstaunlichen Effekten. Ein 90 Minuten langer Film kann 129.600 Einzelbilder enthalten. Trickfilm bezeichnet ein synthetisches Medium, das der Einzelbildanimation von Gegenständen (Modellanimation, Puppentrick, Knetfilm), Zeichnungen (Zeichentrickfilm), Flachfiguren (Legetrick) oder Schauspielern (Pixilation), oder das Erstellen der einzelnen Filmbilder mit Hilfe eines Computers (Computeranimation).",Spiel- und Dokumentarfilm,,
+8030504B93C8475FC125757200365791,Trickfilm (allgemein),D,s.a. Schattenspiel,,,70DCFC68C59487A6C1256F230035C47A
+C84BB1AB84D8525CC1256F230035E190,Trickfilm (allgemein),D,s.a. Puppentrickfilm,,,9E9402944D948A32C1256F230035C27E
+E40C3C8D4FA16E00C1256F230035E191,Trickfilm (allgemein),D,s.a. Scherenschnittfilm,,,C7EDA1631FBFBAA8C1256F230035C485
+E7B4EBA7064FCECBC1256F230035E18F,Trickfilm (allgemein),D,s.a. Zeichentrickfilm (allgemein),,,01006686C79654FBC1256F230035CBFE
+E3FB0F6FA9B29A27C1258335005D6218,Trickfilm (allgemein),D,s.a. Trickfilm (Disney),,,639276D1A1EBE382C1256F230035CBFF
+D37DBDDC70E5CF8EC1256F230035C871,"Truffaut, François",DS,Französischer Filmregisseur (1932-84).,Spiel- und Dokumentarfilm,,
+E763880685D89A7EC1256F230035C90F,"Valentin, Karl",DS,"Eigentlich Valentin Ludwig Fey, Münchner Komiker (1882-1948).",Spiel- und Dokumentarfilm,,
+365A63F100FECAF7C1256F230035E2FD,Video,D,s.a. Spielfilm,,,9FE0E4D0B0C5CE93C1256F230035C636
+DD5CBCAEDFC9170FC1256F230035C9C6,"Visconti, Luchino",DS,"Eigentlich V. di Modrone, italienischer Film- und Theaterregisseur (1906-76).",Spiel- und Dokumentarfilm,,
+E8DE41FBBC098436C1256F230035CA34,"Wajda, Andrzej",DS,"Polnischer Filmregisseur, geb. 1926.",Spiel- und Dokumentarfilm,,
+68A8FD6C580C5B5EC1256F230035CA3D,"Waldoff, Claire",DS,"Deutsche Schauspielerin und Kabarettistin, eigentlich Clara Wortmann (1884-1957).",Spiel- und Dokumentarfilm,,
+16D86C95110C7599C1256F2300360A53,Walt Disney,ND,"s. Disney, Walt",,,E18C7EDD8D7D4886C1256F230035B364
+2A3C932939FDF8EDC1256F230035E36F,Wandern,D,s.a. Bergfilm,,,D16801A9E9C12F96C1256F230035B02D
+11F995A2DB5F48F9C1256F230035CAB2,"Weigel, Helene",DS,Deutsche Schauspielerin österreichischer Herkunft (1900-71); ab 1929 verheiratet mit B. Brecht.,Spiel- und Dokumentarfilm,,
+F145EFAF15AB1E23C1256F2300360AFF,"Wellano, Elisabeth",ND,"s. Karlstadt, Liesl",,,DBC41A11669E0091C1256F230035BA7E
+6B7C785EE2E87E65C1256F230035CAD2,"Welles, Orson",DS,"Amerikanischer Filmschauspieler, -regisseur, -autor, -produzent (1915-85).",Spiel- und Dokumentarfilm,,
+C6F457A3AAEFCA81C125752700517152,Werbeagentur,D,s.a. Werbefilm,,,CBDA7C27A0B3F05DC1256F230035CAEA
+CBDA7C27A0B3F05DC1256F230035CAEA,Werbefilm,DS,"Ein Werbespot ist ein kurzer Filmbeitrag oder eine Durchsage, mit dem für eine Ware, eine Marke oder eine Dienstleistung geworben wird. Häufig werden sie von Werbeagenturen im Auftrag eines Markeninhabers oder Produktanbieters entworfen.",Spiel- und Dokumentarfilm,,
+3C3D7D9D1A38B070C1256F2300360B24,Werbespot,ND,s. Werbefilm,,,CBDA7C27A0B3F05DC1256F230035CAEA
+ACC25B96370F0B61C1256F230035E3D5,Werbung,D,s.a. Werbefilm,,,CBDA7C27A0B3F05DC1256F230035CAEA
+346B7D4187662F6FC1256F2300360B67,Westen (Wilder),ND,s. Western,,,397830177432AD78C1256F230035CB12
+397830177432AD78C1256F230035CB12,Western,DS,"Wildwestfilm, Filmgattung, die meist legendär die Eroberung des amerikanischen Westens durch die weißen Siedler verklärt sowie, neuerdings oft auch kritisch, die damaligen Lebensbedingungen im Westen schildert.",Spiel- und Dokumentarfilm,,
+9A93774F4D7726A6C12572D5002C2EAB,Western,D,s.a. Historienfilm,,,BB29C27E238CB938C1256F230035F1E3
+B3C97A774D8E61B8C1256F230035CB13,Westernpersiflage,DS,"Parodie auf den ""üblichen"" Western.",Spiel- und Dokumentarfilm,,
+FA4431395A61C162C1256F2300360BA9,Wilder Westen,D,s.a. Western,,,397830177432AD78C1256F230035CB12
+C4C56B4564C5B563C1256F2300360BAF,Wildwestfilm,ND,s. Western,,,397830177432AD78C1256F230035CB12
+07E0335D60396C2BC12572D600358CD2,"Wortmann, Clara",ND,"s. Waldoff, Claire",,,68A8FD6C580C5B5EC1256F230035CA3D
+7CF4F90754BBF36FC12579550033E6A2,"Wortmann, Sönke",DS,"Sönke Wortmann, geb. 1959, ist ein deutscher Regisseur, Produzent und ehemaliger Fußballspieler.",Spiel- und Dokumentarfilm,,
+EE66B493C5309833C1258335005C5D63,Zeichentrickfilm (Disney),ND,s. Trickfilm (Disney),,,639276D1A1EBE382C1256F230035CBFF
+01006686C79654FBC1256F230035CBFE,Zeichentrickfilm (allgemein),DS,Filmische Darstellung mit Hilfe technischer Tricks; es werden Graphiken in einzelnen Phasenbildern gezeichnet und zur Vortäuschung von Bewegungen am Tricktisch nacheinander einzeln aufgenommen.,Spiel- und Dokumentarfilm,,
+06D3FD821FA5FE0BC125720D00329EF2,Zeichentrickfilm (allgemein),D,s.a. Abenteuerfilm (für Jugendliche),,,834F7B6CEA90BEC8C125720D00322DA3
+63900E6CD9EA8249C1256F230035E4AF,Zeichentrickfilm (allgemein),D,s.a. Abenteuerfilm (für Kinder),,,93066A4D8826617EC1256F230035ACC1
+7BC878CA48CE5ED5C1256F230035E4B1,Zeichentrickfilm (allgemein),D,s.a. Trickfilm (Disney),,,639276D1A1EBE382C1256F230035CBFF
+983BC89FF1AF2625C1256F230035E4B0,Zeichentrickfilm (allgemein),D,s.a. Kinderfilm,,,9003177B737AADEBC1256F230035BAF6
+DF76804E4028C497C1256F230035E4AE,Zeichentrickfilm (allgemein),D,s.a. Puppentrickfilm,,,9E9402944D948A32C1256F230035C27E
+FAF296DA0AF0019FC12579A30057264C,Zeichentrickfilm (allgemein),D,s.a. Trickfilm (allgemein),,,3A09C0DFE90F4392C1256F230035C85A
+18C4286BF4C1BB84C125720D003783E8,Zukunft,D,s.a. Science-Fiction (für Jugendliche),,,7D8EE52CC6E61F97C125720D00361373
+1FDC06EE86D3D101C125720D00378DCE,Zukunft,D,s.a. Science-Fiction (für Kinder),,,6DCE6052CEB58E5DC1256F230035C548
+5AB6C0F10995943DC1256F230035E4FA,Zukunft,D,s.a. Science-Fiction (für Erwachsene),,,D9A8591B0BECCC92C1256F230035C547
