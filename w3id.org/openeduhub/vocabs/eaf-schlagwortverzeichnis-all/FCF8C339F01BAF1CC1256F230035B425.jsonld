@@ -1,0 +1,273 @@
+{
+  "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/FCF8C339F01BAF1CC1256F230035B425",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortverzeichnis-all%2FFCF8C339F01BAF1CC1256F230035B425",
+  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortverzeichnis-all%2FFCF8C339F01BAF1CC1256F230035B425",
+  "prefLabel": {
+    "de": "Elementarteilchen"
+  },
+  "narrower": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/047DCF6DCE7F7ABDC1256F230035FED7",
+      "prefLabel": {
+        "de": "Proton"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/0829A51204C21BAFC12581C300564CA1",
+      "prefLabel": {
+        "de": "Protonen"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/0B8D83961009C5EEC1256F9000366FA2",
+      "prefLabel": {
+        "de": "Mesonen"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/2849E42E4C0EB8B0C1257737003CFCE6",
+      "prefLabel": {
+        "de": "Higgs-Boson"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/2C9775450E274465C1257737003C9D2F",
+      "prefLabel": {
+        "de": "Quarks"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/2E2491FB817AFD12C1257737003C32B2",
+      "prefLabel": {
+        "de": "Fundamentalteilchen"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/3B00376CB1D54C22C1257737003C8121",
+      "prefLabel": {
+        "de": "Neutrino"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/3DADAD760E8C7938C1257737003C94F3",
+      "prefLabel": {
+        "de": "Tauon"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/3E795E5C4149EAFEC1257737003CBBC8",
+      "prefLabel": {
+        "de": "Nukleon"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/46B4D365F51C72B7C1257737003C8C56",
+      "prefLabel": {
+        "de": "Myon"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/4B4EAAA3A51E2906C1256F230035E0FF",
+      "prefLabel": {
+        "de": "Teilchen"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/4D5E75DC3BB1F3B8C1257569005966EF",
+      "prefLabel": {
+        "de": "Physik"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/509140F0C828FF6EC1257737003C5604",
+      "prefLabel": {
+        "de": "Fermion"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/57600407854C006FC1256F230035FB71",
+      "prefLabel": {
+        "de": "Neutron"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/6E2F9818BC98ECEFC1257737003C3CE2",
+      "prefLabel": {
+        "de": "Zusammengesetzte Teilchen"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/6E68DB60B76D636EC1256F230035E68F",
+      "prefLabel": {
+        "de": "Antiteilchen"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/76B8FA604DD2C549C12581AA0057BCDC",
+      "prefLabel": {
+        "de": "Positron"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/8DEED4C6CE5D3747C1256F230035ECEF",
+      "prefLabel": {
+        "de": "Elektron"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/AB49A312CDA84E6EC1256F900036661A",
+      "prefLabel": {
+        "de": "Leptonen"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/AF8A921BE0D88864C1257737003CD42A",
+      "prefLabel": {
+        "de": "Delta (Elementarteilchen)"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/B9AE1043859F62B7C1257737003CA695",
+      "prefLabel": {
+        "de": "Hadron"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/BC663B7D102AD4C6C1257737003CE156",
+      "prefLabel": {
+        "de": "Boson"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/C0A8DE98BC1CEE7FC1257737003C467A",
+      "prefLabel": {
+        "de": "Teilchen (zusammengesetzte)"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/DCE46819F9A380B0C1256F230035CDED",
+      "prefLabel": {
+        "de": "Atom"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/E420671EF5C81ED6C1256F9000367916",
+      "prefLabel": {
+        "de": "Baryonen"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/E43FCBED1D05DB27C1257737003CEA29",
+      "prefLabel": {
+        "de": "Eichboson"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/F697AD55F796E98EC1257737003CF47A",
+      "prefLabel": {
+        "de": "Austauschteilchen"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/FC9A1F5EA3029623C1257737003CC7C1",
+      "prefLabel": {
+        "de": "Hyperon"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/physik",
+    "prefLabel": {
+      "de": "Physik"
+    }
+  },
+  "inScheme": {
+    "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/",
+    "title": {
+      "de": "eaf-schlagwortverzeichnis-all"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/332421FCDED604B2C1256F230035CA2F",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortverzeichnis-all%2F332421FCDED604B2C1256F230035CA2F",
+  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortverzeichnis-all%2F332421FCDED604B2C1256F230035CA2F",
+  "prefLabel": {
+    "de": "Wahrscheinlichkeit (Mathematik)"
+  },
+  "narrower": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/08AD7FC2A82B5F53C1256F230035DA38",
+      "prefLabel": {
+        "de": "Mathematik"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/45E82B02037DDB0DC1257B740056F4A6",
+      "prefLabel": {
+        "de": "Binominalverteilung"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/4AE89003EAD6C21AC1257DF100586E7B",
+      "prefLabel": {
+        "de": "Häufigkeitsverteilung"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/5DA607C4E05B4AF3C1257E370053B6D3",
+      "prefLabel": {
+        "de": "Histogramm"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/68725F0D4A615692C1257AE20054F280",
+      "prefLabel": {
+        "de": "Durchschnitt"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/734F016C17DA03A7C12580A5005F41F7",
+      "prefLabel": {
+        "de": "Modus"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/8435928788F55007C1257C9A005E581D",
+      "prefLabel": {
+        "de": "Ergebnismenge"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/8806349A9C7DCC2FC1256F2300360A38",
+      "prefLabel": {
+        "de": "Wahrscheinlichkeitstheorie"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/895767061BB205ABC1256F2300360A37",
+      "prefLabel": {
+        "de": "Wahrscheinlichkeitsrechnung"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/8BFB29F5027C58FDC1257A560057621D",
+      "prefLabel": {
+        "de": "Abweichung"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/8C8AE540771562C0C1257D6E00463426",
+      "prefLabel": {
+        "de": "Galtonbrett"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/9452BE4414D1AAD0C1257AE20054BC66",
+      "prefLabel": {
+        "de": "Arithmetisches Mittel"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/9D00EFA79C0C1A0EC1256F2300360578",
+      "prefLabel": {
+        "de": "Stochastik"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/A0AFA3FAFA1B81A5C125805F0061F11F",
+      "prefLabel": {
+        "de": "Median"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/A869F4CC141DCF89C1257C9A005CBFA0",
+      "prefLabel": {
+        "de": "Ereignis (Wahrscheinlichkeitstheorie)"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/B275601EA244A04AC1257AE20054E3D5",
+      "prefLabel": {
+        "de": "Mittelwert"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/C6BB2149B4CBF4D9C12580A3005D988F",
+      "prefLabel": {
+        "de": "Modalwert"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/D84A95E4F86E3672C1257DF100583D62",
+      "prefLabel": {
+        "de": "Häufigkeit (Mathematik)"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/DBA93A05DA79A0E3C1257B27005BB02B",
+      "prefLabel": {
+        "de": "Bedingte Wahrscheinlichkeit"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/DDFCEECDD311B4D8C125816F0057A93B",
+      "prefLabel": {
+        "de": "Pfadregel"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/EB232866FE013430C1257D6E00463AB0",
+      "prefLabel": {
+        "de": "Galton-Brett"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/mathematik",
+    "prefLabel": {
+      "de": "Mathematik"
+    }
+  },
+  "inScheme": {
+    "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/",
+    "title": {
+      "de": "eaf-schlagwortverzeichnis-all"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

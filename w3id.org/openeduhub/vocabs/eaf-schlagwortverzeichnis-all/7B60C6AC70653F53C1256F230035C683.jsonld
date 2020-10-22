@@ -1,0 +1,237 @@
+{
+  "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/7B60C6AC70653F53C1256F230035C683",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortverzeichnis-all%2F7B60C6AC70653F53C1256F230035C683",
+  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortverzeichnis-all%2F7B60C6AC70653F53C1256F230035C683",
+  "prefLabel": {
+    "de": "Statistik"
+  },
+  "narrower": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/02FAFE6D3DCCC068C12581C10038F460",
+      "prefLabel": {
+        "de": "Projektion (Statistik)"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/0DE1774FE0738363C125805F0061FA23",
+      "prefLabel": {
+        "de": "Median"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/1F301D32ACC23846C1257AE20054E96D",
+      "prefLabel": {
+        "de": "Mittelwert"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/2BD8DC24A7569F04C1256F23003605B4",
+      "prefLabel": {
+        "de": "Streuung"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/31FA1E28540BFC55C12572B400371D93",
+      "prefLabel": {
+        "de": "Stochastik"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/396EE161DD063016C12580A5005F49A1",
+      "prefLabel": {
+        "de": "Modus"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/3AA195DC3B675A56C1256F230035DA36",
+      "prefLabel": {
+        "de": "Mathematik"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/763EC93198240815C1256F230036050F",
+      "prefLabel": {
+        "de": "Statistische Angaben"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/7BB1E6E29159BE4EC1256F2300360560",
+      "prefLabel": {
+        "de": "Stichprobe"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/7E5CEB1D05F4FC36C1257C9A005E63D1",
+      "prefLabel": {
+        "de": "Ergebnismenge"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/8674539CEF5D2857C1257DF100585DF7",
+      "prefLabel": {
+        "de": "Häufigkeitsverteilung"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/88978772FE7DC598C12572D0004EFC96",
+      "prefLabel": {
+        "de": "Varianz"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/903B413E84BB3926C1256F2300360510",
+      "prefLabel": {
+        "de": "Statistische Auswertung"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/A794C3165650700AC1257AE20054D123",
+      "prefLabel": {
+        "de": "Arithmetisches Mittel"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/A7C2ECA2D4B3F346C12580A3005D9D46",
+      "prefLabel": {
+        "de": "Modalwert"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/C4DBD3905FB12BB0C1257E370053C36C",
+      "prefLabel": {
+        "de": "Histogramm"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/C4DCDC1793220D37C1256F230036050E",
+      "prefLabel": {
+        "de": "Statistische Analyse"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/D655A832BA22D873C12583840062139B",
+      "prefLabel": {
+        "de": "Trend (Statistik)"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/DC094746A8A33D8FC1257AE20054F955",
+      "prefLabel": {
+        "de": "Durchschnitt"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/E0DAE56E05D49500C125824B005BBD96",
+      "prefLabel": {
+        "de": "Rotation (Statistik)"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/EA1692DD8549AC45C1257F39005BDCB4",
+      "prefLabel": {
+        "de": "Kontingenz"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/EE44A5679DAA8C7CC1257DF100584AC8",
+      "prefLabel": {
+        "de": "Häufigkeit (Mathematik)"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/mathematik",
+    "prefLabel": {
+      "de": "Mathematik"
+    }
+  },
+  "inScheme": {
+    "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/",
+    "title": {
+      "de": "eaf-schlagwortverzeichnis-all"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

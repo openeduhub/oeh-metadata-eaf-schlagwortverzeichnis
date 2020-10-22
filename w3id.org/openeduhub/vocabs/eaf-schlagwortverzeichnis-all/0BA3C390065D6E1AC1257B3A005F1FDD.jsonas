@@ -1,0 +1,17 @@
+{
+  "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/0BA3C390065D6E1AC1257B3A005F1FDD",
+  "type": "Service",
+  "name": "Bernoulli-Station",
+  "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6561662d7363686c6167776f72747665727a656963686e69732d616c6c2f3042413343333930303635443645314143313235374233413030354631464444",
+  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortverzeichnis-all%2F0BA3C390065D6E1AC1257B3A005F1FDD",
+  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortverzeichnis-all%2F0BA3C390065D6E1AC1257B3A005F1FDD",
+  "publicKey": {
+    "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/0BA3C390065D6E1AC1257B3A005F1FDD#main-key",
+    "owner": "https://test.skohub.io/w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/0BA3C390065D6E1AC1257B3A005F1FDD",
+    "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
+  },
+  "@context": [
+    "https://www.w3.org/ns/activitystreams",
+    "https://w3id.org/security/v1"
+  ]
+}

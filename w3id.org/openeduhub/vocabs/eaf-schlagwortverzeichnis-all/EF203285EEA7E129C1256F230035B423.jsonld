@@ -1,0 +1,327 @@
+{
+  "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/EF203285EEA7E129C1256F230035B423",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortverzeichnis-all%2FEF203285EEA7E129C1256F230035B423",
+  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortverzeichnis-all%2FEF203285EEA7E129C1256F230035B423",
+  "prefLabel": {
+    "de": "Elektrotechnik"
+  },
+  "narrower": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/0BC7CE54072A8701C1257AAC003B4F27",
+      "prefLabel": {
+        "de": "Analog-Digital-Wandler"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/12CF19200C9D78F1C1258130005E4889",
+      "prefLabel": {
+        "de": "Oersted, Hans Christian"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/157E092E5D72897CC1256F900033CCFC",
+      "prefLabel": {
+        "de": "Nachrichtentechnik"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/17B2C2D470118760C1256F9000337C15",
+      "prefLabel": {
+        "de": "Niederfrequenztechnik"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/1C05F0D276AF938CC1256F900032D979",
+      "prefLabel": {
+        "de": "Gleichstromtechnik"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/233BB5CFC71A251AC1256F900032A766",
+      "prefLabel": {
+        "de": "Elektronik"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/2797CD6222E795E4C1256F9000338933",
+      "prefLabel": {
+        "de": "Tonfrequenztechnik"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/2FF604DABB3232A5C1257F34005DF0EE",
+      "prefLabel": {
+        "de": "Kontakt (Elektrotechnik)"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/359CB32AEDFD51E9C1256F230036024C",
+      "prefLabel": {
+        "de": "Schwachstromtechnik"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/36CF0B41310B3691C1257C7B005B32B1",
+      "prefLabel": {
+        "de": "Elektrische Anlage"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/4773BAA93F2CA0BFC1256F230035D30A",
+      "prefLabel": {
+        "de": "Energieerzeugung"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/493B7D79B195CAEAC1257B10004503FC",
+      "prefLabel": {
+        "de": "A/D-Wandlung"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/4C610CFD4B8CF1AAC1256F900033BDD4",
+      "prefLabel": {
+        "de": "Energietechnik"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/4ED69AE20C07F6DBC1257C3F005D61DA",
+      "prefLabel": {
+        "de": "Digital-Analog-Umsetzer"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/4FC992F8B8621139C1257B1C00395E4F",
+      "prefLabel": {
+        "de": "Basisschutz"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/5445E7704DADB37DC1256F90003425DF",
+      "prefLabel": {
+        "de": "Steuerung (Steuerungstechnik)"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/5ADCA2F66973E977C1257E9200561C39",
+      "prefLabel": {
+        "de": "Installation (Elektrik)"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/6134C7DA7202CDE1C1256F900033FB3E",
+      "prefLabel": {
+        "de": "Messtechnik"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/622978AAA6A9C934C1256F230035D2CE",
+      "prefLabel": {
+        "de": "Elektrizität"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/655471DEF48DDF31C1256F230035E0EB",
+      "prefLabel": {
+        "de": "Technologie"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/68CBED40B06C9423C1257B7C005368B0",
+      "prefLabel": {
+        "de": "Blockschaltbild"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/6E38DDD532F9C016C1257AAC003B6DAD",
+      "prefLabel": {
+        "de": "ADU"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/7CAD17F0D3722C75C1257AAC003B84EE",
+      "prefLabel": {
+        "de": "A/D-Wandler"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/80A18EB5477AEE9BC1257D160058F036",
+      "prefLabel": {
+        "de": "Photozelle"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/83B3A324CC8AF072C125837600605D13",
+      "prefLabel": {
+        "de": "Tor (Elketrotechnik)"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/8D459B36B461C6ABC1257194002D0759",
+      "prefLabel": {
+        "de": "Lichttechnik"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/ACE8972A3FB4C314C1257B0D003A4629",
+      "prefLabel": {
+        "de": "Automatische Abschaltung"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/B7D4C8024147C005C1256F900033AB3F",
+      "prefLabel": {
+        "de": "Hochfrequenztechnik"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/BA21DC3126EDF409C1257B2D00563001",
+      "prefLabel": {
+        "de": "Belastung (Strom)"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/C4FAA9F045EC5DDCC1257D1600590010",
+      "prefLabel": {
+        "de": "Fotozelle"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/CDCBDB7AB21A4392C1256F9000345310",
+      "prefLabel": {
+        "de": "Regelungstechnik"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/DF78CC0DFABA05E4C1257C3100620273",
+      "prefLabel": {
+        "de": "Dezibel"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/DF8E609263FEA8B3C1256F2300360505",
+      "prefLabel": {
+        "de": "Starkstromtechnik"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/F2573FA525E05C56C125834A005E9102",
+      "prefLabel": {
+        "de": "Synthese (Elektrotechnik)"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/F4834CA313D7CDA7C1256F900032CE32",
+      "prefLabel": {
+        "de": "Wechselstromtechnik"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/FAC91BA8A3DE2377C1257F10005D0F85",
+      "prefLabel": {
+        "de": "Körperstrom"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/FD65B59FBDBCF367C1257AAC003B199F",
+      "prefLabel": {
+        "de": "Analog-Digital-Umsetzer"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/physik",
+    "prefLabel": {
+      "de": "Physik"
+    }
+  },
+  "inScheme": {
+    "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/",
+    "title": {
+      "de": "eaf-schlagwortverzeichnis-all"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

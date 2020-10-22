@@ -1,0 +1,17 @@
+{
+  "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/C735925CF59E8879C1257AAC003C08E6",
+  "type": "Service",
+  "name": "Analoges Messen",
+  "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f6561662d7363686c6167776f72747665727a656963686e69732d616c6c2f4337333539323543463539453838373943313235374141433030334330384536",
+  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortverzeichnis-all%2FC735925CF59E8879C1257AAC003C08E6",
+  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortverzeichnis-all%2FC735925CF59E8879C1257AAC003C08E6",
+  "publicKey": {
+    "id": "https://test.skohub.io/w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/C735925CF59E8879C1257AAC003C08E6#main-key",
+    "owner": "https://test.skohub.io/w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/C735925CF59E8879C1257AAC003C08E6",
+    "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
+  },
+  "@context": [
+    "https://www.w3.org/ns/activitystreams",
+    "https://w3id.org/security/v1"
+  ]
+}

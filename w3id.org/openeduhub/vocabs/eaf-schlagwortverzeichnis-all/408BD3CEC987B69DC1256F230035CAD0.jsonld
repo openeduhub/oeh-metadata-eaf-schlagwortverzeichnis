@@ -1,0 +1,435 @@
+{
+  "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/408BD3CEC987B69DC1256F230035CAD0",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortverzeichnis-all%2F408BD3CEC987B69DC1256F230035CAD0",
+  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Feaf-schlagwortverzeichnis-all%2F408BD3CEC987B69DC1256F230035CAD0",
+  "prefLabel": {
+    "de": "Welle (Physik)"
+  },
+  "narrower": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/0C03D15036D9B4E6C12578F2003AB4C7",
+      "prefLabel": {
+        "de": "Elektromagnetisches Spektrum"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/1BBAC1F7590D7CA4C1256F2300360B04",
+      "prefLabel": {
+        "de": "Wellentheorie"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/205E76F9C2B38997C1257AC40063C955",
+      "prefLabel": {
+        "de": "Antenne"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/2365ADD055A35BAFC1257AC10054501E",
+      "prefLabel": {
+        "de": "Absorption (Optik)"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/272BF29629CDC728C1257F5D0057A458",
+      "prefLabel": {
+        "de": "Doppelspaltversuch"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/2B9A7625903351CFC12581D4005E8C66",
+      "prefLabel": {
+        "de": "Querwelle"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/2F547A0697D3A51EC1257E5F005CDEF5",
+      "prefLabel": {
+        "de": "Huygenssches Prinzip"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/2FA38B6D1CFE7A97C1257F83003C16AA",
+      "prefLabel": {
+        "de": "Kurzwelle"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/317F04BBCB9797AFC12572B40032FEDC",
+      "prefLabel": {
+        "de": "Schallwelle"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/3659AB65739E04B3C1257E2E005B000F",
+      "prefLabel": {
+        "de": "Hertz (Einheit)"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/3C3FA934FD8399BDC1257B450031C094",
+      "prefLabel": {
+        "de": "Beugung (Physik)"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/425F9DF4BF2102D3C1257C61005AAAA9",
+      "prefLabel": {
+        "de": "Echo"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/47FB051F995C1E96C12571C70045F970",
+      "prefLabel": {
+        "de": "Hektometerwellen"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/4A4ADC4C7F07DCA1C1257B030054B6C6",
+      "prefLabel": {
+        "de": "Auslenkung"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/4D94047F3CDFADA6C12582A4005C9ABC",
+      "prefLabel": {
+        "de": "Schwingkreis"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/53FE301B9C19B08BC1257C610058F33E",
+      "prefLabel": {
+        "de": "Ebene Welle"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/56C29EAB975FA603C1257FC3005246A5",
+      "prefLabel": {
+        "de": "Linearwelle"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/580B19C0FDF829A4C1256F230035FE15",
+      "prefLabel": {
+        "de": "Polarisation des Lichts"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/658FD7824FDD454EC125717E00325506",
+      "prefLabel": {
+        "de": "Langwelle"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/67C355CBB76F2735C12572DB002C7892",
+      "prefLabel": {
+        "de": "Längswelle"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/6E52D426C13FF381C125816A00584EC1",
+      "prefLabel": {
+        "de": "Periode (Physik)"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/7494F5B9FDCAAD58C1257FA1005F9DA0",
+      "prefLabel": {
+        "de": "Laufgeschwindigkeit"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/75C330C93FC6AEF4C12578F2003AA940",
+      "prefLabel": {
+        "de": "Spektrum (elektromagnetisches)"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/766D9563B4F91402C1258382006100CE",
+      "prefLabel": {
+        "de": "Transversalwelle"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/83401B6A5C5E693AC1256F230036027E",
+      "prefLabel": {
+        "de": "Schwingung"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/8347BAEA593D602BC1257E8A0056CB77",
+      "prefLabel": {
+        "de": "Infrarot"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/8E951538AF3CA9AEC12572DB002CA460",
+      "prefLabel": {
+        "de": "Meereswelle"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/92EA0F9247DFBAECC1257D93006118B3",
+      "prefLabel": {
+        "de": "Geophon"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/99A3AC7FC5FBD9F8C1258192005B79C1",
+      "prefLabel": {
+        "de": "Polarisierung"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/A08A30216C35CE17C1257FA10060B173",
+      "prefLabel": {
+        "de": "Laufzeit"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/A65120AE865AA79CC12571C70045EAEB",
+      "prefLabel": {
+        "de": "Mittelwelle"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/A99B3BEDE1B7A7ACC1257AA8005FACBE",
+      "prefLabel": {
+        "de": "Amplitude"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/AE4F6D526B357EFFC1257C62005F430F",
+      "prefLabel": {
+        "de": "Echolot"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/B43533E4F3693C19C125773800463AF7",
+      "prefLabel": {
+        "de": "Emission (Physik)"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/B4ADC315D9A83679C125796C0060DDCA",
+      "prefLabel": {
+        "de": "Materiewelle"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/B707DC9AB7DFA0FDC12578F2003AC72B",
+      "prefLabel": {
+        "de": "Spektrum (Physik)"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/B879DD725E3C3AB0C12572B400324A0D",
+      "prefLabel": {
+        "de": "Strahlung (allgemein)"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/B98696C0BB17572CC1257D52004D670F",
+      "prefLabel": {
+        "de": "Funkzelle"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/BC5DB8D59E0EC18EC1257DE10058E2DC",
+      "prefLabel": {
+        "de": "Grundwelle"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/BD5EEBE43A6C3C7AC1257AC100543ACE",
+      "prefLabel": {
+        "de": "Absorption (Physik)"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/BD9EE0F3A871E778C125796C00610CB9",
+      "prefLabel": {
+        "de": "Wasserwelle"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/BEA81EBE679A7698C1256F230035FDC1",
+      "prefLabel": {
+        "de": "Physikalische Welle"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/CC2F31F4CD7ACA37C125756C0037FBCA",
+      "prefLabel": {
+        "de": "Mechanik"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/CD41E963A245A481C1256F230035D2DF",
+      "prefLabel": {
+        "de": "Elektrotechnik"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/D34EA2209DB30FBCC1257C3100621A39",
+      "prefLabel": {
+        "de": "Dezibel"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/DB9826A68ABB1626C125796C0060A550",
+      "prefLabel": {
+        "de": "Funktechnik"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/E117E5BC76AAAA79C1257FCA005A7882",
+      "prefLabel": {
+        "de": "Longitudinalwelle"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/E4EB175530D9759BC12582A4005D42C2",
+      "prefLabel": {
+        "de": "Schwingungsbild"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/E77E842676F9CFC8C1257D52004D611F",
+      "prefLabel": {
+        "de": "Hertzsche Welle"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/EA4B90171F302926C1257C7D005DF5AC",
+      "prefLabel": {
+        "de": "Elektroneninterferenz"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/F4333B9751F9D4D1C125843B005D3D6E",
+      "prefLabel": {
+        "de": "Wellen (Physik)"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/F7BAFE432A8EA85CC1256F2300360B03",
+      "prefLabel": {
+        "de": "Wellenlehre"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/FBE682030B32435FC1257D3200402B06",
+      "prefLabel": {
+        "de": "Frequenz (physikalische Größe)"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/FD538FBD62E1366FC125796C0060EB6E",
+      "prefLabel": {
+        "de": "Gravitationswelle"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/FF56ADB60344ED4FC1257AC40063DC0F",
+      "prefLabel": {
+        "de": "Antennentechnik"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/physik",
+    "prefLabel": {
+      "de": "Physik"
+    }
+  },
+  "inScheme": {
+    "id": "http://w3id.org/openeduhub/vocabs/eaf-schlagwortverzeichnis-all/",
+    "title": {
+      "de": "eaf-schlagwortverzeichnis-all"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}
