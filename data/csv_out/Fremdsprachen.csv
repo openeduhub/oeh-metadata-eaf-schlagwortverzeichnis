@@ -96,8 +96,8 @@ BE2112D8445BFF88C1257B3D0040B780,Berufssituation (Sprachunterricht),ND,s. Alltag
 7EA7F1AFAEC951CCC1256F230035E968,"Beyle, Marie Henri",ND,s. Stendhal,,,25725980987A8587C1256F230035C6A2
 B107987CEDF74A51C1256F230035B0A1,"Bierce, Ambrose",DS,Amerikanischer Erzähler (1842-1914).,Fremdsprachen,,
 971FA6F592803A5EC1256F230035E9D2,"Blair, Eric A.",ND,"s. Orwell, George",,,82B6FA8F3C4552C1C1256F230035C10D
-AC3B797985117D18C1256F230035E9F2,"Blixen, Tania",ND,"s. Blixen-Finecke, Karen",,,8635DC16123D5CCCC1256F230035B0EF
 8635DC16123D5CCCC1256F230035B0EF,"Blixen-Finecke, Karen",DS,"Baronesse Karen Christence Blixen-Finecke, geb. Dinesen, dänische Schriftstellerin (1885-1962); Pseudonyme: Isak Dinesen und Tania Blixen.",Fremdsprachen,,
+AC3B797985117D18C1256F230035E9F2,"Blixen, Tania",ND,"s. Blixen-Finecke, Karen",,,8635DC16123D5CCCC1256F230035B0EF
 DA8EDD17F995216BC1256F230035B100,"Blyton, Enid",DS,"Englische Schriftstellerin (1896-1968); Abenteuerbücher für Kinder und Jugendliche u.a. Serie ""Hanni und Nanni"".",Fremdsprachen,,
 09C1E10FFE0EE465C1256F230035B123,"Bonaviri, Giuseppe",DS,Italienischer Schriftsteller (1924-2009).,Fremdsprachen,,
 7421312B98778086C1257BB7005840FC,"Brenton, Howard",DS,Howard Brenton John; geb.1942; ist ein englischer Dramatiker und Drehbuchautor.,Fremdsprachen,,
@@ -127,6 +127,7 @@ FD4E4CBB4D4661E0C1256F230035B2A7,"Courier, Paul-Louis",DS,Französischer Schrift
 BE657940465C8557C125743600369148,"Crampes, Joseph",ND,"s. Chancel, Jacques",,,D1F3AF2E3367AEFFC1256F230035B21D
 726128CD9C9F1BEAC1256F230035B2AD,"Crane, Stephen",DS,Amerikanischer Schriftsteller (1871-1900); naturalistischer Erzähler.,Fremdsprachen,,
 C014B5EC831E8A3AC1256F230035B2B5,"Crozier, Michel",DS,Französischer Autor; geb. 1922.,Fremdsprachen,,
+9C91696CAC131483C1257F8800571CD0,Dänische Sprache,DS,"Medien in dänischer Sprache, Grammatik etc.",Fremdsprachen,,
 A251AA6EED33746FC1256F230035B2D6,Dante Alighieri,DS,Italienischer Dichter (1265-1321).,Fremdsprachen,,
 CF8D908D3C20192EC1256F230035B2E6,"Daudet, Alphonse",DS,Französischer Dichter (1840-97).,Fremdsprachen,,
 271E98D866BED87EC1256F230035B2F3,"Defoe, Daniel",DS,"Englischer Schriftsteller (um 1660-1731); ""Robinson Crusoe"".",Fremdsprachen,,
@@ -145,11 +146,10 @@ FCB0D4D4D399779BC1256F230035B38D,"Doyle, Arthur Conan Sir",DS,"Englischer Schrif
 8A5C72E543378DF5C1256F230035B3B8,"Duhamel, Georges",DS,"Französischer Schriftsteller (1884-1966); psychologische und gesellschaftskritische Romane: ""Chronique des Pasquier"".",Fremdsprachen,,
 E4FE0A30837B5EFEC1256F230035B3BB,"Dumas, Alexandre",DS,"Französischer Schriftsteller (1802-70), Dumas d.Ä.; Romane: ""Die drei Musketiere"", ""Der Graf von Monte Christo"" u.a.",Fremdsprachen,,
 8B1233BB667BF74EC1256F230035B3C4,"Duras, Marguerite",DS,"Französische Schriftstellerin (1914-96), schrieb im Stil des Nouveau roman; Drehbuch: ""Hiroshima - mon amour"".",Fremdsprachen,,
-9C91696CAC131483C1257F8800571CD0,Dänische Sprache,DS,"Medien in dänischer Sprache, Grammatik etc.",Fremdsprachen,,
 B024A39CD59EF27BC1256F230035B3D4,"Eco, Umberto",DS,"Italienischer Sprachwissenschaftler und Schriftsteller, geb. 1932; ""Der Name der Rose"".",Fremdsprachen,,
 AA52579247C9A5EFC1256F230035B3DD,"Edgar, David",DS,"Englischer Schriftsteller, geb. 1948; zeitgenössischer britischer Dramatiker, politisch engagierter Autor.",Fremdsprachen,,
-E66866B6BB5A405AC1256F230035ECFA,"Eliot, T.S.",ND,"s. Eliot, Thomas Stearns",,,C2ED98B779C5AD2CC1256F230035B42B
 C2ED98B779C5AD2CC1256F230035B42B,"Eliot, Thomas Stearns",DS,Englischer Dichter und Kritiker amerikanischer Herkunft (1888-1965).,Fremdsprachen,,
+E66866B6BB5A405AC1256F230035ECFA,"Eliot, T.S.",ND,"s. Eliot, Thomas Stearns",,,C2ED98B779C5AD2CC1256F230035B42B
 F59EB0A09132ABDCC1256F230035D2E4,Elisabeth I. (Königin England),D,"s.a. Shakespeare, William",,,2BEEB215C79E64A6C1256F230035C598
 78863F156D05A01CC1256F230035B440,"Encina, Juan del",DS,Spanischer Dichter und Komponist (1468-1529 o. 1530); gilt als Stammvater des spanischen Theaters.,Fremdsprachen,,
 71E508F680B378E0C1256F230035ED2B,Englisch,ND,s. Englische Sprache,,,2D2D33CDAD105298C1256F230035B453
@@ -183,8 +183,11 @@ FC0CE95B845554ECC1257677005290C4,"Fornival, Richart de",ND,s. Richart de Fourniv
 4DF1647704EFC951C1256F230035EEE4,"Fournier, Henri-Alban",ND,"s. Alain-Fournier, Henri",,,71132D13B671247EC1256F230035ADD5
 CE6ABE010991147CC1256F230035EEE5,"Fournival, Richard de",ND,s. Richart de Fournival,,,996971ECC7AAD409C1256F230035B5AD
 F4C6377C225DC399C125767700527FE5,"Fournival, Richart de",ND,s. Richart de Fournival,,,996971ECC7AAD409C1256F230035B5AD
-689ACD7A0E07AD0BC1256F230035B5B3,"France, Anatole",DS,Französischer Dichter (1844-1924); schrieb Romane voll graziöser Ironie und Skepsis. Nobelpreis 1921.,Fremdsprachen,,
 D2FDBDCD43B433C8C1256F230035C1A0,Francesco Petrarca,DS,"Italienischer Dichter, Humanist, Philologe (1304-74).",Fremdsprachen,,
+689ACD7A0E07AD0BC1256F230035B5B3,"France, Anatole",DS,Französischer Dichter (1844-1924); schrieb Romane voll graziöser Ironie und Skepsis. Nobelpreis 1921.,Fremdsprachen,,
+67B1FDC8AC5AE7B3C1257691003A885E,François de Montcorbier,ND,s. François Villon,,,2A3C9F0B03AB43D2C1256F230035C9C2
+DC46341B1E5A24A8C1257691003A9938,François des Loges,ND,s. François Villon,,,2A3C9F0B03AB43D2C1256F230035C9C2
+2A3C9F0B03AB43D2C1256F230035C9C2,François Villon,DS,Bedeutendster französischer Dichter des Spätmittelalters (1431-nach 1463).,Fremdsprachen,,
 14D3D077F0F8064DC1256F230035D437,Frankreich,D,s.a. Alltagssituation (Sprachunterricht),,,334EC4CA81A596C6C12579F6003EF455
 A66B1DCA723255B0C1256F230035D438,Frankreich,D,s.a. Französische Sprache,,,914532C9D746513BC1256F230035B5C8
 703022CED8B7BFC9C1256F230035EEFB,Französisch,ND,s. Französische Sprache,,,914532C9D746513BC1256F230035B5C8
@@ -202,9 +205,6 @@ D25DB1C21C2BD01CC12577E3004CD2A1,Französischer Hörtext,ND,s. Hörtext (franzö
 E69B7C6DAD613C6CC1256F230035EF01,Französischer Sprechanlass,ND,s. Französische Sprache,,,914532C9D746513BC1256F230035B5C8
 7A0D5E4D6ADD2062C12579FD003CF575,Französischer Sprechanlass,ND,s. Sprachunterricht (Französisch),,,F513839E8C2BAFDAC1256F230035C655
 914951F7D6E952E2C1256F230035EF02,Französischunterricht,ND,s. Französische Sprache,,,914532C9D746513BC1256F230035B5C8
-2A3C9F0B03AB43D2C1256F230035C9C2,François Villon,DS,Bedeutendster französischer Dichter des Spätmittelalters (1431-nach 1463).,Fremdsprachen,,
-67B1FDC8AC5AE7B3C1257691003A885E,François de Montcorbier,ND,s. François Villon,,,2A3C9F0B03AB43D2C1256F230035C9C2
-DC46341B1E5A24A8C1257691003A9938,François des Loges,ND,s. François Villon,,,2A3C9F0B03AB43D2C1256F230035C9C2
 0B5C66A63AF49429C1257552005ACF9A,Fremdsprache,D,s.a. Spanische Sprache,,,30C8228675A0182AC1256F230035C623
 17289E9038F77341C1257552005A76B8,Fremdsprache,D,s.a. Dialog (fremdsprachlicher),,,1CB14C2A93499EABC1256F230035B345
 3D12A9E40269F6ABC1257552005AC8C8,Fremdsprache,D,s.a. Sorbische Sprache,,,9282ECC837A46E96C1256F230035C607
@@ -257,8 +257,8 @@ B000AC70CEC5D1D0C1256F230035B71F,"Gogol, Nikolaj",DS,Russischer Dichter (1809-52
 597279439281DF7CC1256F230035B725,"Goldsmith, Oliver",DS,"Englischer Dichter (1730-74); schrieb die Familienidylle: ""Der Landprediger von Wakefield"".",Fremdsprachen,,
 57605F803D92B0BCC1256F230035B72A,"Goll, Ivan",DS,"Eigentlich Isaak Lang, Pseudonyme Iwan Lassang, Tristan Torsi, französisch-deutscher Schriftsteller (1891-1950).",Fremdsprachen,,
 21263DEB85C93EC1C1256F230035F076,"Goll, Yvan",ND,"s. Goll, Ivan",,,57605F803D92B0BCC1256F230035B72A
-C8D63F254114CBDFC1256F230035F07D,"Gorki, Maxim",ND,"s. Gorkij, Maxim",,,A0B012066F596088C1256F230035B733
 A0B012066F596088C1256F230035B733,"Gorkij, Maxim",DS,"Eigentlich Alexei Maximowitsch Peschkow, russischer Erzähler (1868-1936).",Fremdsprachen,,
+C8D63F254114CBDFC1256F230035F07D,"Gorki, Maxim",ND,"s. Gorkij, Maxim",,,A0B012066F596088C1256F230035B733
 37B0CFCE8CF08A72C1256F230035B738,"Goscinny, René",DS,"Französischer Comiczeichner/-erfinder (1926-77); z.B. ""Asterix"".",Fremdsprachen,,
 12EA6C5B92EEB7FFC1256F230035D5AE,Grammatik,D,s.a. Lateinische Grammatik,,,69347C0F2AE0800EC1256F230035BCC5
 B6106AB29B3CB2EFC1256F230035D5AC,Grammatik,D,s.a. Englische Grammatik,,,37636BEE97618959C1256F230035B451
@@ -289,10 +289,6 @@ A5AF3FCEF911D31CC1256F230035B807,"Hasek, Jaroslav",DS,"Tschechischer Schriftstel
 86E0B385804F2643C1257490003BBE55,"Heller, Joseph",DS,US-amerikanischer Schriftsteller (1923-99).,Fremdsprachen,,
 3456637DCAE69733C1256F230035B864,"Hemingway, Ernest",DS,"Amerikanischer Schriftsteller (1899-1961); Hauptvertreter der ""verlorenen Generation"" zwischen den Weltkriegen. Lakonischer Stil, Aufzeichnung der unbeschönigten Wahrheit mit teilweise brutalem Realismus. Nobelpreis 1954.",Fremdsprachen,,
 4F1B072C644FA3D8C1256F230035B868,"Henry, O.",DS,Pseudonym für William Sidney Porter (1862-1910); Amerikanischer Schriftsteller.,Fremdsprachen,,
-C938D64C1AF7CFF2C1256F230035B8E4,Homer,DS,"Griechischer Dichter, lebte im ionischen Kleinasien des 8.Jh v.Chr. Überlieferungen über Homer sind legendär.",Fremdsprachen,,
-23DD99610F323241C1256F230035F227,"Horatius Flaccus, Quintus",ND,s. Horaz,,,75E7D7BE5A2734E1C1256F230035B8F2
-75E7D7BE5A2734E1C1256F230035B8F2,Horaz,DS,"Quintus Horatius Flaccus, römischer Dichter (65 v.Chr.-8 v.Chr.).",Fremdsprachen,,
-77A2ABF295695066C1256F230035B916,"Hugo, Victor",DS,Französischer Dichter (1802-85); Führer der französischen Hochromantik.,Fremdsprachen,,
 025BC481D6C9B278C1256F230035B8FC,Hörspiel (fremdsprachliches),DS,Eigenständiges Hörkunstwerk des Rundfunks in einer Fremdsprache (aus deutscher Sicht).,Fremdsprachen,,
 28D54A1EB5504B74C1256F230035D683,Hörspiel (fremdsprachliches),D,s.a. Hörtext (russischer),,,40C34EC8ACDB8B89C1256F230035B901
 5A1A1FE705DE27DAC1256F230035D682,Hörspiel (fremdsprachliches),D,s.a. Hörtext (französischer),,,DB78A47A57A19BB2C1256F230035B900
@@ -302,14 +298,18 @@ C71A4893D6D07384C1256F230035B8FF,Hörtext (englischer),DS,"Englischer, gesproche
 DB78A47A57A19BB2C1256F230035B900,Hörtext (französischer),DS,"Französischer, gesprochener Text zur Förderung des Hörverstehens.",Fremdsprachen,,
 40C34EC8ACDB8B89C1256F230035B901,Hörtext (russischer),DS,"Russischer, gesprochener Text zur Förderung des Hörverstehens.",Fremdsprachen,,
 E74C896A9E1792BEC1256F230035B902,Hörtext (spanischer),DS,"Spanischer, gesprochener Text zur Förderung des Hörverstehens.",Fremdsprachen,,
-40A68717ECA5ED31C1257E4A00595724,Hörverstehen,ND,s. Hörtext (englischer),,,C71A4893D6D07384C1256F230035B8FF
-79A4CC553DB0C4B8C1257E4A00595CD3,Hörverstehen,ND,s. Hörtext (französischer),,,DB78A47A57A19BB2C1256F230035B900
-8ABA0CAEFFF8971FC1257E4A005965BB,Hörverstehen,ND,s. Hörtext (spanischer),,,E74C896A9E1792BEC1256F230035B902
-F85648DBBD45D852C1257E4A00596110,Hörverstehen,ND,s. Hörtext (russischer),,,40C34EC8ACDB8B89C1256F230035B901
 536597CB389C3441C1256F230035F23C,Hörverständnis,ND,s. Hörtext (französischer),,,DB78A47A57A19BB2C1256F230035B900
 BC710BE225396A16C1256F230035F23B,Hörverständnis,ND,s. Hörtext (englischer),,,C71A4893D6D07384C1256F230035B8FF
 F351E6BA3BE78065C1256F230035F23D,Hörverständnis,ND,s. Hörtext (russischer),,,40C34EC8ACDB8B89C1256F230035B901
 F7E769499379E717C1256F230035F23E,Hörverständnis,ND,s. Hörtext (spanischer),,,E74C896A9E1792BEC1256F230035B902
+40A68717ECA5ED31C1257E4A00595724,Hörverstehen,ND,s. Hörtext (englischer),,,C71A4893D6D07384C1256F230035B8FF
+79A4CC553DB0C4B8C1257E4A00595CD3,Hörverstehen,ND,s. Hörtext (französischer),,,DB78A47A57A19BB2C1256F230035B900
+8ABA0CAEFFF8971FC1257E4A005965BB,Hörverstehen,ND,s. Hörtext (spanischer),,,E74C896A9E1792BEC1256F230035B902
+F85648DBBD45D852C1257E4A00596110,Hörverstehen,ND,s. Hörtext (russischer),,,40C34EC8ACDB8B89C1256F230035B901
+C938D64C1AF7CFF2C1256F230035B8E4,Homer,DS,"Griechischer Dichter, lebte im ionischen Kleinasien des 8.Jh v.Chr. Überlieferungen über Homer sind legendär.",Fremdsprachen,,
+23DD99610F323241C1256F230035F227,"Horatius Flaccus, Quintus",ND,s. Horaz,,,75E7D7BE5A2734E1C1256F230035B8F2
+75E7D7BE5A2734E1C1256F230035B8F2,Horaz,DS,"Quintus Horatius Flaccus, römischer Dichter (65 v.Chr.-8 v.Chr.).",Fremdsprachen,,
+77A2ABF295695066C1256F230035B916,"Hugo, Victor",DS,Französischer Dichter (1802-85); Führer der französischen Hochromantik.,Fremdsprachen,,
 737928E258913C8DC1256F230035B933,"Ibsen, Henrik",DS,"Norwegischer Dichter (1828-1906); schrieb Stücke mit nationalnorwegischen Stoffen, dann gesellschaftskritische Schauspiele.",Fremdsprachen,,
 A3C60C29013C08F9C1256F230035B993,"Ionesco, Eugène",DS,"Französischer Dramatiker (1909-94); Hauptvertreter des absurden Theaters, ""Die Nashörner"", ""Mörder ohne Bezahlung"".",Fremdsprachen,,
 0247F53004C62CE5C1256F230035F2E7,Italienisch,ND,s. Italienische Sprache,,,35DAA18B0B01F811C1256F230035B9BC
@@ -467,8 +467,8 @@ EF9020C006FDA656C1256F230035DF6D,"Shakespeare, William",D,s.a. Hamlet,,,B33BFB1F
 7CCD8C5FBAF05D31C1256F230035C59A,"Shaw, George Bernard",DS,Englisch-irischer Dramatiker (1856-1950).,Fremdsprachen,,
 65FB5F7FF349329DC125748E005427F3,"Shelley, Mary",DS,Bedeutende englische Schriftstellerin des frühen 19. Jahrhunderts (1797-1851).,Fremdsprachen,,
 5FB3BD608A76AB98C12583FB00599D18,Sidonie-Gabrielle Claudine Colette,ND,s. Colette,,,791DF6A47AF4CB2FC12583FB005979F8
-26B771B2C88448E3C1256F230036034C,"Sim, Georges",ND,"s. Simenon, Georges",,,9B897DCBEFA0F6FEC1256F230035C5BB
 9B897DCBEFA0F6FEC1256F230035C5BB,"Simenon, Georges",DS,"Pseudonym G. Sim, belgischer Schriftsteller (1903-89). Weltbekannt durch seine psychologisch fundierten Kriminalromane um die Gestalt des Kommissars Maigret.",Fremdsprachen,,
+26B771B2C88448E3C1256F230036034C,"Sim, Georges",ND,"s. Simenon, Georges",,,9B897DCBEFA0F6FEC1256F230035C5BB
 781CA97093614D46C1256F230035C5D7,"Skarmeta, Antonio",DS,Chilenischer Schriftsteller; geb. 1940.,Fremdsprachen,,
 046EFCA3CA2F2C82C12572A7003C814C,Slang,ND,s. Englische Sprache,,,2D2D33CDAD105298C1256F230035B453
 868D78CDCFD1A684C1256F230035C5F2,Sokrates,DS,Griechischer Philosoph und Lehrer (um 470-399 v.Chr.).,Fremdsprachen,,
@@ -546,9 +546,6 @@ A88FDA15AA288495C12579F60040B0C8,Sprachunterricht (Griechisch),DS,Griechischunte
 CC7EBB72928D4203C1256F4600387CD9,Sprachunterricht (Lateinisch),D,s.a. Lateinische Sprache,,,499B5E4BDFBA18C0C1256F230035BCC6
 42A19A9B02083976C1257F7F005F36BE,Sprachunterricht (Niederländisch),DS,Niederländischunterricht als Fremdsprachenunterricht. Förderung und Schulung der Sprachkompetenz. Medien zum Erlernen der niederländischen Sprache wie Sprachlernserien und Sprachlernprogramme. Auch zur allgemeinen Methodik des Sprachunterrichts.,Fremdsprachen,,
 1B172F56E4BEE888C1257F88005903C0,Sprachunterricht (Niederländisch),D,s.a. Niederländische Sprache,,,CB24319270B9CF6FC1257F880057349D
-2E97FC0CFB645F41C1257A060060CC5C,Sprachunterricht (Polnisch),D,s.a. Polnische Sprache,,,AD49885B8FA17311C1257A0300321A9F
-B5C31142EEB646B9C1257A0300323064,Sprachunterricht (Polnisch),DS,Polnischunterricht als Fremdsprachenunterricht. Förderung und Schulung der Sprachkompetenz. Medien zum Erlernen der polnischen Sprache wie Sprachlernserien und Sprachlernprogramme. Auch zur allgemeinen Methodik des Sprachunterrichts.,Fremdsprachen,,
-913B7E2FA6283F71C1257F7F005FADA2,Sprachunterricht (Portugiesisch),DS,Portugiesischunterricht als Fremdsprachenunterricht. Förderung und Schulung der Sprachkompetenz. Medien zum Erlernen der portugiesischen Sprache wie Sprachlernserien und Sprachlernprogramme. Auch zur allgemeinen Methodik des Sprachunterrichts.,Fremdsprachen,,
 0C6A95E24BA733E7C1256F4600378BB2,Sprachunterricht (Pädagogik),D,s.a. Sprachunterricht (Lateinisch),,,6158E76B934C7F1AC1256F4600375FD4
 0F9407E3E63F9705C1256F230035E02C,Sprachunterricht (Pädagogik),D,s.a. Alltagssituation (Sprachunterricht),,,334EC4CA81A596C6C12579F6003EF455
 59DC5228FD15490CC1256F230035E02F,Sprachunterricht (Pädagogik),D,s.a. Sprachunterricht (Englisch),,,15CBF3E742BDC80EC1256F230035C654
@@ -568,6 +565,9 @@ B267B7854CE2BA1AC1257F7F00601A2D,Sprachunterricht (Pädagogik),D,s.a. Sprachunte
 C5772E1AEBC3802FC1257F7F00600A7C,Sprachunterricht (Pädagogik),D,s.a. Sprachunterricht (Chinesisch),,,5F1AFCCDDA069831C1257F7F005F9E40
 E43BEE78314B3143C1257F7F00601168,Sprachunterricht (Pädagogik),D,s.a. Sprachunterricht (Japanisch),,,254810DDA0D6482FC1257F7F005F8C14
 E82742D5C53B6AC3C1257F7F00600217,Sprachunterricht (Pädagogik),D,s.a. Sprachunterricht (Portugiesisch),,,913B7E2FA6283F71C1257F7F005FADA2
+2E97FC0CFB645F41C1257A060060CC5C,Sprachunterricht (Polnisch),D,s.a. Polnische Sprache,,,AD49885B8FA17311C1257A0300321A9F
+B5C31142EEB646B9C1257A0300323064,Sprachunterricht (Polnisch),DS,Polnischunterricht als Fremdsprachenunterricht. Förderung und Schulung der Sprachkompetenz. Medien zum Erlernen der polnischen Sprache wie Sprachlernserien und Sprachlernprogramme. Auch zur allgemeinen Methodik des Sprachunterrichts.,Fremdsprachen,,
+913B7E2FA6283F71C1257F7F005FADA2,Sprachunterricht (Portugiesisch),DS,Portugiesischunterricht als Fremdsprachenunterricht. Förderung und Schulung der Sprachkompetenz. Medien zum Erlernen der portugiesischen Sprache wie Sprachlernserien und Sprachlernprogramme. Auch zur allgemeinen Methodik des Sprachunterrichts.,Fremdsprachen,,
 3DFF49389B62B694C1257A060060E86E,Sprachunterricht (Russisch),D,s.a. Russische Sprache,,,149098424DDDFDB6C1256F230035C406
 94FFC2377DCBC85DC12579F60040D058,Sprachunterricht (Russisch),DS,Rusischunterricht als Fremdsprachenunterricht. Förderung und Schulung der Sprachkompetenz. Medien zum Erlernen der russischen Sprache wie Sprachlernserien und Sprachlernprogramme. Auch zur allgemeinen Methodik des Sprachunterrichts.,Fremdsprachen,,
 1B36BB20B4C4B5CCC1257A060060F126,Sprachunterricht (Sorbisch),D,s.a. Sorbische Sprache,,,9282ECC837A46E96C1256F230035C607
@@ -671,8 +671,8 @@ B4590C033B453BA8C1256F230035C738,"Swift, Jonathan",DS,Englischer Schriftsteller 
 71FF7F0DBFFB78CAC1256F230035C752,"Tabucchi, Antonio",DS,"Italienischer Schriftsteller, geb. 1943.",Fremdsprachen,,
 25687699FA3B510DC1256F230035C7A0,Terenz,DS,"Publius Terentius Afer, römischer Lustspieldichter (um 195-159 v.Chr.)",Fremdsprachen,,
 B4E27E6671756EB4C12576870057907D,Titus Maccius Plautus,ND,s. Plautus,,,800FEB4994D61569C1256F230035C203
-7D112EFA84CC46CFC12580C8005E0D68,"Tolkien, J. R. R.",ND,"s. Tolkien, John Ronald Reuel",,,67F23C44399D5013C12580C6005E7ACB
 67F23C44399D5013C12580C6005E7ACB,"Tolkien, John Ronald Reuel",DS,"John Ronald Reuel Tolkien (1892-1973) war ein britischer Schriftsteller und Philologe. Sein Roman Der Herr der Ringe (The Lord of the Rings, 1954/55, auf Deutsch erschienen 1969/70) ist eines der erfolgreichsten Bücher des 20. Jahrhunderts und begründete die moderne Fantasy-Literatur.",Fremdsprachen,,
+7D112EFA84CC46CFC12580C8005E0D68,"Tolkien, J. R. R.",ND,"s. Tolkien, John Ronald Reuel",,,67F23C44399D5013C12580C6005E7ACB
 4782B1267363B34EC1256F230035C81B,"Tolstoi, Leo",DS,"Einer der größten russischen Dichter (1828-1910); Romane: ""Krieg und Frieden"", ""Anna Karenina"" etc.",Fremdsprachen,,
 3F34AAFCB249D0F9C1256F230036078E,"Tolstoj, Lew Nikolajewitsch Graf",ND,"s. Tolstoi, Leo",,,4782B1267363B34EC1256F230035C81B
 DB9E92D27725D6D0C1256F2300360791,"Tomasi di Lampedusa, Guiseppe",ND,"s. Lampedusa, Guiseppe Tomasi di",,,241ED6CE32DACF63C1256F230035BC6F
@@ -680,8 +680,8 @@ E8C7D75A5EBC0A1FC1256F23003607AB,"Torsi, Tristan",ND,"s. Goll, Ivan",,,57605F803
 99B7869C6FE17814C1257F8800574C73,Tschechische Sprache,DS,"Medien in tschechischer Sprache, Grammatik etc.",Fremdsprachen,,
 EE57C2EC6DD5CC59C1256F230035C877,"Tschechow, Anton Pawlowitsch",DS,Russischer Dichter (1860-1904).,Fremdsprachen,,
 FA0FFFD6CEBF5D47C125725D003FFEEF,"Tscherniak, Nathalie",ND,"s. Sarraute, Nathalie",,,5E27EDD54424AE5DC1256F230035C44B
-2C122BC3BF5B3E5CC1256F230035C89B,"Twain, Mark",DS,"Eigentlich Samuel Langhorne Clemens, amerikanischer Erzähler (1835-1910).",Fremdsprachen,,
 3D3E757F7E34AFC5C1257F88005757D5,Türkische Sprache,DS,"Medien in türkischer Sprache, Grammatik etc.",Fremdsprachen,,
+2C122BC3BF5B3E5CC1256F230035C89B,"Twain, Mark",DS,"Eigentlich Samuel Langhorne Clemens, amerikanischer Erzähler (1835-1910).",Fremdsprachen,,
 2D620345AA87CD8CC1256F230035E21C,US-amerikanische Alltagssituation,ND,s. Englische Sprache,,,2D2D33CDAD105298C1256F230035B453
 C6DB6DFCD68B9F6BC1256F230035C8FA,US-amerikanische Alltagssituation,ND,s. Alltagssituation (Sprachunterricht),,,334EC4CA81A596C6C12579F6003EF455
 04D087354EFD1A21C1256F230035E24C,USA (Staat),D,s.a. Alltagssituation (Sprachunterricht),,,334EC4CA81A596C6C12579F6003EF455
@@ -698,8 +698,8 @@ E05DA5AD5FAD50D7C1256F230035CA98,"Waugh, Evelyn",DS,"Evelyn Athur St. John Waugh
 FB03FE13ABFC8BFCC1256F2300360AB8,"Waugh, Evelyn Arthur St. John",ND,"s. Waugh, Evelyn",,,E05DA5AD5FAD50D7C1256F230035CA98
 54CE6507C5059E19C1256F230035CAD4,"Wells, Herbert George",DS,Englischer Schriftsteller (1866-1946).,Fremdsprachen,,
 E1A003BB695BCC40C1256F230035CAD8,"Welsh, Irvine",DS,Schottischer Autor; geb. 1958.,Fremdsprachen,,
-BE7DAC5CD54322BEC1256F230035CB3C,"Wilde, Oscar",DS,Irischer Schriftsteller (1854-1900).,Fremdsprachen,,
 049391D2AB7A6C39C1256F230035CB3E,"Wilder, Thornton",DS,Nordamerikanischer Schriftsteller (1897-1975).,Fremdsprachen,,
+BE7DAC5CD54322BEC1256F230035CB3C,"Wilde, Oscar",DS,Irischer Schriftsteller (1854-1900).,Fremdsprachen,,
 5C033D1450D06956C1256F230035CB4A,"Williams, Tennessee",DS,Nordamerikanischer Schriftsteller (1911-83).,Fremdsprachen,,
 F3D169ED4FA9D97AC1256F2300360BDD,Wirtschaftsenglisch,ND,s. Geschäftssprache,,,F0A5C0186BC1EE95C1256F230035B6A0
 EE7D9E354C9096E6C1256F230035CBA0,"Wolfe, Thomas",DS,Amerikanischer Schriftsteller (1900-38).,Fremdsprachen,,

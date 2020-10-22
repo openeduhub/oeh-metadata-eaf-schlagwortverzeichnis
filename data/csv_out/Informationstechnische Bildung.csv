@@ -33,12 +33,12 @@ F2E4786EB8533CCFC1256F230035E79B,Ausdruck,ND,s. Drucker (EDV),,,C029C16E1D136095
 282210C40E92F83CC1257B02005F1161,Ausgabegerät,ND,s. Drucker (EDV),,,C029C16E1D136095C1256F230035B3AB
 3B70DD02594B4E53C1257B02005F07F4,Ausgabegerät,ND,s. Datenverarbeitung,,,6B220FD016BC00FDC1256F230035B2E3
 28E3CDECB03D90BCC1256F230035E7F0,Autorensystem,ND,s. Anwendersystem,,,CCFC9FEC3CD44DADC1256F230035AE43
-F423D8B6D1CE7B78C1256F230035E85F,BASIC,ND,s. Programmierung,,,8CF7BE1247B2318DC1256F230035C257
 12D0FE2261FB6FC5C1256F230035E80A,Back-up,ND,s. Computer,,,47D91F5AC786D939C1256F230035B286
 08AD6C84C7C672B1C12583DF005CBE5E,Backup,ND,s. Datensicherung,,,6098B936C27D5FCFC12583DF005C9EFB
 0789603DAD5F1051C1256F230035E829,Balkencode,ND,s. Codierung,,,46668FF93FA0C454C1256F230035B27A
 2B13E8BDA5DD7E37C1256F230035E84F,Barcodeleser,ND,s. Computer,,,47D91F5AC786D939C1256F230035B286
 C159DC8A0379DFE5C12577300046C65F,Barcodescanner,ND,s. Computer,,,47D91F5AC786D939C1256F230035B286
+F423D8B6D1CE7B78C1256F230035E85F,BASIC,ND,s. Programmierung,,,8CF7BE1247B2318DC1256F230035C257
 1F7DEE7E0DFC3FDCC12575FE0035E61A,Baum (Steuerelement),ND,s. Betriebssystem,,,E696797877272BF9C1256F230035B077
 25E2DC919F8E24A2C125734E0038604A,Beamer,ND,s. Computertechnik,,,B7274823C7221924C1256F230035B28F
 C64DADB1CC7727CFC1257B2D0056CEFD,Beleidigung,ND,s. Cybermobbing,,,F9295D5551AE23ACC12579290053DD05
@@ -65,14 +65,22 @@ AA08F7ED663D12E9C12583DF005C1AF9,Blogger,DS,"Ein Blogger, international auch Web
 562484B5FF1530A6C1256F3500333A84,Browser,ND,s. Software,,,412292943327DEFCC1256F230035C5F1
 79B6D23D28FB3412C1257AE100566413,Browserspiel,ND,s. Computerspiel,,,757188C274E853BFC1256F230035B28E
 70CF01F9726186B7C1256F230035EABB,Btx,ND,s. Bildschirmtext,,,D66275B5A55504F7C1256F230035B0AC
+24D7ED5DE5BDA562C1256F230035B1D6,Bürokommunikation,DS,"Der Teil der Büroautomation, der den Nachrichtenaustausch zw. den Mitarbeitern eines oder mehrerer Betriebe rationalisiert. Vereinigt Elemente der Bürotechnik, Datenverarbeitung und Nachrichtentechnik.",Informationstechnische Bildung,,
 4438FAB2A2A40154C12573FB003E4991,Bus (Datenleitung),ND,s. Computertechnik,,,B7274823C7221924C1256F230035B28F
 E998062F385F23FCC12573FB003EF81C,Business-to-Business,ND,s. Internet,,,F67F7B6889274F7BC1256F230035B988
 7F9785369515EDBDC12573FB003F040D,Business-to-Consumer,ND,s. Internet,,,F67F7B6889274F7BC1256F230035B988
-24D7ED5DE5BDA562C1256F230035B1D6,Bürokommunikation,DS,"Der Teil der Büroautomation, der den Nachrichtenaustausch zw. den Mitarbeitern eines oder mehrerer Betriebe rationalisiert. Vereinigt Elemente der Bürotechnik, Datenverarbeitung und Nachrichtentechnik.",Informationstechnische Bildung,,
+8DAA00C8E8BEE362C12573FC003C413E,Cachespeicher,ND,s. Datenträger,,,06A50234E8B81AE4C1256F230035B2E2
+99F2C22E8318CEEDC12573FC003C4919,Cachespeicher,ND,s. Computertechnik,,,B7274823C7221924C1256F230035B28F
 C45CBF221178F7B5C1256F230035EAFD,CAD,ND,s. Computer Aided Design,,,84B2B0814DBE0AEAC1256F230035B287
 93F62C611C04D344C1256F230035EB08,CAM,ND,s. Computer Aided Manufacturing,,,1849C0FCCA61C5B3C1256F230035B288
 F7A2BDFBC99BE8D7C1256F550033A90F,CD,ND,s. CD-ROM,,,7DF150415E2F4464C1256F230035B20A
 7DF150415E2F4464C1256F230035B20A,CD-ROM,DS,Compact Disc Read Only Memory; einseitig digital bespielte Speicherplatte; Massenspeicher für Computer; Schreib- und Lesevorgänge optisch durch Lasertechnik.,Informationstechnische Bildung,,
+860EB62B1223CDA9C1256F230035EB30,Chat,ND,s. Internet,,,F67F7B6889274F7BC1256F230035B988
+A13921BBDE49EA8BC1256F4D0035CED8,Chat-Rooms,ND,s. Internet,,,F67F7B6889274F7BC1256F230035B988
+E076090047B2C2F9C1257BEB005C1427,Chatten,ND,s. Internet,,,F67F7B6889274F7BC1256F230035B988
+DFF377589B775A9AC1256F230035B249,Chip,DS,"Funktioneller Bestandteil einer integrierten Schaltung, fasst sämtliche Komponenten (z.B. Transistoren, Widerstände) auf einem Halbleiterplättchen (meist aus einer Siliciumeinkritallscheibe) von wenigen Millimetern Kantenlänge zusammen.",Informationstechnische Bildung,,
+6A6BE970D317646AC1257BF1005790DE,Chipproduktion,ND,s. Chip,,,DFF377589B775A9AC1256F230035B249
+7AA7B60C9B115154C1257AE100568DBF,Client-basiertes Multiplayer-Online-Spiel,ND,s. Computerspiel,,,757188C274E853BFC1256F230035B28E
 BC88C7A55DACCC1EC1256F230035EB68,CNC,ND,s. Computerized Numerical Control,,,9223237A53414A5BC1256F230035B28C
 D08E410251409398C1257BFB00461133,CNC-Drehmaschine,ND,s. Computerized Numerical Control,,,9223237A53414A5BC1256F230035B28C
 175F76CEDD283968C1257BFB0045E924,CNC-Fertigung,ND,s. Computerized Numerical Control,,,9223237A53414A5BC1256F230035B28C
@@ -80,21 +88,12 @@ B4C73593A56FC7DBC1257BFB00460887,CNC-Fräsmaschine,ND,s. Computerized Numerical 
 7ADB6F8E012B6872C1257BFB004623C8,CNC-Maschine,ND,s. Computerized Numerical Control,,,9223237A53414A5BC1256F230035B28C
 08F81A71A7031FB3C1257BFB00464086,CNC-Oberfrästechnik,ND,s. Computerized Numerical Control,,,9223237A53414A5BC1256F230035B28C
 F31DB553A22CC07DC1257BFB0046682A,CNC-Steuerung,ND,s. Computerized Numerical Control,,,9223237A53414A5BC1256F230035B28C
-342D9F9F9EE26567C1256F58003A7489,CPU,ND,s. Computer,,,47D91F5AC786D939C1256F230035B286
-8DAA00C8E8BEE362C12573FC003C413E,Cachespeicher,ND,s. Datenträger,,,06A50234E8B81AE4C1256F230035B2E2
-99F2C22E8318CEEDC12573FC003C4919,Cachespeicher,ND,s. Computertechnik,,,B7274823C7221924C1256F230035B28F
-860EB62B1223CDA9C1256F230035EB30,Chat,ND,s. Internet,,,F67F7B6889274F7BC1256F230035B988
-A13921BBDE49EA8BC1256F4D0035CED8,Chat-Rooms,ND,s. Internet,,,F67F7B6889274F7BC1256F230035B988
-E076090047B2C2F9C1257BEB005C1427,Chatten,ND,s. Internet,,,F67F7B6889274F7BC1256F230035B988
-DFF377589B775A9AC1256F230035B249,Chip,DS,"Funktioneller Bestandteil einer integrierten Schaltung, fasst sämtliche Komponenten (z.B. Transistoren, Widerstände) auf einem Halbleiterplättchen (meist aus einer Siliciumeinkritallscheibe) von wenigen Millimetern Kantenlänge zusammen.",Informationstechnische Bildung,,
-6A6BE970D317646AC1257BF1005790DE,Chipproduktion,ND,s. Chip,,,DFF377589B775A9AC1256F230035B249
-7AA7B60C9B115154C1257AE100568DBF,Client-basiertes Multiplayer-Online-Spiel,ND,s. Computerspiel,,,757188C274E853BFC1256F230035B28E
 AFF007B97BE251D5C1256F230035EB69,Code,ND,s. Codierung,,,46668FF93FA0C454C1256F230035B27A
 4262907C0C7FC7CCC1256F8C0037F518,Codierung,D,s.a. EAN-System,,,F0E6673BF484456AC1256F230035B3CE
 46668FF93FA0C454C1256F230035B27A,Codierung,DS,"Darstellung einer Nachricht in anderer Form, d.h. Umsetzung des Zeichenvorrats in einen anderen.",Informationstechnische Bildung,,
 5C78A1330E1B078DC1257BFF006259DF,Community,ND,s. Soziales Netzwerk,,,651165E3D23C1666C125798A005E4320
-1A5237FB5146DC48C1256F230035EB70,Compact Disk,ND,s. CD-ROM,,,7DF150415E2F4464C1256F230035B20A
 40D2C7EBB1BB2E70C1256F550033BA86,Compact disc read only memory,ND,s. CD-ROM,,,7DF150415E2F4464C1256F230035B20A
+1A5237FB5146DC48C1256F230035EB70,Compact Disk,ND,s. CD-ROM,,,7DF150415E2F4464C1256F230035B20A
 67E95DBDFCBCDCD2C1256F550033B02E,Compactdisc,ND,s. CD-ROM,,,7DF150415E2F4464C1256F230035B20A
 105BCB5CE66C3F62C1256F550033DCF9,Compactdisk,ND,s. CD-ROM,,,7DF150415E2F4464C1256F230035B20A
 88AC5386002D015EC125742D003B26CB,Compaktdisk,ND,s. CD-ROM,,,7DF150415E2F4464C1256F230035B20A
@@ -170,10 +169,11 @@ EA579223A28EEC29C1256F230035D1C9,Computertechnik,D,s.a. Chip,,,DFF377589B775A9AC
 E3DA8382DD31F857C1256F230035EB79,Computerunterstütztes Lernen,ND,s. Computer,,,47D91F5AC786D939C1256F230035B286
 877F6D3A718C3F3CC1256F230035EB7B,Computerunterstütztes Zeichnen,ND,s. Computer Aided Design,,,84B2B0814DBE0AEAC1256F230035B287
 2AD8B666316651E5C1256F230035B291,Computervirus,DS,"Im Rechner eingeschleuste Störprogramme, die sich vervielfältigen, nachdem ein Codewort eingegeben oder ein Datum erreicht wird. Computerviren können zur Verstopfung der Speicher oder Vernichtung ganzer Datenbestände führen. Der Ausdruck Computervirus wird umgangssprachlich auch für Computerwürmer und Trojanische Pferde genutzt, da es oft Mischformen gibt und für Anwender der Unterschied kaum zu erkennen ist. Antivirenprogrammen und Firewalls helfen vor der Infizierung.",Informationstechnische Bildung,,
-4DDE30FFC5FDB93DC1257999005CA373,Computerwurm,ND,s. Computervirus,,,2AD8B666316651E5C1256F230035B291
 DA1CAECFC2D5436DC1257999005C1D0D,Computerwürmer,ND,s. Computervirus,,,2AD8B666316651E5C1256F230035B291
+4DDE30FFC5FDB93DC1257999005CA373,Computerwurm,ND,s. Computervirus,,,2AD8B666316651E5C1256F230035B291
 5262843AE4CAB1B4C1257AE100577BAD,Construction Game,ND,s. Computerspiel,,,757188C274E853BFC1256F230035B28E
 F996FD5F3CE8C7FBC1257AE10057F4BF,Counter-Strike,ND,s. Computerspiel,,,757188C274E853BFC1256F230035B28E
+342D9F9F9EE26567C1256F58003A7489,CPU,ND,s. Computer,,,47D91F5AC786D939C1256F230035B286
 47A8BE356943BC33C125792900541DEE,Cyber-Bullying,ND,s. Cybermobbing,,,F9295D5551AE23ACC12579290053DD05
 CC64E71E0A751382C125792900540A1A,Cyber-Mobbing,ND,s. Cybermobbing,,,F9295D5551AE23ACC12579290053DD05
 716861455E4EFAE9C125792900542633,Cyber-Stalking,ND,s. Cybermobbing,,,F9295D5551AE23ACC12579290053DD05
@@ -182,13 +182,6 @@ C5AF005814052C84C12579290053FB58,Cyberkriminalität,ND,s. Cybermobbing,,,F9295D5
 F9295D5551AE23ACC12579290053DD05,Cybermobbing,DS,"Mit den aus dem Englischen kommenden Begriffen Cyber-Mobbing, auch Internet-Mobbing, Cyber-Bullying sowie Cyber-Stalking werden verschiedene Formen der Diffamierung, Belästigung, Bedrängung und Nötigung anderer Menschen oder Firmen mit Hilfe elektronischer Kommunikationsmittel über das Internet, in Chatrooms, beim Instant Messaging und/oder auch mittels Mobiltelefonen bezeichnet.",Informationstechnische Bildung,,
 8AF14A50E8F6F956C1256F230035EB98,Cyberspace,ND,s. Virtual Reality,,,BFDAFB504B20BE18C1256F230035C9C5
 E52939540857AD87C12581E9005086E8,Cyborg,ND,s. Kybernetik,,,956B133C6F737018C1256F230035BC53
-57F526BAC92E7DAAC1256F230035EC05,DFÜ,ND,s. Datenfernübertragung,,,39D43DAF3FCBD75DC1256F230035B2E0
-EBAB1712A589A80CC1256F8B0037E5DC,DOS,ND,s. Betriebssystem,,,E696797877272BF9C1256F230035B077
-18335A4BA074EA07C1256F8C0034B042,DSL,ND,s. Internet,,,F67F7B6889274F7BC1256F230035B988
-F3019A8913462C42C1256F8C0034FAD3,DSL,ND,s. Datenfernübertragung,,,39D43DAF3FCBD75DC1256F230035B2E0
-39DF9DEDFD86ADBEC1256F6200320D1F,DTP,ND,s. Desktop-Publishing,,,1CD5B82B2D97B363C1256F230035B31B
-8E6164D3384D5068C1256F230035EC8A,DV,ND,s. Datenverarbeitung,,,6B220FD016BC00FDC1256F230035B2E3
-A90976F69F4F8321C1256F230035EC8B,DVD,ND,s. Datenträger,,,06A50234E8B81AE4C1256F230035B2E2
 12B2722C9F8FB052C12583E0005B410C,Darknet,D,s.a. Deep Web,,,F2B05459FF06EC6EC12583E0005ACE0A
 A946F56D25031B34C12583E0005A0CE1,Darknet,DS,"Darknet beschreibt in der Informatik ein Peer-to-Peer-Overlay-Netzwerk, dessen Teilnehmer ihre Verbindungen untereinander manuell herstellen. Dieses Konzept steht im Gegensatz zu konventionellen Peer-to-Peer-Netzwerken, bei denen zumeist die Verbindungen zu den Clients fremder Personen automatisch und willkürlich initiiert werden. Im Ergebnis bietet ein Darknet ein höheres Maß an Sicherheit, da einem Angreifer der Zugriff auf das Netzwerk nicht ohne weiteres möglich ist – oder er im Idealfall gar nichts von der Existenz des Netzwerks weiß. Um neue Personen in ein Darknet zu integrieren, müssen diese gewöhnlich von Teilnehmern eingeladen oder akzeptiert werden. Stellenweise ist dies auch nur Teilnehmern möglich, die über Privilegien verfügen.",Informationstechnische Bildung,,
 07090954AE5F8C55C1257C1900574304,Datei,DS,"Eine Datei (englisch file) ist ein Bestand meist inhaltlich zusammengehöriger Daten, der auf einem Datenträger oder Speichermedium gespeichert ist. Diese Daten können somit über die Laufzeit eines Programms hinaus existieren und werden als persistent bezeichnet – sie sind bei Programmende nicht verloren.",Informationstechnische Bildung,,
@@ -220,14 +213,14 @@ C9FD8004A216C55FC1257C190058E692,Datenspeicherung,ND,s. Datenträger,,,06A50234E
 647522EB9FA1FF1DC1256F230035D1DE,Datenträger,D,s.a. CD-ROM,,,7DF150415E2F4464C1256F230035B20A
 D7879C567A5638F0C1256F230035D1DD,Datenträger,D,s.a. Chip,,,DFF377589B775A9AC1256F230035B249
 EAF7C32C935DB5E6C12583B00060268B,Datenträger,D,s.a. USB-Stick,,,4D74C7DA6D16BFFBC12583B000600541
+A61C683D6A189315C1256F5B0037A75A,Datenübermittlung,ND,s. Datenfernübertragung,,,39D43DAF3FCBD75DC1256F230035B2E0
+D67C6D31F2E6E865C1256F230035EBB6,Datenübertragung,ND,s. Datenfernübertragung,,,39D43DAF3FCBD75DC1256F230035B2E0
 5E828A7258C2D54CC1256F230035D1DF,Datenverarbeitung,D,s.a. Computer,,,47D91F5AC786D939C1256F230035B286
 6B220FD016BC00FDC1256F230035B2E3,Datenverarbeitung,DS,"Informationsverarbeitung mittels (analoger oder digitaler) Rechenanlagen, ein Umwandlungsprozess, bei dem Eingabedaten mit technischen Mitteln unter Verfolgung bestimmter Ziele bzw. Kriterien in Ausgabedaten transformiert werden. I.e.S. die in einem Computer aufgrund logischer und mathematischer Verknüpfungen ablaufenden Informationsverarbeitungsprozesse.",Informationstechnische Bildung,,
 B5900F70912F92B8C1257563005010E8,Datenverarbeitung,D,s.a. Zeichenerkennung,,,8323EADAF053FA5CC1256F230035CBFC
 C6AD48EB4EAA7064C1256F5B0038471C,Datenverarbeitung,D,s.a. Informatik,,,2B6F2340682523AFC1256F230035B967
 0CE78209B3F13DFAC1257CB4005FE13A,Datenverarbeitung,D,s.a. EVA-Prinzip,,,EFBEC89DF8BEF98BC1257CB4005FC7DD
 CFD8CAC345448306C1256F5500351D35,Datenverarbeitungsanlage,ND,s. Computer,,,47D91F5AC786D939C1256F230035B286
-A61C683D6A189315C1256F5B0037A75A,Datenübermittlung,ND,s. Datenfernübertragung,,,39D43DAF3FCBD75DC1256F230035B2E0
-D67C6D31F2E6E865C1256F230035EBB6,Datenübertragung,ND,s. Datenfernübertragung,,,39D43DAF3FCBD75DC1256F230035B2E0
 CB0B9F35D5A54985C1256F230035EBB7,Datex,ND,s. Datenfernübertragung,,,39D43DAF3FCBD75DC1256F230035B2E0
 88E898A7ED1CF422C1256F230035EBC1,Decodierung,ND,s. Codierung,,,46668FF93FA0C454C1256F230035B27A
 CAEDFBB31D4A9443C12583E0005B3A23,Deep Web,D,s.a. Darknet,,,A946F56D25031B34C12583E0005A0CE1
@@ -239,10 +232,14 @@ A18E0A19D55405AAC1257C23005AF7A3,Demütigung,D,s.a. Cybermobbing,,,F9295D5551AE2
 BA2E770B0F42DBE2C1256F3C00350A06,Denkspiel (Computerspiel),ND,s. Computerspiel (Denkspiel),,,0C26DE9C63D71A83C1256F230035B314
 8667FF8EADC17A77C1257C290063B730,Desktop,ND,s. Computer,,,47D91F5AC786D939C1256F230035B286
 1CD5B82B2D97B363C1256F230035B31B,Desktop-Publishing,DS,Bezeichnung für die Verwendung von Computern für die Herstellung von Publikationen. Resultat ist ein digital gespeichertes satzfertiges Manuskript.,Informationstechnische Bildung,,
+57F526BAC92E7DAAC1256F230035EC05,DFÜ,ND,s. Datenfernübertragung,,,39D43DAF3FCBD75DC1256F230035B2E0
 6E3C4556812E4E21C1257C37006365BF,Dialoggerät,ND,s. Computer,,,47D91F5AC786D939C1256F230035B286
 A5B2E1BED40FB5C5C125772B004FBBC5,Dialogsystem,ND,s. Betriebssystem,,,E696797877272BF9C1256F230035B077
 5E27EC7749DCDBACC1257C380064D20A,Didaktische Software,D,s.a. Tutorielles Programm,,,8CF4FE198C632504C1256F230035C897
 C368D0FAAA0034B7C1257C380064618C,Didaktische Software,DS,"Unter Lernsoftware oder didaktischer Software versteht man jede Art von Computer-Software, die speziell für Lernzwecke entwickelt und programmiert wurde. Typische Formen sind Tutorials (Schulungssoftware, z. B. Schachlernsoftware), Übungsprogramme (z. B. Vokabeltrainer) und Programme zur allgemeinen Informationsvermittlung (z. B. digitale Nachschlagewerke). Lernsoftware hat einen klar umrissenen Lerninhalt, folgt einem bestimmten didaktischen Konzept und ist auf eine mehr oder weniger klar definierte Zielgruppe ausgerichtet. Anders als die deutlich weiter gefassten Begriffe Unterrichtssoftware und Bildungssoftware bezeichnet der Terminus Lernsoftware damit eine Familie von Softwareprodukten, die nicht allein durch ihren Verwendungszweck, sondern auch durch gemeinsame Merkmale begründet wird. Der Gebrauch von Lernsoftware wird als E-Learning bezeichnet. Der Übergang von der Lernsoftware zum digitalen Lernspiel ist fließend.",Informationstechnische Bildung,,
+A593831C5A937F65C1257C3F005D0460,digital,ND,s. Computer,,,47D91F5AC786D939C1256F230035B286
+ED0E9B99AEDC8832C1257C3F005CFC20,digital,ND,s. Digitaltechnik,,,FB9E26C150CB8A80C1256F230035B355
+FAA8F848A590ADACC1257C3F005D1210,digital,ND,s. Computertechnik,,,B7274823C7221924C1256F230035B28F
 94CDC523DF61D278C1257C3F005D7851,Digital-Analog-Umsetzer,ND,s. Telekommunikation,,,2CEDD88AE1B7DC25C1256F230035C794
 1850FA536264161BC1257C3F005E1B77,Digitale Fotografie,D,s.a. Digitaltechnik,,,FB9E26C150CB8A80C1256F230035B355
 997DDCBF86A6AED5C1257C3F005E700D,Digitale Übertragungstechnik,ND,s. Digitaltechnik,,,FB9E26C150CB8A80C1256F230035B355
@@ -252,13 +249,19 @@ F0895CD7C4363488C1256F860033C5E7,Digitalrechner,ND,s. Computer,,,47D91F5AC786D93
 FB9E26C150CB8A80C1256F230035B355,Digitaltechnik,DS,"Gebiet der Nachrichtentechnik, das zur Erfassung, Darstellung, Verarbeitung und Übertragung digitaler (d.h. gestufter) Größen verwendet wird.",Informationstechnische Bildung,,
 2FC72189ECE2A5D1C1256F230035EC24,Diskette,ND,s. Datenträger,,,06A50234E8B81AE4C1256F230035B2E2
 9C6F526492462A3EC1256F230035EC34,Dokumentation (Informationserschließung),ND,s. Informationswesen,,,0400FFA18EAC82E5C1256F230035B96C
+EBAB1712A589A80CC1256F8B0037E5DC,DOS,ND,s. Betriebssystem,,,E696797877272BF9C1256F230035B077
 F7DBCD235656B808C1258477005E8980,Drahtloses lokales Netzwerk,ND,s. WLAN,,,14EF070E822A8391C1258477005E51C9
 98627297F38E0167C1257C460063DE8E,Drohung,ND,s. Cybermobbing,,,F9295D5551AE23ACC12579290053DD05
 1D3371705A84168CC12572820037DADA,Druck (Papier),D,s.a. Desktop-Publishing,,,1CD5B82B2D97B363C1256F230035B31B
 6CCD628D0ED36B0BC1257C56005177B9,Drucken,ND,s. Drucker (EDV),,,C029C16E1D136095C1256F230035B3AB
 C029C16E1D136095C1256F230035B3AB,Drucker (EDV),DS,"Ausgabegerät von elektronischen Datenverarbeitungsanlagen, das die Daten in Klarschrift auf Papier ausgibt.",Informationstechnische Bildung,,
+18335A4BA074EA07C1256F8C0034B042,DSL,ND,s. Internet,,,F67F7B6889274F7BC1256F230035B988
+F3019A8913462C42C1256F8C0034FAD3,DSL,ND,s. Datenfernübertragung,,,39D43DAF3FCBD75DC1256F230035B2E0
+39DF9DEDFD86ADBEC1256F6200320D1F,DTP,ND,s. Desktop-Publishing,,,1CD5B82B2D97B363C1256F230035B31B
 1D10C3FAC6C29A60C1256F2B00314580,Dualcode,ND,s. Codierung,,,46668FF93FA0C454C1256F230035B27A
 EB2B51890AB5D0A5C1257C57003E969F,Dualzahl,ND,s. Codierung,,,46668FF93FA0C454C1256F230035B27A
+8E6164D3384D5068C1256F230035EC8A,DV,ND,s. Datenverarbeitung,,,6B220FD016BC00FDC1256F230035B2E3
+A90976F69F4F8321C1256F230035EC8B,DVD,ND,s. Datenträger,,,06A50234E8B81AE4C1256F230035B2E2
 2C7E7CCA4CA11EF6C125796A00410C56,E-Commerce,D,s.a. Internet,,,F67F7B6889274F7BC1256F230035B988
 34FC60185CB0E23AC1257AE100570290,E-Game,ND,s. Computerspiel,,,757188C274E853BFC1256F230035B28E
 4D80F61C6AC7F85AC1257C3800653376,E-Learning,D,s.a. Didaktische Software,,,C368D0FAAA0034B7C1257C380064618C
@@ -269,8 +272,6 @@ EA40A6E4E8428B68C1256F8C00380332,EAN-System,D,s.a. Codierung,,,46668FF93FA0C454C
 F0E6673BF484456AC1256F230035B3CE,EAN-System,DS,"Abk. für Europäische Artikel-Nummerierung, mit Strichcode arbeitendes Nummerierungssystem der Konsumgüterindustrie; maschinell lesbar. Die EAN ist eine Zahl, bestehend aus 13 oder 8 Ziffern, die zentral durch die GS1-Gruppe verwaltet und an Hersteller auf Antrag vergeben wird. In Deutschland fallen für die Vergabe einer ILN, welche Voraussetzung für die Beantragung einer EAN ist, jährliche Gebühren an. Anfang 2009 wurden die EAN umbenannt in GTIN (Global Trade Item Number, Globale Artikelidentnummer) und die ILN in GLN (Globale Lokationsnummer). Die EAN/GTIN wird in der Regel als maschinenlesbarer Strichcode auf die Warenpackung aufgedruckt und kann von Barcodescannern decodiert werden, beispielsweise an Scannerkassen.",Informationstechnische Bildung,,
 B513FE036C2CD3CEC1256F230035EC9B,EDV,ND,s. Datenverarbeitung,,,6B220FD016BC00FDC1256F230035B2E3
 5313226CD95E153BC1257AE100570A8C,EGame,ND,s. Computerspiel,,,757188C274E853BFC1256F230035B28E
-B5B8938115AA4FB7C1257CB4005FD9BD,EVA,ND,s. EVA-Prinzip,,,EFBEC89DF8BEF98BC1257CB4005FC7DD
-EFBEC89DF8BEF98BC1257CB4005FC7DD,EVA-Prinzip,DS,"Das EVA-Prinzip (englisch input-process-output (IPO) model) beschreibt ein Grundprinzip der Datenverarbeitung. Die Abkürzung leitet sich aus den ersten Buchstaben der Begriffe Eingabe, Verarbeitung und Ausgabe ab. Diese drei Begriffe beschreiben die Reihenfolge, in der Daten verarbeitet werden. Das Prinzip ist aus der Sicht der verarbeitenden Einheit zu sehen (das kann auch ein Mensch sein) und ist somit unabhängig von elektronischen Maschinen. Es ist daher allgemeingültig für den Vorgang der Verarbeitung von Daten.",Informationstechnische Bildung,,
 F6B85300562676E8C1257AE10057683E,Ego-Shooter,ND,s. Computerspiel,,,757188C274E853BFC1256F230035B28E
 7ACD824058B6A550C125772B004FDFB5,Einbenutzersystem,ND,s. Betriebssystem,,,E696797877272BF9C1256F230035B077
 C77C305096F201EFC1257C69005791AF,Eingabe,ND,s. Computer,,,47D91F5AC786D939C1256F230035B286
@@ -284,10 +285,12 @@ AD877B7ABE9C7502C1256F230035ECF3,Elektronische Bildverarbeitung,ND,s. Datenverar
 1AA4572CE832BB74C1257C7E00600710,Elektronischer Rechner,ND,s. Computer,,,47D91F5AC786D939C1256F230035B286
 2FC7A4F381AC3F76C1257737003E17CA,Ellipse (Informatik),ND,s. Programmierung,,,8CF7BE1247B2318DC1256F230035C257
 2547B535D01922ECC1257999005D390C,Entry Point Obscuring,ND,s. Computervirus,,,2AD8B666316651E5C1256F230035B291
-46EDFCFB4D4E17E8C1257730004648B1,European Article Number,ND,s. EAN-System,,,F0E6673BF484456AC1256F230035B3CE
 CB131B64F877A869C1257730004639AF,Europäische Artikelnummer,ND,s. EAN-System,,,F0E6673BF484456AC1256F230035B3CE
-DF576CEE54D63F00C1256F230035EF55,FTP,ND,s. Internet,,,F67F7B6889274F7BC1256F230035B988
+46EDFCFB4D4E17E8C1257730004648B1,European Article Number,ND,s. EAN-System,,,F0E6673BF484456AC1256F230035B3CE
+B5B8938115AA4FB7C1257CB4005FD9BD,EVA,ND,s. EVA-Prinzip,,,EFBEC89DF8BEF98BC1257CB4005FC7DD
+EFBEC89DF8BEF98BC1257CB4005FC7DD,EVA-Prinzip,DS,"Das EVA-Prinzip (englisch input-process-output (IPO) model) beschreibt ein Grundprinzip der Datenverarbeitung. Die Abkürzung leitet sich aus den ersten Buchstaben der Begriffe Eingabe, Verarbeitung und Ausgabe ab. Diese drei Begriffe beschreiben die Reihenfolge, in der Daten verarbeitet werden. Das Prinzip ist aus der Sicht der verarbeitenden Einheit zu sehen (das kann auch ein Mensch sein) und ist somit unabhängig von elektronischen Maschinen. Es ist daher allgemeingültig für den Vorgang der Verarbeitung von Daten.",Informationstechnische Bildung,,
 4A4F4689BB111043C125798A005EAFC4,Facebook,ND,s. Soziales Netzwerk,,,651165E3D23C1666C125798A005E4320
+00C56FBB815CC2DBC1256F230035EDF3,Fähigkeit zur Nutzung von Info,ND,s. Informationswesen,,,0400FFA18EAC82E5C1256F230035B96C
 CEE2DD9E09EC968FC1256F230035EE14,Farbstrahldrucker,ND,s. Drucker (EDV),,,C029C16E1D136095C1256F230035B3AB
 D84851D0F63CD882C1256FB000358FDB,Fax,ND,s. Telekommunikation,,,2CEDD88AE1B7DC25C1256F230035C794
 8A91B50F1CE24F87C1256FB00039B3E6,Fernmeldetechnik,ND,s. Telekommunikation,,,2CEDD88AE1B7DC25C1256F230035C794
@@ -305,25 +308,24 @@ A51E85DA36715F44C1256F86003593D7,Floppy Disk,ND,s. Datenträger,,,06A50234E8B81A
 8A6EB64EBEF2191EC1257AE10056BD7A,Forenspiel,ND,s. Computerspiel,,,757188C274E853BFC1256F230035B28E
 0EB87E7B0B793DF4C1257D13003B2D94,Formatieren,ND,s. Datenträger,,,06A50234E8B81AE4C1256F230035B2E2
 603DFFB42ED9E550C1257D13003B32CF,Formatierung,ND,s. Datenträger,,,06A50234E8B81AE4C1256F230035B2E2
+DF576CEE54D63F00C1256F230035EF55,FTP,ND,s. Internet,,,F67F7B6889274F7BC1256F230035B988
 1BED8A6DFCA7761FC1256F230035EF61,Funny-Game (Computerspiel),ND,s. Computerspiel (Jump-and-Run),,,E0D61BC77CA57DB8C1256F230035BA32
-00C56FBB815CC2DBC1256F230035EDF3,Fähigkeit zur Nutzung von Info,ND,s. Informationswesen,,,0400FFA18EAC82E5C1256F230035B96C
-E3922678EB722C18C1257D8900597F75,GEM,ND,s. Software,,,412292943327DEFCC1256F230035C5F1
-F7180248C7BE67E1C1257D89005975A5,GEM,ND,s. Betriebssystem,,,E696797877272BF9C1256F230035B077
-D46FC7836C94533FC1257DDB0050CBA0,GIS,ND,s. Geoinformationssystem,,,159F6F90D93A8840C1257DDB005094B1
-E8E397276EF66292C125773000468120,GLN,ND,s. EAN-System,,,F0E6673BF484456AC1256F230035B3CE
-5637B37A303D1E5FC125773000469A25,GTIN,ND,s. EAN-System,,,F0E6673BF484456AC1256F230035B3CE
 D1C20066E941CC5BC1257AE100571BFF,Game,ND,s. Computerspiel,,,757188C274E853BFC1256F230035B28E
 BA323BBF8478050AC1257AE100586260,Game-Boy,ND,s. Computerspiel,,,757188C274E853BFC1256F230035B28E
 C076441896A9A559C1257D7A005863E5,"Gates, Bill",DS,"William „Bill“ Henry Gates III; geb. 1955; ist ein US-amerikanischer Unternehmer, Programmierer und Mäzen. Bill Gates ist seit 2013, laut der Bloomberg-Liste, mit einem geschätzten Vermögen von 72,7 Mrd. US-Dollar wieder der reichste Mensch der Welt. Darüber hinaus hat er bisher 28 Milliarden Dollar der von ihm und seiner Frau gegründeten Bill & Melinda Gates Foundation gespendet. Gates gründete 1975, gemeinsam mit Paul Allen, die Microsoft Corporation. Er besitzt etwa 501 Millionen Aktien von Microsoft (etwa 16 Mrd. US $), was knapp 6 % des Grundkapitals entspricht, ist Chairman of the Board (vergleichbar mit einem Aufsichtsratsvorsitzenden) und war bis 2006 Leiter der Entwicklungsabteilung (Chief Software Architect) des Unternehmens. Seit Dezember 2004 ist er auch Mitglied des Aufsichtsrats (Board of Directors) von Berkshire Hathaway.",Informationstechnische Bildung,,
 C0BFDD2DAF304EC7C1256FE00030EB43,Geheimschrift,ND,s. Codierung,,,46668FF93FA0C454C1256F230035B27A
+E3922678EB722C18C1257D8900597F75,GEM,ND,s. Software,,,412292943327DEFCC1256F230035C5F1
+F7180248C7BE67E1C1257D89005975A5,GEM,ND,s. Betriebssystem,,,E696797877272BF9C1256F230035B077
 212FEE30FB59CA52C1257DDB0050C054,Geographisches Informationssystem,ND,s. Geoinformationssystem,,,159F6F90D93A8840C1257DDB005094B1
 159F6F90D93A8840C1257DDB005094B1,Geoinformationssystem,DS,"Geoinformationssysteme (GIS), Geographische Informationssysteme oder Räumliche Informationssysteme (RIS) sind Informationssysteme zur Erfassung, Bearbeitung, Organisation, Analyse und Präsentation räumlicher Daten. Geoinformationssysteme umfassen die dazu benötigte Hardware, Software, Daten und Anwendungen.",Informationstechnische Bildung,,
 E235550297A3F14EC1257DDB0050B4D3,Geoportal,ND,s. Geoinformationssystem,,,159F6F90D93A8840C1257DDB005094B1
 E50B44B20B36F9C3C125749400379FB8,"Gerke, Friedrich Clemens",ND,"s. Morse, Samuel",,,B39C5321F992545CC1256F230035FA2B
 84666EC8BCA3E4D7C1256F230035F016,Geschicklichkeitsspiel (Computerspiel),ND,s. Computerspiel (Denkspiel),,,0C26DE9C63D71A83C1256F230035B314
+D46FC7836C94533FC1257DDB0050CBA0,GIS,ND,s. Geoinformationssystem,,,159F6F90D93A8840C1257DDB005094B1
 C53B9528E282B5BAC1257DB000585B7D,Glasfaserkabel,ND,s. Datenfernübertragung,,,39D43DAF3FCBD75DC1256F230035B2E0
 651E50A875D6A652C1257DB00058B874,Glasfaseroptik,ND,s. Datenfernübertragung,,,39D43DAF3FCBD75DC1256F230035B2E0
 47A90F371149FFA1C1257DB00058C31B,Glasfasertechnik,ND,s. Datenfernübertragung,,,39D43DAF3FCBD75DC1256F230035B2E0
+E8E397276EF66292C125773000468120,GLN,ND,s. EAN-System,,,F0E6673BF484456AC1256F230035B3CE
 9643FE11787900AAC12577300046A28F,Global Trade Item Number,ND,s. EAN-System,,,F0E6673BF484456AC1256F230035B3CE
 51E637842AF960FDC12577300046B19D,Globale Artikelidentnummer,ND,s. EAN-System,,,F0E6673BF484456AC1256F230035B3CE
 909195B1EA543E33C125773000468CD5,Globale Lokationsnummer,ND,s. EAN-System,,,F0E6673BF484456AC1256F230035B3CE
@@ -337,14 +339,15 @@ E4296304B75375ABC1256F230035F08E,Grafiktablett,ND,s. Computer,,,47D91F5AC786D939
 C8F327512187B202C125752200529114,Graphikprogramm,ND,s. Computergrafik,,,01692810A8CD41CFC1256F230035B28B
 FA8483601C41CC7AC125752E004C0788,Graphikprogramm,ND,s. Grafikprogramm,,,3538E761924D3352C1256F230035B754
 82DC88D980986FE3C1256F230035F0CA,Großrechner,ND,s. Computer,,,47D91F5AC786D939C1256F230035B286
+5637B37A303D1E5FC125773000469A25,GTIN,ND,s. EAN-System,,,F0E6673BF484456AC1256F230035B3CE
 3925A50DB79051B8C12583E0005BE8A9,Hacker (Computersicherheit),DS,"Hacker aus dem Bereich der Computersicherheit beschäftigen sich mit Sicherheitsmechanismen und deren Schwachstellen. Während der Begriff auch diejenigen beinhaltet, die Sicherheitslücken suchen, um sie aufzuzeigen oder zu korrigieren, wird er von den Massenmedien und in der allgemeinen Öffentlichkeit häufiger für Personen benutzt, die unerlaubt in fremden Systemen solche Lücken ausnutzen. Entsprechend ist der Begriff stark positiv beziehungsweise negativ belegt, wobei Hacker abgrenzbar von Scriptkiddie ist: Ein Hacker besitzt tiefe Grundlagenkenntnisse, ein Scriptkiddie nicht.",Informationstechnische Bildung,,
 25F23B51CB466C68C125782F003F0E7C,Halbleiter,D,s.a. Mikroelektronik,,,DBD9E810D5809809C1256F230035BEF4
 118F978B649D716FC1256F540033297B,Halbleiter-Chip,ND,s. Chip,,,DFF377589B775A9AC1256F230035B249
 DD0C019BAD4A4C46C125782F003F19F1,Halbleiterelektronik,ND,s. Mikroelektronik,,,DBD9E810D5809809C1256F230035BEF4
 FD450E0CA89CAE0FC1256F230035F12E,Hardware,ND,s. Computer,,,47D91F5AC786D939C1256F230035B286
 BC7B2FEEB5F28404C125726B0035E0A0,Hardwareschnittstelle,ND,s. Schnittstelle,,,8512D4C9A793D131C1256F230035C4D2
-2BEAFB6D927EA984C1258133005BC976,Hate Speech,ND,s. Cybermobbing,,,F9295D5551AE23ACC12579290053DD05
 87EA2FFB1BA079D0C1258133005BC436,Hate-Speech,ND,s. Cybermobbing,,,F9295D5551AE23ACC12579290053DD05
+2BEAFB6D927EA984C1258133005BC976,Hate Speech,ND,s. Cybermobbing,,,F9295D5551AE23ACC12579290053DD05
 9BB7141D31A86CF9C1258133005BB897,Hatespeech,ND,s. Cybermobbing,,,F9295D5551AE23ACC12579290053DD05
 54A05E557BFEDD23C1256F230035F1A0,Heimcomputer,ND,s. Computer,,,47D91F5AC786D939C1256F230035B286
 AE949F37162D142EC12583E0005AFFD9,Hidden Web,ND,s. Deep Web,,,F2B05459FF06EC6EC12583E0005ACE0A
@@ -353,7 +356,6 @@ D5D8A377D2E84164C1257E52005AA534,Homepage,ND,s. Internet,,,F67F7B6889274F7BC1256
 5D9023D5DAD9DC35C1257E570056514B,Hotspot (WLAN),ND,s. WLAN,,,14EF070E822A8391C1258477005E51C9
 5FAC469080B82E3EC1256F230035F264,Hypermedia,ND,s. Multimedia,,,340BD8AFCD0FBE7DC1256F230035BFAC
 FCEBC611EBEF7288C1256F230035F265,Hypertext,ND,s. Multimedia,,,340BD8AFCD0FBE7DC1256F230035BFAC
-30DE14EFB724025EC1256F230035F2D8,ISDN,ND,s. Datenfernübertragung,,,39D43DAF3FCBD75DC1256F230035B2E0
 443529C017605087C1256F230035F284,Indexierung,ND,s. Informationswesen,,,0400FFA18EAC82E5C1256F230035B96C
 3ACF79099311D291C12583E0005CB5A1,Influencer,D,s.a. Blogger,,,AA08F7ED663D12E9C12583DF005C1AF9
 9B4C768FC17D08C5C12583E0005C9BD1,Influencer,DS,"Als Influencer werden Personen bezeichnet, die aufgrund ihrer starken Präsenz und ihres hohen Ansehens in einem oder mehreren sozialen Netzwerken als Träger für Werbung und Vermarktung in Frage kommen (sogenanntes Influencer-Marketing).",Informationstechnische Bildung,,
@@ -422,6 +424,9 @@ DEB4E95BA6008760C1257E9800583006,Internetforum,ND,s. Internet,,,F67F7B6889274F7B
 39932C00639E4825C1257AE100560153,Internetspiel,ND,s. Computerspiel,,,757188C274E853BFC1256F230035B28E
 5C5D25457549FD59C125714C0052D253,Intranet,ND,s. Bürokommunikation,,,24D7ED5DE5BDA562C1256F230035B1D6
 575A29EBC24FF1E3C12583E0005B09C4,Invisible Web,ND,s. Deep Web,,,F2B05459FF06EC6EC12583E0005ACE0A
+CCC3BDAACC1CA8BAC1257EA2002B401A,iPad,ND,s. Computer,,,47D91F5AC786D939C1256F230035B286
+30DE14EFB724025EC1256F230035F2D8,ISDN,ND,s. Datenfernübertragung,,,39D43DAF3FCBD75DC1256F230035B2E0
+78039DA0DF922299C1257EA40053FADB,iShareGossip,ND,s. Cybermobbing,,,F9295D5551AE23ACC12579290053DD05
 390C9E498C948DCBC1256F230035F2EB,IuK-Technik,ND,s. Computer,,,47D91F5AC786D939C1256F230035B286
 DD2B6E41EC98980CC1256F230035F2EC,IuK-Technik,ND,s. Telekommunikation,,,2CEDD88AE1B7DC25C1256F230035C794
 7C1CFA3645A4B195C1256F230035F2ED,IuK-Technologie,ND,s. Informationswesen,,,0400FFA18EAC82E5C1256F230035B96C
@@ -461,14 +466,6 @@ B2F2FEB540289923C1256F230035F7B5,Lochkarte,ND,s. Datenverarbeitung,,,6B220FD016B
 2035337AC8B1C7B0C1256F230035F7B9,Lochstreifen,ND,s. Datenträger,,,06A50234E8B81AE4C1256F230035B2E2
 C36243C8958CDAF1C1256F230035F7BA,Lochstreifen,ND,s. Datenverarbeitung,,,6B220FD016BC00FDC1256F230035B2E3
 971C9595751CC18EC125725F003B190D,Logikfamilie,ND,s. Digitaltechnik,,,FB9E26C150CB8A80C1256F230035B355
-B4F1C867B34BD85AC125805D0061FBBA,MAZ,ND,s. Datenträger,,,06A50234E8B81AE4C1256F230035B2E2
-E6B6C377EA160C54C1257AE10056AEC1,MMOG,ND,s. Computerspiel,,,757188C274E853BFC1256F230035B28E
-B01A6A031193F4C8C1257AE1005614AF,MMORPG,ND,s. Computerspiel,,,757188C274E853BFC1256F230035B28E
-15C7312592D0D181C12573E10037AF1F,MP drei,ND,s. Computertechnik,,,B7274823C7221924C1256F230035B28F
-017D079C15AFF7ECC12571ED00364F87,MP3,ND,s. Computertechnik,,,B7274823C7221924C1256F230035B28F
-D6842267D9E9EA46C1257ED3002DCD19,MP3,ND,s. Podcasting,,,17754FF376BE699EC1257ED3002D50A6
-594C90C3ECF063FFC12580CA005DAFB6,MS,ND,s. Software,,,412292943327DEFCC1256F230035C5F1
-9405C4A8A1FA6D07C1256F8B0037FA2D,MS-DOS,ND,s. Betriebssystem,,,E696797877272BF9C1256F230035B077
 FDC03E0A5C80F95FC1257FEE005E14F8,Magnetaufzeichnung,ND,s. Datenträger,,,06A50234E8B81AE4C1256F230035B2E2
 4C0F3F862ECEA065C1256F230035F832,Magnetband,ND,s. Datenträger,,,06A50234E8B81AE4C1256F230035B2E2
 27AE364B005690D8C1256F230035F837,Magnetplatte,ND,s. Datenträger,,,06A50234E8B81AE4C1256F230035B2E2
@@ -486,6 +483,7 @@ F4B9E0E12A9019CAC1256F230035DA27,Massenmedien,D,s.a. Internet,,,F67F7B6889274F7B
 2F0F392EB3A448BDC1257AE1005801EB,Massively Multiplayer Online Role-Playing Game,ND,s. Computerspiel,,,757188C274E853BFC1256F230035B28E
 D317FD5EE7105595C1256F230035F8D2,Matrixdrucker,ND,s. Drucker (EDV),,,C029C16E1D136095C1256F230035B3AB
 81BBE07D6B3F20EBC1256F230035F8DE,Maus (Computer),ND,s. Computer,,,47D91F5AC786D939C1256F230035B286
+B4F1C867B34BD85AC125805D0061FBBA,MAZ,ND,s. Datenträger,,,06A50234E8B81AE4C1256F230035B2E2
 29D5AD35FAAAFD59C1256F230035F8F6,Mediathek,ND,s. Multimedia,,,340BD8AFCD0FBE7DC1256F230035BFAC
 E3648D0F550D7FC1C125772B004FEA0F,Mehrbenutzersystem,ND,s. Betriebssystem,,,E696797877272BF9C1256F230035B077
 EFD92C99D56E59D8C1257AE10057C30F,Mehrspieler (Computerspiel),ND,s. Computerspiel,,,757188C274E853BFC1256F230035B28E
@@ -502,6 +500,8 @@ DBD9E810D5809809C1256F230035BEF4,Mikroelektronik,DS,"Die Mikroelektronik ist e
 483CAB837EF03190C1256F230035BEF5,Mikrofilm,DS,"Film mit Mikrokopien, dient zur raumsparenden Schriftgutablage und Dokumentation. Die Mikrokopien (Mikrofiche) werden in einem Lesegerät bearbeitet.",Informationstechnische Bildung,,
 B73272018DE7E1A6C1256F230035F987,Mikroprozessor,ND,s. Chip,,,DFF377589B775A9AC1256F230035B249
 53B55C77BB533789C1256F230035F9DE,Mixed Media,ND,s. Multimedia,,,340BD8AFCD0FBE7DC1256F230035BFAC
+E6B6C377EA160C54C1257AE10056AEC1,MMOG,ND,s. Computerspiel,,,757188C274E853BFC1256F230035B28E
+B01A6A031193F4C8C1257AE1005614AF,MMORPG,ND,s. Computerspiel,,,757188C274E853BFC1256F230035B28E
 8A986EB571DCD074C12579290054031B,Mobbing,D,s.a. Cybermobbing,,,F9295D5551AE23ACC12579290053DD05
 04273BC53478DF03C12581BF0050700A,Mobile App,ND,s. Software,,,412292943327DEFCC1256F230035C5F1
 4ED790A751942CB6C12571C70046B4DA,Mobile Commerce,ND,s. Telekommunikation,,,2CEDD88AE1B7DC25C1256F230035C794
@@ -511,12 +511,17 @@ B413C94498C26337C125725D00414000,Mobilkommunikation,ND,s. Telekommunikation,,,2C
 53F1D3CFAE6B94F1C1256F230035F9E7,Modellbildung (Computer),ND,s. Computersimulation,,,918575D29237E96BC1256F230035B28D
 D9C82336531D9E3EC12571C7004825C7,Modem,ND,s. Datenfernübertragung,,,39D43DAF3FCBD75DC1256F230035B2E0
 C3A575AE1341B908C12571C7004B619E,Monitor,ND,s. Computer,,,47D91F5AC786D939C1256F230035B286
-B39C5321F992545CC1256F230035FA2B,"Morse, Samuel",DS,"US-amerikanischer Erfinder und Professor für Malerei, Plastik und Zeichenkunst (1791-1872).   Bekannt wurde er als angeblicher Erfinder eines Vorläufers des heutigen Morsecodes, einem System aus Strichen und Punkten (bzw. langen und kurzen Signalen), mit dem man Nachrichten auch über große Entfernungen übermitteln kann. Tatsächlicher Erfinder des Morsealphabets ist Friedrich Clemens Gerke (1801-1888).",Informationstechnische Bildung,,
-F26A07F3FD26C7E2C1257494003784F8,"Morse, Samuel",D,s.a. Morsezeichen,,,7A4D35B38645DDF4C1256F230035BF7C
 0E0C321EC5A60A45C125783C00644ACC,Morsecode,ND,s. Morsezeichen,,,7A4D35B38645DDF4C1256F230035BF7C
 6568E517F9A49555C125749400378EAE,Morsezeichen,D,"s.a. Morse, Samuel",,,B39C5321F992545CC1256F230035FA2B
 7A4D35B38645DDF4C1256F230035BF7C,Morsezeichen,DS,"Von S. Morse (1791-1872) geschaffene, aus Strichen und Punkten zusammengesetzte Zeichenschrift zum Telegrafieren. Ein Verfahren zur Übermittlung von Buchstaben und Zeichen. Dabei wird ein konstantes Signal ein- und ausgeschaltet. Der Code kann als Tonsignal, als Funksignal, als elektrischer Puls mit einer Morsetaste über eine Telefonleitung, mechanisch oder optisch (etwa mit blinkendem Licht) übertragen werden – oder auch mit jedem sonstigen Medium, mit dem zwei verschiedene Zustände (wie etwa Ton oder kein Ton) eindeutig und in der zeitlichen Länge variierbar dargestellt werden können. Man spricht auch von Morsetelegrafie.",Informationstechnische Bildung,,
+B39C5321F992545CC1256F230035FA2B,"Morse, Samuel",DS,"US-amerikanischer Erfinder und Professor für Malerei, Plastik und Zeichenkunst (1791-1872).   Bekannt wurde er als angeblicher Erfinder eines Vorläufers des heutigen Morsecodes, einem System aus Strichen und Punkten (bzw. langen und kurzen Signalen), mit dem man Nachrichten auch über große Entfernungen übermitteln kann. Tatsächlicher Erfinder des Morsealphabets ist Friedrich Clemens Gerke (1801-1888).",Informationstechnische Bildung,,
+F26A07F3FD26C7E2C1257494003784F8,"Morse, Samuel",D,s.a. Morsezeichen,,,7A4D35B38645DDF4C1256F230035BF7C
 B925987441613898C12580BC006032D3,Motion Capture,DS,"Unter Motion Capture, wörtlich Bewegungs-Erfassung, versteht man ein Tracking-Verfahren, das es ermöglicht, jede Art von Bewegungen so zu erfassen und in ein von Computern lesbares Format umzuwandeln, dass diese die Bewegungen analysieren, aufzeichnen, weiterverarbeiten und zur Steuerung von Anwendungen verwenden können.",Informationstechnische Bildung,,
+15C7312592D0D181C12573E10037AF1F,MP drei,ND,s. Computertechnik,,,B7274823C7221924C1256F230035B28F
+017D079C15AFF7ECC12571ED00364F87,MP3,ND,s. Computertechnik,,,B7274823C7221924C1256F230035B28F
+D6842267D9E9EA46C1257ED3002DCD19,MP3,ND,s. Podcasting,,,17754FF376BE699EC1257ED3002D50A6
+594C90C3ECF063FFC12580CA005DAFB6,MS,ND,s. Software,,,412292943327DEFCC1256F230035C5F1
+9405C4A8A1FA6D07C1256F8B0037FA2D,MS-DOS,ND,s. Betriebssystem,,,E696797877272BF9C1256F230035B077
 3D6401AC1DECD389C12580D1005F848E,Multifunktionale Software,ND,s. Software,,,412292943327DEFCC1256F230035C5F1
 340BD8AFCD0FBE7DC1256F230035BFAC,Multimedia,DS,"Programmatische Verbindung mehrerer künstlerischer Ausdrucksformen bzw. Medien zu einer neuen Einheit, z.B. in Form der Audiovision und des Environments.",Informationstechnische Bildung,,
 2E8E962AFFE20C5EC1256F230035FA6D,Multimediale Methode,ND,s. Multimedia,,,340BD8AFCD0FBE7DC1256F230035BFAC
@@ -551,10 +556,9 @@ CD03686D3F4ED147C125772B004FFC50,Operating System,ND,s. Betriebssystem,,,E696797
 010AB1830DBED763C125799E00650A01,Optische Zeichenerkennung,ND,s. Zeichenerkennung,,,8323EADAF053FA5CC1256F230035CBFC
 3A7348A8D72D056EC125814100587C52,Ordner,ND,s. Datei,,,07090954AE5F8C55C1257C1900574304
 C2E40E04B56484D9C1256F230035C128,Overlay,DS,Hilfsprogramm zum Erlernen bzw. zur Benutzung von Textverarbeitungsprogrammen etc.,Informationstechnische Bildung,,
-73D696D769A2BDA1C1258164005BD5C5,PC,ND,s. Computer,,,47D91F5AC786D939C1256F230035B286
-75CB4158B925822DC1257AE1005873A8,PSP,ND,s. Computerspiel,,,757188C274E853BFC1256F230035B28E
 6C7371D13E73EED0C125726B0035CFC7,Parallele Schnittstelle,ND,s. Schnittstelle,,,8512D4C9A793D131C1256F230035C4D2
 4435815B712ADA77C1258163005989F0,Pascal,ND,s. Programmierung,,,8CF7BE1247B2318DC1256F230035C257
+73D696D769A2BDA1C1258164005BD5C5,PC,ND,s. Computer,,,47D91F5AC786D939C1256F230035B286
 43433534F4C7F1E4C12583E0005A2516,Peer-to-Peer-Overlay-Netz,ND,s. Darknet,,,A946F56D25031B34C12583E0005A0CE1
 F9B9E9324BDDD845C12583E0005B59C9,Peer-to-Peer-Overlay-Netz,ND,s. Deep Web,,,F2B05459FF06EC6EC12583E0005ACE0A
 824D489455452F98C125772C00367CBC,Personal Computer,ND,s. Computer,,,47D91F5AC786D939C1256F230035B286
@@ -569,6 +573,7 @@ D02702E0DA67422EC1257AE100582F20,PlayStation,ND,s. Computerspiel,,,757188C274E85
 17754FF376BE699EC1257ED3002D50A6,Podcasting,DS,"Podcasting bezeichnet das Anbieten abonnierbarer Mediendateien (Audio oder Video) über das Internet. Das Kofferwort setzt sich zusammen aus der englischen Rundfunkbezeichnung Broadcasting und der Bezeichnung für bestimmte tragbare MP3-Spieler, iPod, mit deren Erfolg Podcasts direkt verbunden sind und die heute stellvertretend für jegliche tragbare MP3-Spieler stehen. Ein einzelner Podcast besteht aus einer Serie von Medienbeiträgen (Episoden), die über einen Web-Feed (meistens RSS) automatisch bezogen werden können. Alternativ sind Podcasts auch unter dem markenneutralen Begriff Netcast bekannt.",Informationstechnische Bildung,,
 070B7734932C3F6CC1257999005D5DC4,Polymorpher Virus,ND,s. Computervirus,,,2AD8B666316651E5C1256F230035B291
 45CFCB979F440AE7C12581AF00580E98,PowerPoint,ND,s. Anwendersystem,,,CCFC9FEC3CD44DADC1256F230035AE43
+C562B7A69FD22F05C12581AF00598293,Präsentation,ND,s. Anwendersystem,,,CCFC9FEC3CD44DADC1256F230035AE43
 A6EE86A0200985BAC12570150031C2E8,Praktische Informatik,ND,s. Informatik,,,2B6F2340682523AFC1256F230035B967
 FACA5EEB97BBA3E0C1257999005D25E0,Pretender,ND,s. Computervirus,,,2AD8B666316651E5C1256F230035B291
 E846809D4F02CDFDC1256F8C0033F2A7,Printer,ND,s. Drucker (EDV),,,C029C16E1D136095C1256F230035B3AB
@@ -581,16 +586,16 @@ F9C6134A8DBEB07EC1256F230035FEC2,Programmiersprache,ND,s. Programmierung,,,8CF7B
 9982448FB89003CAC1256F230035DD52,Programmierung,D,s.a. Informatik,,,2B6F2340682523AFC1256F230035B967
 4343722EDA831983C12581C10038FB16,Projektion (Informatik),ND,s. Informatik,,,2B6F2340682523AFC1256F230035B967
 DD4673B8DB597E02C125714C004DAFC1,Provider,ND,s. Internet,,,F67F7B6889274F7BC1256F230035B988
-C562B7A69FD22F05C12581AF00598293,Präsentation,ND,s. Anwendersystem,,,CCFC9FEC3CD44DADC1256F230035AE43
+75CB4158B925822DC1257AE1005873A8,PSP,ND,s. Computerspiel,,,757188C274E853BFC1256F230035B28E
 11BD832B0FAD7CFAC1257AE10057D4F8,Quake III Arena,ND,s. Computerspiel,,,757188C274E853BFC1256F230035B28E
-86FD6D657CBFAE3EC1257DDB0050DE38,RIS,ND,s. Geoinformationssystem,,,159F6F90D93A8840C1257DDB005094B1
-0E409EAFFA79F9D3C12582470062DBBA,ROM (Datenverarbeitung),ND,s. Datenverarbeitung,,,6B220FD016BC00FDC1256F230035B2E3
+38688E5D666B0DB9C1257DDB0050D678,Räumliches Informationssystem,ND,s. Geoinformationssystem,,,159F6F90D93A8840C1257DDB005094B1
 982E2732F78E7539C1256F230035FF83,Rechenanlage,ND,s. Computer,,,47D91F5AC786D939C1256F230035B286
 D8760F1FE2CCA9B5C12581F7005DAC3A,Rechenzentrum,ND,s. Computer,,,47D91F5AC786D939C1256F230035B286
 AADCFB7D2ED062DFC1256F230035FF86,Rechner,ND,s. Computer,,,47D91F5AC786D939C1256F230035B286
 DC1C032180B5A83FC1257015003198D7,Rechnerorganisation,ND,s. Informatik,,,2B6F2340682523AFC1256F230035B967
 2ED66B507B97E8FDC1257999005DEA57,Retrovirus,ND,s. Computervirus,,,2AD8B666316651E5C1256F230035B291
-38688E5D666B0DB9C1257DDB0050D678,Räumliches Informationssystem,ND,s. Geoinformationssystem,,,159F6F90D93A8840C1257DDB005094B1
+86FD6D657CBFAE3EC1257DDB0050DE38,RIS,ND,s. Geoinformationssystem,,,159F6F90D93A8840C1257DDB005094B1
+0E409EAFFA79F9D3C12582470062DBBA,ROM (Datenverarbeitung),ND,s. Datenverarbeitung,,,6B220FD016BC00FDC1256F230035B2E3
 88FDA8EB6B100791C125725D004134BF,Satellitenmobilfunk,ND,s. Telekommunikation,,,2CEDD88AE1B7DC25C1256F230035C794
 623BC97CAC81A650C1256F2300360154,Scanner,ND,s. Computer,,,47D91F5AC786D939C1256F230035B286
 35DBBC7E6222B308C1256F230035DED7,Schaltalgebra,D,s.a. Digitaltechnik,,,FB9E26C150CB8A80C1256F230035B355
@@ -604,22 +609,22 @@ DDACD68BD8443915C125827B005CC33A,Schikanieren,ND,s. Cybermobbing,,,F9295D5551AE2
 6FF17AF0DEC4F8DFC1256F5B003827AA,Schnittstelle,D,s.a. Datenfernübertragung,,,39D43DAF3FCBD75DC1256F230035B2E0
 8512D4C9A793D131C1256F230035C4D2,Schnittstelle,DS,"Datenverarbeitung: Bezeichnung für eine Stelle, an der zwei Anlagenteile zusammengeschaltet sind und deren technischer Aufbau die Übertragung von Daten zwischen diesen Teilen ermöglicht.",Informationstechnische Bildung,,
 240AE11C11B62614C1256F230035DEF2,Schreibmaschine,D,s.a. Textverarbeitung,,,C75A3E163EB55404C1256F230035C7C8
-414E3C849D90EA13C1257C380064B510,Schulungssoftware,ND,s. Didaktische Software,,,C368D0FAAA0034B7C1257C380064618C
 4BE77C512295D9E3C1258291005B9075,SchülerVZ,ND,s. Soziales Netzwerk,,,651165E3D23C1666C125798A005E4320
+414E3C849D90EA13C1257C380064B510,Schulungssoftware,ND,s. Didaktische Software,,,C368D0FAAA0034B7C1257C380064618C
 CDEFE0F06FB32427C125726D003A46E5,Screen,ND,s. Computer,,,47D91F5AC786D939C1256F230035B286
 3E55FD8AFD5DAE86C125726B0035C698,Serielle Schnittstelle,ND,s. Schnittstelle,,,8512D4C9A793D131C1256F230035C4D2
 1BC3EE908F66DE21C1257276003A842B,Server,ND,s. Computer,,,47D91F5AC786D939C1256F230035B286
 1CD1DEC7CAFBD91AC1257282003A975B,Shareware,ND,s. Software,,,412292943327DEFCC1256F230035C5F1
-22378548BD5ED7A7C1256F230036034F,Simulation (Computer),ND,s. Computersimulation,,,918575D29237E96BC1256F230035B28D
-40F8B902A49F2626C1256F3C00352CD1,Simulation (Computerspiel),ND,s. Computerspiel (Simulation),,,217B83431DD5B3F2C1256F230035C5BE
 E5BD63B9A71EDA11C1256F2300360350,Simulation und Modellbildung,ND,s. Computersimulation,,,918575D29237E96BC1256F230035B28D
+40F8B902A49F2626C1256F3C00352CD1,Simulation (Computerspiel),ND,s. Computerspiel (Simulation),,,217B83431DD5B3F2C1256F230035C5BE
+22378548BD5ED7A7C1256F230036034F,Simulation (Computer),ND,s. Computersimulation,,,918575D29237E96BC1256F230035B28D
 2ECE110EDEF131D4C1257AE1005673E5,Singleplayerspiel,ND,s. Computerspiel,,,757188C274E853BFC1256F230035B28E
 EC10B2E0125C4671C1257999005CFED6,Skriptvirus,ND,s. Computervirus,,,2AD8B666316651E5C1256F230035B291
 751957F84EE5D3A7C12583E7005BCFDD,Snapchat,ND,s. Soziales Netzwerk,,,651165E3D23C1666C125798A005E4320
+34324CC62EED0D78C125812100593BF2,Social-Media,ND,s. Soziales Netzwerk,,,651165E3D23C1666C125798A005E4320
 52020B0362199328C12582C7005B648D,Social Communities,ND,s. Soziales Netzwerk,,,651165E3D23C1666C125798A005E4320
 5EEF6C879F29A8FAC125812100592C85,Social Media,ND,s. Soziales Netzwerk,,,651165E3D23C1666C125798A005E4320
 5221AE24C022142FC125798A005E7386,Social Network,ND,s. Soziales Netzwerk,,,651165E3D23C1666C125798A005E4320
-34324CC62EED0D78C125812100593BF2,Social-Media,ND,s. Soziales Netzwerk,,,651165E3D23C1666C125798A005E4320
 02727CEBB6E094CAC125756300503CE8,Software,D,s.a. Computersimulation,,,918575D29237E96BC1256F230035B28D
 03671F6579A77FBEC1256F230035DF9E,Software,D,s.a. Betriebssystem,,,E696797877272BF9C1256F230035B077
 2D26BF8451FA54A4C1257563005047B4,Software,D,s.a. Computervirus,,,2AD8B666316651E5C1256F230035B291
@@ -697,18 +702,20 @@ F2CBE100F8C56751C1256F23003607FF,Trommelspeicher,ND,s. Datenträger,,,06A50234E8
 8CF4FE198C632504C1256F230035C897,Tutorielles Programm,DS,Tutorielle Lehrprogramme zielen auf die interaktive Vermittlung von inhaltlichen Kenntnisse oder von intellektuellen Fertigkeiten zu einem Sachgebiet. Zwischen Programm und Lernendem wickelt sich dabei eine dialogähnliche Interaktion ab.,Informationstechnische Bildung,,
 A5915658BFDAAEA1C1257C380064DEA3,Tutorielles Programm,D,s.a. Didaktische Software,,,C368D0FAAA0034B7C1257C380064618C
 7A14B38E931DC4A0C125798A005EB7DC,Twitter,ND,s. Soziales Netzwerk,,,651165E3D23C1666C125798A005E4320
-5701107AFE2EF2FCC12572CD004EC7F6,UMTS,ND,s. Telekommunikation,,,2CEDD88AE1B7DC25C1256F230035C794
-040A940C97043722C12572D00028AA39,UNIX,ND,s. Betriebssystem,,,E696797877272BF9C1256F230035B077
-424EDB3E2310CA38C12583B000606A83,USB Stick,ND,s. USB-Stick,,,4D74C7DA6D16BFFBC12583B000600541
-F5A761174D41CAD7C12583B000603481,USB-Speicherstick,ND,s. USB-Stick,,,4D74C7DA6D16BFFBC12583B000600541
-4D74C7DA6D16BFFBC12583B000600541,USB-Stick,DS,"Ein USB-Stick bezeichnet allgemein ein kompakt gebautes elektronisches Gerät, das über den Universal Serial Bus (USB) mit einem anderen Gerät, beispielsweise einem PC verbunden wird. Dabei sind der USB-Stecker und das Gehäuse direkt miteinander verbunden und bilden eine mechanische Einheit ohne verbindendes Kabel. Im Speziellen bezeichnet USB-Stick die häufigste Ausprägung des Gerätes, den USB-Speicherstick.",Informationstechnische Bildung,,
+014498C285FFFCB6C1257999005D1C9F,Überschreibende,ND,s. Computervirus,,,2AD8B666316651E5C1256F230035B291
+A7CD5DC803B8E4E1C1256F2300360847,Übungsprogramm (Software),ND,s. Tutorielles Programm,,,8CF4FE198C632504C1256F230035C897
+890CB03ACEA1C432C1257C380064BFB1,Übungsprogramm (Software),ND,s. Didaktische Software,,,C368D0FAAA0034B7C1257C380064618C
 B8D41C37FEEF093AC1257AE100562541,Ultima Online,ND,s. Computerspiel,,,757188C274E853BFC1256F230035B28E
+5701107AFE2EF2FCC12572CD004EC7F6,UMTS,ND,s. Telekommunikation,,,2CEDD88AE1B7DC25C1256F230035C794
 D16EAAECC3C40062C12583B000602D48,Universal Serial Bus,ND,s. USB-Stick,,,4D74C7DA6D16BFFBC12583B000600541
+040A940C97043722C12572D00028AA39,UNIX,ND,s. Betriebssystem,,,E696797877272BF9C1256F230035B077
 16665D2CA59BD89BC1257AE10057E10A,Unreal Tournament,ND,s. Computerspiel,,,757188C274E853BFC1256F230035B28E
 511187D90D6AE0B1C1257C3800651F41,Unterrichtssoftware,ND,s. Didaktische Software,,,C368D0FAAA0034B7C1257C380064618C
 28DD7E1096A6154FC12572D0002B7DDB,Update,ND,s. Software,,,412292943327DEFCC1256F230035C5F1
+F5A761174D41CAD7C12583B000603481,USB-Speicherstick,ND,s. USB-Stick,,,4D74C7DA6D16BFFBC12583B000600541
+4D74C7DA6D16BFFBC12583B000600541,USB-Stick,DS,"Ein USB-Stick bezeichnet allgemein ein kompakt gebautes elektronisches Gerät, das über den Universal Serial Bus (USB) mit einem anderen Gerät, beispielsweise einem PC verbunden wird. Dabei sind der USB-Stecker und das Gehäuse direkt miteinander verbunden und bilden eine mechanische Einheit ohne verbindendes Kabel. Im Speziellen bezeichnet USB-Stick die häufigste Ausprägung des Gerätes, den USB-Speicherstick.",Informationstechnische Bildung,,
+424EDB3E2310CA38C12583B000606A83,USB Stick,ND,s. USB-Stick,,,4D74C7DA6D16BFFBC12583B000600541
 E541BC014794A6B0C125714C004DA6FE,User,ND,s. Internet,,,F67F7B6889274F7BC1256F230035B988
-80FC3FF2671152A0C12579280058E306,VR,ND,s. Virtual Reality,,,BFDAFB504B20BE18C1256F230035C9C5
 92E2C522DAEFED58C12579130053DE12,Verarbeitung (Daten),ND,s. Datenverarbeitung,,,6B220FD016BC00FDC1256F230035B2E3
 13D1A96423D94DA5C1256F230035E2C6,Verkabelung,D,s.a. Datenfernübertragung,,,39D43DAF3FCBD75DC1256F230035B2E0
 E82635FF29C162B2C1256F230035C959,Verkabelung,DS,"Umgangssprachlich für den Aufbau von Breitbandkabelnetzen in der Bundesrepublik Deutschland, dienen zur Nutzung neuer Informationstechniken (ISDN).",Informationstechnische Bildung,,
@@ -728,15 +735,14 @@ BFDAFB504B20BE18C1256F230035C9C5,Virtual Reality,DS,"Als virtuelle Realität o
 CB0F5CAB82DA49EAC1256F23003609B1,Virus (Computer),ND,s. Computervirus,,,2AD8B666316651E5C1256F230035B291
 03290C96FE0DE68DC1257C380064FB55,Vokabeltrainer,D,s.a. Didaktische Software,,,C368D0FAAA0034B7C1257C380064618C
 909EC689DD89E1C6C1256F2300360A14,Vorschub (Drucker),ND,s. Drucker (EDV),,,C029C16E1D136095C1256F230035B3AB
+80FC3FF2671152A0C12579280058E306,VR,ND,s. Virtual Reality,,,BFDAFB504B20BE18C1256F230035C9C5
 170391549E1333C8C1258477005E7C85,W-LAN,ND,s. WLAN,,,14EF070E822A8391C1258477005E51C9
-14EF070E822A8391C1258477005E51C9,WLAN,DS,"Wireless Local Area Network (Wireless LAN bzw. W-LAN, meist WLAN; deutsch drahtloses lokales Netzwerk) bezeichnet ein lokales Funknetz, wobei meist ein Standard der IEEE-802.11-Familie gemeint ist. Für diese engere Bedeutung ist in manchen Ländern (z. B. USA, Großbritannien, Kanada, Niederlande, Spanien, Frankreich, Italien) weitläufig beziehungsweise auch synonym der Begriff Wi-Fi gebräuchlich. Verwendet wird der Begriff häufig auch irreführend als Synonym für WLAN-Hotspots bzw. kabellosen Internetzugriff.",Informationstechnische Bildung,,
-CA605F7006DE8959C125714C004E060B,WWW,ND,s. World Wide Web,,,E589436CAF182F4AC1256F2300360C01
 68A9E7BF92A21526C1257AE10057EC18,Warcraft,ND,s. Computerspiel,,,757188C274E853BFC1256F230035B28E
+6021DC3D0BE7BBAAC12581BF005058FC,Web-App,ND,s. Software,,,412292943327DEFCC1256F230035C5F1
+760CD0A95527F793C12581A100584D58,Web-Seminar,ND,s. Webinar,,,D6F60BD0746BADE9C12581A100580277
 929401E2A4704A40C12572D800391956,Web 2.0,DS,"Web 2.0 ist ein Schlagwort, das für eine Reihe interaktiver und kollaborativer Elemente des Internets, speziell des World Wide Webs, verwendet wird. Dabei konsumiert der Nutzer nicht nur den Inhalt, er stellt als Prosument selbst Inhalt zur Verfügung. Der Begriff postuliert in Anlehnung an die Versionsnummern von Softwareprodukten eine neue Generation des Webs und grenzt diese von früheren Nutzungsarten ab. Die Verwendung des Begriffs nahm jedoch zugunsten des Begriffs Social Media ab.",Informationstechnische Bildung,,
 212F1964063860EDC125842E0057C52E,Web 2.0,D,s.a. Soziales Netzwerk,,,651165E3D23C1666C125798A005E4320
 FD55DD924D13723BC125847B0058197D,Web 2.0,D,s.a. World Wide Web,,,E589436CAF182F4AC1256F2300360C01
-6021DC3D0BE7BBAAC12581BF005058FC,Web-App,ND,s. Software,,,412292943327DEFCC1256F230035C5F1
-760CD0A95527F793C12581A100584D58,Web-Seminar,ND,s. Webinar,,,D6F60BD0746BADE9C12581A100580277
 050F0D38C5ED1B45C125798A005E9FB7,Webanwendung,ND,s. Soziales Netzwerk,,,651165E3D23C1666C125798A005E4320
 7B4541CA2B23110BC12581BF00507C3C,Webanwendung,ND,s. Software,,,412292943327DEFCC1256F230035C5F1
 774E56DA3B6F7270C1257B7C0053FD91,Webblog,ND,s. Internet,,,F67F7B6889274F7BC1256F230035B988
@@ -754,18 +760,20 @@ CF220A16CF3E72BCC125845F00556A47,Wiki,ND,s. Wikipedia,,,27FCBC22245C6183C125845F
 A4EF46470B158A18C12581BF0050670F,Windows-App,ND,s. Software,,,412292943327DEFCC1256F230035C5F1
 E583DFABF9FC375FC1258477005E6FEC,Wireless LAN,ND,s. WLAN,,,14EF070E822A8391C1258477005E51C9
 3E5D9A699CC3DFDAC1258477005E6681,Wireless Local Area Network,D,s.a. WLAN,,,14EF070E822A8391C1258477005E51C9
-BE8CA88BF1F1CC01C1257AE20050F4E5,WoW,ND,s. Computerspiel,,,757188C274E853BFC1256F230035B28E
+14EF070E822A8391C1258477005E51C9,WLAN,DS,"Wireless Local Area Network (Wireless LAN bzw. W-LAN, meist WLAN; deutsch drahtloses lokales Netzwerk) bezeichnet ein lokales Funknetz, wobei meist ein Standard der IEEE-802.11-Familie gemeint ist. Für diese engere Bedeutung ist in manchen Ländern (z. B. USA, Großbritannien, Kanada, Niederlande, Spanien, Frankreich, Italien) weitläufig beziehungsweise auch synonym der Begriff Wi-Fi gebräuchlich. Verwendet wird der Begriff häufig auch irreführend als Synonym für WLAN-Hotspots bzw. kabellosen Internetzugriff.",Informationstechnische Bildung,,
 75CCB25B9B051551C125847B0056AAE7,Word (Textverarbeitung),ND,s. Textverarbeitung,,,C75A3E163EB55404C1256F230035C7C8
+DD3741C00B644D4BC1257AE100581C97,World of Warcraft,ND,s. Computerspiel,,,757188C274E853BFC1256F230035B28E
 E589436CAF182F4AC1256F2300360C01,World Wide Web,DS,"Das World Wide Web (kurz Web, WWW) ist ein über das Internet abrufbares System von elektronischen Hypertext-Dokumenten, sogenannten Webseiten, welche mit HTML beschrieben werden. Sie sind durch Hyperlinks untereinander verknüpft und werden im Internet über die Protokolle HTTP oder HTTPS übertragen. Die Webseiten enthalten meist Texte, oft mit Bildern und grafischen Elementen illustriert. Häufig sind auch Videos, Tondokumente oder Musikstücke eingebettet.",Informationstechnische Bildung,,
 F8EBEFAAF9C1E184C125847B00582624,World Wide Web,ND,s. Web 2.0,,,929401E2A4704A40C12572D800391956
-DD3741C00B644D4BC1257AE100581C97,World of Warcraft,ND,s. Computerspiel,,,757188C274E853BFC1256F230035B28E
-9963A8178B0BA53DC1257999005BE66C,Wurm (Computer),ND,s. Computervirus,,,2AD8B666316651E5C1256F230035B291
+BE8CA88BF1F1CC01C1257AE20050F4E5,WoW,ND,s. Computerspiel,,,757188C274E853BFC1256F230035B28E
 E0F5A9BDD48555EDC1257999005BEEC3,Würmer (Computer),ND,s. Computervirus,,,2AD8B666316651E5C1256F230035B291
+9963A8178B0BA53DC1257999005BE66C,Wurm (Computer),ND,s. Computervirus,,,2AD8B666316651E5C1256F230035B291
+CA605F7006DE8959C125714C004E060B,WWW,ND,s. World Wide Web,,,E589436CAF182F4AC1256F2300360C01
 66B3841677CFCFCFC1257AE100585004,Xbox,ND,s. Computerspiel,,,757188C274E853BFC1256F230035B28E
 77FB792C54B5AA9AC125798A005EC029,Xing,ND,s. Soziales Netzwerk,,,651165E3D23C1666C125798A005E4320
-43586B00066F480CC12583E7005D28FB,YouTube,ND,s. Videoportal,,,636FFD255F1DC186C12583E7005CE7BF
 759F046D8CDDF439C12583E7005D1795,Younow,ND,s. Videoportal,,,636FFD255F1DC186C12583E7005CE7BF
 3779F7BE4751ED33C12583E7005D21A5,Youtube,ND,s. Videoportal,,,636FFD255F1DC186C12583E7005CE7BF
+43586B00066F480CC12583E7005D28FB,YouTube,ND,s. Videoportal,,,636FFD255F1DC186C12583E7005CE7BF
 31EC9243CF84803EC1256F2300360C98,Zeichen (Datenverarbeitung),ND,s. Zeichenerkennung,,,8323EADAF053FA5CC1256F230035CBFC
 8323EADAF053FA5CC1256F230035CBFC,Zeichenerkennung,DS,Datenverarbeitung: Zuordnung der vom Zeichenleser gelesenen Zeichen zu einem der Maschine eingegebenen Zeichenvorrat. Die Zeichen müssen vom Menschen und der Maschine gelesen werden können.,Informationstechnische Bildung,,
 1D2AA328F3D716E0C1256F2300360C9C,Zeichenprogramm,ND,s. Computergrafik,,,01692810A8CD41CFC1256F230035B28B
@@ -773,11 +781,3 @@ E0F5A9BDD48555EDC1257999005BEEC3,Würmer (Computer),ND,s. Computervirus,,,2AD8B6
 48EFEA6171EEE9A7C1256F230035E4BA,Zeitung,D,s.a. Internet,,,F67F7B6889274F7BC1256F230035B988
 70FCEBE5183C6C49C1256F2300360CC0,Zentraleinheit,ND,s. Computer,,,47D91F5AC786D939C1256F230035B286
 D35497D0DE729298C1256F230035CC64,"Zuse, Konrad",DS,Deutscher Ingenieur und Industrieller (1910-95); schuf 1941 den ersten voll arbeitsfähigen programmgesteuerten elektromechanischen Digitalrechner der Welt.,Informationstechnische Bildung,,
-A593831C5A937F65C1257C3F005D0460,digital,ND,s. Computer,,,47D91F5AC786D939C1256F230035B286
-ED0E9B99AEDC8832C1257C3F005CFC20,digital,ND,s. Digitaltechnik,,,FB9E26C150CB8A80C1256F230035B355
-FAA8F848A590ADACC1257C3F005D1210,digital,ND,s. Computertechnik,,,B7274823C7221924C1256F230035B28F
-CCC3BDAACC1CA8BAC1257EA2002B401A,iPad,ND,s. Computer,,,47D91F5AC786D939C1256F230035B286
-78039DA0DF922299C1257EA40053FADB,iShareGossip,ND,s. Cybermobbing,,,F9295D5551AE23ACC12579290053DD05
-014498C285FFFCB6C1257999005D1C9F,Überschreibende,ND,s. Computervirus,,,2AD8B666316651E5C1256F230035B291
-A7CD5DC803B8E4E1C1256F2300360847,Übungsprogramm (Software),ND,s. Tutorielles Programm,,,8CF4FE198C632504C1256F230035C897
-890CB03ACEA1C432C1257C380064BFB1,Übungsprogramm (Software),ND,s. Didaktische Software,,,C368D0FAAA0034B7C1257C380064618C

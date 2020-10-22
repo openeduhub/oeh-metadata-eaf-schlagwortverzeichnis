@@ -72,10 +72,10 @@ C05B051D08AFC3D9C1256F230035B326,"Deutsch, Ernst",DS,Österreichischer Schauspie
 5E444E8519D240ADC125717F00330182,Dick und Doof,ND,"s. Laurel, Stan",,,9EF523FB9E28D573C1256F230035BCCC
 F5EA2E5A28CCD8FBC125717F003307DB,Dick und Doof,ND,"s. Hardy, Oliver",,,59733397E9F66676C1256F230035B7F8
 4F0F2C91A14606EAC1256F230035B353,"Dietrich, Marlene",DS,"Deutsche Schauspielerin und Sängerin (1904-92); geboren als Maria Magdalena von Losch in Berlin kam sie nach internationalem Erfolg mit dem Film ""Der blaue Engel"" 1930 nach Hollywood. 1939 wurde sie amerikanische Staatsbürgerin.",Spiel- und Dokumentarfilm,,
+1B16B026B9A72E92C1256F230035EC27,Disney-Film,ND,s. Trickfilm (Disney),,,639276D1A1EBE382C1256F230035CBFF
 11E9F9D104F1CE80C1256F230035D262,"Disney, Walt",D,s.a. Trickfilm (Disney),,,639276D1A1EBE382C1256F230035CBFF
 7ADD857E28990CF6C1256F230035D261,"Disney, Walt",D,s.a. Mickey Mouse,,,DA5699909203F8D4C1256F230035BEE9
 E18C7EDD8D7D4886C1256F230035B364,"Disney, Walt",DS,Us-amerikanischer Trickfilmzeichner (1901-66); begann 1928 die Mickey-Maus-Serie; Farb- und Dokumentarfilme.,Spiel- und Dokumentarfilm,,
-1B16B026B9A72E92C1256F230035EC27,Disney-Film,ND,s. Trickfilm (Disney),,,639276D1A1EBE382C1256F230035CBFF
 9D9EACC34C2A05AEC1257480003DEF9E,Doku-Drama,ND,s. Dokumentarfilm,,,06836275F55A4155C1256F230035B36C
 89C48C7154C7E2B9C1257480003DE850,Doku-Soap,ND,s. Dokumentarfilm,,,06836275F55A4155C1256F230035B36C
 06836275F55A4155C1256F230035B36C,Dokumentarfilm,DS,"Der Dokumentarfilm versucht, Aspekte der uns umgebenden (oder historischen) Welt abzubilden, zu erzählen oder zu untersuchen. Im Gegensatz zum Spielfilm geschieht dies (meistens) ohne engagierte Schauspieler oder bezahlte Darsteller. An ihre Stelle treten Menschen, Tiere, Orte, Situationen, die mit den erzählten Geschichten übereinstimmen. Es gibt eine große Bandbreite von verschiedenen Dokumentarfilmarten, die sich vom Versuch ein reines Dokument zu erschaffen, über die Doku-Soap bis hin zum Doku-Drama erstreckt.",Spiel- und Dokumentarfilm,,
@@ -157,11 +157,11 @@ D44C09E72CC4ACF4C1256F230035B688,"George, Heinrich",DS,"Eigentlich Heinz Georg S
 5F458D34A33E5BF4C1256F230035D53F,Gesellschaftskritik,D,s.a. Sozialkritischer Film,,,933AEE5902B7C943C1256F230035C619
 417E4663FDCF7244C1256F230035B6DB,"Giehse, Therese",DS,"Eigentlich Therese Gift, deutsche Schauspielerin (1898-1975).",Spiel- und Dokumentarfilm,,
 14D6A544D93A97A2C1256F230035B716,"Godard, Jean-Luc",DS,"Französischer Regisseur, geb. 1930; war zunächst (ab 1952) Filmkritiker, drehte ab 1954 Kurzfilme. Durch den Erstling ""Außer Atem"" (1960) wurde er durch ungewöhnliche Kamera- und Montagetechniken ein Protagonist der frzanzösischen ""Nouvelle Vagne"".",Spiel- und Dokumentarfilm,,
+1C234DD306BA4867C1256F230035B737,"Görner, Lutz",DS,"Deutscher Schauspieler, geb. 1945.",Spiel- und Dokumentarfilm,,
 AD79E7E625564C29C1256F230035B741,"Gottschalk, Joachim",DS,"Deutscher Bühnen- und Filmschauspieler (1902-41); beging mit seiner Frau, die Jüdin war, und Sohn Selbstmord, nachdem die Nazis die Scheidung verlangt hatten.",Spiel- und Dokumentarfilm,,
 FA9499CB5553266BC1256F230035F088,Gracia Patrizia,ND,"s. Kelly, Grace",,,1A6EF64D5D52AABAC1256F230035BAC2
 900CE9F64BD5AF51C1256F230035B785,"Gründgens, Gustaf",DS,"Deutscher Schauspieler, Regisseur und Theaterleiter (1889-1963).",Spiel- und Dokumentarfilm,,
 3E5BF7C7D0757EF2C1256F230035B79E,"Guinness, Alec",DS,"Sir Alec Guinness, englischer Charakterschauspieler (Theater und Film) (1914-2000).",Spiel- und Dokumentarfilm,,
-1C234DD306BA4867C1256F230035B737,"Görner, Lutz",DS,"Deutscher Schauspieler, geb. 1945.",Spiel- und Dokumentarfilm,,
 50F3F8C117D70E86C1256F230035B7B2,"Haanstra, Bert",DS,Niederländischer Regisseur (1916-97).,Spiel- und Dokumentarfilm,,
 AAC932939A80DD43C1256F230035B7F1,"Hanks, Tom",DS,"Amerikanischer Filmschauspieler, geb. 1956.",Spiel- und Dokumentarfilm,,
 59733397E9F66676C1256F230035B7F8,"Hardy, Oliver",DS,"Amerikanischer Filmkomiker (1892-1957); Hardy und sein Partner Stan Laurel waren eines der beliebtesten amerikanischen Komikerpaare des Stumm- und Tonfilms, in Deutschland als ""Dick und Doof"" bekannt.",Spiel- und Dokumentarfilm,,
@@ -176,9 +176,9 @@ BA51E007C9CDC052C12572D5002C18E7,Historienfilm,D,s.a. Monumentalfilm,,,D21B2D889
 BB29C27E238CB938C1256F230035F1E3,Historienfilm,DS,"Als Historienfilme werden Filme bezeichnet, die in gewissem Maß versuchen historische Ereignisse auzufarbeiten oder  fiktive Handlungen in einen historischen Kontext einzubetten. Der Übergang von Historienfilmen zu Abenteuerfilmen, Western, Eastern und Kriegsfilmen bzw. Antikriegsfilmen ist nicht klar abgegrenzt. Historienfilme, die im alten Ägypten oder in der griechisch-römischen Antike spielen, werden oft auch als Sandalenfilme bezeichnet. Historienfilme sind häufig mit großem Aufwand als Monumentalfilme produziert worden.",Spiel- und Dokumentarfilm,,
 C75CDC3020EDBAB6C12572D5002C403C,Historienfilm,D,s.a. Western,,,397830177432AD78C1256F230035CB12
 8824FB3E22705057C1256F230035B8A5,"Hitchcock, Alfred",DS,Englischer Filmregisseur (1899-1980).,Spiel- und Dokumentarfilm,,
+EBEBFBA7DEA21FEAC1256F230035B8F3,"Hörbiger, Paul",DS,Österreichischer Bühnen- und Filmschauspieler (1894-1981).,Spiel- und Dokumentarfilm,,
 ECCFECDFC653B3A9C1256F230035B8BA,"Hoffman, Dustin",DS,"Amerikanischer Schauspieler, geb. 1937.",Spiel- und Dokumentarfilm,,
 A2D11AF04238C4BBC1256F230035B8FA,Horrorfilm,DS,"Spielfilm, bei dem grausige Handlungen überwiegen.",Spiel- und Dokumentarfilm,,
-EBEBFBA7DEA21FEAC1256F230035B8F3,"Hörbiger, Paul",DS,Österreichischer Bühnen- und Filmschauspieler (1894-1981).,Spiel- und Dokumentarfilm,,
 AC4A888BD8898B67C1256F230035F285,Indianerfilm,ND,s. Western,,,397830177432AD78C1256F230035CB12
 1BC3B7D68E427291C125714C00465C6D,Inszenierung,D,s.a. Regie,,,62BFFDD983972B1FC1256F230035C2F5
 49ECDCB15D144E22C1257906003307AB,Inszenierung,D,s.a. Szene (Theater),,,D8ED7795EB96D066C1256F230035C74D
@@ -190,6 +190,7 @@ AC4A888BD8898B67C1256F230035F285,Indianerfilm,ND,s. Western,,,397830177432AD78C1
 1DF7E8262543A1A2C125720D0033594C,Jugendfilm,D,s.a. Abenteuerfilm (für Jugendliche),,,834F7B6CEA90BEC8C125720D00322DA3
 68B7943A61E066C7C125720D0037B8AA,Jugendfilm,D,s.a. Science-Fiction (für Jugendliche),,,7D8EE52CC6E61F97C125720D00361373
 A00DE5F39C4D4008C125720D00353B3F,Jugendfilm,D,s.a. Kriminalfilm (für Jugendliche),,,5012E27E1760CBB2C125720D0034BC4D
+93AAF949BBE62281C1256F230035BAB3,"Käutner, Helmut",DS,"Deutscher Regisseur, Schauspieler und Autor (1908-80).",Spiel- und Dokumentarfilm,,
 DBC41A11669E0091C1256F230035BA7E,"Karlstadt, Liesl",DS,"Eigentlich Elisabeth Wellano, Münchner Volksschauspielerin (1892-1960); Partnerin von Karl Valentin.",Spiel- und Dokumentarfilm,,
 ED9B8CA5C2D1C6FCC1256F230035D7A9,"Karlstadt, Liesl",D,"s.a. Valentin, Karl",,,E763880685D89A7EC1256F230035C90F
 6DF191A67F359F33C1256F230035BA9D,Katastrophenfilm,DS,"Spielfilm über Umweltkatastrophen, Unglücksfälle etc. (z.B. Erdbeben, Waldbrände, Hausbrände etc.).",Spiel- und Dokumentarfilm,,
@@ -269,7 +270,6 @@ E70E0851091BA369C1256F230035F5A7,Kulturfilm,ND,s. Dokumentarfilm,,,06836275F55A4
 D797203462CB2456C1256F230035F5B3,Kung-Fu-Film,ND,s. Actionfilm,,,0A38372456CC103FC1256F230035AD79
 FC1B7F5BE4215A17C1256F230035F5EF,Kurzfilm,ND,s. Kurzspielfilm,,,F0AFCE4140DC497CC1256F230035BC4D
 F0AFCE4140DC497CC1256F230035BC4D,Kurzspielfilm,DS,"Spielfilm, der nicht länger als 60 Minuten dauert.",Spiel- und Dokumentarfilm,,
-93AAF949BBE62281C1256F230035BAB3,"Käutner, Helmut",DS,"Deutscher Regisseur, Schauspieler und Autor (1908-80).",Spiel- und Dokumentarfilm,,
 B05573248B135B44C1256F230035BCAA,"Lang, Fritz",DS,Österreichisch-amerikanischer Filmregisseur (1890-1976); seit 1933 in den USA.,Spiel- und Dokumentarfilm,,
 682E5CAFCCF9A37AC1256F230035BCCB,"Laughton, Charles",DS,"Englischer Charakterdarsteller, auch im Film (1899-1962).",Spiel- und Dokumentarfilm,,
 9EF523FB9E28D573C1256F230035BCCC,"Laurel, Stan",DS,"Eigentlich Arthur Stanley Jefferson, angloamerikanischer Filmschauspieler (1890-1965); war Partner des amerikanischen Filmkomikers O. Hardy in vielen Filmen (in Deutschland als ""Dick und Doof"").",Spiel- und Dokumentarfilm,,
@@ -289,6 +289,10 @@ A263B965C834C6B9C1256F230035F7A9,"Livi, Ivo",ND,"s. Montand, Yves",,,AB8B3603999
 55E4B01A609E47DEC1256F860032E6F8,"Losch, Maria Magdalena von",ND,"s. Dietrich, Marlene",,,4F0F2C91A14606EAC1256F230035B353
 CA6483CE3B579C13C1256F230035F7DA,Lovestory,ND,s. Liebesfilm,,,5153C1FAD7E10F85C1256F230035BD51
 ED36D091BE9BE63CC1256F230035BDB6,"Luft, Friedrich",DS,"Deutscher Theater- und Filmkritiker (1911-90); besonders bekannt als ""Stimme der Kritik"" im RIAS Berlin.",Spiel- und Dokumentarfilm,,
+BC2D031315E68399C1256F230035DA12,Märchen,D,s.a. Märchenfilm,,,AA1F514F92AA34D7C1256F230035BE2A
+16917F97DE8722E8C1256F230035DA14,Märchenfilm,D,s.a. Kinderbuchverfilmung,,,E0C8DF8E695AB834C1256F230035BAF4
+73D0BF31A03CCF57C1256F230035DA15,Märchenfilm,D,s.a. Literaturverfilmung,,,8529218A87A1A680C1256F230035BD75
+AA1F514F92AA34D7C1256F230035BE2A,Märchenfilm,DS,"Märchenfilme sind Filme, die von magischen Abenteuern von sagenhaften Prinzen und Prinzessinnen, Feen, Zauberern, Zwergen, Hexen, Drachen, Trollen, Riesen, Kobolden, Nixen, Wassermänner und anderen märchenhaften Wesen handeln und oft Sagen und Legenden wiedergeben. Wichtig sind auch zauberische Gegenstände wie Siebenmeilenstiefel, Tarnkappe, Zauberspiegel, Zaubernüsse, Tischlein deck dich und Wünschelruten. Märchenfilme changieren zwischen Kinderfilm, Literaturfilm und Fantasyfilm - in den gelungensten Fällen sind sie eine Synthese dieser Aspekte.",Spiel- und Dokumentarfilm,,
 DE9AC94BDF8D9BB2C1256F230035BE06,"Malle, Louis",DS,"Französischer Filmregisseur (1932-95); Vertreter der ""Neuen Welle"".",Spiel- und Dokumentarfilm,,
 BD97EA3D915251A2C125778E00546AAF,Manga,ND,s. Zeichentrickfilm (allgemein),,,01006686C79654FBC1256F230035CBFE
 EF5B5B86B9175C94C125778E00549B90,Manga,ND,s. Trickfilm (allgemein),,,3A09C0DFE90F4392C1256F230035C85A
@@ -297,9 +301,9 @@ FF385FABB3DADA37C1256F230035F883,Mantel- und Degenfilm,ND,s. Abenteuerfilm (für
 A6D03E9D6E7311C1C1256F230035BE80,"McLaren, Norman",DS,Kanadischer Pionier des Trickfilms (1914-87).,Spiel- und Dokumentarfilm,,
 1C121A800F884F84C125782B005A4308,Melodram,ND,s. Melodrama,,,8C2DD9342A6B87BDC1256F230035BEAD
 8C2DD9342A6B87BDC1256F230035BEAD,Melodrama,DS,"Schauspiel oder Gedicht, begleitet von Musik, die Spiel und Wort ausdeutend untermalt oder verbindet.",Spiel- und Dokumentarfilm,,
+D590D5C70A1E8D54C1256F230035BED2,"Meßter, Oskar",DS,"Deutscher Filmpionier, Kinotechniker (1866-1943); verbesserte die kinematographischen Geräte, führte die erste Wochenschau vor (1914).",Spiel- und Dokumentarfilm,,
 D738661DCCDBADA3C12574DE0039E852,"Messter, Oskar",ND,"s. Meßter, Oskar",,,D590D5C70A1E8D54C1256F230035BED2
 6FE8164BD936BF37C1256F230035BEE6,"Meysel, Inge",DS,"Deutsche Schauspielerin (1910-2004), tätig in Berlin und Hamburg; Fernsehrollen.",Spiel- und Dokumentarfilm,,
-D590D5C70A1E8D54C1256F230035BED2,"Meßter, Oskar",DS,"Deutscher Filmpionier, Kinotechniker (1866-1943); verbesserte die kinematographischen Geräte, führte die erste Wochenschau vor (1914).",Spiel- und Dokumentarfilm,,
 DA5699909203F8D4C1256F230035BEE9,Mickey Mouse,DS,Von W. Disney geschaffene Trickfilmfigur.,Spiel- und Dokumentarfilm,,
 4013E535F3039A04C12571B700325004,Mickymaus,ND,s. Mickey Mouse,,,DA5699909203F8D4C1256F230035BEE9
 61CC3F143F9F9980C125778E0054F1F5,Modellanimationsfilm,ND,s. Trickfilm (allgemein),,,3A09C0DFE90F4392C1256F230035C85A
@@ -311,10 +315,6 @@ D21B2D889374103FC1256F230035BF68,Monumentalfilm,DS,"Filmgattung mit großem oder
 45CDFE2CA8661CADC1256F230035DB22,Musical,D,s.a. Musikfilm,,,13CF2E22524A6400C1256F230035BFCE
 9FDE90502E957A7CC1256F230035FA8B,Musicalverfilmung,ND,s. Musikfilm,,,13CF2E22524A6400C1256F230035BFCE
 13CF2E22524A6400C1256F230035BFCE,Musikfilm,DS,"Spielfilm, in dessen Handlung Musikstücke und teilweise auch Tanzstücke eingebaut sind.",Spiel- und Dokumentarfilm,,
-BC2D031315E68399C1256F230035DA12,Märchen,D,s.a. Märchenfilm,,,AA1F514F92AA34D7C1256F230035BE2A
-16917F97DE8722E8C1256F230035DA14,Märchenfilm,D,s.a. Kinderbuchverfilmung,,,E0C8DF8E695AB834C1256F230035BAF4
-73D0BF31A03CCF57C1256F230035DA15,Märchenfilm,D,s.a. Literaturverfilmung,,,8529218A87A1A680C1256F230035BD75
-AA1F514F92AA34D7C1256F230035BE2A,Märchenfilm,DS,"Märchenfilme sind Filme, die von magischen Abenteuern von sagenhaften Prinzen und Prinzessinnen, Feen, Zauberern, Zwergen, Hexen, Drachen, Trollen, Riesen, Kobolden, Nixen, Wassermänner und anderen märchenhaften Wesen handeln und oft Sagen und Legenden wiedergeben. Wichtig sind auch zauberische Gegenstände wie Siebenmeilenstiefel, Tarnkappe, Zauberspiegel, Zaubernüsse, Tischlein deck dich und Wünschelruten. Märchenfilme changieren zwischen Kinderfilm, Literaturfilm und Fantasyfilm - in den gelungensten Fällen sind sie eine Synthese dieser Aspekte.",Spiel- und Dokumentarfilm,,
 F3D545BFB829713AC1256F230035C032,"Nekes, Werner",DS,Deutscher Filmemacher; geb. 1944.,Spiel- und Dokumentarfilm,,
 0BDF5617A95F2D2DC1256F230035C056,"Neuss, Wolfgang",DS,Deutscher Schauspieler und Kabarettist (1923-89).,Spiel- und Dokumentarfilm,,
 12C0B62951DE8FC5C1256F230035FBBD,"Normand, Mabel",ND,"s. Arbuckle, Fatty",,,7A318A1CE5CDC6DCC1256F230035AE9B
@@ -427,8 +427,8 @@ C1FF77A49D83DA6FC1256F230035C70F,Stummfilm,DS,"Film, der die Handlung ohne Ton, 
 354E59DE783F8791C125790600331A7A,Szene (Film),ND,s. Szene (Theater),,,D8ED7795EB96D066C1256F230035C74D
 D8ED7795EB96D066C1256F230035C74D,Szene (Theater),DS,"Die Szene bzw. der Auftritt ist ein probetechnisch bedingter Abschnitt eines Theaterstücks und auch Teil eines Films, ebenso wie Akt, Sequenz (länger oder kürzer als die Szene) und Einstellung (meist kürzer als die Szene). ",Spiel- und Dokumentarfilm,,
 D8B63EB266F97CCFC1256F230035C770,Tarzan,DS,"Weißhäutiger, unter Tieren aufgewachsener und stets siegreicher Dschungelheld in den Abenteuerromanen von E.R. Burroughs (1914 ff.).",Spiel- und Dokumentarfilm,,
-4564C26AD6D3A9B5C1256F230035C776,"Tati, Jacques",DS,"Eigentlich Tatischeff, frzanzösischer Filmkomiker, -regisseur und -produzent (1908-82).",Spiel- und Dokumentarfilm,,
 30F8E2B185848A08C1256F230036069B,"Tatischeff, Jacques",ND,"s. Tati, Jacques",,,4564C26AD6D3A9B5C1256F230035C776
+4564C26AD6D3A9B5C1256F230035C776,"Tati, Jacques",DS,"Eigentlich Tatischeff, frzanzösischer Filmkomiker, -regisseur und -produzent (1908-82).",Spiel- und Dokumentarfilm,,
 30199A88F7751ACFC1256F230035C781,"Taylor, Elisabeth",DS,Angloamerikanische Filmschauspielerin (1932-2011).,Spiel- und Dokumentarfilm,,
 8BD65F2694E7A4CAC1256F230035C7CB,"Thate, Hilmar",DS,"Deutscher Schauspieler, geb. 1931.",Spiel- und Dokumentarfilm,,
 90BD531CBD75651FC1256F230035E131,Theater,D,s.a. Rolle (Theater),,,38CACA71B84254BEC1256F230035C3BC
@@ -443,7 +443,6 @@ DAE7DC2D20E978B7C1256F230035C7CE,Theaterverfilmung,DS,"Verfilmung eines Theaters
 7D8B98C7BF8CEBFCC1256F230035E13D,Thriller,D,s.a. Horrorfilm,,,A2D11AF04238C4BBC1256F230035B8FA
 3B271062F69F9982C1256F230035C7F5,Tierfilm,DS,"V.a. Spielfilm, bei dem ein Tier die Hauptrolle spielt.",Spiel- und Dokumentarfilm,,
 88BCDCCD8D5CF32FC1256F230035C855,"Trenker, Luis",DS,"Österreichisch-italienischer Filmschauspieler, -regisseur, Schriftsteller, Architekt und Bergsteiger (1892-1990).",Spiel- und Dokumentarfilm,,
-639276D1A1EBE382C1256F230035CBFF,Trickfilm (Disney),DS,"Trickfilm, der aus den Disney-Studios stammt.",Spiel- und Dokumentarfilm,,
 1DFE4B48E7028DC5C1256F230035E193,Trickfilm (allgemein),D,s.a. Knettrickfilm,,,EC624CDFC0CC888CC1256F230035BB42
 3A09C0DFE90F4392C1256F230035C85A,Trickfilm (allgemein),DS,"Bei einem Trickfilm oder Animationsfilm werden die Bewegungsabläufe von Figuren, Objekten und Effekten nicht in Echtzeit gefilmt, wie bei einem Spielfilm, sondern Bild für Bild künstlich geschaffen. Die Technik, derer sich der Film bedient, ist die Animation. Als Bewegtbildsequenz hintereinander abgespielt, erzeugt der Trickfilm beim Betrachter die Illusion von echter Bewegung mit erstaunlichen Effekten. Ein 90 Minuten langer Film kann 129.600 Einzelbilder enthalten. Trickfilm bezeichnet ein synthetisches Medium, das der Einzelbildanimation von Gegenständen (Modellanimation, Puppentrick, Knetfilm), Zeichnungen (Zeichentrickfilm), Flachfiguren (Legetrick) oder Schauspielern (Pixilation), oder das Erstellen der einzelnen Filmbilder mit Hilfe eines Computers (Computeranimation).",Spiel- und Dokumentarfilm,,
 8030504B93C8475FC125757200365791,Trickfilm (allgemein),D,s.a. Schattenspiel,,,70DCFC68C59487A6C1256F230035C47A
@@ -451,6 +450,7 @@ C84BB1AB84D8525CC1256F230035E190,Trickfilm (allgemein),D,s.a. Puppentrickfilm,,,
 E40C3C8D4FA16E00C1256F230035E191,Trickfilm (allgemein),D,s.a. Scherenschnittfilm,,,C7EDA1631FBFBAA8C1256F230035C485
 E7B4EBA7064FCECBC1256F230035E18F,Trickfilm (allgemein),D,s.a. Zeichentrickfilm (allgemein),,,01006686C79654FBC1256F230035CBFE
 E3FB0F6FA9B29A27C1258335005D6218,Trickfilm (allgemein),D,s.a. Trickfilm (Disney),,,639276D1A1EBE382C1256F230035CBFF
+639276D1A1EBE382C1256F230035CBFF,Trickfilm (Disney),DS,"Trickfilm, der aus den Disney-Studios stammt.",Spiel- und Dokumentarfilm,,
 D37DBDDC70E5CF8EC1256F230035C871,"Truffaut, François",DS,Französischer Filmregisseur (1932-84).,Spiel- und Dokumentarfilm,,
 E763880685D89A7EC1256F230035C90F,"Valentin, Karl",DS,"Eigentlich Valentin Ludwig Fey, Münchner Komiker (1882-1948).",Spiel- und Dokumentarfilm,,
 365A63F100FECAF7C1256F230035E2FD,Video,D,s.a. Spielfilm,,,9FE0E4D0B0C5CE93C1256F230035C636
@@ -474,7 +474,6 @@ FA4431395A61C162C1256F2300360BA9,Wilder Westen,D,s.a. Western,,,397830177432AD78
 C4C56B4564C5B563C1256F2300360BAF,Wildwestfilm,ND,s. Western,,,397830177432AD78C1256F230035CB12
 07E0335D60396C2BC12572D600358CD2,"Wortmann, Clara",ND,"s. Waldoff, Claire",,,68A8FD6C580C5B5EC1256F230035CA3D
 7CF4F90754BBF36FC12579550033E6A2,"Wortmann, Sönke",DS,"Sönke Wortmann, geb. 1959, ist ein deutscher Regisseur, Produzent und ehemaliger Fußballspieler.",Spiel- und Dokumentarfilm,,
-EE66B493C5309833C1258335005C5D63,Zeichentrickfilm (Disney),ND,s. Trickfilm (Disney),,,639276D1A1EBE382C1256F230035CBFF
 01006686C79654FBC1256F230035CBFE,Zeichentrickfilm (allgemein),DS,Filmische Darstellung mit Hilfe technischer Tricks; es werden Graphiken in einzelnen Phasenbildern gezeichnet und zur Vortäuschung von Bewegungen am Tricktisch nacheinander einzeln aufgenommen.,Spiel- und Dokumentarfilm,,
 06D3FD821FA5FE0BC125720D00329EF2,Zeichentrickfilm (allgemein),D,s.a. Abenteuerfilm (für Jugendliche),,,834F7B6CEA90BEC8C125720D00322DA3
 63900E6CD9EA8249C1256F230035E4AF,Zeichentrickfilm (allgemein),D,s.a. Abenteuerfilm (für Kinder),,,93066A4D8826617EC1256F230035ACC1
@@ -482,6 +481,7 @@ EE66B493C5309833C1258335005C5D63,Zeichentrickfilm (Disney),ND,s. Trickfilm (Disn
 983BC89FF1AF2625C1256F230035E4B0,Zeichentrickfilm (allgemein),D,s.a. Kinderfilm,,,9003177B737AADEBC1256F230035BAF6
 DF76804E4028C497C1256F230035E4AE,Zeichentrickfilm (allgemein),D,s.a. Puppentrickfilm,,,9E9402944D948A32C1256F230035C27E
 FAF296DA0AF0019FC12579A30057264C,Zeichentrickfilm (allgemein),D,s.a. Trickfilm (allgemein),,,3A09C0DFE90F4392C1256F230035C85A
+EE66B493C5309833C1258335005C5D63,Zeichentrickfilm (Disney),ND,s. Trickfilm (Disney),,,639276D1A1EBE382C1256F230035CBFF
 18C4286BF4C1BB84C125720D003783E8,Zukunft,D,s.a. Science-Fiction (für Jugendliche),,,7D8EE52CC6E61F97C125720D00361373
 1FDC06EE86D3D101C125720D00378DCE,Zukunft,D,s.a. Science-Fiction (für Kinder),,,6DCE6052CEB58E5DC1256F230035C548
 5AB6C0F10995943DC1256F230035E4FA,Zukunft,D,s.a. Science-Fiction (für Erwachsene),,,D9A8591B0BECCC92C1256F230035C547

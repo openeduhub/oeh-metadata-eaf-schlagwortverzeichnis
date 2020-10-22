@@ -1,12 +1,13 @@
 DOKUMENT-ID,SCHLAGWORT,ART,TEXT,discipline,narrower,broader
-6B30E164DC372B2EC1256F230035E577,ADHS,ND,s. Konzentration (Psychologie),,,C36BB91F4C6087D7C1256F230035BB9E
-28AF246DAD37D835C1256F230035E587,ADS (Psychologie),D,s.a. Konzentration (Psychologie),,,C36BB91F4C6087D7C1256F230035BB9E
-9243E4722BCD0586C1256F230035E586,ADS (Psychologie),D,s.a. Aufmerksamkeit,,,0CA17F499075FCC2C1256F230035AEE8
 E9855EA75D92005EC12572F8002B8C5B,Abendschulen,ND,s. Weiterbildung,,,E55D7A53E88755D1C1256F230035CACA
 45931A5EE95CE678C1256F230035E531,Abitur,ND,s. Gymnasium,,,83AB18766BD9CAE4C1256F230035B7AD
 5A7A5A6A0E43F410C1257A4B00584CBB,Ablenkung (Konzentration),ND,s. Konzentration (Psychologie),,,C36BB91F4C6087D7C1256F230035BB9E
 6079E2030D236B8EC1256F230035E53E,Abschlussprüfung,ND,s. Prüfung,,,20FCE4A3A52B2049C1256F230035C26D
 E96917D3A3E20A01C1256F230035AD6F,Abstraktion,DS,Kognitiver Prozess; das Heraussondern des Wesentlichen aus dem Unwesentlichen.,Pädagogik,,
+6B30E164DC372B2EC1256F230035E577,ADHS,ND,s. Konzentration (Psychologie),,,C36BB91F4C6087D7C1256F230035BB9E
+28AF246DAD37D835C1256F230035E587,ADS (Psychologie),D,s.a. Konzentration (Psychologie),,,C36BB91F4C6087D7C1256F230035BB9E
+9243E4722BCD0586C1256F230035E586,ADS (Psychologie),D,s.a. Aufmerksamkeit,,,0CA17F499075FCC2C1256F230035AEE8
+5EEFEA6385F12CEAC1256F230035E71D,Ästhetische Erziehung,ND,s. Kunstunterricht,,,C9FBF1F358110C5AC1256F230035BC3A
 095FBCFA02223AF2C12572F900317512,Akademiker,ND,s. Hochschule,,,575AD14FF452C8C5C1256F230035B8B0
 7DA7E55BEC637FDCC1256F230035E5B8,Aktivierende Methode,ND,s. Unterrichtsmethode,,,AA832EEF483276DBC1256F230035C8EC
 E9E94A00771DCC5FC1257A820036E26B,Albert-Schweitzer-Kinderdorf (Waldenburg),ND,s. Kinderdorf,,,EF1BE2ED6FDBBE0AC1256F230035C609
@@ -22,8 +23,8 @@ AF5E1D44FCD66A0CC1256F230035AE90,Arbeitsblatt,DS,"Vom Lehrer für Schüler zusam
 71C8F2200CEE650DC1257B090059A6AD,Argumentieren,ND,s. Streitschlichtung (Schule),,,7460144E4CF1714FC1256F46003BA518
 0CA17F499075FCC2C1256F230035AEE8,Aufmerksamkeit,DS,"Das Ausrichten des Wahrnehmens, Vorstellens und Denkens auf bestimmte gegenwärtige oder erwartete Erlebnisinhalte, ein psychischer Zustand gesteigerter Wachheit und Aufnahmebereitschaft.",Pädagogik,,
 78E68AC59F5715FAC1256F230035CDFA,Aufmerksamkeit,D,s.a. Lernschwierigkeit,,,C8595A335B6B7EEBC1256F230035BD32
-EF7D51AD09FE2CD5C1256F230035E768,Aufmerksamkeit (Konzentration),ND,s. Konzentration (Psychologie),,,C36BB91F4C6087D7C1256F230035BB9E
 3C192348DEEA4CB4C1256F230035E76C,Aufmerksamkeit-Defizit-Syndrom,ND,s. Aufmerksamkeit,,,0CA17F499075FCC2C1256F230035AEE8
+EF7D51AD09FE2CD5C1256F230035E768,Aufmerksamkeit (Konzentration),ND,s. Konzentration (Psychologie),,,C36BB91F4C6087D7C1256F230035BB9E
 0EE8471BEC9110F8C1256F230035E76D,Aufmerksamkeitsdefizitsyndrom,ND,s. Konzentration (Psychologie),,,C36BB91F4C6087D7C1256F230035BB9E
 E6C97E5B4C9E2AE2C1256F230035E76E,Aufmerksamkeitsdefizitsyndrom,ND,s. Aufmerksamkeit,,,0CA17F499075FCC2C1256F230035AEE8
 BBA919977E0AD588C1256F230035E76F,Aufmerksamkeitsstörung,ND,s. Aufmerksamkeit,,,0CA17F499075FCC2C1256F230035AEE8
@@ -37,11 +38,11 @@ E3481F1A50924B54C1256F230035CE07,Ausbildung,D,s.a. Bildung,,,4B7F63D2D5F08B56C12
 D69C196D5D9E8521C1256F230035E7C4,Auswahl-Antwort-Verfahren,ND,s. Multiple-choice,,,24FB612D691229C1C1256F230035BFAE
 99C00EA9E11A2FE1C1256F230035E7C9,Auswertung,ND,s. Zensur (Note),,,4594DE334C3A3FF8C1256F230035CC16
 65AF3BE9AF918B4AC1257746005A4D93,Autokratischer Erziehungsstil,ND,s. Erziehungsstil,,,58AB25857C9C06CDC1256F230035B49D
-501C2D22A239F96FC12577460059FD7C,Autoritativer Erziehungsstil,ND,s. Erziehungsstil,,,58AB25857C9C06CDC1256F230035B49D
 CA1CB330EAEBE17AC12577460059D820,Autoritärer Erziehungsstil,ND,s. Erziehungsstil,,,58AB25857C9C06CDC1256F230035B49D
 CCDADC2BC8EBC4B3C12577460059CD29,Autoritärer Erziehungsstil,ND,s. Autorität,,,8F06BA4DAA10755EC1256F230035AF1C
 88FFD6A2248BA657C1256F230035CE58,Autorität,D,s.a. Erziehungsstil,,,58AB25857C9C06CDC1256F230035B49D
 8F06BA4DAA10755EC1256F230035AF1C,Autorität,DS,"Ansehen, Würde, Machtbefugnis von Personen oder Institutionen. Hier besonders die Vorrangstellung des Erziehers (Lehrer, Eltern).",Pädagogik,,
+501C2D22A239F96FC12577460059FD7C,Autoritativer Erziehungsstil,ND,s. Erziehungsstil,,,58AB25857C9C06CDC1256F230035B49D
 667AF23DECAA95E8C1256F230035AF7F,"Ballauff, Theodor",DS,Deutscher Pädagoge und Philosoph (1911-95); seit 1955 Professor in Mainz; entwickelte eine Pädagogik mit den Leitbegriffen Sachlichkeit und Mitmenschlichkeit.,Pädagogik,,
 3D9CC6429837ADFFC1256F230035E89F,Begabter,ND,s. Begabung,,,AFB16DFDD4C9FDA6C1256F230035AFFA
 AFB16DFDD4C9FDA6C1256F230035AFFA,Begabung,DS,"Anlage zu bestimmten Leistungen. Beispiele, Probleme, Förderungen.",Pädagogik,,
@@ -64,11 +65,11 @@ ED15AFF87FA0F083C1256F230035B05B,Berufsschule,DS,"Dreijährige Pflichtschule fü
 A63FEBA9E17410C8C1257B3D00410EC2,Berufssonderschule,ND,s. Sonderschule,,,57381B89C1ED6487C1256F230035C600
 292C196657F3CF1FC1257B43005AAE93,Bestrafung,ND,s. Strafe (allgemein),,,5ED3F0894A8F24BDC1256F230035C6DB
 07E938E697045B67C1256F230035E93F,Betriebliche Weiterbildung,ND,s. Weiterbildung,,,E55D7A53E88755D1C1256F230035CACA
+1FE07153392025EDC1257B490061287D,Bewältigungsstrategie,ND,s. Lehrer-Schüler-Beziehung,,,E6C6C21099E92905C1256F230035BD08
 533057E57BA7DE75C1256F230035E95F,Bewegung (pädagogische),ND,s. Reformpädagogik,,,2667FF6E0A8A8728C1256F230035C2E6
 3994623C56B90912C1257B4A00591CFE,Bewegungsbeurteilung,ND,s. Sportdidaktik,,,8DF2F196F4C69F6AC1256F230035C64B
 0B0305E7C136060BC1257B5000597628,Bewegungsqualität,ND,s. Sportdidaktik,,,8DF2F196F4C69F6AC1256F230035C64B
 2998887426A573EDC1256F230035E967,Bewertung,ND,s. Zensur (Note),,,4594DE334C3A3FF8C1256F230035CC16
-1FE07153392025EDC1257B490061287D,Bewältigungsstrategie,ND,s. Lehrer-Schüler-Beziehung,,,E6C6C21099E92905C1256F230035BD08
 6A1F8786977BCA98C1257B5D005D15C6,Bielefelder Laborschule,ND,s. Reformpädagogik,,,2667FF6E0A8A8728C1256F230035C2E6
 078C62837338C482C1256F230035D026,Bildung,D,s.a. Schule,,,2846EB566153DE38C1256F230035C501
 142BDD54C4AF57FCC1256F230035D022,Bildung,D,s.a. Schule (Geschichte),,,D474C487338E6316C1256F230035C503
@@ -219,11 +220,11 @@ C64D24E236F209F1C1256F230035B49C,Erziehungsproblem,DS,"Probleme bei der Erziehun
 27C02F23D1B4365DC1256F230035D374,Erziehungsstil,D,s.a. Waldorfschule,,,2EFC2DDE32A82482C1256F230035CA3E
 58AB25857C9C06CDC1256F230035B49D,Erziehungsstil,DS,"Erziehungsstile sind Methoden, Grundsätze sowie theoretische Hintergründe, die bei der Erziehung, vor allem der Kindererziehung in Elternhaus und Schule (Unterrichtsstil), bewusst oder meist unbewusst angewendet werden. Die Erziehungsstilforschung ist ein Teilgebiet der Sozialisationsforschung. Man unterscheidet zwischen autoritärem, autoritativem, vernächlässigendem und permissivem Erziehungsstil.",Pädagogik,,
 C701EF64E2149B31C1256F230035D373,Erziehungsstil,D,"s.a. Neill, Alexander Sutherland",,,436D9001868CF8F6C1256F230035C031
-E526B39BA29C1E68C1257746005AA8A8,Erziehungsstil (Laissez-faire),ND,s. Erziehungsstil,,,58AB25857C9C06CDC1256F230035B49D
 7AE360D6385C3369C1257746005A574A,Erziehungsstil (autokratischer),ND,s. Erziehungsstil,,,58AB25857C9C06CDC1256F230035B49D
-590A5659220DD883C12577460059EB44,Erziehungsstil (autoritativ),ND,s. Erziehungsstil,,,58AB25857C9C06CDC1256F230035B49D
 069127E132EA0E51C1256F230035D375,Erziehungsstil (autoritär),ND,s. Autorität,,,8F06BA4DAA10755EC1256F230035AF1C
+590A5659220DD883C12577460059EB44,Erziehungsstil (autoritativ),ND,s. Erziehungsstil,,,58AB25857C9C06CDC1256F230035B49D
 85D7178FD42B3CEEC1257746005A8EF3,Erziehungsstil (demokratischer),ND,s. Erziehungsstil,,,58AB25857C9C06CDC1256F230035B49D
+E526B39BA29C1E68C1257746005AA8A8,Erziehungsstil (Laissez-faire),ND,s. Erziehungsstil,,,58AB25857C9C06CDC1256F230035B49D
 12391A0ECE4E7DFAC1257746005A74A0,Erziehungsstil (sozialintegrativer),ND,s. Erziehungsstil,,,58AB25857C9C06CDC1256F230035B49D
 75F725E59F08CC00C1257746005A2CD2,Erziehungsstil (vernachlässigend),ND,s. Erziehungsstil,,,58AB25857C9C06CDC1256F230035B49D
 E487BE79FC139AEDC1256F230035EDA0,Erziehungssystem,ND,s. Bildungssystem,,,C38AE9267998EC3EC1256F230035B0B1
@@ -238,27 +239,27 @@ DB8C24801B580DC3C1256F230035EDDD,Experimentelle Pädagogik,ND,s. Pädagogik,,,AE
 0308F0BA183DA7C1C1256F230035B4D9,Fachtheoretischer Unterricht,DS,"Unterricht, der ein Fach rein theoretisch behandelt.",Pädagogik,,
 E7483FD36697DAD1C1256F230035EDEE,Fachübergreifender Ansatz,ND,s. Fächerübergreifender Unterricht,,,104E322AB52FA4D0C1256F230035B4D2
 75BF3A916A7E0FECC1256F230035EDEF,Fachübergreifender Unterricht,ND,s. Fächerübergreifender Unterricht,,,104E322AB52FA4D0C1256F230035B4D2
+104E322AB52FA4D0C1256F230035B4D2,Fächerübergreifender Unterricht,DS,Unterricht umfassender Themen oder Sachgebiete unter vorübergehender Aufhebung des Prinzips der Fachgebundenheit; auch inhaltliche gegenseitige Abstimmung des Unterrichts in verschiedenen Fächern.,Pädagogik,,
 E69B0AC0A5D58B8DC1256F230035D3AF,Familienkonflikt,D,s.a. Erziehungsproblem,,,C64D24E236F209F1C1256F230035B49C
 CEAF1CF63A6FBC8BC1256F230035D3C7,Fernsehen,D,s.a. Fernseherziehung,,,912187EEEA2E8082C1256F230035B522
 912187EEEA2E8082C1256F230035B522,Fernseherziehung,DS,"Erziehung, die über das Fernsehen abläuft in positiver und negativer Hinsicht (bzgl. z.B. Gewalt) mittels Filmen oder auch speziellen Kindersendungen.",Pädagogik,,
 85A8A39A549A2E2AC1256F230035D3CC,Fernsehkonsum,D,s.a. Fernseherziehung,,,912187EEEA2E8082C1256F230035B522
 5354CC542C091361C1256F230035B528,Fernstudium,DS,"Studium/Unterricht mit Hilfe von Unterrichtsbriefen, Druckschriften, Schallplatten, Funk und Fernsehen.",Pädagogik,,
 43116C69597F5597C1256F230035EE56,Fernunterricht,ND,s. Fernstudium,,,5354CC542C091361C1256F230035B528
-7BAD1221ED7ED09DC1256F230035EED6,Fortbildung,ND,s. Weiterbildung,,,E55D7A53E88755D1C1256F230035CACA
-147F0CE12190EA7CC125746B003A8567,"Freinet, Celestin",D,s.a. Reformpädagogik,,,2667FF6E0A8A8728C1256F230035C2E6
-774202CD6094CF64C1256F230035B5D9,"Freinet, Celestin",DS,"Französischer Reformpädagoge (1896-1966); kritisierte nach dem ersten Weltkrieg mangelnde Lebensnähe in der Schule, die Beschränkung des Lernens auf Wissenserwerb. Entwickelte ab1923 in Frankreich im Rahmen der ""modernen Schule"" eine ""Pädagogik des Volkes"" (Freinet-Pädagogik).",Pädagogik,,
-3ACEBBA4B5E8C348C125746B003A9302,Freinet-Pädagogik,ND,s. Reformpädagogik,,,2667FF6E0A8A8728C1256F230035C2E6
-3274C4B3F7E81008C1257D3A003A3225,Frontalunterricht,ND,s. Unterrichtsmethode,,,AA832EEF483276DBC1256F230035C8EC
-0F3E5474A2819D73C1256F230035B601,"Fröbel, Friedrich",DS,"Deutscher Erzieher und Lehrer, Schüler von Pestalozzi (1782-1852); gründete 1840 in Blankenburg den ersten deutschen Kindergarten.",Pädagogik,,
-CAE8C8E0AA6ADDB4C1257D3A003946D2,Fröbel-Schule,ND,"s. Fröbel, Friedrich",,,0F3E5474A2819D73C1256F230035B601
-DC11B1EE7D309DD9C1256F230035EF53,Frühkindliche Erziehung,ND,s. Erziehung,,,F1F7361B19869668C1256F230035B49B
-104E322AB52FA4D0C1256F230035B4D2,Fächerübergreifender Unterricht,DS,Unterricht umfassender Themen oder Sachgebiete unter vorübergehender Aufhebung des Prinzips der Fachgebundenheit; auch inhaltliche gegenseitige Abstimmung des Unterrichts in verschiedenen Fächern.,Pädagogik,,
 1DD55EB64F1575F2C1257D100053DAF7,Förderschule,ND,s. Sonderschule,,,57381B89C1ED6487C1256F230035C600
 C645B8AFA9B05638C1256F230035EEC7,Förderstufe,ND,s. Lernschwierigkeit,,,C8595A335B6B7EEBC1256F230035BD32
 2BA7217DE8124CA2C1258033005BA1AE,Förderung (Behinderte),ND,s. Behindertenpädagogik,,,8DB19D9BCF8D6A69C1256F230035B000
 218C0956859C6C3BC1257D11005540BB,Förderung (Schule),ND,s. Lernhilfe,,,F274E87A6E1DB8C0C1256F230035BD31
 9F9E596D7ED73E28C1257D1100552D0D,Förderung (von Minderbegabten),ND,s. Sonderschule,,,57381B89C1ED6487C1256F230035C600
 0334E1E718781D85C1256F230035EEC9,Förderunterricht,ND,s. Lernschwierigkeit,,,C8595A335B6B7EEBC1256F230035BD32
+7BAD1221ED7ED09DC1256F230035EED6,Fortbildung,ND,s. Weiterbildung,,,E55D7A53E88755D1C1256F230035CACA
+3ACEBBA4B5E8C348C125746B003A9302,Freinet-Pädagogik,ND,s. Reformpädagogik,,,2667FF6E0A8A8728C1256F230035C2E6
+147F0CE12190EA7CC125746B003A8567,"Freinet, Celestin",D,s.a. Reformpädagogik,,,2667FF6E0A8A8728C1256F230035C2E6
+774202CD6094CF64C1256F230035B5D9,"Freinet, Celestin",DS,"Französischer Reformpädagoge (1896-1966); kritisierte nach dem ersten Weltkrieg mangelnde Lebensnähe in der Schule, die Beschränkung des Lernens auf Wissenserwerb. Entwickelte ab1923 in Frankreich im Rahmen der ""modernen Schule"" eine ""Pädagogik des Volkes"" (Freinet-Pädagogik).",Pädagogik,,
+CAE8C8E0AA6ADDB4C1257D3A003946D2,Fröbel-Schule,ND,"s. Fröbel, Friedrich",,,0F3E5474A2819D73C1256F230035B601
+0F3E5474A2819D73C1256F230035B601,"Fröbel, Friedrich",DS,"Deutscher Erzieher und Lehrer, Schüler von Pestalozzi (1782-1852); gründete 1840 in Blankenburg den ersten deutschen Kindergarten.",Pädagogik,,
+3274C4B3F7E81008C1257D3A003A3225,Frontalunterricht,ND,s. Unterrichtsmethode,,,AA832EEF483276DBC1256F230035C8EC
+DC11B1EE7D309DD9C1256F230035EF53,Frühkindliche Erziehung,ND,s. Erziehung,,,F1F7361B19869668C1256F230035B49B
 608DFFCA5F9BFFE5C1257D70004673E8,Ganztagsschule,ND,s. Schule,,,2846EB566153DE38C1256F230035C501
 EE887AB6CD8AF6F5C1257D7000467F08,Ganztagsschule,ND,s. Bildungseinrichtung,,,A67D6D360DBEF420C1256F230035B0B0
 1BA226A1E0C1188BC12574C80036EBE2,"Gastfenger, Polycarpus",ND,"s. Hoffmann, Heinrich",,,026AF75ADD3F0933C1256F230035B8BE
@@ -269,8 +270,8 @@ E03453AFFE12FB57C1257D8E004E4EA3,Genetisch-exemplarisches Lehren,ND,s. Pädagogi
 7CDEF8D1C1C3D87BC1257D8E004EB4D2,Genetisches Prinzip,ND,s. Pädagogik,,,AE1992904B908D27C1256F230035C133
 0D137455310EEC61C1256F230035B69F,Gesamtschule,DS,"Die Gesamtschule in Deutschland ist eine Form der weiterführenden Schule, die Kinder nach der Grundschule mindestens bis zur 9. oder 10. Klasse besuchen können. Sie ist in mehreren Bundesländern eine Alternative zum traditionellen dreigliedrigen Schulsystem (mit Hauptschule, Realschule, Gymnasium) geworden. Der wesentliche Unterschied zum herkömmlichen Schulsystem besteht darin, dass bei der Gesamtschule die Differenzierung in die Schule verlagert wird und nicht mehr zwischen verschiedenen Schulformen besteht. Nach der 10. Klasse kann an die Gesamtschule eine gymnasiale Oberstufe anschließen, während ein Teil der Schüler in berufliche Ausbildungsgänge außerhalb der Gesamtschule wechselt. ",Pädagogik,,
 31383564B15948DCC125772C003982D0,Gesamtschule,ND,s. Helene-Lange-Schule (Wiesbaden),,,2E02B292703DFA9EC125772C003959E2
-9B058D6C1CB53E48C1256F230035D516,Geschichte (Historie),D,s.a. Schule (Geschichte),,,D474C487338E6316C1256F230035C503
 5D3B63EAA3353ACDC1256F230035F011,Geschichte der Erziehung,ND,s. Schule (Geschichte),,,D474C487338E6316C1256F230035C503
+9B058D6C1CB53E48C1256F230035D516,Geschichte (Historie),D,s.a. Schule (Geschichte),,,D474C487338E6316C1256F230035C503
 C1CE554550E1EC01C1256F230035D525,Geschlechterrolle,D,s.a. Chancengleichheit,,,8A658B04FBA5B77AC1256F230035B21E
 3E659D0942AE8C7CC1257DA1004C2AD6,Gesellschaftskunde,ND,s. Sozialkunde,,,0A446D3DDFA033F8C1257D8A0033CE00
 1C27CC33647348C5C1257DA1004C3ADA,Gesellschaftslehre,ND,s. Sozialkunde,,,0A446D3DDFA033F8C1257D8A0033CE00
@@ -279,25 +280,25 @@ C1CE554550E1EC01C1256F230035D525,Geschlechterrolle,D,s.a. Chancengleichheit,,,8A
 89494329751A1CBEC1257DA8004D3CE1,Gewaltabbau,ND,s. Streitschlichtung (Schule),,,7460144E4CF1714FC1256F46003BA518
 03BB6A488882CC11C1256F230035F047,Gewerbliche Berufsschule,ND,s. Berufsschule,,,ED15AFF87FA0F083C1256F230035B05B
 F0F9D37A1A6B363CC1256F230035F06F,"Gmeiner, Hermann",ND,s. Kinderdorf,,,EF1BE2ED6FDBBE0AC1256F230035C609
+21A586AE7CDC208EC1256F230035F0D5,Grundschüler,ND,s. Grundschule,,,CB8D739ECD79B6D4C1256F230035B78B
 3045FFDC29988A16C1256F230035D5E8,Grundschule,D,s.a. Bildungssystem,,,C38AE9267998EC3EC1256F230035B0B1
 99032B5888FB1817C1256F230035D5EA,Grundschule,D,s.a. Schule,,,2846EB566153DE38C1256F230035C501
 AF42E408464F7E42C1256F230035D5E9,Grundschule,D,s.a. Hauptschule,,,6A01EDACE68401C8C1256F230035B810
 CB8D739ECD79B6D4C1256F230035B78B,Grundschule,DS,"Die für alle Kinder gemeinsame, i.a. 4jährige Eingangsstufe des allgemeinbildenden Schulwesens, auf die das Sekundarschulwesen aufbaut.",Pädagogik,,
 A3E3D6BA3B1EC570C1256F230035F0D6,Grundschulunterricht,ND,s. Grundschule,,,CB8D739ECD79B6D4C1256F230035B78B
-21A586AE7CDC208EC1256F230035F0D5,Grundschüler,ND,s. Grundschule,,,CB8D739ECD79B6D4C1256F230035B78B
 D8ED510FFF7853F6C1256F230035D5F5,Gruppe,D,s.a. Gruppenarbeit,,,A60F2DDAD55A5D9EC1256F230035B794
 A60F2DDAD55A5D9EC1256F230035B794,Gruppenarbeit,DS,Unmittelbares Zusammenwirken mehrerer Arbeitspersonen zur gemeinsamen Ausführung eines Arbeitsauftrags. In der Pädagogik besonders im Gruppenunterricht angewendete didaktische Methode der relativ selbständigen Erarbeitung von Unterrichtszielen.,Pädagogik,,
 128218D103608D7EC1257DE400588F06,Gruppenunterricht,ND,s. Unterricht,,,F32AB442560996E2C1256F230035C8EA
 4DAD18E9E8467042C1256F230035B7AB,"Guts Muths, Johann Christoph Friedrich",DS,"Deutscher Turnlehrer und Pädagoge (1759-1839); schrieb ""Gymnastik für die Jugend"" (1793); schuf ein System des Schulturnens seit 1785.",Pädagogik,,
 83AB18766BD9CAE4C1256F230035B7AD,Gymnasium,DS,"Höhere Schule, die sich aus Dom- und Klosterschulen des Mittelalters und den humanistischen Gelehrtenschulen des 16. Jh. entwickelte. Heute führt sie zur Hochschulreife.",Pädagogik,,
-2BA9A2189A69080DC125772C003973D0,HLS,ND,s. Helene-Lange-Schule (Wiesbaden),,,2E02B292703DFA9EC125772C003959E2
+2DDF8E74335DEDA8C12580CF005DC062,Häuslicher Unterricht,ND,s. Hausunterricht,,,8CB0DF7CFD064DD6C12580CF005D6F40
 DCDD54B2625998A3C1257E0A0058E281,Handlungsmöglichkeit,ND,s. Streitschlichtung (Schule),,,7460144E4CF1714FC1256F46003BA518
 5BC327559E80280DC1257E0A0059013E,Handlungsorientierter Unterricht,ND,s. Unterrichtsmethode,,,AA832EEF483276DBC1256F230035C8EC
 BC8CDFC05D7199E3C1256F230035F122,Handlungsorientiertes Lernen,ND,s. Unterrichtsmethode,,,AA832EEF483276DBC1256F230035C8EC
 6A01EDACE68401C8C1256F230035B810,Hauptschule,DS,"Die Hauptschule ist eine allgemeinbildende Schulform der mittleren Bildung, also dem Level 2 nach ISCED-Klassifikation der UNESCO. In der Bundesrepublik Deutschland 5.-9./10. Schuljahr.",Pädagogik,,
 6A3A90104958363CC1256F230035B812,Hausaufgabe,DS,"Aufgaben, die Schüler vom Lehrer gestellt bekommen, um sie zu Hause zu erledigen. Pädagogischer Hintergrund und Schwierigkeiten.",Pädagogik,,
-8CB0DF7CFD064DD6C12580CF005D6F40,Hausunterricht,DS,"Hausunterricht (auch häuslicher Unterricht, Heimunterricht, Domizilunterricht oder homeschooling) ist eine Form der Bildung und Erziehung, bei der die Kinder zu Hause von den Eltern oder von Privatlehrern statt in Schulen unterrichtet werden. Die konkrete Praxis des Hausunterrichts kann sehr unterschiedlich aussehen. Das Spektrum reicht von stark strukturierten, an traditionellem Schulunterricht orientierten Formen bis hin zu sehr offenen wie dem Unschooling.",Pädagogik,,
 C0A8B2DDA13826A6C12577D5004E15D0,Hausübungen,ND,s. Hausaufgabe,,,6A3A90104958363CC1256F230035B812
+8CB0DF7CFD064DD6C12580CF005D6F40,Hausunterricht,DS,"Hausunterricht (auch häuslicher Unterricht, Heimunterricht, Domizilunterricht oder homeschooling) ist eine Form der Bildung und Erziehung, bei der die Kinder zu Hause von den Eltern oder von Privatlehrern statt in Schulen unterrichtet werden. Die konkrete Praxis des Hausunterrichts kann sehr unterschiedlich aussehen. Das Spektrum reicht von stark strukturierten, an traditionellem Schulunterricht orientierten Formen bis hin zu sehr offenen wie dem Unschooling.",Pädagogik,,
 C5D456DC7EFCC2CAC1256F230035B84B,Heilpädagogik,DS,"Theorie und Praxis der Erziehung von Kindern, Jugendlichen und Erwachsenen, die durch physische, psychische oder soziale Faktoren in ihrer Entwicklung so beeinträchtigt sind, dass sie den sozialen, schulischen und beruflichen Anforderungen kaum gewachsen sind.",Pädagogik,,
 F7CE6D9BAB9862A4C1256FEF003107D1,Heilpädagogik,ND,s. Sonderpädagogik,,,24F0A5A77B310983C1256F230035C5FF
 2815F8E23DA251EBC1256F230035D645,Heimerziehung,D,s.a. Internat,,,712289D7F2C26262C1256F230035B987
@@ -312,6 +313,9 @@ A7088244877810A2C12580CF005DCAAD,Heimunterricht,ND,s. Hausunterricht,,,8CB0DF7CF
 580D47D735B893EAC1256F230035B869,"Hentig, Hartmut von",DS,"Deutscher Pädagoge, geb. 1925; seit 1963 Professor in Göttingen, seit 1968 in Bielefeld; gab wesentliche Beiträge zur Didaktik und zur Schulreform.",Pädagogik,,
 612C6F5E7F0D40F7C12574C80036D4EC,"Heulenburg, Heulalius von",ND,"s. Hoffmann, Heinrich",,,026AF75ADD3F0933C1256F230035B8BE
 FEF9285C9733B839C1256F230035B89D,"Hirsch, Betty",DS,Dänisch-deutsche Sängerin und Blinden- und Sprachlehrerin (1893-1957).,Pädagogik,,
+2BA9A2189A69080DC125772C003973D0,HLS,ND,s. Helene-Lange-Schule (Wiesbaden),,,2E02B292703DFA9EC125772C003959E2
+DD5D9CF26B283D55C1256F230035F1FC,Hochschüler,ND,s. Student,,,73335214D7B831DEC1256F230035C70D
+A8C3B1161A86CE68C12572BF00362AAD,Hochschülerin,ND,s. Student,,,73335214D7B831DEC1256F230035C70D
 CCBC4B7787195301C1256F230035F1F8,Hochschulabschluss,ND,s. Hochschule,,,575AD14FF452C8C5C1256F230035B8B0
 88D96861E190910FC1256F230035F1F9,Hochschulabsolvent,ND,s. Hochschule,,,575AD14FF452C8C5C1256F230035B8B0
 3C3BC25832C1AD11C1256F230035F1FA,Hochschulbildung,ND,s. Hochschule,,,575AD14FF452C8C5C1256F230035B8B0
@@ -324,14 +328,11 @@ BDE798BAEF8F803DC1257CEE0055D63B,Hochschule,D,s.a. Seminararbeit,,,22AA3F3951B73
 8DD2FC661065D09FC1256F230035F1FD,Hochschulreife,ND,s. Gymnasium,,,83AB18766BD9CAE4C1256F230035B7AD
 EBCD19F1E59153DDC1257E3C004C3906,Hochschulsport,ND,s. Hochschule,,,575AD14FF452C8C5C1256F230035B8B0
 909D45100E1E0732C1256F230035F1FE,Hochschulwesen,ND,s. Hochschule,,,575AD14FF452C8C5C1256F230035B8B0
-DD5D9CF26B283D55C1256F230035F1FC,Hochschüler,ND,s. Student,,,73335214D7B831DEC1256F230035C70D
-A8C3B1161A86CE68C12572BF00362AAD,Hochschülerin,ND,s. Student,,,73335214D7B831DEC1256F230035C70D
 026AF75ADD3F0933C1256F230035B8BE,"Hoffmann, Heinrich",DS,"Deutscher Psychiater, Lyriker und Kinderbuchautor, benutzte auch die Pseudonyme Heulalius von Heulenburg, Reimerich Kinderlieb, Peter Struwwel, Polycarpus Gastfenger (1809-94); dichtete und zeichnete den ""Struwwelpeter"".",Pädagogik,,
 625B8463D55E7595C12580CF005DE41A,Homeschooling,ND,s. Hausunterricht,,,8CB0DF7CFD064DD6C12580CF005D6F40
 E905B2344874A72DC12577FF0057E32B,Hort,ND,s. Kindertagesstätte,,,A44E9ABCE11CF64CC1256F230035BAFC
 C5D898628E83EC4BC1256F230035D688,Hospitalismus,D,s.a. Kinderdorf,,,EF1BE2ED6FDBBE0AC1256F230035C609
 DE449C31A160875CC1256F230035F262,Hyperaktivitätsstörung,ND,s. Aufmerksamkeit,,,0CA17F499075FCC2C1256F230035AEE8
-2DDF8E74335DEDA8C12580CF005DC062,Häuslicher Unterricht,ND,s. Hausunterricht,,,8CB0DF7CFD064DD6C12580CF005D6F40
 B1B4212FDF1AF543C1256F230035D69E,Identitätsfindung,D,s.a. Entwicklungspsychologie,,,74FB262F87E97287C1256F230035B463
 6FC75B72A135F615C12578A30038E039,Inklusion (Pädagogik),ND,s. Pädagogik,,,AE1992904B908D27C1256F230035C133
 AFCE6E3C98B50E5AC1256F230035F2C1,Integrativer Unterricht,ND,s. Differenzierter Unterricht,,,6896C2EFDED44BB3C1256F230035B354
@@ -350,8 +351,8 @@ D15183FDD8679E7BC1256F230035F3C0,Katholischer Religionsunterricht,ND,s. Religion
 1D11D1DC5E49BEB7C12577FF005643D8,Kinderbetreuung,ND,s. Kindergarten,,,23316B8393407874C1256F230035BAF7
 D0AB3B2306D282A8C12577FF0057C766,Kinderbetreuung,ND,s. Kindertagesstätte,,,A44E9ABCE11CF64CC1256F230035BAFC
 7397C8166DC464A8C1256F230035BAF3,Kinderbild,DS,"Bilder, Zeichnungen von Kindern gemalt.",Pädagogik,,
-EF1BE2ED6FDBBE0AC1256F230035C609,Kinderdorf,DS,"Einrichtungen zur ständigen Betreuung und Erziehung von elterlosen oder verlassenen Kindern in familienähnlichen Hausgemeinschaften; Anfänge schon 19. Jahrhundert (j. H. Wicherns ""Rauhes Haus"" in Hamburg, 1833), nach dem zweiten Weltkrieg u.a.1946 Vereinigung K. Pestalozzi und SOS-Kinderdorf e. V. (gegründet 1949 von H. Gmeiner). Im internationalen Dachverband SOS-Kinderdorf International sind 124 nationale Vereinigungen mit 326 SOS-Kinderdörfern zusammengeschlossen.",Pädagogik,,
 28643F99601BD74EC1257163002F03DB,Kinderdörfer,ND,s. Kinderdorf,,,EF1BE2ED6FDBBE0AC1256F230035C609
+EF1BE2ED6FDBBE0AC1256F230035C609,Kinderdorf,DS,"Einrichtungen zur ständigen Betreuung und Erziehung von elterlosen oder verlassenen Kindern in familienähnlichen Hausgemeinschaften; Anfänge schon 19. Jahrhundert (j. H. Wicherns ""Rauhes Haus"" in Hamburg, 1833), nach dem zweiten Weltkrieg u.a.1946 Vereinigung K. Pestalozzi und SOS-Kinderdorf e. V. (gegründet 1949 von H. Gmeiner). Im internationalen Dachverband SOS-Kinderdorf International sind 124 nationale Vereinigungen mit 326 SOS-Kinderdörfern zusammengeschlossen.",Pädagogik,,
 B807F5875EB88E51C1256F230035F41C,Kindererziehung,ND,s. Erziehung,,,F1F7361B19869668C1256F230035B49B
 23316B8393407874C1256F230035BAF7,Kindergarten,DS,Der Kindergarten ist eine Einrichtung der öffentlichen und frühen Bildung des Kindes sowie zur Kindertagesbetreuung/Kinderbetreuung.,Pädagogik,,
 AF429007694E0205C1256F230035D801,Kindergarten,D,s.a. Schule,,,2846EB566153DE38C1256F230035C501
@@ -382,6 +383,9 @@ A28294FCAAE7FAA9C1256F230035F46E,Kleingruppenarbeit,ND,s. Gruppenarbeit,,,A60F2D
 D01BE74DD0BE2A8AC1256F230035D833,Kleinkind,D,s.a. Erziehung,,,F1F7361B19869668C1256F230035B49B
 CD6F791631D5744AC1256F230035F472,Kleinkindererziehung,ND,s. Erziehung,,,F1F7361B19869668C1256F230035B49B
 E3682A2CEB1D9BE9C1256F230035F473,Kleinkinderziehung,ND,s. Erziehung,,,F1F7361B19869668C1256F230035B49B
+9003D954B7425D89C1256F230035BB5F,"Köhler, Wolfgang",DS,Deutsch-amerikanischer Psychologe (1887-1967); einer der Begründer der Gestaltpsychologie.,Pädagogik,,
+7BBAA2456A62A49FC1256F230035D888,Körperbau (Mensch),D,s.a. Sportdidaktik,,,8DF2F196F4C69F6AC1256F230035C64B
+CC9458F2D5D35E0EC1256F230035D886,Körperbau (Mensch),D,s.a. Entwicklungspsychologie,,,74FB262F87E97287C1256F230035B463
 AB15A1C65E5128FCC1256F230035F4AD,"Komensky, Jan Amos",ND,"s. Comenius, Johann Amos",,,3B7FB4001180DDA7C1256F230035B284
 A9B9545295D1C7CAC1257B27005B7BAF,Konditionierung,D,s.a. Blackbox (Kybernetik),,,A9A9D04680D26944C1256F230035B0DC
 89EA61840AE83F58C1256F230035F4C9,Konfessionsschule,ND,s. Schule,,,2846EB566153DE38C1256F230035C501
@@ -401,10 +405,6 @@ A412B4FEED68C583C1256F230035D914,Kunst,D,s.a. Kunstunterricht,,,C9FBF1F358110C5A
 218B7E0DEAD42ACEC125717700391CDE,Kunsthochschule,ND,s. Hochschule,,,575AD14FF452C8C5C1256F230035B8B0
 C9FBF1F358110C5AC1256F230035BC3A,Kunstunterricht,DS,Zur Vermittlung der Grundlagen im Kunstunterricht.,Pädagogik,,
 EC8F7C153ED3A2F0C12573560034C864,Kybernetik,D,s.a. Blackbox (Kybernetik),,,A9A9D04680D26944C1256F230035B0DC
-9003D954B7425D89C1256F230035BB5F,"Köhler, Wolfgang",DS,Deutsch-amerikanischer Psychologe (1887-1967); einer der Begründer der Gestaltpsychologie.,Pädagogik,,
-7BBAA2456A62A49FC1256F230035D888,Körperbau (Mensch),D,s.a. Sportdidaktik,,,8DF2F196F4C69F6AC1256F230035C64B
-CC9458F2D5D35E0EC1256F230035D886,Körperbau (Mensch),D,s.a. Entwicklungspsychologie,,,74FB262F87E97287C1256F230035B463
-37B8B3F5FF687A9BC1256F230035F7DF,LRS,ND,s. Lernschwierigkeit,,,C8595A335B6B7EEBC1256F230035BD32
 18C6EECF6A595A2DC1257746005AA06C,Laissez-faire-Erziehungsstil,ND,s. Erziehungsstil,,,58AB25857C9C06CDC1256F230035B49D
 7DF3297AA37D6BAFC1256F230035F62D,Landerziehungsheime,ND,s. Heimerziehung,,,A1A6DB7D73518255C1256F230035B850
 51401765531B20BDC1256F230035F657,Landschule,ND,s. Dorfschule,,,33344C8599B4E2E6C1256F230035B386
@@ -451,16 +451,17 @@ F274E87A6E1DB8C0C1256F230035BD31,Lernhilfe,DS,Apparative (Lehr- und Lernmaschine
 BECE113CC6A916C9C1256F230035F734,Lernmodul,ND,s. Lernhilfe,,,F274E87A6E1DB8C0C1256F230035BD31
 1C3C6BD24D468617C1256F230035D9AE,Lernschwierigkeit,D,s.a. Unterricht,,,F32AB442560996E2C1256F230035C8EA
 C8595A335B6B7EEBC1256F230035BD32,Lernschwierigkeit,DS,"Verminderte Fähigkeit des Lernens, u.U. wegen Schwierigkeiten mit dem Lernthema oder auch verminderter Ablauf des Lernprozesses.",Pädagogik,,
-6318BCC0C41DF2DFC1256F230035F73B,Lernstrategie,ND,s. Lernhilfe,,,F274E87A6E1DB8C0C1256F230035BD31
 735799A2BB4F1E8CC1256F230035F739,Lernstörung,ND,s. Lernschwierigkeit,,,C8595A335B6B7EEBC1256F230035BD32
+6318BCC0C41DF2DFC1256F230035F73B,Lernstrategie,ND,s. Lernhilfe,,,F274E87A6E1DB8C0C1256F230035BD31
 723B046C3DE7B966C1256F230035F73F,Lernzielorientierter Unterricht,ND,s. Unterrichtsmethode,,,AA832EEF483276DBC1256F230035C8EC
 0116E9655FEBF392C1256F230035F741,Lese- und Rechtschreibschwäche,ND,s. Lernschwierigkeit,,,C8595A335B6B7EEBC1256F230035BD32
 BE34E67798505363C1256F230035F743,Lese-Rechtschreib-Schwäche,ND,s. Lernschwierigkeit,,,C8595A335B6B7EEBC1256F230035BD32
-BF421BB1F891A836C1256F230035F74D,Leseschwierigkeit,ND,s. Lernschwierigkeit,,,C8595A335B6B7EEBC1256F230035BD32
 255CBA6F0503EA0BC1256F230035F74B,Leseschwäche,ND,s. Lernschwierigkeit,,,C8595A335B6B7EEBC1256F230035BD32
+BF421BB1F891A836C1256F230035F74D,Leseschwierigkeit,ND,s. Lernschwierigkeit,,,C8595A335B6B7EEBC1256F230035BD32
 11E43E002630973AC1256F230035BD3C,"Lewin, Kurt",DS,Amerikanischer Psychologe deutscher Herkunft (1890-1947); Vertreter der Berliner Schule der Gestaltpsychologie; wandte sich speziell Problemen der Gruppenbeziehung zu (Gruppendynamik).,Pädagogik,,
 E52A5EFEB497C071C1256F230035BD57,"Lietz, Herrmann",DS,Deutscher Pädagoge (1868-1919); begründete die ersten Landerziehungsheime.,Pädagogik,,
 D4D18DEB79A680C5C1256F230035BD77,"Litt, Theodor",DS,Deutscher Philosoph und Pädagoge (1880-1962); lieferte wesentliche Beiträge zur Wissenschaftstheorie.,Pädagogik,,
+37B8B3F5FF687A9BC1256F230035F7DF,LRS,ND,s. Lernschwierigkeit,,,C8595A335B6B7EEBC1256F230035BD32
 E9FA2F5881C0CF32C1256F230035D9EE,"Luther, Martin",D,"s.a. Melanchthon, Philipp",,,413D5F860A180FB1C1256F230035BEA9
 6C6A6825E6264B84C12577CA0050D57C,Lyzeum,ND,s. Gymnasium,,,83AB18766BD9CAE4C1256F230035B7AD
 94B7A5212B2654E1C12577C30054E294,M-Klasse,ND,s. Hauptschule,,,6A01EDACE68401C8C1256F230035B810
@@ -478,23 +479,23 @@ AACA0D321EF11510C1258027005508C6,"Mason, Paul",ND,s. Pädagogik,,,AE1992904B908D
 413D5F860A180FB1C1256F230035BEA9,"Melanchthon, Philipp",DS,"Eigentlich P. Schwarzert, deutscher Humanist und Reformer, der ""Lehrer Deutschlands"", (1497-1560); der bedeutendste Mitarbeiter Luthers bei der Reformation. Wegen seiner Lehrabweichungen von den strengen Lutheranern angegriffen. Machte sich um das Schulwesen sehr verdient.",Pädagogik,,
 D48AF4D7BEE31807C1256F230035DA78,Menschenwürde,D,s.a. Chancengleichheit,,,8A658B04FBA5B77AC1256F230035B21E
 CE7C71B2D07C89C6C1256F230035BEDD,"Metzger, Wolfgang",DS,"Deutscher Psychologe (1899-1979); war Professor in Frankfurt am Main, 1942-67 in Münster, ein Hauptvertreter der Gestaltspsychologie.",Pädagogik,,
-729BE677A8D2E9F2C12571C4004CA02E,"Milgram, Stanley",ND,s. Milgram-Experiment,,,204D5F975FC410C6C1256F230035BEFF
 204D5F975FC410C6C1256F230035BEFF,Milgram-Experiment,DS,"Vesuch des amerikanischen Sozialpsychologen Stanley Milgram (1933-84), die Beziehung zwischen Autorität, Gehorsam und Aggression experimentell zu klären. Untersucht wird die Bereitschaft von Lehrern Lernenden für Fehlantworten elektrische Stromstöße zu verabreichen.",Pädagogik,,
+729BE677A8D2E9F2C12571C4004CA02E,"Milgram, Stanley",ND,s. Milgram-Experiment,,,204D5F975FC410C6C1256F230035BEFF
 AD8E5376BE4B8171C1256F230035F9CB,Mitarbeiterfortbildung,ND,s. Weiterbildung,,,E55D7A53E88755D1C1256F230035CACA
 1617F6CC2096D3E9C12577C300548B76,Mittlere-Reife-Zug,ND,s. Hauptschule,,,6A01EDACE68401C8C1256F230035B810
 07EFB1586A946547C1257832005CEAE2,Mobben,ND,s. Mobbing,,,F50429533F915E6FC1256F230035F9E0
 4D58B0FB961CA47DC1256F470034E305,Mobbing,D,s.a. Schüler-Schüler-Beziehung,,,4AFC24C9B3FEB7FCC1256F230035C504
 DAC9E16D83BAC6AFC1256F4700349F70,Mobbing,D,s.a. Streitschlichtung (Schule),,,7460144E4CF1714FC1256F46003BA518
 F50429533F915E6FC1256F230035F9E0,Mobbing,DS,"Eine Form offener und/oder subtiler Gewalt (Psychoterror) gegen Personen über längere Zeit mit dem Ziel der sozialen Ausgrenzung. Es kann sich dabei um verbale und/oder physische Gewalt handeln. In der Schule: Mobbing steht für alle böswilligen Handlungen, die kein anderes Ziel haben, als eine Mitschülerin oder einen Mitschüler fertig zu machen. Dazu gehören etwa hinterhältige Anspielungen, Verleumdungen, Demütigungen, Drohungen, Quälerein oder sexuelle Belästigungen.",Pädagogik,,
-A8AA9FE93769BCA7C1256F230035BF66,"Montessori, Maria",DS,"Italienische Ärztin, Erzieherin (1870-1952); forderte Schulung der Sinnestätigkeit des Kindes, Selbsterziehung und -tätigkeit besonders in der Kindergartenerziehung. Heute arbeitet die Montessorigesellschaft in speziellen Schulen nach ihren Vorstellungen.",Pädagogik,,
 3E69AFAC1FA0BF8EC12580B8005F7B15,Montessori-Kinderhaus,ND,"s. Montessori, Maria",,,A8AA9FE93769BCA7C1256F230035BF66
 CFFC3DC9A50B1B2EC12580B8005F8DB3,Montessori-Material,ND,"s. Montessori, Maria",,,A8AA9FE93769BCA7C1256F230035BF66
 047B40EF9F3EDD58C12580B8005F82FD,Montessori-Methode,ND,"s. Montessori, Maria",,,A8AA9FE93769BCA7C1256F230035BF66
 68F62BD29EE19D46C12580B8005F9DAF,Montessori-Pädagogik,ND,"s. Montessori, Maria",,,A8AA9FE93769BCA7C1256F230035BF66
 5CC4B6F1253BBD45C1256F230035FA10,Montessori-Schule,ND,"s. Montessori, Maria",,,A8AA9FE93769BCA7C1256F230035BF66
+A8AA9FE93769BCA7C1256F230035BF66,"Montessori, Maria",DS,"Italienische Ärztin, Erzieherin (1870-1952); forderte Schulung der Sinnestätigkeit des Kindes, Selbsterziehung und -tätigkeit besonders in der Kindergartenerziehung. Heute arbeitet die Montessorigesellschaft in speziellen Schulen nach ihren Vorstellungen.",Pädagogik,,
 026BF320AB413DCFC12577C000595386,Multimediales Lernen,ND,s. E-Learning,,,F156CAE4A7EE2828C12577C00058CF62
-CD83240F7D025179C1256F230035FA6F,Multiple Choice,ND,s. Multiple-choice,,,24FB612D691229C1C1256F230035BFAE
 24FB612D691229C1C1256F230035BFAE,Multiple-choice,DS,"Fragebogen- und Testtechnik, bei der zwischen mehreren vorgegebenen Antworten gewählt werden muss.",Pädagogik,,
+CD83240F7D025179C1256F230035FA6F,Multiple Choice,ND,s. Multiple-choice,,,24FB612D691229C1C1256F230035BFAE
 1A041E30C76F21B9C1256F230035DB1B,Museum,D,s.a. Museumspädagogik,,,AD3ECEDFF2AF2ABAC1256F230035BFC8
 A060197C0D184C19C12580D500648E94,Museumsdidaktik,ND,s. Museumspädagogik,,,AD3ECEDFF2AF2ABAC1256F230035BFC8
 AD3ECEDFF2AF2ABAC1256F230035BFC8,Museumspädagogik,DS,Alle pädagogischen Maßnahmen im Zusammenhang mit Museen und Kunstausstellungen.,Pädagogik,,
@@ -506,41 +507,12 @@ A9BED4D287AB20CDC1256F230035FB0F,Naturerfahrung,ND,s. Umwelterziehung,,,96D97FEE
 288F4E6C9C63FDF1C1256F230035FBC3,Note (Zensur),ND,s. Zensur (Note),,,4594DE334C3A3FF8C1256F230035CC16
 70FBED69206DFB03C1256F230035FBF3,Oberstufenunterricht,ND,s. Gymnasium,,,83AB18766BD9CAE4C1256F230035B7AD
 9C009CEA008C0251C125812C0055B070,Odenwaldschule,ND,s. Internat,,,712289D7F2C26262C1256F230035B987
+6DCCF906FF36B939C12572B100283857,Öffentliche Schulen,ND,s. Schule,,,2846EB566153DE38C1256F230035C501
+3E0A063603F8AD99C1256F230035FC26,Ökologische Erwachsenenbildung,ND,s. Umwelterziehung,,,96D97FEE2AF858D9C1256F230035C8C4
 CE1BC3B9AE8E29ECC1256F230035FC13,Offener Unterricht,ND,s. Unterrichtsmethode,,,AA832EEF483276DBC1256F230035C8EC
 FE579EB36FC04CD4C12577C000593A46,Online Lernen,ND,s. E-Learning,,,F156CAE4A7EE2828C12577C00058CF62
 4E8CA4E3B60C1AF5C12577C0005941E3,Onlinelernen,ND,s. E-Learning,,,F156CAE4A7EE2828C12577C00058CF62
 9AC249EE70408BA9C12577C0005978A2,Open and Distance Learning,ND,s. E-Learning,,,F156CAE4A7EE2828C12577C00058CF62
-1ACE2BFE52EDC53CC1256F230035FD10,Pausenhof,ND,s. Schulhof,,,62BBA147BFED4B0DC1256F230035C50B
-37C713A5A394F36AC1256F230035C19A,"Pestalozzi, Johann Heinrich",DS,"Schweizerischer Pädagoge, Philosoph (1746-1827); seine Methode der Erziehung beruhte auf ""Anschauung"". Wollte die Kräfte des Zöglings bilden und betonte den erzieherischen Wert der Arbeit und des Gemeinschaftslebens.",Pädagogik,,
-D1AB396A8D3B751CC1256F230035FD49,Peter-Petersen-Schule,ND,"s. Petersen, Peter",,,8512F9A1BCD97DFAC1256F230035C19D
-8512F9A1BCD97DFAC1256F230035C19D,"Petersen, Peter",DS,"Deutscher Pädagoge (1884-1952); war 1923-50 Professor in Jena, entwickelte und erprobte als Leiter der dortigen Universitätsschule seinen Jena-Plan; betonte das Prinzip der Gemeinschaft als Mittel und Ziel der Erziehung.",Pädagogik,,
-BD3F35878191871BC125721000286AAF,Pflichtunterricht,ND,s. Unterricht,,,F32AB442560996E2C1256F230035C8EA
-2A04F9A7425EC03BC1258178005BFBDD,Philanthropismus,ND,s. Reformpädagogik,,,2667FF6E0A8A8728C1256F230035C2E6
-60F868E955F02646C125817B00393593,"Piaget, Jean",ND,s. Entwicklungspsychologie,,,74FB262F87E97287C1256F230035B463
-B40DF7FD4AD5B1B4C1256F230035DD1B,Politik,D,s.a. Chancengleichheit,,,8A658B04FBA5B77AC1256F230035B21E
-BACCA07A47F0223FC1256F230035DD1A,Politik,D,s.a. Bildungssystem,,,C38AE9267998EC3EC1256F230035B0B1
-8C2765853A216512C1257D8A003469BD,Politische Bildung (Schulfach),ND,s. Sozialkunde,,,0A446D3DDFA033F8C1257D8A0033CE00
-0F8BFBF11742194DC1256F230035C221,Polytechnischer Unterricht,DS,"Allgemein jeder Unterricht, der auf die Berufs- und Arbeitswelt vorbereitet. Während der polytechnische Unterricht in den sozialistischen Ländern ein durchgängiges Unterrichtsprinzip ist, wird er in westlichen Demokratien meist auf bestimmte Fächer oder Schularten eingeschränkt.",Pädagogik,,
-EC482580D49BC6C6C1256F230035FE91,Primarbereich,ND,s. Grundschule,,,CB8D739ECD79B6D4C1256F230035B78B
-BC4D48D225DB4D24C1256F230035FE93,Primarbildung,ND,s. Grundschule,,,CB8D739ECD79B6D4C1256F230035B78B
-F88882A24A148944C1256F230035FE95,Primarschule,ND,s. Grundschule,,,CB8D739ECD79B6D4C1256F230035B78B
-E748F5D66B6A08BCC12572740036BD3C,Primarstufe,ND,s. Bildungssystem,,,C38AE9267998EC3EC1256F230035B0B1
-70C7129523A3AD26C12581B5005B0C14,Primary School,ND,s. Grundschule,,,CB8D739ECD79B6D4C1256F230035B78B
-7BE3484793EBB036C12581B5005B22F4,Primary School,ND,s. Bildungssystem,,,C38AE9267998EC3EC1256F230035B0B1
-CCCF5C168784A985C1256F230035FE92,Primärbildung,ND,s. Grundschule,,,CB8D739ECD79B6D4C1256F230035B78B
-E50DD4173822F886C1256F230035FE9E,Privathochschule,ND,s. Hochschule,,,575AD14FF452C8C5C1256F230035B8B0
-380EF4273DC9351DC12580CF005DFAB7,Privatlehrer,ND,s. Hausunterricht,,,8CB0DF7CFD064DD6C12580CF005D6F40
-0B9B786D2BC9749AC1256F230035FEA2,Privatschule,ND,s. Schule,,,2846EB566153DE38C1256F230035C501
-701CA3CE0BE135A4C12579C5005422C6,Probe (Prüfung),ND,s. Prüfung,,,20FCE4A3A52B2049C1256F230035C26D
-7D50D4ED060D013AC1256F230035C259,Projektarbeit,DS,"Projektunterricht, auch Projektarbeit, bezeichnet allgemein die Organisation des Unterrichts als Arbeit an einem Projekt, wird aber speziell in der Pädagogik zusammen mit dem synonymen Begriff der Projektmethode für eine seit Anfang der 1970er Jahre verstärkt diskutierte Reformidee gebraucht, vor allem in der Hochschuldidaktik. Anfang der 1980er Jahre erfolgte eine verstärkte Adaption in der Schulpädagogik als Reaktion auf den Frontalunterricht sowie in der Erwachsenen- und Weiterbildung. Zur Projektarbeit gehören die Vorbereitung, Planung, Durchführung, Vorstellung und die Präsentation der Projektergebnisse. ",Pädagogik,,
-953954DC58EC6ABCC1256F230035FEC4,Projektmethode,ND,s. Unterrichtsmethode,,,AA832EEF483276DBC1256F230035C8EC
-4DF07DE307E5A5CEC1256F230035FEC5,Projektunterricht,ND,s. Projektarbeit,,,7D50D4ED060D013AC1256F230035C259
-8C32F18C87FED7CAC1256F230035FEC7,Projektunterricht,ND,s. Unterrichtsmethode,,,AA832EEF483276DBC1256F230035C8EC
-0D67A7DD83C49F6DC12575690058DF73,Prüfung,D,s.a. Multiple-choice,,,24FB612D691229C1C1256F230035BFAE
-20FCE4A3A52B2049C1256F230035C26D,Prüfung,DS,"Die Feststellung der Leistungen und Fähigkeiten vor (Aufnahme- und Zulassungsprüfung), während (Zwischenprüfung) und nach (Abschlussprüfung) einer schulischen und beruflichen Ausbildung.",Pädagogik,,
-D9D2867FE11D2357C1256F230035DD61,Prüfung,D,s.a. Zensur (Note),,,4594DE334C3A3FF8C1256F230035CC16
-59C9C206CCDAC64FC1256F230035DD68,Psychologie,D,s.a. Entwicklungspsychologie,,,74FB262F87E97287C1256F230035B463
-F8C26751B3BAE6B1C1256F4700351FD1,Psychoterror,ND,s. Mobbing,,,F50429533F915E6FC1256F230035F9E0
 1249548FF3E4CB18C12575690058CACC,Pädagogik,D,s.a. Reformpädagogik,,,2667FF6E0A8A8728C1256F230035C2E6
 421D357FB17C1769C1256F230035DCA8,Pädagogik,D,s.a. Erziehung,,,F1F7361B19869668C1256F230035B49B
 599DFC65225F0725C12575690058BC26,Pädagogik,D,s.a. Berufspädagogik,,,CC5072693F15D509C1256F230035B05A
@@ -554,6 +526,37 @@ DF924C126C335608C12575690058B325,Pädagogik,D,s.a. Behindertenpädagogik,,,8DB19
 45782C33908E92F3C1256F230035FCBC,Pädagogikgeschichte,ND,s. Schule (Geschichte),,,D474C487338E6316C1256F230035C503
 161237958C2B29F0C1256F230035FCBD,Pädagogische Bewegung,ND,s. Reformpädagogik,,,2667FF6E0A8A8728C1256F230035C2E6
 8073E84F43DD52A1C1256F230035FCBE,Pädagogische Forschung,ND,s. Pädagogik,,,AE1992904B908D27C1256F230035C133
+1ACE2BFE52EDC53CC1256F230035FD10,Pausenhof,ND,s. Schulhof,,,62BBA147BFED4B0DC1256F230035C50B
+37C713A5A394F36AC1256F230035C19A,"Pestalozzi, Johann Heinrich",DS,"Schweizerischer Pädagoge, Philosoph (1746-1827); seine Methode der Erziehung beruhte auf ""Anschauung"". Wollte die Kräfte des Zöglings bilden und betonte den erzieherischen Wert der Arbeit und des Gemeinschaftslebens.",Pädagogik,,
+D1AB396A8D3B751CC1256F230035FD49,Peter-Petersen-Schule,ND,"s. Petersen, Peter",,,8512F9A1BCD97DFAC1256F230035C19D
+8512F9A1BCD97DFAC1256F230035C19D,"Petersen, Peter",DS,"Deutscher Pädagoge (1884-1952); war 1923-50 Professor in Jena, entwickelte und erprobte als Leiter der dortigen Universitätsschule seinen Jena-Plan; betonte das Prinzip der Gemeinschaft als Mittel und Ziel der Erziehung.",Pädagogik,,
+BD3F35878191871BC125721000286AAF,Pflichtunterricht,ND,s. Unterricht,,,F32AB442560996E2C1256F230035C8EA
+2A04F9A7425EC03BC1258178005BFBDD,Philanthropismus,ND,s. Reformpädagogik,,,2667FF6E0A8A8728C1256F230035C2E6
+60F868E955F02646C125817B00393593,"Piaget, Jean",ND,s. Entwicklungspsychologie,,,74FB262F87E97287C1256F230035B463
+B40DF7FD4AD5B1B4C1256F230035DD1B,Politik,D,s.a. Chancengleichheit,,,8A658B04FBA5B77AC1256F230035B21E
+BACCA07A47F0223FC1256F230035DD1A,Politik,D,s.a. Bildungssystem,,,C38AE9267998EC3EC1256F230035B0B1
+8C2765853A216512C1257D8A003469BD,Politische Bildung (Schulfach),ND,s. Sozialkunde,,,0A446D3DDFA033F8C1257D8A0033CE00
+0F8BFBF11742194DC1256F230035C221,Polytechnischer Unterricht,DS,"Allgemein jeder Unterricht, der auf die Berufs- und Arbeitswelt vorbereitet. Während der polytechnische Unterricht in den sozialistischen Ländern ein durchgängiges Unterrichtsprinzip ist, wird er in westlichen Demokratien meist auf bestimmte Fächer oder Schularten eingeschränkt.",Pädagogik,,
+CCCF5C168784A985C1256F230035FE92,Primärbildung,ND,s. Grundschule,,,CB8D739ECD79B6D4C1256F230035B78B
+EC482580D49BC6C6C1256F230035FE91,Primarbereich,ND,s. Grundschule,,,CB8D739ECD79B6D4C1256F230035B78B
+BC4D48D225DB4D24C1256F230035FE93,Primarbildung,ND,s. Grundschule,,,CB8D739ECD79B6D4C1256F230035B78B
+F88882A24A148944C1256F230035FE95,Primarschule,ND,s. Grundschule,,,CB8D739ECD79B6D4C1256F230035B78B
+E748F5D66B6A08BCC12572740036BD3C,Primarstufe,ND,s. Bildungssystem,,,C38AE9267998EC3EC1256F230035B0B1
+70C7129523A3AD26C12581B5005B0C14,Primary School,ND,s. Grundschule,,,CB8D739ECD79B6D4C1256F230035B78B
+7BE3484793EBB036C12581B5005B22F4,Primary School,ND,s. Bildungssystem,,,C38AE9267998EC3EC1256F230035B0B1
+E50DD4173822F886C1256F230035FE9E,Privathochschule,ND,s. Hochschule,,,575AD14FF452C8C5C1256F230035B8B0
+380EF4273DC9351DC12580CF005DFAB7,Privatlehrer,ND,s. Hausunterricht,,,8CB0DF7CFD064DD6C12580CF005D6F40
+0B9B786D2BC9749AC1256F230035FEA2,Privatschule,ND,s. Schule,,,2846EB566153DE38C1256F230035C501
+701CA3CE0BE135A4C12579C5005422C6,Probe (Prüfung),ND,s. Prüfung,,,20FCE4A3A52B2049C1256F230035C26D
+7D50D4ED060D013AC1256F230035C259,Projektarbeit,DS,"Projektunterricht, auch Projektarbeit, bezeichnet allgemein die Organisation des Unterrichts als Arbeit an einem Projekt, wird aber speziell in der Pädagogik zusammen mit dem synonymen Begriff der Projektmethode für eine seit Anfang der 1970er Jahre verstärkt diskutierte Reformidee gebraucht, vor allem in der Hochschuldidaktik. Anfang der 1980er Jahre erfolgte eine verstärkte Adaption in der Schulpädagogik als Reaktion auf den Frontalunterricht sowie in der Erwachsenen- und Weiterbildung. Zur Projektarbeit gehören die Vorbereitung, Planung, Durchführung, Vorstellung und die Präsentation der Projektergebnisse. ",Pädagogik,,
+953954DC58EC6ABCC1256F230035FEC4,Projektmethode,ND,s. Unterrichtsmethode,,,AA832EEF483276DBC1256F230035C8EC
+4DF07DE307E5A5CEC1256F230035FEC5,Projektunterricht,ND,s. Projektarbeit,,,7D50D4ED060D013AC1256F230035C259
+8C32F18C87FED7CAC1256F230035FEC7,Projektunterricht,ND,s. Unterrichtsmethode,,,AA832EEF483276DBC1256F230035C8EC
+0D67A7DD83C49F6DC12575690058DF73,Prüfung,D,s.a. Multiple-choice,,,24FB612D691229C1C1256F230035BFAE
+20FCE4A3A52B2049C1256F230035C26D,Prüfung,DS,"Die Feststellung der Leistungen und Fähigkeiten vor (Aufnahme- und Zulassungsprüfung), während (Zwischenprüfung) und nach (Abschlussprüfung) einer schulischen und beruflichen Ausbildung.",Pädagogik,,
+D9D2867FE11D2357C1256F230035DD61,Prüfung,D,s.a. Zensur (Note),,,4594DE334C3A3FF8C1256F230035CC16
+59C9C206CCDAC64FC1256F230035DD68,Psychologie,D,s.a. Entwicklungspsychologie,,,74FB262F87E97287C1256F230035B463
+F8C26751B3BAE6B1C1256F4700351FD1,Psychoterror,ND,s. Mobbing,,,F50429533F915E6FC1256F230035F9E0
 14ADED9578B0F5BAC1256F230035C2D3,Realschule,DS,"Schulen der Sekundarstufe I, die mit der 10. Klasse abschließen und eine über die Hauptschule hinausgehende Bildung vermitteln.",Pädagogik,,
 BCA970AD94327609C1256F230035FF8A,Rechtschreibschwäche,ND,s. Lernschwierigkeit,,,C8595A335B6B7EEBC1256F230035BD32
 2667FF6E0A8A8728C1256F230035C2E6,Reformpädagogik,DS,"Bestrebungen zur Reform von Erziehung, Schule und Unterricht in Europa und den USA zwischen 1890 und 1930, in Deutschland nach H. Nohl auch pädagogische Bewegung genannt. Die Reformpädagogik strebte eine tiefgreifende Revision der traditionellen Pädagogik an.",Pädagogik,,
@@ -562,21 +565,43 @@ EB7388A620247154C1256F230035DDBC,Reformpädagogik,D,"s.a. Petersen, Peter",,,851
 F903FCD0EDD79ADBC1256F230035DDBB,Reformpädagogik,D,"s.a. Montessori, Maria",,,A8AA9FE93769BCA7C1256F230035BF66
 6FA33791F4E56432C1256F230035FF9E,Reformschule,ND,s. Reformpädagogik,,,2667FF6E0A8A8728C1256F230035C2E6
 282B09792FADEAF0C1257234003646CC,Reifeprüfung,ND,s. Gymnasium,,,83AB18766BD9CAE4C1256F230035B7AD
+23E2A16B5377663CC1256F2300360013,Religiöse Erziehung,ND,s. Religionspädagogik,,,B3D8B1ABD66C97CCC1256F230035C33A
 F1ACEA202287EFF3C1256F230035DE00,Religion,D,s.a. Religionspädagogik,,,B3D8B1ABD66C97CCC1256F230035C33A
 B3D8B1ABD66C97CCC1256F230035C33A,Religionspädagogik,DS,"Belehrung über Inhalte einer Religion, i.e.S. ein Schulfach, das auch die Entscheidung zum Glaubensleben ermöglichen soll.",Pädagogik,,
 4D1CE3B289756C7AC1256F2300360011,Religionsunterricht,ND,s. Religionspädagogik,,,B3D8B1ABD66C97CCC1256F230035C33A
-23E2A16B5377663CC1256F2300360013,Religiöse Erziehung,ND,s. Religionspädagogik,,,B3D8B1ABD66C97CCC1256F230035C33A
 51C928305608BE50C125772C00397C16,"Riegel, Enja",ND,s. Helene-Lange-Schule (Wiesbaden),,,2E02B292703DFA9EC125772C003959E2
 90925B7F9E1B9EFCC1256F230035C3BE,Rollenspiel,DS,"In der Pädagogik gilt das Rollenspiel schon seit längerem als eine wichtige Möglichkeit, mit der die Beteiligten soziale Erfahrungen machen können, indem sie Rollen übernehmen, ausprobieren, wechseln, reflektieren und verändern.",Pädagogik,,
 E1CEBAA1E7F53B8AC1256F230035DE49,Rollenspiel,D,s.a. Unterrichtsmethode,,,AA832EEF483276DBC1256F230035C8EC
 E282AB68D7960D95C12582470060C321,Rollentausch,ND,s. Rollenspiel,,,90925B7F9E1B9EFCC1256F230035C3BE
 C83DE73CA3163970C1256F230035C3E2,"Roth, Heinrich",DS,"Deutscher Erziehungswissenschaftler und Psychologe (1906-83); seit 1956 Professor in Frankfurt am Main, 1961-71 in Göttingen.",Pädagogik,,
-4FAED41D2901A418C1256F230035F418,SOS-Kinderdorf e. V.,ND,s. Kinderdorf,,,EF1BE2ED6FDBBE0AC1256F230035C609
+75BBF671A942E880C1256F230035DEC2,Säugling,D,s.a. Kindertagesstätte,,,A44E9ABCE11CF64CC1256F230035BAFC
+AE777C83C5C68DEAC1256F230035DEC0,Säugling,D,s.a. Erziehung,,,F1F7361B19869668C1256F230035B49B
 91C02A22068CD0F3C125827B005CF795,Schikane,ND,s. Mobbing,,,F50429533F915E6FC1256F230035F9E0
 A11C2448FC0B256FC125827B005CF29F,Schikane,ND,s. Schüler-Schüler-Beziehung,,,4AFC24C9B3FEB7FCC1256F230035C504
 23D188A5E99A455EC1256F23003601A5,Schikanieren,ND,s. Schüler-Schüler-Beziehung,,,4AFC24C9B3FEB7FCC1256F230035C504
 B7224068A1DDA152C125827B005CCFCE,Schikanieren,ND,s. Mobbing,,,F50429533F915E6FC1256F230035F9E0
 9D3FB56FA8E6B39BC12582820057DF52,Schlichten,ND,s. Streitschlichtung (Schule),,,7460144E4CF1714FC1256F46003BA518
+5D4D1EB20601AAE0C12582910058E8F6,Schüler-Beziehung,ND,s. Schüler-Schüler-Beziehung,,,4AFC24C9B3FEB7FCC1256F230035C504
+6A7AF007EE567B61C12582910058F49D,Schüler-Beziehung,ND,s. Lehrer-Schüler-Beziehung,,,E6C6C21099E92905C1256F230035BD08
+F2E9D1DF5EB85294C1256F2300360211,Schüler-Lehrer-Beziehung,ND,s. Lehrer-Schüler-Beziehung,,,E6C6C21099E92905C1256F230035BD08
+2E0511A28DAA7D82C1256F230035DF12,Schüler-Schüler-Beziehung,D,s.a. Klasse (Schule),,,77C4A6DF0FDA36C2C1256F230035BB1C
+3E0BBDAEAAB347E1C1256F470033CB49,Schüler-Schüler-Beziehung,D,s.a. Streitschlichtung (Schule),,,7460144E4CF1714FC1256F46003BA518
+4AFC24C9B3FEB7FCC1256F230035C504,Schüler-Schüler-Beziehung,DS,Beschreibung von Interaktionen zwischen Schülern. Positive und negative Beziehungen.,Pädagogik,,
+812E7260377590CEC1256F230035DF11,Schüler-Schüler-Beziehung,D,s.a. Schülerverhalten,,,6D15E3146E37A142C1256F230035C508
+C6A210B093E6F4D7C1256F230035DF10,Schüler-Schüler-Beziehung,D,s.a. Lehrer-Schüler-Beziehung,,,E6C6C21099E92905C1256F230035BD08
+ECECE856D75EC149C1256F470034D534,Schüler-Schüler-Beziehung,D,s.a. Mobbing,,,F50429533F915E6FC1256F230035F9E0
+EC4085B6EDB078C7C125726B003A3DC6,Schülerausschüsse,ND,s. Schülermitverantwortung,,,01A8B6D452DDBCFFC1256F230035C507
+14089DDCEC036989C1256F230035C505,Schüleraustausch,DS,Austausch von Schülern zwischen verschiedenen Ländern zur interkulturellen Verständigung bzw. Sprachförderung.,Pädagogik,,
+0EE0841181666493C1258291005A1B37,Schülercafé,ND,s. Schülermitverantwortung,,,01A8B6D452DDBCFFC1256F230035C507
+01A8B6D452DDBCFFC1256F230035C507,Schülermitverantwortung,DS,"Beteiligung der Schüler an Verwaltung und Gestaltung des Schullebens (Klassensprecher, Schulsprecher, Schülerausschüsse, Schülerzeitschriften etc.).",Pädagogik,,
+E940C981FE9A7E94C125726B003A1339,Schülermitverwaltung,ND,s. Schülermitverantwortung,,,01A8B6D452DDBCFFC1256F230035C507
+F004502063E6D7B5C125726B003A1D78,Schülerselbstverwaltung,ND,s. Schülermitverantwortung,,,01A8B6D452DDBCFFC1256F230035C507
+B480C908E8DEFBE9C1258291005B5B30,Schülerunternehmen,ND,s. Schülermitverantwortung,,,01A8B6D452DDBCFFC1256F230035C507
+4D05FC80DF02CB80C1256F230035DF13,Schülerverhalten,D,s.a. Lehrer-Schüler-Beziehung,,,E6C6C21099E92905C1256F230035BD08
+5C51BBBB29F67B40C1256F230035DF14,Schülerverhalten,D,s.a. Schüler-Schüler-Beziehung,,,4AFC24C9B3FEB7FCC1256F230035C504
+6D15E3146E37A142C1256F230035C508,Schülerverhalten,DS,Verhalten/Reaktionen von Schülern auf Unterrichtssituationen.,Pädagogik,,
+7383263396343063C125726B003A4982,Schülerzeitschriften,ND,s. Schülermitverantwortung,,,01A8B6D452DDBCFFC1256F230035C507
+94D4A17E147D3A27C1256F230035C509,Schülerzentrierter Unterricht,DS,"Unterricht, in dem stärker der Schüler dominiert.",Pädagogik,,
 4C3E02A821782BC5C1256F230035DEF4,Schulabschluss,D,s.a. Prüfung,,,20FCE4A3A52B2049C1256F230035C26D
 148B03687670F519C1256F230035DEF7,Schulalltag,D,s.a. Schülerverhalten,,,6D15E3146E37A142C1256F230035C508
 33AE39D20E468475C1256F230035DEFA,Schulalltag,D,s.a. Schule,,,2846EB566153DE38C1256F230035C501
@@ -616,6 +641,8 @@ F4975640ECB229F6C1256F230035DF04,Schule,D,s.a. Schule (Ausland),,,FEC4B03FE50152
 FBF337206261F5E1C1256F230035DEFF,Schule,D,s.a. Gymnasium,,,83AB18766BD9CAE4C1256F230035B7AD
 A7DC1A6320CD5505C1257EF5005B1A4C,Schule,D,s.a. Klassenzimmer,,,8DC76C19A3B170D0C1257EF5005AF2B9
 2F1A172C6E3E13CCC12580CF005DA0D0,Schule,D,s.a. Hausunterricht,,,8CB0DF7CFD064DD6C12580CF005D6F40
+86FDC47C9F63CD02C1256F230036020E,Schule für geistig Behinderte,ND,s. Sonderschule,,,57381B89C1ED6487C1256F230035C600
+DDDD9AD2A2F33586C1256F230036020F,Schule für Lernbehinderte,ND,s. Sonderschule,,,57381B89C1ED6487C1256F230035C600
 FEC4B03FE501522EC1256F230035C502,Schule (Ausland),DS,Öffentliche oder private Lehranstalt im Ausland. Alle Beschreibungen von Schulen und deren Besonderheiten bzgl. des Schulsystems in der Welt außerhalb Deutschlands.,Pädagogik,,
 D474C487338E6316C1256F230035C503,Schule (Geschichte),DS,Die Lehranstalt in der Vergangenheit. Beschreibung aller Besonderheiten und Aspekte der Schule in der Geschichte.,Pädagogik,,
 D2E0DC86F913EEE0C12580CF005E185B,Schule (Geschichte),D,s.a. Hausunterricht,,,8CB0DF7CFD064DD6C12580CF005D6F40
@@ -623,8 +650,6 @@ D2E0DC86F913EEE0C12580CF005E185B,Schule (Geschichte),D,s.a. Hausunterricht,,,8CB
 8D45A343147653D9C125777400483500,Schule (weiterführende),ND,s. Realschule,,,14ADED9578B0F5BAC1256F230035C2D3
 901353E042731116C12577740048392C,Schule (weiterführende),ND,s. Hauptschule,,,6A01EDACE68401C8C1256F230035B810
 FDE1DABE12D4C2C5C125777400483D78,Schule (weiterführende),ND,s. Gesamtschule,,,0D137455310EEC61C1256F230035B69F
-DDDD9AD2A2F33586C1256F230036020F,Schule für Lernbehinderte,ND,s. Sonderschule,,,57381B89C1ED6487C1256F230035C600
-86FDC47C9F63CD02C1256F230036020E,Schule für geistig Behinderte,ND,s. Sonderschule,,,57381B89C1ED6487C1256F230035C600
 412FA621BA254352C1256F230035C50A,Schulfernsehen,DS,Fernseh- und Hörfunkprogramme für den Unterricht.,Pädagogik,,
 BEE60EE5AA61F504C1256F230036021A,Schulform,ND,s. Bildungseinrichtung,,,A67D6D360DBEF420C1256F230035B0B0
 D2994C56027E0335C1256F230036021D,Schulfunk,ND,s. Schulfernsehen,,,412FA621BA254352C1256F230035C50A
@@ -652,27 +677,6 @@ E1C5FEA9C447353DC1257210002874B7,Schulunterricht,ND,s. Unterricht,,,F32AB4425609
 4822D59E10F29332C1256F2300360232,Schulwesen,ND,s. Bildungseinrichtung,,,A67D6D360DBEF420C1256F230035B0B0
 F4FFD459EFA95E48C1256F2300360231,Schulwesen,ND,s. Bildungssystem,,,C38AE9267998EC3EC1256F230035B0B1
 2F47CEF531B18817C12571B5002B037D,"Schwarzert, Philipp",ND,"s. Melanchthon, Philipp",,,413D5F860A180FB1C1256F230035BEA9
-5D4D1EB20601AAE0C12582910058E8F6,Schüler-Beziehung,ND,s. Schüler-Schüler-Beziehung,,,4AFC24C9B3FEB7FCC1256F230035C504
-6A7AF007EE567B61C12582910058F49D,Schüler-Beziehung,ND,s. Lehrer-Schüler-Beziehung,,,E6C6C21099E92905C1256F230035BD08
-F2E9D1DF5EB85294C1256F2300360211,Schüler-Lehrer-Beziehung,ND,s. Lehrer-Schüler-Beziehung,,,E6C6C21099E92905C1256F230035BD08
-2E0511A28DAA7D82C1256F230035DF12,Schüler-Schüler-Beziehung,D,s.a. Klasse (Schule),,,77C4A6DF0FDA36C2C1256F230035BB1C
-3E0BBDAEAAB347E1C1256F470033CB49,Schüler-Schüler-Beziehung,D,s.a. Streitschlichtung (Schule),,,7460144E4CF1714FC1256F46003BA518
-4AFC24C9B3FEB7FCC1256F230035C504,Schüler-Schüler-Beziehung,DS,Beschreibung von Interaktionen zwischen Schülern. Positive und negative Beziehungen.,Pädagogik,,
-812E7260377590CEC1256F230035DF11,Schüler-Schüler-Beziehung,D,s.a. Schülerverhalten,,,6D15E3146E37A142C1256F230035C508
-C6A210B093E6F4D7C1256F230035DF10,Schüler-Schüler-Beziehung,D,s.a. Lehrer-Schüler-Beziehung,,,E6C6C21099E92905C1256F230035BD08
-ECECE856D75EC149C1256F470034D534,Schüler-Schüler-Beziehung,D,s.a. Mobbing,,,F50429533F915E6FC1256F230035F9E0
-EC4085B6EDB078C7C125726B003A3DC6,Schülerausschüsse,ND,s. Schülermitverantwortung,,,01A8B6D452DDBCFFC1256F230035C507
-14089DDCEC036989C1256F230035C505,Schüleraustausch,DS,Austausch von Schülern zwischen verschiedenen Ländern zur interkulturellen Verständigung bzw. Sprachförderung.,Pädagogik,,
-0EE0841181666493C1258291005A1B37,Schülercafé,ND,s. Schülermitverantwortung,,,01A8B6D452DDBCFFC1256F230035C507
-01A8B6D452DDBCFFC1256F230035C507,Schülermitverantwortung,DS,"Beteiligung der Schüler an Verwaltung und Gestaltung des Schullebens (Klassensprecher, Schulsprecher, Schülerausschüsse, Schülerzeitschriften etc.).",Pädagogik,,
-E940C981FE9A7E94C125726B003A1339,Schülermitverwaltung,ND,s. Schülermitverantwortung,,,01A8B6D452DDBCFFC1256F230035C507
-F004502063E6D7B5C125726B003A1D78,Schülerselbstverwaltung,ND,s. Schülermitverantwortung,,,01A8B6D452DDBCFFC1256F230035C507
-B480C908E8DEFBE9C1258291005B5B30,Schülerunternehmen,ND,s. Schülermitverantwortung,,,01A8B6D452DDBCFFC1256F230035C507
-4D05FC80DF02CB80C1256F230035DF13,Schülerverhalten,D,s.a. Lehrer-Schüler-Beziehung,,,E6C6C21099E92905C1256F230035BD08
-5C51BBBB29F67B40C1256F230035DF14,Schülerverhalten,D,s.a. Schüler-Schüler-Beziehung,,,4AFC24C9B3FEB7FCC1256F230035C504
-6D15E3146E37A142C1256F230035C508,Schülerverhalten,DS,Verhalten/Reaktionen von Schülern auf Unterrichtssituationen.,Pädagogik,,
-7383263396343063C125726B003A4982,Schülerzeitschriften,ND,s. Schülermitverantwortung,,,01A8B6D452DDBCFFC1256F230035C507
-94D4A17E147D3A27C1256F230035C509,Schülerzentrierter Unterricht,DS,"Unterricht, in dem stärker der Schüler dominiert.",Pädagogik,,
 5FBB4E0F1BB77497C12572740036A149,Sekundarschule,ND,s. Gymnasium,,,83AB18766BD9CAE4C1256F230035B7AD
 8386D6C830679922C12572740036B252,Sekundarschule,ND,s. Hauptschule,,,6A01EDACE68401C8C1256F230035B810
 C5C68B995724A0A0C12572740036AC12,Sekundarschule,ND,s. Realschule,,,14ADED9578B0F5BAC1256F230035C2D3
@@ -686,6 +690,7 @@ F0B73A10D7788FF7C1256FEF0032089C,Sonderpädagogik,D,s.a. Heimerziehung,,,A1A6DB7
 57381B89C1ED6487C1256F230035C600,Sonderschule,DS,"Eigenständige Unterrichts- und Erziehungseinrichtungen für schulpflichtige Kinder und Jugendliche, die sich wegen körperlicher, seelischer oder geistiger Behinderung in den allgemeinen Schulen nicht entfalten können; hauptsächlich für Lernbehinderte.",Pädagogik,,
 2696090ADC3596EBC1256F230036039C,Sonderschulwesen,ND,s. Sonderschule,,,57381B89C1ED6487C1256F230035C600
 DA59872F313EE802C1256F230036039B,Sonderschulwesen,ND,s. Bildungssystem,,,C38AE9267998EC3EC1256F230035B0B1
+4FAED41D2901A418C1256F230035F418,SOS-Kinderdorf e. V.,ND,s. Kinderdorf,,,EF1BE2ED6FDBBE0AC1256F230035C609
 E541F349AA80E628C12582D0005A065C,Sozial- und Gemeinschaftskunde,ND,s. Sozialkunde,,,0A446D3DDFA033F8C1257D8A0033CE00
 120F3B17CAD9B76DC1257746005A6B9F,Sozialintegrativer Erziehungsstil,ND,s. Erziehungsstil,,,58AB25857C9C06CDC1256F230035B49D
 8A5480E6CDE69C4EC1257746005ABCE7,Sozialisation,D,s.a. Erziehungsstil,,,58AB25857C9C06CDC1256F230035B49D
@@ -703,9 +708,9 @@ BCB5A315DDDFC62BC1256F230035C63C,Spielverhalten (Kind),DS,Verhalten/Reaktionen v
 347120D01BFFF16FC1256F2300360476,Sprachlabor,ND,s. Sprachunterricht (Pädagogik),,,75312F7FC7256840C1256F230035C653
 233B11F5B388E544C1256F230035E025,Sprachschulung,D,s.a. Bilingualer Unterricht,,,3577ABBECC6198C1C1256F230035B0B3
 C671E49A2CF44486C1256F230035E021,Sprachschulung,D,s.a. Sprachunterricht (Pädagogik),,,75312F7FC7256840C1256F230035C653
+A103152BA4B97C67C1256F230036047A,Sprachübung,ND,s. Sprachunterricht (Pädagogik),,,75312F7FC7256840C1256F230035C653
 4D4599EB5B8095CFC1257A03003026FF,Sprachunterricht (Deutsch),ND,s. Sprachunterricht (Pädagogik),,,75312F7FC7256840C1256F230035C653
 75312F7FC7256840C1256F230035C653,Sprachunterricht (Pädagogik),DS,Deutsch- bzw. Fremdsprachenunterricht; die Methodik und technische Möglichkeiten.,Pädagogik,,
-A103152BA4B97C67C1256F230036047A,Sprachübung,ND,s. Sprachunterricht (Pädagogik),,,75312F7FC7256840C1256F230035C653
 10F2C817F14E844BC1258306005E30DB,Staatskunde,ND,s. Sozialkunde,,,0A446D3DDFA033F8C1257D8A0033CE00
 9261AEFD38711B13C1256F230036052D,"Steiner, Rudolf",ND,s. Waldorfschule,,,2EFC2DDE32A82482C1256F230035CA3E
 5DA2C46D18AF86C6C1257151003253AB,Stiftung Jugend forscht e.V.,ND,s. Jugend forscht,,,27BBABD2F92D60ABC1256F230035BA1F
@@ -714,8 +719,8 @@ F6C9A2E7E37339BCC125790400532FE5,Streitschlichter,ND,s. Streitschlichtung (Schul
 2436043A69579320C1256F470033DC6C,Streitschlichtung (Schule),D,s.a. Schüler-Schüler-Beziehung,,,4AFC24C9B3FEB7FCC1256F230035C504
 7460144E4CF1714FC1256F46003BA518,Streitschlichtung (Schule),DS,"Streitschlichtung heißt Vermittlung und ist ein Verfahren zur Konfliktlösung, hier speziell für die Schule. Ein Streitschlichter ist als unparteiischer Dritter bei der Konfliktlösung behilflich, d.h. die Lösung eines Konfliktes wird nicht von den Streitschlichtern vorgegeben, sondern von den Kontrahenden erarbeitet. Dabei helfen die Streitschlichter den Betroffenen sich über ihre Gefühle und Interessen klar zu werden und sie verständlich zum Aussruck zu bringen. Das gemeinsame Ziel ist es eine Lösung ohne Verlierer zu finden.",Pädagogik,,
 D1353B7BA9EB7249C1256F470034C6C4,Streitschlichtung (Schule),D,s.a. Mobbing,,,F50429533F915E6FC1256F230035F9E0
-04E857690792BD1FC12574C80036C4DD,"Struwwel, Peter",ND,"s. Hoffmann, Heinrich",,,026AF75ADD3F0933C1256F230035B8BE
 74760CA86D54806AC1256F23003605D6,Struwwelpeter,ND,"s. Hoffmann, Heinrich",,,026AF75ADD3F0933C1256F230035B8BE
+04E857690792BD1FC12574C80036C4DD,"Struwwel, Peter",ND,"s. Hoffmann, Heinrich",,,026AF75ADD3F0933C1256F230035B8BE
 73335214D7B831DEC1256F230035C70D,Student,DS,"HochschülerIn. Das Leben von Studenten, Möglichkeiten und Probleme sowie geschichtliche Aspekte (z.B. Studentenbewegung 1968).",Pädagogik,,
 315F3EBB2E9FE0DAC1256F23003605DB,Studentenaustausch,ND,s. Schüleraustausch,,,14089DDCEC036989C1256F230035C505
 E31AE855BD4863ADC12572BF003632EC,Studentin,ND,s. Student,,,73335214D7B831DEC1256F230035C70D
@@ -724,10 +729,6 @@ C5E2F94B5881AB71C1257CEE0055CBDC,Studienarbeit,ND,s. Seminararbeit,,,22AA3F3951B
 DC323084644B8D8EC1256F23003605E0,Studium,ND,s. Hochschule,,,575AD14FF452C8C5C1256F230035B8B0
 30FE64F122168BC0C1256F230035C727,Suggestopädie,DS,Pädagogische Verfahren mit Hilfe von Suggestion (gezielter Beeinflussung des Schülers).,Pädagogik,,
 58E9ED6D0DE879FEC1256F2300360620,Summerhill,ND,"s. Neill, Alexander Sutherland",,,436D9001868CF8F6C1256F230035C031
-75BBF671A942E880C1256F230035DEC2,Säugling,D,s.a. Kindertagesstätte,,,A44E9ABCE11CF64CC1256F230035BAFC
-AE777C83C5C68DEAC1256F230035DEC0,Säugling,D,s.a. Erziehung,,,F1F7361B19869668C1256F230035B49B
-9B0C9FCE110AA6ABC12572C1002F86EA,TH,ND,s. Hochschule,,,575AD14FF452C8C5C1256F230035B8B0
-94409461435A3AC1C12572C1002F8CDC,TU,ND,s. Hochschule,,,575AD14FF452C8C5C1256F230035B8B0
 839E4567429FBFA1C1256F2300360662,Tagesmutter,ND,s. Kindertagesstätte,,,A44E9ABCE11CF64CC1256F230035BAFC
 123BEF794C12778AC1258350003A08A1,Talentsuche,ND,s. Begabung,,,AFB16DFDD4C9FDA6C1256F230035AFFA
 42E7D5083DF4A080C1256F23003606B1,Team Teaching,ND,s. Unterrichtsmethode,,,AA832EEF483276DBC1256F230035C8EC
@@ -739,6 +740,8 @@ DB6812682E398DAEC12572C1002F6BA0,Technische Hochschule,ND,s. Hochschule,,,575AD1
 AC0FDA8DB9B2A8C0C12577C000594AB5,Telelernen,ND,s. E-Learning,,,F156CAE4A7EE2828C12577C00058CF62
 4087484910865699C1256F23003606F9,Teleteaching,ND,s. Fernstudium,,,5354CC542C091361C1256F230035B528
 2D94D4078F8F13CCC1256F2300360713,Test (Prüfung),ND,s. Prüfung,,,20FCE4A3A52B2049C1256F230035C26D
+9B0C9FCE110AA6ABC12572C1002F86EA,TH,ND,s. Hochschule,,,575AD14FF452C8C5C1256F230035B8B0
+94409461435A3AC1C12572C1002F8CDC,TU,ND,s. Hochschule,,,575AD14FF452C8C5C1256F230035B8B0
 E58687D88BB9F472C1256F230036082F,Tutorensystem,ND,s. Unterrichtsmethode,,,AA832EEF483276DBC1256F230035C8EC
 12695509F4FBE8ABC1256F230035E1B7,Umschulung,D,s.a. Weiterbildung,,,E55D7A53E88755D1C1256F230035CACA
 00550C1D580A178BC1256F230035E1BC,Umwelt (allgemein),D,s.a. Umwelterziehung,,,96D97FEE2AF858D9C1256F230035C8C4
@@ -825,6 +828,3 @@ D7C42B638AB54ACFC1256F2300360D12,Zweisprachigkeit,ND,s. Bilingualer Unterricht,,
 50637EEF44C5557BC12572F8002B9806,Zweiter Bildungsweg,ND,s. Weiterbildung,,,E55D7A53E88755D1C1256F230035CACA
 09257E95E1AB9576C1256F230035E508,Zwischenmenschliche Beziehung,D,s.a. Schüler-Schüler-Beziehung,,,4AFC24C9B3FEB7FCC1256F230035C504
 2156F13875D048A8C1256F230035E507,Zwischenmenschliche Beziehung,D,s.a. Lehrer-Schüler-Beziehung,,,E6C6C21099E92905C1256F230035BD08
-5EEFEA6385F12CEAC1256F230035E71D,Ästhetische Erziehung,ND,s. Kunstunterricht,,,C9FBF1F358110C5AC1256F230035BC3A
-6DCCF906FF36B939C12572B100283857,Öffentliche Schulen,ND,s. Schule,,,2846EB566153DE38C1256F230035C501
-3E0A063603F8AD99C1256F230035FC26,Ökologische Erwachsenenbildung,ND,s. Umwelterziehung,,,96D97FEE2AF858D9C1256F230035C8C4

@@ -1,6 +1,6 @@
 DOKUMENT-ID,SCHLAGWORT,ART,TEXT,discipline,narrower,broader
-2E7D855D5360519EC1257A420041F2EE,5%-Hürde,ND,s. Wahl,,,6AD843FD1CDD072EC1256F230035CA27
 7B4FD732556010FEC1257A400057D9DA,50 Jahre Grundgesetz,ND,s. Grundgesetz,,,554F1B457056D838C1256F230035B786
+2E7D855D5360519EC1257A420041F2EE,5%-Hürde,ND,s. Wahl,,,6AD843FD1CDD072EC1256F230035CA27
 84B35D1F1126B084C1257EAB00336E66,Abbala,ND,s. Dschandschawid,,,23276A834EF7B92AC1257EAB00331A7E
 36C5490B8153D0E5C1256F230035E51C,Abfall,ND,s. Müllabfuhr,,,4819815738AF09F2C1256F230035BFA0
 7ACDA64E4FA3AD10C1257A46005328CB,Abfallentsorgung,ND,s. Müllabfuhr,,,4819815738AF09F2C1256F230035BFA0
@@ -20,9 +20,9 @@ F8D77FAB4A850994C1256F230035E548,Abstimmung (Wahl),ND,s. Wahl,,,6AD843FD1CDD072E
 B7B662C3170997ACC1256F230035E599,Agitation (Politik),ND,s. Propaganda,,,48A8C8D10565FA94C1256F230035C25E
 5D9F40E8D7398954C1256F230035E59E,Agrarpolitik,ND,s. Politik,,,0D282D6F90D66B5FC1256F230035C211
 F63FDE8E38A51480C1257DA90058F923,Aktion (gewaltfrei),ND,s. Gewaltfreie Aktion,,,273513513D9C6AF2C1257DA900587A24
-4E6E0D448E2B8C2DC1257A82003587A6,Al Qaida,ND,s. Terrorismus,,,3DA746D9729916DEC1256F230035C7B5
 ACC57125C375BA77C125714C00522EEE,Al-Aksa-Intifada,ND,s. Nahostkonflikt,,,1C90066C2777D68AC1256F230035BFFA
 ECC10496C79A13E1C12572FE0038411B,Al-Qaida,ND,s. Terrorismus,,,3DA746D9729916DEC1256F230035C7B5
+4E6E0D448E2B8C2DC1257A82003587A6,Al Qaida,ND,s. Terrorismus,,,3DA746D9729916DEC1256F230035C7B5
 5049E0672EE181F0C1256F230035CD05,Alterspyramide,D,s.a. Sozialstruktur,,,41DD28A16538EE1FC1256F230035C61C
 CF2497E0200129A8C1256F230035AE14,Amnesty International,DS,"Internationale Hilfsorganisation (gegründet 1961) mit Sitz in London setzt sich im Sinn der UN-Menschenrechtserklärung für die Freilassung von Menschen ein, die aus politischen, weltanschaulichen, rassistischen oder ethnischen Gründen in Haft sind.",Politische Bildung,,
 7F1BDA2BA74DCCCEC1256F230035E640,Amtsgericht,ND,s. Gericht (Recht),,,E8F82D9E1BE46F55C1256F230035B694
@@ -67,22 +67,14 @@ C033B46CF1D6EBE8C1256F230035E778,Aufrüstung,ND,s. Rüstung (Politik),,,5A127044
 3B6043E42BAA02E5C1256F230035AEF1,"Auriol, Vincent",DS,"Französischer Politiker (Sozialist) (1884-1966), Rechtsanwalt; 1947-54 Staatspräsident.",Politische Bildung,,
 C4E02CCB5543E4A0C12577490057AD35,Ausbürgerung,ND,s. Exil,,,6DA22DD9CA66BD58C1256F230035B4C2
 EACE3A7CFAEF6AC9C1257B030053A489,Ausgrenzung,ND,s. Diskriminierung,,,DD0D3EF4EFC46F53C1256F230035B362
-E670D6D9B340BE63C1256F230035E7AD,Auslandsdeutsche,DS,"Als Auslandsdeutsche werden erstens die deutschen Staatsbürger verstanden, die dauerhaft im Ausland leben. Zweitens zählt man zu ihnen die größere Zahl der Deutschsprachigen, die sich auch im Ausland der deutschen Sprache und Kultur verbunden fühlen. Drittens werden als Auslandsdeutsche auch Deutschstämmige bezeichnet, deren Vorfahren einmal aus Deutschland ausgewandert sind.",Politische Bildung,,
-6843908186A0BE29C1257B0300545B67,Auslandseinsatz,ND,s. Bundeswehr,,,571F9CC90CB7CA27C1256F230035B1C1
 E1DBCAE727C3E15EC1256F230035CE22,Ausländer,D,s.a. Ausländer (weltweit),,,735581F4255374CAC1256F230035AF01
 735581F4255374CAC1256F230035AF01,Ausländer (weltweit),DS,"Person, die eine andere als die Staatsangehörigkeit ihres Aufenthaltslandes besitzt. D.h. hier weltweite Problematik und Situation (z.B. Situation der Algerier in Frankreich).",Politische Bildung,,
 1435A353D0D9210AC1256F230035CE2C,Ausländerproblematik,D,s.a. Neofaschismus,,,0CC906522EE039C6C1256F230035C033
 E0C5D463123C368EC1256F230035CE2B,Ausländerproblematik,D,s.a. Rassismus,,,670BD2530618A6F7C1256F230035C2B1
+E670D6D9B340BE63C1256F230035E7AD,Auslandsdeutsche,DS,"Als Auslandsdeutsche werden erstens die deutschen Staatsbürger verstanden, die dauerhaft im Ausland leben. Zweitens zählt man zu ihnen die größere Zahl der Deutschsprachigen, die sich auch im Ausland der deutschen Sprache und Kultur verbunden fühlen. Drittens werden als Auslandsdeutsche auch Deutschstämmige bezeichnet, deren Vorfahren einmal aus Deutschland ausgewandert sind.",Politische Bildung,,
+6843908186A0BE29C1257B0300545B67,Auslandseinsatz,ND,s. Bundeswehr,,,571F9CC90CB7CA27C1256F230035B1C1
 CF7FCA1924F4BC23C1257B07003C1A78,Ausschuss (auswärtiger),ND,s. Bundestag,,,1DD9B8494B7C24CCC1256F230035B1BF
 E0642044860AE3C5C1257B07003C1000,Ausschuss (auswärtiger),ND,s. Außenpolitik,,,AF1D971194A9A0BFC1256F230035AEFA
-F2241590CBCCD329C1256F23003603F0,Aussiedler,ND,s. Spätaussiedler,,,98F8182E14C46F3CC1256F230035AF0A
-B7190F67CC7B8DF8C1256F230035AF12,Ausweis,DS,"Urkunde, die die Person des Inhabers beglaubigt (Legitimation), z.B. Personalausweis, oder bestimmte Tatsachen beweist, z.B. Vereinsmitgliedschaft.",Politische Bildung,,
-51328CA2E9DBC31BC1257749005796EE,Ausweisung,ND,s. Exil,,,6DA22DD9CA66BD58C1256F230035B4C2
-2927AC90C4FFB5A4C1256F230035E7C5,Auswärtige Politik,ND,s. Außenpolitik,,,AF1D971194A9A0BFC1256F230035AEFA
-7B54B4712FDCD851C1257B07003BD708,Auswärtiger Ausschuss,ND,s. Außenpolitik,,,AF1D971194A9A0BFC1256F230035AEFA
-ABF950F5F041F39DC1257B07003BE94E,Auswärtiger Ausschuss,ND,s. Bundestag,,,1DD9B8494B7C24CCC1256F230035B1BF
-1499F20788396216C1257B0F00331CBF,Autonomes Gebiet,ND,s. Selbstverwaltung,,,3EAC2090DDCA09E4C1256F230035C572
-3EDEDB717FB6746EC1256F230035E7EC,Autonomie (Politik),ND,s. Selbstverwaltung,,,3EAC2090DDCA09E4C1256F230035C572
 5312F1BAC4E12361C1256F230035CE12,Außenpolitik,D,s.a. Frieden,,,EFFC0CCD66BC5AA5C1256F230035B5F0
 75366B2A5BAA5B1FC1256F230035CE13,Außenpolitik,D,s.a. Krieg,,,F989283F97ADFB7EC1256F230035BBF9
 878B36ACA499AC2BC1257571004F8A2E,Außenpolitik,D,s.a. USA (Außenpolitik),,,E9409FBA91083F03C1256F230035C8FF
@@ -90,14 +82,18 @@ A62E6E74EF0AA9A0C1256F230035CE10,Außenpolitik,D,s.a. Politik,,,0D282D6F90D66B5F
 AF1D971194A9A0BFC1256F230035AEFA,Außenpolitik,DS,"Das Handeln des Staates nach außen gegenüber einzelnen Staaten, Staatengruppen, Zusammenschlüssen von Staaten oder internationalen Organisationen. Im traditionellen Sinn das diesbezügliche Handeln der jeweiligen Regierungen.",Politische Bildung,,
 C939F2684168F0DEC1257571004F9533,Außenpolitik,D,s.a. Isolationismus,,,44EC513C75D3BECEC1256F230035B9A4
 D287F4B1FCE9EF52C1256F230035CE18,Außenwirtschaft,D,s.a. Außenpolitik,,,AF1D971194A9A0BFC1256F230035AEFA
+F2241590CBCCD329C1256F23003603F0,Aussiedler,ND,s. Spätaussiedler,,,98F8182E14C46F3CC1256F230035AF0A
+2927AC90C4FFB5A4C1256F230035E7C5,Auswärtige Politik,ND,s. Außenpolitik,,,AF1D971194A9A0BFC1256F230035AEFA
+7B54B4712FDCD851C1257B07003BD708,Auswärtiger Ausschuss,ND,s. Außenpolitik,,,AF1D971194A9A0BFC1256F230035AEFA
+ABF950F5F041F39DC1257B07003BE94E,Auswärtiger Ausschuss,ND,s. Bundestag,,,1DD9B8494B7C24CCC1256F230035B1BF
+B7190F67CC7B8DF8C1256F230035AF12,Ausweis,DS,"Urkunde, die die Person des Inhabers beglaubigt (Legitimation), z.B. Personalausweis, oder bestimmte Tatsachen beweist, z.B. Vereinsmitgliedschaft.",Politische Bildung,,
+51328CA2E9DBC31BC1257749005796EE,Ausweisung,ND,s. Exil,,,6DA22DD9CA66BD58C1256F230035B4C2
+1499F20788396216C1257B0F00331CBF,Autonomes Gebiet,ND,s. Selbstverwaltung,,,3EAC2090DDCA09E4C1256F230035C572
+3EDEDB717FB6746EC1256F230035E7EC,Autonomie (Politik),ND,s. Selbstverwaltung,,,3EAC2090DDCA09E4C1256F230035C572
 B866C3E7AA3FD864C1256F230035AF24,"Avnery, Uri",DS,Israelischer Menschenrechter; geb. 1923.,Politische Bildung,,
-FCA232E5B5E70D63C12573FB003D0DC3,BGB,ND,s. Gesetz,,,3774A5D7EF996112C1256F230035B6AF
-9DA1AD32A8AE327EC12573FA004170DE,BND,ND,s. Bundesregierung,,,43F78725398C64CAC1256F230035B1BC
-4197138DAC7BF6CEC12573FC003B5603,BVG,ND,s. Gericht (Recht),,,E8F82D9E1BE46F55C1256F230035B694
-EC2FDF8ADE63BCABC1256F390030B82B,BVerfG,ND,s. Bundesverfassungsgericht,,,DD27B5A1F72FA818C1256F230035B1C0
-4F4489C48F772F5EC1257C30005C34B4,"Baader, Andreas",D,s.a. RAF,,,022D735855FAEE48C1257C300059B24C
 C2D5F44EC2254D1EC12572420043CF02,Baader-Meinhof-Gruppe,ND,s. Terrorismus,,,3DA746D9729916DEC1256F230035C7B5
 21F3E85844F90CA0C1257C30005C2DC5,Baader-Meinhof-Gruppe,ND,s. RAF,,,022D735855FAEE48C1257C300059B24C
+4F4489C48F772F5EC1257C30005C34B4,"Baader, Andreas",D,s.a. RAF,,,022D735855FAEE48C1257C300059B24C
 DC1CF80EB703C617C1257B1200580050,Bahnhofsmission,ND,s. Sozialstaat,,,B428F789DF03911AC1256F230035C61B
 CDF809A2D740FDDDC1257DC1005092B8,Bahrain,ND,s. Golfstaaten,,,67DB86BEACBCEF52C1257DC1004FE056
 D30A18CD9F85C7B4C1257B160047E7CF,Balkankonflikt,ND,s. Politischer Konflikt,,,E9BC66329E6FEADBC1256F230035C214
@@ -114,15 +110,16 @@ E6311DDD3CC637CCC1256F230035E8D3,Bereitschaftspolizei,ND,s. Polizei,,,A5350EE5E2
 B669B8C02C14C42AC1256F230035E918,Besetztes Gebiet,ND,s. Okkupation,,,AAA655C58E994A46C1256F230035C0D0
 6681A6DD97014B65C1256F230035E919,Besetzung (Okkupation),ND,s. Okkupation,,,AAA655C58E994A46C1256F230035C0D0
 3117645E31D52134C1256F230035E942,Betriebsjugendsprecher,ND,s. Jugendschutz,,,8D9210878DCA267AC1256F230035BA2B
-E46016C5759896EEC1257F90004B8442,Bewegung der Landarbeiter ohne Boden,ND,s. MST,,,A2CAA6CF4A1D680FC1257F90004B6130
-995A79BFBA4AD2B5C1257F90004B91B4,Bewegung der Landlosen,ND,s. MST,,,A2CAA6CF4A1D680FC1257F90004B6130
 0144C25208650738C1257B470058F8D7,Bewährungshelfer,ND,s. Strafvollzug,,,487DE5EB47CCB6B1C1256F230035C6DD
 A8131809942F2FFAC1257B470058EF63,Bewährungshelfer,ND,s. Strafrecht,,,F2D1F11D4A8D1874C1256F230035C6DC
 D015EC3C49818D53C1257B4700589D95,Bewährungshelfer,ND,s. Rechtsstaat,,,BADD7B5B5DA553A6C1256F230035C2DD
 0AD5C53BD6A73756C1257B470058E840,Bewährungshilfe,ND,s. Strafvollzug,,,487DE5EB47CCB6B1C1256F230035C6DD
 4F3B1A787986CB51C1257B470058DF05,Bewährungshilfe,ND,s. Strafrecht,,,F2D1F11D4A8D1874C1256F230035C6DC
 ADB8A0ACBD7BFD70C1257B470058B035,Bewährungshilfe,ND,s. Rechtsstaat,,,BADD7B5B5DA553A6C1256F230035C2DD
+E46016C5759896EEC1257F90004B8442,Bewegung der Landarbeiter ohne Boden,ND,s. MST,,,A2CAA6CF4A1D680FC1257F90004B6130
+995A79BFBA4AD2B5C1257F90004B91B4,Bewegung der Landlosen,ND,s. MST,,,A2CAA6CF4A1D680FC1257F90004B6130
 1C03C0129B3C8B41C1256F230035E969,Beziehung (deutsch-französische),ND,s. Deutsch-französische Beziehungen,,,EE8C30371F2635BBC1256F230035B327
+FCA232E5B5E70D63C12573FB003D0DC3,BGB,ND,s. Gesetz,,,3774A5D7EF996112C1256F230035B6AF
 B78FB08EBA7923A5C1256F230035B099,"Biedenkopf, Kurt",DS,Deutscher Politiker (CDU); geb. 1930.,Politische Bildung,,
 D148CBE73E810926C1257B6E005CB950,Bill of Rights,ND,s. Recht,,,9DDACD4CD1AAB8F5C1256F230035C2D7
 E781B60400CB2661C1257B6E005CD9B5,Bill of Rights,ND,s. Parlamentarismus,,,435E03127C6A8C5EC1256F230035C15F
@@ -131,6 +128,7 @@ A7C9E5872CDAB3BAC1257332004B9D55,"Bin Laden, Osama",ND,s. Terrorismus,,,3DA746D9
 0B1B28EAE6CD9A8BC1256F230035E9B1,Binnenmarkt,ND,s. Europäischer Binnenmarkt,,,18242CFD201C022AC1256F230035B4B7
 FD6615121ABAD01EC1256F230035E9B2,Binnenmarkt (EG),ND,s. Europäischer Binnenmarkt,,,18242CFD201C022AC1256F230035B4B7
 834E989353AB7C54C1257B78004DD887,Blaue Banane,ND,s. Europäische Union,,,2AB82E373D74C36BC1256F230035B4B6
+9DA1AD32A8AE327EC12573FA004170DE,BND,ND,s. Bundesregierung,,,43F78725398C64CAC1256F230035B1BC
 EEC890F2913C50B7C1257B87005BF23B,Bolschewiki,ND,s. Kommunismus,,,CBC7DD7255AE02ACC1256F230035BB7C
 9CA6551499D9E61AC1257362002BBEA5,Bolschewismus,ND,s. Kommunismus,,,CBC7DD7255AE02ACC1256F230035BB7C
 AA2C7774E383B9F1C1257DA9005924A5,Boykottaktion,ND,s. Gewaltfreie Aktion,,,273513513D9C6AF2C1257DA900587A24
@@ -138,7 +136,27 @@ DF36384236EE207DC1257F90004B988C,Brasilien,D,s.a. MST,,,A2CAA6CF4A1D680FC1257F90
 5120BE580F585264C12573ED0042A778,Briefwahl,ND,s. Wahl,,,6AD843FD1CDD072EC1256F230035CA27
 6EF969E149D722A5C1256F230035B183,Brot für die Welt,DS,Jährliche Sammelaktion der evangelischen Kirche und der evangelischen Freikirchen in Deutschland gegen Not in der Welt; erstmals 1959.,Politische Bildung,,
 453D36F0899DCD12C125758100404F04,"Brugioni, Dino ",DS,"US-amerikanischer ehemaliger Chef der Informationsabteilung des CIA, geb. 1921. Spezialist in Informationsauswertung.",Politische Bildung,,
+3F5288FF45646402C1257BDC0057E589,Bündnis,DS,"Ein Bündnis ist ein vertraglich geregeltes Verhältnis zwischen gleichberechtigten Partnern. Bündnisse können von natürlichen,juristischen Personen oder Staaten untereinander eingegangen werden, wobei dem Charakter nach das Bündnis zeitlich befristetist. Die Frist kann formal innerhalb des Bündnisvertrags festgelegt werden oder aber auch durch eine Vertragskündigung der beteiligten Vertragspartner. Innerhalb des Völkerrechts kommt dem Bündnis eine zentrale Rolle zu, denn Bündnispolitik regelt für alle Staaten untereinander ihre Rechtsverhältnisse. Ein Militärbündnis ist ein Bündnis von verschiedenen Staaten, mit dem meist geregelt ist, wie Ziele unter Verwendung welcher Militäraktionen erreicht werden sollen.",Politische Bildung,,
+B7415AE1F884ED4EC1257BDC00581718,Bündnis,D,s.a. Nordatlantikpakt,,,C90020CBF67BDE12C1256F230035C08A
+8B6FE54157A9CEA7C1256F390030FD04,Bündnis 90,ND,s. Grüne,,,B54CE176CF4E6304C1256F230035B78F
+E0AA4EC52229AB76C12573FB003BC145,Bündnis 90/Die Grünen,ND,s. Grüne,,,B54CE176CF4E6304C1256F230035B78F
+22B5A9EAF3B832A5C1257BDC005800DF,Bündnispolitik,ND,s. Bündnis,,,3F5288FF45646402C1257BDC0057E589
+FEC739DE5B1F12F0C1257BDC005809E5,Bündnisverteidigung,ND,s. Bündnis,,,3F5288FF45646402C1257BDC0057E589
+77CF819745EE924CC1257BDC0058B839,Bürgerbeteiligung,DS,"Bürgerbeteiligung bezeichnet die Beteiligung (""Partizipation"") der Bürger an einzelnen politischen Entscheidungen und Planungsprozessen (Bürgerkommune). Der Begriff ist nicht scharf abgegrenzt und wird für eine Vielzahl unterschiedlicher Verfahren verwendet.",Politische Bildung,,
+6F3BAB8AFCBD6B4FC1257BDC0058D83A,Bürgerentscheid,ND,s. Bürgerbeteiligung,,,77CF819745EE924CC1257BDC0058B839
+84C4E1E7A15A07A0C1256F230035B1C9,Bürgerinitiative,DS,"Zusammenschluss gleich gesinnter Bürger außerhalb von Parteien und Verbänden, versucht Bürgerinteressen zu artikulieren und durchzusetzen, die nach ihrer Ansicht von kommunalen, regionalen oder nationalen Exekutiv- und Legislativorganen nicht genügend berücksichtigt wurden.",Politische Bildung,,
+BBCC7E9C21CF9924C1256F230035B1CA,Bürgerkrieg,DS,"Mit Waffen ausgetragener Machtkampf zwischen Aufständischen (Rebellen, Insurgenten) und der Regierung oder zwischen organisierten politischen, nationalen, religiösen oder sozialen Gruppen um die Herrschaft im Staat.",Politische Bildung,,
+CDCF75F81857CA78C1256F230035D152,Bürgerkrieg,D,s.a. Krieg,,,F989283F97ADFB7EC1256F230035BBF9
+7B525F0536079430C12573FB003D0016,Bürgerliches Gesetzbuch,ND,s. Gesetz,,,3774A5D7EF996112C1256F230035B6AF
+2E15A1CDB50968FBC1256F230035EAEB,Bürgerliches Recht,ND,s. Zivilrecht,,,C63C88039060C3B9C1256F230035CC44
+3A30B024DE982407C1256F230035EAEC,Bürgermeister,ND,s. Gemeinde (Politik),,,AAB2CD106ECFE252C1256F230035B671
+E190582E417762E2C1256F230035EAED,Bürgerrecht,ND,s. Recht,,,9DDACD4CD1AAB8F5C1256F230035C2D7
+7433A0836AB5C3CCC1257BDC005A16A2,Bürgerrecht,ND,s. Grundrecht,,,D31D55BDDB46C490C1256F230035B78A
+657ADD3D33D7FF73C1256F230035EAEE,Bürgerschaft,ND,s. Landtag,,,C0BA4805B9B49E35C1256F230035BCA5
+9BE41B57EE10962CC12575DA00531D60,Bürgerschaftliches Engagement,ND,s. Bürgerinitiative,,,84C4E1E7A15A07A0C1256F230035B1C9
+5728461469EFBF87C1256F230035B1D7,Bürokratie,DS,"Das politische System eines Staates, in dem das zu einem privilegierten Berufstand zusammengefasste Beamtentum starke politische Macht ausübt (Beamtenstaat). Die Auswirkungen und Probleme an Beispielen bzw. Kritik.",Politische Bildung,,
 B5A8F424B8D164D4C12573FA003FAAE9,Bund für Umwelt und Naturschutz Deutschland e.V.,ND,s. Nichtregierungsorganisation,,,1C65B040C4CE6714C1256F230035B891
+73810CE82BDD2A82C12573FA003FE60A,Bundesämter,ND,s. Bundesregierung,,,43F78725398C64CAC1256F230035B1BC
 F3452B941A27A31FC12573050038FF7D,Bundesagentur für Arbeit,ND,s. Arbeitsagentur,,,8C8F38DB1EC1F04EC1256F230035AE8E
 6D6487F0445CE48CC1257BDE0057126B,Bundesanstalt für Arbeit,ND,s. Arbeitsagentur,,,8C8F38DB1EC1F04EC1256F230035AE8E
 8FA4F8213858CF03C12573FA0040A9E9,Bundesanstalten,ND,s. Bundesregierung,,,43F78725398C64CAC1256F230035B1BC
@@ -192,55 +210,35 @@ B6A3BA62E04F2E22C1257C6F005A0684,Bundeswehr,D,s.a. Militäreinsatz,,,7B2F9675362
 5AF023380E2A0F21C1257BDE00590BE8,Bundeswehrsportschule (Sonthofen),ND,s. Bundeswehr,,,571F9CC90CB7CA27C1256F230035B1C1
 D4076754925FAE26C12573FB003B6F39,Bundeszentralregister,ND,s. Strafrecht,,,F2D1F11D4A8D1874C1256F230035C6DC
 7E8A46A67072A3EAC12573FB003B9564,Bundeszwang,ND,s. Bundesregierung,,,43F78725398C64CAC1256F230035B1BC
-73810CE82BDD2A82C12573FA003FE60A,Bundesämter,ND,s. Bundesregierung,,,43F78725398C64CAC1256F230035B1BC
 4DA8DEB14D226216C125842D0059A359,"Bush, George W.",DS,"George Walker Bush, meist abgekürzt George W. Bush; geb. 1946; ist ein US-amerikanischer Politiker der Republikanischen Partei und war von 2001 bis 2009 der 43. Präsident der Vereinigten Staaten.",Politische Bildung,,
 C88FC3FAD9F4DBF7C125796A004351B4,Business-to-Administration,ND,s. E-Government,,,DD096BF5451F72F3C125796A0042AD49
 324BEDBC0FD5C8D7C1257947003E03EF,Bußgeldkatalog,ND,s. Strafrecht,,,F2D1F11D4A8D1874C1256F230035C6DC
-3F5288FF45646402C1257BDC0057E589,Bündnis,DS,"Ein Bündnis ist ein vertraglich geregeltes Verhältnis zwischen gleichberechtigten Partnern. Bündnisse können von natürlichen,juristischen Personen oder Staaten untereinander eingegangen werden, wobei dem Charakter nach das Bündnis zeitlich befristetist. Die Frist kann formal innerhalb des Bündnisvertrags festgelegt werden oder aber auch durch eine Vertragskündigung der beteiligten Vertragspartner. Innerhalb des Völkerrechts kommt dem Bündnis eine zentrale Rolle zu, denn Bündnispolitik regelt für alle Staaten untereinander ihre Rechtsverhältnisse. Ein Militärbündnis ist ein Bündnis von verschiedenen Staaten, mit dem meist geregelt ist, wie Ziele unter Verwendung welcher Militäraktionen erreicht werden sollen.",Politische Bildung,,
-B7415AE1F884ED4EC1257BDC00581718,Bündnis,D,s.a. Nordatlantikpakt,,,C90020CBF67BDE12C1256F230035C08A
-8B6FE54157A9CEA7C1256F390030FD04,Bündnis 90,ND,s. Grüne,,,B54CE176CF4E6304C1256F230035B78F
-E0AA4EC52229AB76C12573FB003BC145,Bündnis 90/Die Grünen,ND,s. Grüne,,,B54CE176CF4E6304C1256F230035B78F
-22B5A9EAF3B832A5C1257BDC005800DF,Bündnispolitik,ND,s. Bündnis,,,3F5288FF45646402C1257BDC0057E589
-FEC739DE5B1F12F0C1257BDC005809E5,Bündnisverteidigung,ND,s. Bündnis,,,3F5288FF45646402C1257BDC0057E589
-77CF819745EE924CC1257BDC0058B839,Bürgerbeteiligung,DS,"Bürgerbeteiligung bezeichnet die Beteiligung (""Partizipation"") der Bürger an einzelnen politischen Entscheidungen und Planungsprozessen (Bürgerkommune). Der Begriff ist nicht scharf abgegrenzt und wird für eine Vielzahl unterschiedlicher Verfahren verwendet.",Politische Bildung,,
-6F3BAB8AFCBD6B4FC1257BDC0058D83A,Bürgerentscheid,ND,s. Bürgerbeteiligung,,,77CF819745EE924CC1257BDC0058B839
-84C4E1E7A15A07A0C1256F230035B1C9,Bürgerinitiative,DS,"Zusammenschluss gleich gesinnter Bürger außerhalb von Parteien und Verbänden, versucht Bürgerinteressen zu artikulieren und durchzusetzen, die nach ihrer Ansicht von kommunalen, regionalen oder nationalen Exekutiv- und Legislativorganen nicht genügend berücksichtigt wurden.",Politische Bildung,,
-BBCC7E9C21CF9924C1256F230035B1CA,Bürgerkrieg,DS,"Mit Waffen ausgetragener Machtkampf zwischen Aufständischen (Rebellen, Insurgenten) und der Regierung oder zwischen organisierten politischen, nationalen, religiösen oder sozialen Gruppen um die Herrschaft im Staat.",Politische Bildung,,
-CDCF75F81857CA78C1256F230035D152,Bürgerkrieg,D,s.a. Krieg,,,F989283F97ADFB7EC1256F230035BBF9
-7B525F0536079430C12573FB003D0016,Bürgerliches Gesetzbuch,ND,s. Gesetz,,,3774A5D7EF996112C1256F230035B6AF
-2E15A1CDB50968FBC1256F230035EAEB,Bürgerliches Recht,ND,s. Zivilrecht,,,C63C88039060C3B9C1256F230035CC44
-3A30B024DE982407C1256F230035EAEC,Bürgermeister,ND,s. Gemeinde (Politik),,,AAB2CD106ECFE252C1256F230035B671
-E190582E417762E2C1256F230035EAED,Bürgerrecht,ND,s. Recht,,,9DDACD4CD1AAB8F5C1256F230035C2D7
-7433A0836AB5C3CCC1257BDC005A16A2,Bürgerrecht,ND,s. Grundrecht,,,D31D55BDDB46C490C1256F230035B78A
-657ADD3D33D7FF73C1256F230035EAEE,Bürgerschaft,ND,s. Landtag,,,C0BA4805B9B49E35C1256F230035BCA5
-9BE41B57EE10962CC12575DA00531D60,Bürgerschaftliches Engagement,ND,s. Bürgerinitiative,,,84C4E1E7A15A07A0C1256F230035B1C9
-5728461469EFBF87C1256F230035B1D7,Bürokratie,DS,"Das politische System eines Staates, in dem das zu einem privilegierten Berufstand zusammengefasste Beamtentum starke politische Macht ausübt (Beamtenstaat). Die Auswirkungen und Probleme an Beispielen bzw. Kritik.",Politische Bildung,,
-DB834A69A6A6FF4FC1257DC1005045D5,CCASG,ND,s. Golfstaaten,,,67DB86BEACBCEF52C1257DC1004FE056
-81BD34C92FD3FE7EC1256F230035EB1B,CDU,ND,s. Christlich Demokratische Union,,,6FAECDC994DD4B3FC1256F230035B25A
-E656504B68484740C1257521003E2FD8,CEN,ND,s. DIN,,,34BA615D24D5EB59C1256F230035B359
-3F70A9FF00838F53C1257521003E4162,CENELEC,ND,s. DIN,,,34BA615D24D5EB59C1256F230035B359
+EC2FDF8ADE63BCABC1256F390030B82B,BVerfG,ND,s. Bundesverfassungsgericht,,,DD27B5A1F72FA818C1256F230035B1C0
+4197138DAC7BF6CEC12573FC003B5603,BVG,ND,s. Gericht (Recht),,,E8F82D9E1BE46F55C1256F230035B694
 0B3BBE3F89A77514C1257BE30058287C,Canadian Mounted Police,ND,s. Polizei,,,A5350EE5E2578650C1256F230035C217
 F59DCC18E84D345BC12579BC006083F0,Cap Anamur,ND,"s. Neudeck, Rupert",,,6FB809DF64A2E3BBC12579BC00604C69
 10843B41E86C608AC1256F230035EB15,"Carstens, Karl",ND,s. Bundespräsident,,,CC29299AAE7438ACC1256F230035B1BA
 95484F6536D93090C1256F4A003ABA92,"Castro Ruz, Fidel",ND,"s. Castro, Fidel",,,37C6EA670ED22B54C1256F230035B208
 37C6EA670ED22B54C1256F230035B208,"Castro, Fidel",DS,"Kubanischer Politiker, geb. 1927; Rechtsanwalt, kämpfte 1956-59 mit einer Rebellenarmee gegen Staatspräsident Batista y Zaldivar, übernahm 1959 die Macht, wurde Mininisterpräsident, seit 1976 als Vorsitzender des Staatsrates auch Präsident; ab 1961 gestaltete er Kuba in eine sozialistische Diktatur um.",Politische Bildung,,
+DB834A69A6A6FF4FC1257DC1005045D5,CCASG,ND,s. Golfstaaten,,,67DB86BEACBCEF52C1257DC1004FE056
+81BD34C92FD3FE7EC1256F230035EB1B,CDU,ND,s. Christlich Demokratische Union,,,6FAECDC994DD4B3FC1256F230035B25A
+E656504B68484740C1257521003E2FD8,CEN,ND,s. DIN,,,34BA615D24D5EB59C1256F230035B359
+3F70A9FF00838F53C1257521003E4162,CENELEC,ND,s. DIN,,,34BA615D24D5EB59C1256F230035B359
 E4FF7D36BAA8BBA3C1256F230035B21A,"Chamorro, Violeta",DS,Politikerin; geb. 1929; 1990-96 Präsidentin von Nicaragua.,Politische Bildung,,
 EFCF9BD03C4B09E4C1256F230035D166,Chancengleichheit,D,s.a. Politik,,,0D282D6F90D66B5FC1256F230035C211
 3BD19470018C1168C1256F230035B225,Charles (Prinz Wales),DS,"Charles Philipp Arthur George, Prince of Wales, britischer Thronfolger; geb. 1948.",Politische Bildung,,
 E3617A2B9D6E9027C125842D0059689A,"Cheney, Dick",ND,"s. Cheney, Richard",,,D5CFD6E4CD01C893C125842D00594980
 D5CFD6E4CD01C893C125842D00594980,"Cheney, Richard",DS,"Richard Bruce ""Dick"" Cheney; geb. 1941; ist ein US-amerikanischer Politiker (Republikanische Partei) und Manager. Er war von 2001 bis 2009 der 46. Vizepräsident der Vereinigten Staaten unter Präsident George W. Bush sowie von 1989 bis 1993 unter dessen Vater George Bush Verteidigungsminister der Vereinigten Staaten. Von 1975 bis 1977 war er der bis dahin jüngste Stabschef des Weißen Hauses unter Präsident Gerald Ford.",Politische Bildung,,
 301CE54F70DAF70EC1256F230035B24A,"Chirac, Jacques",DS,"Französischer Politiker, geb. 1932; 1968-74 Minister, 1974-76 und 1986-88 Ministerpräsident; seit 1976 Präsident des Rassemblement pour la Republique (RPR); 1977-95 Bürgermeister von Paris; 1995-2007 Staatspräsident.",Politische Bildung,,
+C8F7B6297AB12D4EC1256F54003603DE,Christlich-Demokratische Union Deutschlands,ND,s. Christlich Demokratische Union,,,6FAECDC994DD4B3FC1256F230035B25A
 6FAECDC994DD4B3FC1256F230035B25A,Christlich Demokratische Union,DS,"Nach dem zweiten Weltkrieg in allen 4 Besatzungszonen Deutschlands gegründete Partei. Entstand aus dem Gedanken, den Staat auf christlicher Grundlage zu erneuern, und vereinigt in sich Kräfte der beiden christlichen Konfessionen. Führende Regierungspartei 1949-69, 1982-98 und seit 2005.",Politische Bildung,,
 C95DA4878D4EE60CC1257BF4004D7BD7,Christlich Soziale Union,ND,s. Christlich Demokratische Union,,,6FAECDC994DD4B3FC1256F230035B25A
-C8F7B6297AB12D4EC1256F54003603DE,Christlich-Demokratische Union Deutschlands,ND,s. Christlich Demokratische Union,,,6FAECDC994DD4B3FC1256F230035B25A
 291BE35FF2985BBDC12575810044C340,"Chruschtschow, Sergej ",DS,"Russisch-amerikanischer Politikwissenschftler, geb. 1935. Sohn von Nikita Chruschtschow. Er war in der Sowjetunion Ingenieur für Raketenbau. 1991 wechselte er als Politikwissenschaftler an die amerikanische Brown University. Seit 1999 ist er US-Bürger.",Politische Bildung,,
 C95D740DD42117D3C12581CD00580533,"Clement, Wolfgang",DS,Wolfgang Clement; geb. 1940; ist ein ehemaliger deutscher SPD-Politiker und Manager. Clement war von 1998 bis 2002 der siebte Ministerpräsident des Landes Nordrhein-Westfalen und von 2002 bis 2005 Bundesminister für Wirtschaft und Arbeit. Er ist Kuratoriumsvorsitzender der Initiative Neue Soziale Marktwirtschaft.,Politische Bildung,,
 287A271A34867C46C125720600391DCC,Copyright,ND,s. Urheberrecht,,,3894528C89C0B0F3C12572060038AD69
 ACFF757C07892075C1257824005DA802,Cosa Nostra,ND,s. Mafia,,,5A217904C10B8B52C1256F230035BDE3
 5F0E128C0B9EBCB9C125808F005B5884,Coup d’État,ND,s. Putsch,,,A8C43147CE7CE04FC125808F005EC356
 F7B4706B96330AE7C12583E000595392,Creative common,ND,s. Nutzungsrecht,,,FF2C3D7D9D0F1423C12583E000592ED6
-ACE96A6E3F023D90C1256F6200393BAB,DGB,ND,s. Deutscher Gewerkschaftsbund,,,FAACBD654851737BC1256F230035B333
-34BA615D24D5EB59C1256F230035B359,DIN,DS,Deutsches Institut für Normung e.V. Die Normen werden in Normblättern veröffentlicht. Beispiele von DIN-Formaten. In Europa bilden das Europäische Komitee für Normung (CEN) und das Europäische Komitee für Elektrotechnische Normung (CENELEC) die Gemeinsame Europäische Norminstitution.,Politische Bildung,,
 85796469C60A8994C1256F230035EBC4,Dekret,ND,s. Gesetz,,,3774A5D7EF996112C1256F230035B6AF
 EF00783874D75145C1256F230035B308,Demagogie,DS,"Volksverführung in verantwortungsloser Ausnutzung von Gefühlen und Vorurteilen. Leben/Staat unter Demagogen, Volksverführer, Hetzer, Aufwiegler; Demagogenverfolgung. Einschreiten der deutschen Regierung gegen liberale Strömungen seit 1819.",Politische Bildung,,
 DF062B2FF8F4CBE8C125772C0037D307,Demo,ND,s. Demonstration,,,4ED49B4AB594F8E3C1256F230035B30D
@@ -265,6 +263,7 @@ F78E0707D8B92475C1256F230035EBEE,Deutscher Bundestag,ND,s. Bundestag,,,1DD9B8494
 FAACBD654851737BC1256F230035B333,Deutscher Gewerkschaftsbund,DS,"DGB, Gesamtorganisation der Einheitsgewerkschaften der Arbeiter, Angestellten und Beamten in der Bundesrepublik Deutschland; gegründet 1949, trat an die Stelle der 1933 aufgelösten Gewerkschaftsbünde. Sitz: Düsseldorf. Vorsitz M. Sommer (seit 2002). Im DGB sind 8 Einzelgewerkschaften zusammengeschlossen. ",Politische Bildung,,
 BC68D18522553C0FC1257C30005C710B,Deutscher Herbst,ND,s. RAF,,,022D735855FAEE48C1257C300059B24C
 F029FDFA0ECC7DABC1256F230035EBF0,Deutsches Institut für Normung,ND,s. DIN,,,34BA615D24D5EB59C1256F230035B359
+ACE96A6E3F023D90C1256F6200393BAB,DGB,ND,s. Deutscher Gewerkschaftsbund,,,FAACBD654851737BC1256F230035B333
 54127879E1D7B269C1257C3700644F67,Diaspora,ND,s. Minderheit,,,44EE7A442C1C5A5EC1256F230035BF0D
 4A3C9D9E43F42F56C1256F230035EC13,Die Grünen,ND,s. Grüne,,,B54CE176CF4E6304C1256F230035B78F
 0B465AA4C0BFFC78C1256F230035B352,Dienstleistung,DS,"Immaterielle Güter, die im Gegensatz zu Sachgütern i.d.R. vergänglich (nicht lagerfähig), personen- und standortgebunden (nicht transportfähig) sind und sich durch Synchronität von Produktion und Verbrauch auszeichnen. ",Politische Bildung,,
@@ -274,6 +273,7 @@ F029FDFA0ECC7DABC1256F230035EBF0,Deutsches Institut für Normung,ND,s. DIN,,,34B
 4A2F96FA7EBD65D2C1257C3E005BE111,Dienstleistungstiefe,ND,s. Dienstleistung,,,0B465AA4C0BFFC78C1256F230035B352
 CC88B23FBA7D93A7C1256F230035B357,Diktatur,DS,"Unbeschränkte Machtvollkommenheit eines einzelnen oder einer Gruppe; in autoritären Staaten auch mit formaler, dem Schein dienender Aufrechterhaltung demokratischer Einrichtungen.",Politische Bildung,,
 3A89FFFF6FC72F42C125808F005F0338,Diktatur,D,s.a. Putsch,,,A8C43147CE7CE04FC125808F005EC356
+34BA615D24D5EB59C1256F230035B359,DIN,DS,Deutsches Institut für Normung e.V. Die Normen werden in Normblättern veröffentlicht. Beispiele von DIN-Formaten. In Europa bilden das Europäische Komitee für Normung (CEN) und das Europäische Komitee für Elektrotechnische Normung (CENELEC) die Gemeinsame Europäische Norminstitution.,Politische Bildung,,
 20A8307AB3D3CEB0C1257C45005E4B86,Diplomat,ND,s. Diplomatie,,,461F4ADA2F486242C1257C45005E3A31
 461F4ADA2F486242C1257C45005E3A31,Diplomatie,DS,"Diplomatie ist die Kunst und Praxis des Verhandelns zwischen bevollmächtigten Repräsentanten verschiedener Gruppen oder Nationen (Diplomaten). Der Begriff bezieht sich meist auf die internationale Diplomatie, also die Pflege zwischenstaatlicher und überstaatlicher Beziehungen durch Absprachen über Angelegenheiten wie Friedenssicherung, Kultur, Wirtschaft, Handel und Konflikte. Internationale Verträge werden in der Regel von Diplomaten ausgehandelt; dabei handeln diese im Auftrag ihrer Regierungen und vertreten deren Interessen.",Politische Bildung,,
 F44375B039E256ECC1257F55005574BB,Direktmandat,ND,s. Wahl,,,6AD843FD1CDD072EC1256F230035CA27
@@ -292,14 +292,6 @@ DD096BF5451F72F3C125796A0042AD49,E-Government,DS,"Unter E-Government (E-Regier
 6EBA9EC2326F23BCC125796A0042E72C,E-Regierung,ND,s. E-Government,,,DD096BF5451F72F3C125796A0042AD49
 8901CAA4E2D96445C1256F230035EC9D,EG,ND,s. Europäische Gemeinschaften,,,03A0DD540FC89278C1256F230035B4B5
 06D0D603D82D4352C1256FA8003A6C08,EGKS,ND,s. Europäische Gemeinschaften,,,03A0DD540FC89278C1256F230035B4B5
-71043F151BDCD94FC1256F230035ED11,EMNID,ND,s. Demoskopie,,,C2EF3C186BF4DBD2C1256F230035B30E
-6D2BA93F4D32194EC1256F230035EDB9,EU,ND,s. Europäische Union,,,2AB82E373D74C36BC1256F230035B4B6
-8AE820F29AC454D6C1257CB1004F6CF1,EU-Bürger,ND,s. Europäische Union,,,2AB82E373D74C36BC1256F230035B4B6
-B0086BB565657DDBC1256FA800336FE6,EU-Erweiterung,ND,s. Europäische Union,,,2AB82E373D74C36BC1256F230035B4B6
-F964742ED48DFF5AC1256FA8003A5290,EURATOM,ND,s. Europäische Gemeinschaften,,,03A0DD540FC89278C1256F230035B4B5
-97017DDB8AFFB6DEC1256F230035EDD7,EWG,ND,s. Europäische Gemeinschaften,,,03A0DD540FC89278C1256F230035B4B5
-4BA286BF9360DE4CC1256FA90031A3FD,EWU,ND,s. Europäische Union,,,2AB82E373D74C36BC1256F230035B4B6
-D6395C6B758BFAF3C1256FA90031C019,EWWU,ND,s. Europäische Union,,,2AB82E373D74C36BC1256F230035B4B6
 EFFCE55BDA3BB0FDC12574780038E104,Ehrenamt,D,s.a. Nichtregierungsorganisation,,,1C65B040C4CE6714C1256F230035B891
 ACF4E1D6C0F24996C12579BC005FA4AC,Einbürgerung,ND,s. Staatsbürgerschaft,,,DBD9E531F12FA9C1C12579BC005F196A
 0B100A4799CFD225C1257C6800589A84,Eine Welt,ND,s. Nichtregierungsorganisation,,,1C65B040C4CE6714C1256F230035B891
@@ -311,6 +303,7 @@ F1D5C1508E6DEFABC1257C6800589381,Eine Welt,ND,s. Entwicklungshilfe,,,9C8DE08DD53
 A1BDC28E08703E15C1257E690055F737,Einwanderungspolitik,D,s.a. Illegale Einwanderung,,,79F88C760F55DFFEC1257E690055E989
 149E165A2054547EC12572FE00384A0C,El Kaida,ND,s. Terrorismus,,,3DA746D9729916DEC1256F230035C7B5
 0496BB9B5E22984CC1256F230035B42F,Elisabeth II. (Königin England),DS,"geb. 1926; Königin von Großbritannien, Nordirland, Haupt des Commonwealth seit 1952.",Politische Bildung,,
+71043F151BDCD94FC1256F230035ED11,EMNID,ND,s. Demoskopie,,,C2EF3C186BF4DBD2C1256F230035B30E
 6C33B49C3712F267C1256F230035ED29,"Engels, Friedrich",D,s.a. Marxismus,,,D7F1EE994D60185AC1256F230035BE50
 55EDA8E16C7AA690C1257E7F0035D23E,Enthüller,ND,s. Whistleblower,,,C7FF962A62569C9AC1257E7F0035A507
 6CB66DAC9B571DA6C1256F230035ED3B,Entsorgung,ND,s. Müllabfuhr,,,4819815738AF09F2C1256F230035BFA0
@@ -336,13 +329,15 @@ CA1A586709826265C1257CA0005F1150,Erststimme,ND,s. Wahl,,,6AD843FD1CDD072EC1256F2
 409717AAC01D1598C1256F230035D37A,Ethik,D,s.a. Kriegsdienstverweigerung,,,C5509DBD76409DBAC1256F230035BBFA
 8C092D5FD457EEB6C1256F230035D381,Ethnische Gruppe,D,s.a. Minderheit,,,44EE7A442C1C5A5EC1256F230035BF0D
 15CF3141D1EA22BFC12572D50030F420,Ethnologie,ND,s. Nation,,,5968D9ECEE15542FC1256F230035C010
+6D2BA93F4D32194EC1256F230035EDB9,EU,ND,s. Europäische Union,,,2AB82E373D74C36BC1256F230035B4B6
+8AE820F29AC454D6C1257CB1004F6CF1,EU-Bürger,ND,s. Europäische Union,,,2AB82E373D74C36BC1256F230035B4B6
+B0086BB565657DDBC1256FA800336FE6,EU-Erweiterung,ND,s. Europäische Union,,,2AB82E373D74C36BC1256F230035B4B6
+F964742ED48DFF5AC1256FA8003A5290,EURATOM,ND,s. Europäische Gemeinschaften,,,03A0DD540FC89278C1256F230035B4B5
 593F2552462556BEC1257B65005D9029,Euro-Rettungsschirm,D,s.a. Europäische Union,,,2AB82E373D74C36BC1256F230035B4B6
 9A3EF393EB264920C1256F230035D38B,Europa,D,s.a. Europäische Gemeinschaften,,,03A0DD540FC89278C1256F230035B4B5
 DC20D211FA485AEBC1256F230035D38C,Europa,D,s.a. Europäische Union,,,2AB82E373D74C36BC1256F230035B4B6
 92DA564ECE959355C1257CB100503DC4,Europa-Abgeordneter,ND,s. Europäisches Parlament,,,021C5656E9C777FDC1256F230035B4B8
 D8D38444CBE6CD6FC1257CB1005058B6,Europa-Parlament,ND,s. Europäisches Parlament,,,021C5656E9C777FDC1256F230035B4B8
-ED80AE469CD03D7BC1256F230035EDCE,Europapolitik,ND,s. Europäische Gemeinschaften,,,03A0DD540FC89278C1256F230035B4B5
-E173AFBE258CE024C1256F230035B4B9,Europarat,DS,"Internationale Organisation europäischer Staaten zur Wahrung des gemeinsamen europäischen Erbes und zur Förderung des wirtschaftlichen und sozialen Fortschritts, Sitz: Straßburg; gegründet 1949. Bis Anfang 2002 44 Mitgliedsländer. Organe: Parlamentarische Versammlung (wählt die Mitglieder des Europäischen Gerichtshofs für Menschenrechte), Ministerkomitee (die Außenminister der Mitgliedsstaaten), Generalsekretariat sowie Kongress der Gemeinden und Regionen Europas.",Politische Bildung,,
 0C207AD8B1F0D51FC1256F230035EDC5,Europäische Atomgemeinschaft,ND,s. Europäische Gemeinschaften,,,03A0DD540FC89278C1256F230035B4B5
 56A72517F020B5C1C1257CB100511A75,Europäische Außenpolitik,ND,s. Europäische Union,,,2AB82E373D74C36BC1256F230035B4B6
 0DA45177062E39BBC1257CB100514034,Europäische Einigung,ND,s. Europäische Einigungsbewegung,,,9F85B283A1B701F0C1256F230035B4B4
@@ -363,9 +358,9 @@ F2D595629B9684E9C1256F230035EDC6,Europäische Kommission,ND,s. Europäische Geme
 29BD071A1B2ECDE7C1257DD200608552,Europäische Union,D,s.a. Grenzschutz,,,3F264050A1E76D15C1257DD200603FA4
 1786D98D2B69B882C1257CB10051DE10,Europäische Verfassung,ND,s. Europäische Union,,,2AB82E373D74C36BC1256F230035B4B6
 8CAB3AEC18C327C3C1257CB10052F973,Europäische Volkspartei,ND,s. Europäisches Parlament,,,021C5656E9C777FDC1256F230035B4B8
+2E47E559F1DA3149C1256FA900319438,Europäische Währungsunion,ND,s. Europäische Union,,,2AB82E373D74C36BC1256F230035B4B6
 6C721859E078FB39C1256F230035EDC8,Europäische Wirtschaftgemeinschaft,ND,s. Europäische Gemeinschaften,,,03A0DD540FC89278C1256F230035B4B5
 449F10B83CF9D8BEC1256FA90031AF23,Europäische Wirtschafts- und Währungsunion,ND,s. Europäische Union,,,2AB82E373D74C36BC1256F230035B4B6
-2E47E559F1DA3149C1256FA900319438,Europäische Währungsunion,ND,s. Europäische Union,,,2AB82E373D74C36BC1256F230035B4B6
 18242CFD201C022AC1256F230035B4B7,Europäischer Binnenmarkt,DS,Gesamtheit des Güterangebots und der -nachfrage innerhalb der Europäischen Gemeinschaften als räumlich abgegrenztes Wirtschaftgebiet.,Politische Bildung,,
 7F7C2DA754A73B5AC1256F230035D391,Europäischer Binnenmarkt,D,s.a. Europäische Gemeinschaften,,,03A0DD540FC89278C1256F230035B4B5
 5FCDAE29BDD97E25C1257CB3006139FF,Europäischer Bürgerbeauftragter,ND,s. Europäisches Parlament,,,021C5656E9C777FDC1256F230035B4B8
@@ -380,18 +375,21 @@ BAEB57C17F9BB48DC1256F230035EDCB,Europäischer Rechnungshof,ND,s. Europäische G
 021C5656E9C777FDC1256F230035B4B8,Europäisches Parlament,DS,"Gemeinsames parlamentarisches Organ der Europäischen Gemeinschaften, 1958 in Straßburg gegründet. 1979 wurden die Abgeordneten erstmals direkt gewählt.",Politische Bildung,,
 D0CF96B6374E6EE4C1256F230035D392,Europäisches Parlament,D,s.a. Europäische Gemeinschaften,,,03A0DD540FC89278C1256F230035B4B5
 5F4A604B0D35B6E2C1256F230035EDCC,Europäisches Projekt,ND,s. Europäische Gemeinschaften,,,03A0DD540FC89278C1256F230035B4B5
+ED80AE469CD03D7BC1256F230035EDCE,Europapolitik,ND,s. Europäische Gemeinschaften,,,03A0DD540FC89278C1256F230035B4B5
+E173AFBE258CE024C1256F230035B4B9,Europarat,DS,"Internationale Organisation europäischer Staaten zur Wahrung des gemeinsamen europäischen Erbes und zur Förderung des wirtschaftlichen und sozialen Fortschritts, Sitz: Straßburg; gegründet 1949. Bis Anfang 2002 44 Mitgliedsländer. Organe: Parlamentarische Versammlung (wählt die Mitglieder des Europäischen Gerichtshofs für Menschenrechte), Ministerkomitee (die Außenminister der Mitgliedsstaaten), Generalsekretariat sowie Kongress der Gemeinden und Regionen Europas.",Politische Bildung,,
 F4BA0789F97A3CB1C1256F230035D394,Evangelische Kirche in Deutschland,D,s.a. Brot für die Welt,,,6EF969E149D722A5C1256F230035B183
+97017DDB8AFFB6DEC1256F230035EDD7,EWG,ND,s. Europäische Gemeinschaften,,,03A0DD540FC89278C1256F230035B4B5
+4BA286BF9360DE4CC1256FA90031A3FD,EWU,ND,s. Europäische Union,,,2AB82E373D74C36BC1256F230035B4B6
+D6395C6B758BFAF3C1256FA90031C019,EWWU,ND,s. Europäische Union,,,2AB82E373D74C36BC1256F230035B4B6
 6DA22DD9CA66BD58C1256F230035B4C2,Exil,DS,"Der Begriff Exil bezeichnet die Abwesenheit eines Menschen oder einer Volksgruppe aus der eigenen Heimat, die aufgrund von Ausweisung, Verbannung, Vertreibung, Ausbürgerung, Zwangsumsiedlung, religiöser oder politischer Verfolgung sowie unerträglicher Verhältnisse im Heimatland mit anschließender Auswanderung hervorgerufen wurde. Das Exil ist daher meist mit Einschränkungen der freien Entfaltung des Individuums am ursprünglichen Aufenthaltsort verbunden. Im Gegensatz zur Deportation finden am neu gewählten Zielort jedoch keine weiteren Freiheitsbeschränkungen durch den für das Exil verantwortlichen Staat statt. ",Politische Bildung,,
 5BD466F5EDFC969FC1256F230035EDE3,Extremismus,ND,s. Terrorismus,,,3DA746D9729916DEC1256F230035C7B5
-B107C9F2AEA37D71C1256F230035EDE5,F.D.P.,ND,s. Freie Demokratische Partei,,,668F297A90F280AAC1256F230035B5D2
-6C90B476DC43979EC1257CCF00607200,FAO,ND,s. Vereinte Nationen,,,D945B5D15B6AB8D0C1256F230035C94A
-D48E18C572ECDD99C1256F230035EE27,FDP,ND,s. Freie Demokratische Partei,,,668F297A90F280AAC1256F230035B5D2
-E35D84E521E8BE24C1257D3F002F7105,FSK,ND,s. Jugendschutz,,,8D9210878DCA267AC1256F230035BA2B
 A9722562EBFA9940C1257CCA005B9EC9,Familiengericht,ND,s. Gericht (Recht),,,E8F82D9E1BE46F55C1256F230035B694
 097C2D98F1AFA3D7C1257CCA005DD504,Fanatismus,DS,"Als Fanatismus bezeichnet man im engeren Sinn das Besessensein von einer Idee, Vorstellung oder Überzeugung (""ein fanatischer Anhänger einer Ideologie oder einer Gruppierung"").",Politische Bildung,,
+6C90B476DC43979EC1257CCF00607200,FAO,ND,s. Vereinte Nationen,,,D945B5D15B6AB8D0C1256F230035C94A
 0C882667268E8B4DC1256F230035B4FF,"Farhat-Naser, Sumaya",DS,"Palästinensische Biologin, die sich um Verbesserung der Lebensbedingungen in den Autonomiegebieten der Westbank bemüht; geb. 1948.",Politische Bildung,,
 A88827391476120AC1256F230035D3BC,Faschismus,D,s.a. Ideologie,,,8FBFBC6ED8E80DCBC1256F230035B937
 B331D0DB94A4D0BAC1256F230035D3BB,Faschismus,D,s.a. Neofaschismus,,,0CC906522EE039C6C1256F230035C033
+D48E18C572ECDD99C1256F230035EE27,FDP,ND,s. Freie Demokratische Partei,,,668F297A90F280AAC1256F230035B5D2
 1ECC2BAC31867FDDC1257CD80057DD59,Fehlentscheidung,ND,s. Strafrecht,,,F2D1F11D4A8D1874C1256F230035C6DC
 B6C36C452899FFBDC1257CD900596C54,Feind,ND,s. Feindbild,,,505CCAC3260B7661C1256F230035B517
 505CCAC3260B7661C1256F230035B517,Feindbild,DS,"Negativ-stereotypes Bild von Individuen, Gruppen oder Staaten.",Politische Bildung,,
@@ -402,8 +400,9 @@ DB46BF70ECAAB9B1C1256FB700338C62,Flagge,ND,s. Nationalflagge,,,9D6CBFB857E81415C
 960B923B6C45FAEEC1257D010057DED9,Flatratesaufen,ND,s. Jugendschutz,,,8D9210878DCA267AC1256F230035BA2B
 B2D83E88486B86A6C1256F230035EEA6,Flucht,ND,s. Flüchtlinge,,,0471B13832C1883EC1256F230035B57B
 2B5E955965A4EF3CC125830D00571A28,Fluchtursache,ND,s. Migrationsursache,,,ACC6E5BDD7B4999BC125830D0056F4D4
-153CC11C9AFBAD08C1257D0800586829,Flugblatt,ND,s. Propaganda,,,48A8C8D10565FA94C1256F230035C25E
 0471B13832C1883EC1256F230035B57B,Flüchtlinge,DS,"Sammelbegriff für alle Personen, die durch Krieg und politische Maßnahmen veranlasst wurden, ihre Heimat zu verlassen. Auch die Probleme die auf allen Seiten entstehen.",Politische Bildung,,
+153CC11C9AFBAD08C1257D0800586829,Flugblatt,ND,s. Propaganda,,,48A8C8D10565FA94C1256F230035C25E
+95CC3A317B5BC9B6C1256F230035B58E,Föderalismus,DS,"Gestaltung eines Bundesstaates, der den Gliedern (Ländern) größtmögliche staatliche Selbständigkeit lässt.",Politische Bildung,,
 9B06BE66A909AC2EC1257CCF00605D75,Food and Agriculture Organization of the United Nations,ND,s. Vereinte Nationen,,,D945B5D15B6AB8D0C1256F230035C94A
 0959B3B8343E954BC12571FB002FAF7E,Frauenorganisation,ND,s. Nichtregierungsorganisation,,,1C65B040C4CE6714C1256F230035B891
 7B05C37DFC606AB9C1257D1E005A1C08,Frauenwahlrecht,ND,s. Wahlrecht,,,4ED9189966CF739FC1256F230035CA29
@@ -421,9 +420,9 @@ B2D83E88486B86A6C1256F230035EEA6,Flucht,ND,s. Flüchtlinge,,,0471B13832C1883EC12
 BCED8BF7A03E716AC1257AF0005EF99D,Freiwilligenorganisation,ND,s. Jugendfreiwilligendienst,,,295EA88E111C9DAEC1257AF0005F0635
 8865517A752FBE55C1257AEF005CD5B6,Freiwilliges Jahr im Sport,ND,s. Jugendfreiwilligendienst,,,295EA88E111C9DAEC1257AF0005F0635
 21FC9ED2DE04A09DC1257AEF005C8E5C,Freiwilliges Jahr in der Denkmalpflege,ND,s. Jugendfreiwilligendienst,,,295EA88E111C9DAEC1257AF0005F0635
+8BB207A8E077C1C7C1257AEF005C8144,Freiwilliges Ökologisches Jahr,ND,s. Jugendfreiwilligendienst,,,295EA88E111C9DAEC1257AF0005F0635
 0DA99948A378EEC3C1256F230035EF26,Freiwilliges Soziales Jahr,ND,s. Jugendfreiwilligendienst,,,295EA88E111C9DAEC1257AF0005F0635
 268BB77B0B19864AC1257AEF005CB9A0,Freiwilliges Soziales Jahr im Kulturbereich,ND,s. Jugendfreiwilligendienst,,,295EA88E111C9DAEC1257AF0005F0635
-8BB207A8E077C1C7C1257AEF005C8144,Freiwilliges Ökologisches Jahr,ND,s. Jugendfreiwilligendienst,,,295EA88E111C9DAEC1257AF0005F0635
 C4DFB14EFA0CFC1EC1256F230035EF39,Friede,ND,s. Frieden,,,EFFC0CCD66BC5AA5C1256F230035B5F0
 12717C723588FCEEC1256F230035D499,Frieden,D,s.a. Abrüstung,,,3ECF69D4A03F10F2C1256F230035AD2E
 7D6754F38315AEC0C1256F230035D498,Frieden,D,s.a. Außenpolitik,,,AF1D971194A9A0BFC1256F230035AEFA
@@ -442,21 +441,21 @@ D2493B164E8D046AC1257D38003864F6,Friedensinitiative,ND,s. Friedenserziehung,,,A0
 16367E9E68C6D461C1257D3800387C76,Friedenskampf,ND,s. Friedensbewegung,,,41A06E5C2417FD52C1256F230035B5F1
 BA770BE7C3740EE7C1257D3800388DEE,Friedensnobelpreis,ND,s. Nobelpreis,,,579E4552FE7E2AC6C1256F230035C07F
 2C41DB28D4BA04AFC12571FB002FBFF3,Friedensorganisation,ND,s. Nichtregierungsorganisation,,,1C65B040C4CE6714C1256F230035B891
-2954282F1182E0B7C1257D380038AFCA,Friedenspolitik,ND,s. Frieden,,,EFFC0CCD66BC5AA5C1256F230035B5F0
 C4A1FC8E6C569DBEC1256F230035EF3B,Friedenspädagogik,ND,s. Friedenserziehung,,,A03E7558414909E5C1256F230035B5F2
+2954282F1182E0B7C1257D380038AFCA,Friedenspolitik,ND,s. Frieden,,,EFFC0CCD66BC5AA5C1256F230035B5F0
 8FF729225F42E730C1257D380038E71C,Friedenssicherung,ND,s. Friedenserziehung,,,A03E7558414909E5C1256F230035B5F2
 CC4DF4624ED88AD5C1257D380038DE47,Friedenssicherung,ND,s. Frieden,,,EFFC0CCD66BC5AA5C1256F230035B5F0
 FE613378A3CFA8C8C1257D380038E299,Friedenssicherung,ND,s. Friedensbewegung,,,41A06E5C2417FD52C1256F230035B5F1
 3DADF847AE3F0E34C1257D3800390AC0,Friedensvertrag,ND,s. Frieden,,,EFFC0CCD66BC5AA5C1256F230035B5F0
+E35D84E521E8BE24C1257D3F002F7105,FSK,ND,s. Jugendschutz,,,8D9210878DCA267AC1256F230035BA2B
 648B54862608807AC125776C00522820,Funktionalismus (internationale Beziehungen),ND,s. Außenpolitik,,,AF1D971194A9A0BFC1256F230035AEFA
-95CC3A317B5BC9B6C1256F230035B58E,Föderalismus,DS,"Gestaltung eines Bundesstaates, der den Gliedern (Ländern) größtmögliche staatliche Selbständigkeit lässt.",Politische Bildung,,
+B107C9F2AEA37D71C1256F230035EDE5,F.D.P.,ND,s. Freie Demokratische Partei,,,668F297A90F280AAC1256F230035B5D2
 4C0B6C5757E3B458C1257DA900590986,GA,ND,s. Gewaltfreie Aktion,,,273513513D9C6AF2C1257DA900587A24
-D052691A7F1F4C5DC1257DC100505909,GCC,ND,s. Golfstaaten,,,67DB86BEACBCEF52C1257DC1004FE056
-9FA3F1A41F5C7972C1256F230035B7A5,GUS,DS,"Gemeinschaft Unabhängiger Staaten; 1991 nach der Sowjetunion gegründeter Staatenbund; Armenien, Aserbaidschan, Kasachstan, Kirgisien (auch Kirgistan/Kirgisistan), Moldawien, Russland, Tadschikistan Ukraine, Usbekistan, Weißrussland, Georgien, Lettland, Litauen, Estland.",Politische Bildung,,
 E99B6D40E1C4562EC1256F230035EF7C,Gallupinstitut,ND,s. Demoskopie,,,C2EF3C186BF4DBD2C1256F230035B30E
-539C006A1DC58476C1257D80004D662E,Gefangene (Strafvollzug),ND,s. Strafvollzug,,,487DE5EB47CCB6B1C1256F230035C6DD
-DA984C3AAC9FA9E0C1257212002EED87,Gefangene (politische),ND,s. Politische Verfolgung,,,204E2CBF2464FB66C1256F230035C213
+D052691A7F1F4C5DC1257DC100505909,GCC,ND,s. Golfstaaten,,,67DB86BEACBCEF52C1257DC1004FE056
 37306AB077B8529EC1256F230035EFBC,Gefängnis,ND,s. Strafvollzug,,,487DE5EB47CCB6B1C1256F230035C6DD
+DA984C3AAC9FA9E0C1257212002EED87,Gefangene (politische),ND,s. Politische Verfolgung,,,204E2CBF2464FB66C1256F230035C213
+539C006A1DC58476C1257D80004D662E,Gefangene (Strafvollzug),ND,s. Strafvollzug,,,487DE5EB47CCB6B1C1256F230035C6DD
 4E4FD6CDE1DDE96AC12572B4002F7C3D,Geldstrafe,ND,s. Strafrecht,,,F2D1F11D4A8D1874C1256F230035C6DC
 995875A5E7951029C12575710050AD26,Gemeinde (Politik),D,s.a. Kommunalpolitik,,,C9D8D1009EAB770DC1256F230035BB78
 AAB2CD106ECFE252C1256F230035B671,Gemeinde (Politik),DS,"Unterste Stufe der öffentlichen Verwaltung (Kommune). Organe sind die von den Bürgern gewählte Gemeindevertretung (Gemeinderat, Stadtrat) und der Bürgermeister.",Politische Bildung,,
@@ -492,9 +491,9 @@ D16E90F67542CECEC12573FB003CF9E6,Gesetzbuch,ND,s. Gesetz,,,3774A5D7EF996112C1256
 90E67050C6FFA651C1256F230035D547,Gesetzgebung,D,s.a. Gesetz,,,3774A5D7EF996112C1256F230035B6AF
 B7BFDD9CB11DB578C1256F230035B6B1,Gesetzgebungsverfahren,DS,"In der Verfassung festgelegtes Verfahren, in dem Gesetze zustande kommen.",Politische Bildung,,
 8C92926B766D6A17C1256F230035F03D,Getrennte Sammlung,ND,s. Müllabfuhr,,,4819815738AF09F2C1256F230035BFA0
-7321BFE24DD2D4D9C1256F230035B6C0,Gewalt (Krieg),DS,"Gewalttaten, die während Kriegen verübt werden/wurden.",Politische Bildung,,
 6685E6ADE7EF8F9DC1256F230035D563,Gewalt (allgemein),D,s.a. Gewalt (Krieg),,,7321BFE24DD2D4D9C1256F230035B6C0
 BCE3A50E605B21CCC1256F230035D566,Gewalt (allgemein),D,s.a. Terrorismus,,,3DA746D9729916DEC1256F230035C7B5
+7321BFE24DD2D4D9C1256F230035B6C0,Gewalt (Krieg),DS,"Gewalttaten, die während Kriegen verübt werden/wurden.",Politische Bildung,,
 F1AC93ED56BBD87EC1257DA8004E009B,Gewaltenteilung,ND,s. Staat (Land),,,6AAF10304D402C8AC1256F230035C665
 7A0F3F36B7C3E4D1C1257DA8004E1CE3,Gewalteskalation,ND,s. Gewalt (Krieg),,,7321BFE24DD2D4D9C1256F230035B6C0
 ACA005CEDF98337DC1257DA8004E27E6,Gewalteskalation,ND,s. Terror,,,6994C94FFC439B8AC1256F230035C7B4
@@ -520,14 +519,16 @@ E2ABC0E183B87C8CC1257DD0004B07E1,Grenzkontrolle,ND,s. Politische Grenze,,,8ECA16
 EC30185DC05432BDC1256F230035B77C,Große Koalition,DS,"Als Große Koalition bezeichnet man eine Regierungskoalition derjenigen (beiden) Parteien, die im Parlament am stärksten vertreten sind. Da im politischen System der Bundesrepublik Deutschland traditionell die Volksparteien CDU/CSU und SPD die größten Fraktionen stellen, bestehen Große Koalitionen meist aus diesen beiden Parteien. ",Politische Bildung,,
 59305312A3D9463DC1256F230035F0C9,Großmacht,ND,s. Weltmacht,,,5DD8270F739B06A8C1256F230035CADE
 7D72703A482BC811C1257DD70039D35A,Großreich,ND,s. Weltmacht,,,5DD8270F739B06A8C1256F230035CADE
+B54CE176CF4E6304C1256F230035B78F,Grüne,DS,Die Grünen; 1980 gegründete Partei der Bundesrepublik Deutschland mit den Grundwerten ökologisch - sozial - basisdemokratisch - gewaltfrei. Vertretung der ökologischen Bewegung als stärkste Gruppe im politischen Raum. 1993 Zusammenschluss mit dem Bündnis 90 zu Bündnis 90/Die Grünen.,Politische Bildung,,
 11433D9E85DA2D3DC1256F230035D5E0,Grundgesetz,D,s.a. Grundrecht,,,D31D55BDDB46C490C1256F230035B78A
 554F1B457056D838C1256F230035B786,Grundgesetz,DS,Verfassung der Bundesrepublik Deutschland vom 23.5.1949.,Politische Bildung,,
 DC96C27D2BC4D9B0C1256F230035D5E1,Grundgesetz,D,s.a. Verfassung (Politik),,,7C1FB5DB16766F1DC1256F230035C94D
 D31D55BDDB46C490C1256F230035B78A,Grundrecht,DS,"Unantastbare Rechte des Einzelnen auf Freiheit von staatlichem Eingriff; in der neuen Verfassung einzeln angeführt und näher festgelgt, z.B. Glaubens-, Versammlungs-, Vereinsfreiheit.",Politische Bildung,,
-B54CE176CF4E6304C1256F230035B78F,Grüne,DS,Die Grünen; 1980 gegründete Partei der Bundesrepublik Deutschland mit den Grundwerten ökologisch - sozial - basisdemokratisch - gewaltfrei. Vertretung der ökologischen Bewegung als stärkste Gruppe im politischen Raum. 1993 Zusammenschluss mit dem Bündnis 90 zu Bündnis 90/Die Grünen.,Politische Bildung,,
 87C7475F09D31A2EC1256F230035F0E6,Guerilla,ND,s. Bürgerkrieg,,,BBCC7E9C21CF9924C1256F230035B1CA
+9FA3F1A41F5C7972C1256F230035B7A5,GUS,DS,"Gemeinschaft Unabhängiger Staaten; 1991 nach der Sowjetunion gegründeter Staatenbund; Armenien, Aserbaidschan, Kasachstan, Kirgisien (auch Kirgistan/Kirgisistan), Moldawien, Russland, Tadschikistan Ukraine, Usbekistan, Weißrussland, Georgien, Lettland, Litauen, Estland.",Politische Bildung,,
 223E27BACAB2415AC1257D270056E4F6,"Guttenberg, Karl Theodor zu",DS,"Karl-Theodor Maria Nikolaus Johann Jacob Philipp Franz Joseph Sylvester Freiherr von und zu Guttenberg; geb. 1971; ist ein deutscher Politiker (CSU), der 2009 zunächst Bundesminister für Wirtschaft und Technologie und danach bis 2011 Bundesminister der Verteidigung war. Nachdem die Universität Bayreuth Guttenberg im Zuge der Plagiatsaffäre um seine Dissertation den Doktorgrad im Februar 2011 aberkannt hatte, legte er Anfang März 2011 sämtliche politischen Ämter nieder.",Politische Bildung,,
 B60043EE91108094C1256F230035B7B0,"Gysi, Gregor",DS,"Deutscher Politiker, Rechtsanwalt; geb. 1948; Verteidiger von DDR-Oppositionellen. 1989 Vorsitzender der SED-PDS; 1990 Mitglied des Bundestages für die PDS; 1998-2000 Fraktionsvorsitzender der PDS.",Politische Bildung,,
+F1AFC69DA949BAA7C1256F230035B7F4,"Hänsch, Klaus",DS,"Deutscher Europa-Politiker der SPD, geb. 1938; 1994-1997 Präsident des Europäischen Parlaments.",Politische Bildung,,
 CF5C95307C8FB87FC1256F230035F100,Haft,ND,s. Strafvollzug,,,487DE5EB47CCB6B1C1256F230035C6DD
 D84A260C8DAE148AC1257DF1005BDD6B,Haftung (Recht),ND,s. Recht,,,9DDACD4CD1AAB8F5C1256F230035C2D7
 60B26D517DF5AE7DC1256F230035B7E2,"Hamm-Brücher, Hildegard",DS,"Deutsche Politikerin, geb. 1921.",Politische Bildung,,
@@ -565,15 +566,9 @@ E9C757840097E725C1256F230035F1C0,"Herzog, Roman",ND,s. Bundespräsident,,,CC2929
 6FDBD4B2B83FE825C1257E340057CE3B,Hilfswerk der Evangelischen Kirche in Deutschland,ND,s. Nichtregierungsorganisation,,,1C65B040C4CE6714C1256F230035B891
 E6FC311C7240C348C1257E3600554A28,Hinrichtung,ND,s. Todesstrafe,,,CE0930B404BBAD08C1256F230035C814
 3CFF1988FDBBD8D6C1257E7F0035E13F,Hinweisgeber,ND,s. Whistleblower,,,C7FF962A62569C9AC1257E7F0035A507
-78876E633C49875EC1256F230035F24D,Humanitäres Mandat,ND,s. Vereinte Nationen,,,D945B5D15B6AB8D0C1256F230035C94A
-F1AFC69DA949BAA7C1256F230035B7F4,"Hänsch, Klaus",DS,"Deutscher Europa-Politiker der SPD, geb. 1938; 1994-1997 Präsident des Europäischen Parlaments.",Politische Bildung,,
 B5A3A1498A3D1BF9C1257A5800386BAB,"Höllenreiner, Hugo",DS,Hugo Adolf Höllenreiner; geb. 1933; ist ein Zeitzeuge für die Verfolgung der Sinti während der nationalsozialistischen Gewaltherrschaft.,Politische Bildung,,
 1C30714E6DE80B1DC1257E4A0059A241,"Höß, Rudolf",ND,s. Nationalismus,,,FCFE7B9328E4634EC1256F230035C015
-33C2A3CA7A30A172C125714C004C602D,IGH,ND,s. Vereinte Nationen,,,D945B5D15B6AB8D0C1256F230035C94A
-70CFA807421E6331C1257AF0005FCE67,IJFD,ND,s. Jugendfreiwilligendienst,,,295EA88E111C9DAEC1257AF0005F0635
-BB2020AA739420A0C1257EA2002E24E6,ISAF,ND,s. Nordatlantikpakt,,,C90020CBF67BDE12C1256F230035C08A
-87151C3F6CADD288C1257EA400569C2A,ISO-Norm,ND,s. DIN,,,34BA615D24D5EB59C1256F230035B359
-56F526BC3C7E9DD9C125714C004C74D9,IWF,ND,s. Vereinte Nationen,,,D945B5D15B6AB8D0C1256F230035C94A
+78876E633C49875EC1256F230035F24D,Humanitäres Mandat,ND,s. Vereinte Nationen,,,D945B5D15B6AB8D0C1256F230035C94A
 7524ABF41C34D82DC1256F230035D6AC,Ideologie,D,s.a. Rassismus,,,670BD2530618A6F7C1256F230035C2B1
 8CFA6AD752471C21C1256F230035D6A9,Ideologie,D,s.a. Kommunismus,,,CBC7DD7255AE02ACC1256F230035BB7C
 8FBFBC6ED8E80DCBC1256F230035B937,Ideologie,DS,"Bestimmte Vorstellungs- und Wertungswelt, besonders die einer Gesellschaftsschicht oder Interessenlage zugeordneten Denkweisen und Vorstellungen.",Politische Bildung,,
@@ -581,6 +576,8 @@ A0B2868B1DA66F75C1256F230035D6AB,Ideologie,D,s.a. Friedensbewegung,,,41A06E5C241
 A7186FD67EA4C17BC1256F230035D6A5,Ideologie,D,s.a. Demokratie,,,7495EE80D379A423C1256F230035B30B
 D8CA874498BA9FE5C1256F230035D6A6,Ideologie,D,s.a. Terrorismus,,,3DA746D9729916DEC1256F230035C7B5
 F5C9CCDD0D920E9DC1256F230035D6AD,Ideologie,D,s.a. Sozialismus,,,9A1C79769630351AC1256F230035C616
+33C2A3CA7A30A172C125714C004C602D,IGH,ND,s. Vereinte Nationen,,,D945B5D15B6AB8D0C1256F230035C94A
+70CFA807421E6331C1257AF0005FCE67,IJFD,ND,s. Jugendfreiwilligendienst,,,295EA88E111C9DAEC1257AF0005F0635
 79F88C760F55DFFEC1257E690055E989,Illegale Einwanderung,DS,"Unter illegaler Einwanderung (auch illegale Migration oder irreguläre Migration) wird die Einwanderung unter Verstoß gegen die Gesetze des Ziellandes verstanden. Diese Art der Einwanderung führt aufgrund der hierbei begangenen Gesetzesverstöße in der Regel zu rechtlichen oder gesellschaftlichen Sanktionen gegen die Eingewanderten. Die Ursachen für illegale Migration liegen zum einen in den sozialen und ökonomischen Bedingungen des Ziellandes, z. B. dem Vorhandensein von Arbeitsplätzen, Unterkünften oder sozial-ethnischen Netzwerken vor Ort; andererseits in den Verhältnissen des Heimatlandes, z. B. Gewaltherrschaft, Unterdrückung von Minderheiten oder Armut.",Politische Bildung,,
 829B7282F7F908FAC1257E6900561E3C,Illegale Einwanderung,D,s.a. Einwanderungspolitik,,,0E163144A10FA8F8C1257C6F005EBCE5
 E4BEA26E0571FBAEC1257E6900562A35,Illegale Migration,ND,s. Illegale Einwanderung,,,79F88C760F55DFFEC1257E690055E989
@@ -609,15 +606,18 @@ DDCD04C78195249FC12572CD0051D516,Internationale Kinderhilfsfonds,ND,s. Vereinte 
 0B9712CBFCE7FD43C125714C004C4B30,Internationaler Gerichtshof,ND,s. Vereinte Nationen,,,D945B5D15B6AB8D0C1256F230035C94A
 C1C2AD9C7B1183AFC1257AF00060301C,Internationaler Jugendfreiwilligendienst,ND,s. Jugendfreiwilligendienst,,,295EA88E111C9DAEC1257AF0005F0635
 37B548B51223D76CC125714C004C6815,Internationaler Währungsfonds,ND,s. Vereinte Nationen,,,D945B5D15B6AB8D0C1256F230035C94A
-D29A6D3758FD0EEAC125714C004CDC25,Internationales Recht,ND,s. Recht,,,9DDACD4CD1AAB8F5C1256F230035C2D7
 6622E51CEB6689BAC12583EF005C252E,Internationales Öffentliches Recht,ND,s. Völkerrecht,,,22AE7D5750E0F9C5C12583EF005BFBC6
+D29A6D3758FD0EEAC125714C004CDC25,Internationales Recht,ND,s. Recht,,,9DDACD4CD1AAB8F5C1256F230035C2D7
 A2E60A8F57189EADC125714C00522595,Intifada,ND,s. Nahostkonflikt,,,1C90066C2777D68AC1256F230035BFFA
 13BE6E0F305D4B55C1256F230035B98D,Invasion,DS,"Einfall, feindliches Einrücken in fremdes Gebiet mit bewaffneter Macht.",Politische Bildung,,
 A0D69BB4868722C7C1257E6900563153,Irreguläre Migration,ND,s. Illegale Einwanderung,,,79F88C760F55DFFEC1257E690055E989
+BB2020AA739420A0C1257EA2002E24E6,ISAF,ND,s. Nordatlantikpakt,,,C90020CBF67BDE12C1256F230035C08A
+87151C3F6CADD288C1257EA400569C2A,ISO-Norm,ND,s. DIN,,,34BA615D24D5EB59C1256F230035B359
 44EC513C75D3BECEC1256F230035B9A4,Isolationismus,DS,"In den USA seit der Monroe-Doktrin (1823) wiederholt vertretene politische Anschauung, wonach die Regierung jede Verwicklung in nicht-amerikanische Angelegenheiten vermeiden solle. Endgültig während des Zweiten Weltkriegs aufgegeben.",Politische Bildung,,
 9168AA65097461EAC125714D0051FD73,Isolationshaft,ND,s. Strafvollzug,,,487DE5EB47CCB6B1C1256F230035C6DD
-B5C817F78C3081F7C1257AF0005FBF58,JFD,ND,s. Jugendfreiwilligendienst,,,295EA88E111C9DAEC1257AF0005F0635
+56F526BC3C7E9DD9C125714C004C74D9,IWF,ND,s. Vereinte Nationen,,,D945B5D15B6AB8D0C1256F230035C94A
 BFDB1CCCF0B21C67C1257EAB0033623C,Janjaweed,ND,s. Dschandschawid,,,23276A834EF7B92AC1257EAB00331A7E
+B5C817F78C3081F7C1257AF0005FBF58,JFD,ND,s. Jugendfreiwilligendienst,,,295EA88E111C9DAEC1257AF0005F0635
 CA933C45032818A2C1256F230035D769,Judenverfolgung,D,s.a. Völkermord,,,660E60B97CA2E125C1256F230035C9DE
 E60A557EAA33CB06C1256F230035F31B,Jugendarbeit (Erwerbstätigkeit),ND,s. Jugendschutz,,,8D9210878DCA267AC1256F230035BA2B
 BEAF6EA33E742D08C1257EB4005A811D,Jugendarbeitsschutz,ND,s. Jugendschutz,,,8D9210878DCA267AC1256F230035BA2B
@@ -641,8 +641,6 @@ FB8BFD9B44405F90C1257B160048047E,Jugoslawienkrieg,ND,s. Politischer Konflikt,,,E
 10734B9D6BDC566FC1257EBA005635BE,Jungwähler,ND,s. Wahl,,,6AD843FD1CDD072EC1256F230035CA27
 406D4BD42FA936D6C1256F230035F336,Justiz,ND,s. Gericht (Recht),,,E8F82D9E1BE46F55C1256F230035B694
 31F9F8FBA93EBCDEC1256FE0003070B2,Justizvollzugsanstalt,ND,s. Strafvollzug,,,487DE5EB47CCB6B1C1256F230035C6DD
-8063801773812A8EC1257EE800459E5A,KFOR,ND,s. Nordatlantikpakt,,,C90020CBF67BDE12C1256F230035C08A
-2CAB582DD491CA68C1256F230035BC16,KSZE,DS,"Abkürzung für Konferenz über Sicherheit und Zusammenarbeit in Europa, Europäische Sicherheitskonferenz, 1973-75 in Genf unter Teilnahme aller europäischer Staaten (außer Albanien), Kanadas und der USA, abgeschlossen mit der ""Schlussakte von Helsinki"". Mehrere Folgekonferenzen zur Überprüfung der Beschlüsse. Auf dem Budapester Folgetreffen (1994) benannte sich die KSZE mit Wirkung zum 1.1.1995 in Organisation für Sicherheit und Zusammenarbeit in Europa (OSZE) um.",Politische Bildung,,
 D7D9C75DB668C898C1257E2D004DC660,Kaiser,ND,s. Herrscher,,,2DFDA8A353D1EE61C1257E2D004D54E6
 76E9EE48D83F7AA0C1257EBF0036612D,Kalifat,ND,s. Herrschaftsform,,,7F202D91F35B5768C1256F230035B87A
 FA3C0ACE5624CF58C1256F230035F36B,Kandidat,ND,s. Wahl,,,6AD843FD1CDD072EC1256F230035CA27
@@ -653,6 +651,7 @@ F27090E0F86120F6C125766100418F4D,Karpatendeutsche,ND,s. Spätaussiedler,,,98F818
 1EB6E46265B00B0CC125819800581768,"Keller, Franziska Maria",ND,"s. Keller, Ska",,,C0D29BDA3A40719BC1258195005861E4
 C0D29BDA3A40719BC1258195005861E4,"Keller, Ska",DS,Franziska Maria „Ska“ Keller; geb. 1981; ist eine deutsche Politikerin von Bündnis 90/Die Grünen. Sie ist migrations- und handelspolitische Sprecherin sowie seit 13. Dezember 2016 gemeinsam mit Philippe Lamberts Co-Vorsitzende der Grünen/EFA-Fraktion im Europäischen Parlament. Während der Europawahl 2014 war sie die europäische Spitzenkandidatin ihrer Partei. Ska Keller wurde 2009 im Alter von 27 Jahren erstmals ins Europäische Parlament gewählt.,Politische Bildung,,
 3CDA2B945332B393C1256F230035D7E6,Kernwaffe,D,s.a. Atomkrieg,,,C55B01D8AEF2FC06C1256F230035AED9
+8063801773812A8EC1257EE800459E5A,KFOR,ND,s. Nordatlantikpakt,,,C90020CBF67BDE12C1256F230035C08A
 D7B347759B558030C1256F230035D7F1,Kind,D,s.a. Recht,,,9DDACD4CD1AAB8F5C1256F230035C2D7
 81BC8C7294151610C1256F230035BAF2,Kinderarbeit,DS,Die Beschäftigung von Kindern schulpflichtigen Alters als un- oder angelernte Arbeiter. V.a. die Probleme in den Entwicklungsländern heute.,Politische Bildung,,
 6A02DC04E3497A9CC1257EED005B75D9,Kinderhilfsorganisation,ND,s. Nichtregierungsorganisation,,,1C65B040C4CE6714C1256F230035B891
@@ -670,6 +669,9 @@ B7D5E35C45685720C1257EFB005B330A,Klientelpartei,ND,s. Partei (Politik),,,67DA532
 DCABABAFED5E409CC1257F09005F973C,Koalition,ND,s. Wahl,,,6AD843FD1CDD072EC1256F230035CA27
 1BDD3AD30D73F023C1256F230035F48F,Koalition (große),ND,s. Große Koalition,,,EC30185DC05432BDC1256F230035B77C
 F4F5833D003CBA58C1256F230035F490,Koalition (sozialliberale),ND,s. Sozialliberale Koalition,,,0C16B44B918EEA26C1256F230035C61A
+C20E741F07FE343EC1256F230035F49E,"Köhler, Horst",ND,s. Bundespräsident,,,CC29299AAE7438ACC1256F230035B1BA
+581DE3DF264C91DBC1257E2D004DCCF8,König,ND,s. Herrscher,,,2DFDA8A353D1EE61C1257E2D004D54E6
+003038C24BB44BEDC1256F230035F4D5,Königtum,ND,s. Monarchie,,,8F3307E3CC23BF39C1256F230035BF4F
 BEE14EA2DD853843C1256F230035BB58,"Kohl, Helmut",DS,"Deutscher Politiker (CDU), geb. 1930; 1969-76 Ministerpräsident von Rheinland-Pfalz, 1973-98 Bundesvorsitzender der CDU. Bundeskanzlerkandidat der CDU/CSU für die Bundestagswahl 1976; 1982-98 Bundeskanzler.",Politische Bildung,,
 58A9021C3514AAF7C1256F230035BB6A,Kollektivierung,DS,Die Überführung von Privateigentum in Kollektiveigentum.,Politische Bildung,,
 126DCAC0E22EDBEFC1256F230035D84D,Kolonialismus,D,s.a. Ideologie,,,8FBFBC6ED8E80DCBC1256F230035B937
@@ -687,17 +689,17 @@ C9D8D1009EAB770DC1256F230035BB78,Kommunalpolitik,DS,Die der Erfüllung der Gemei
 5A6A58CF63EE7579C1256F230035D857,Kommunismus,D,s.a. Marxismus,,,D7F1EE994D60185AC1256F230035BE50
 CBC7DD7255AE02ACC1256F230035BB7C,Kommunismus,DS,"Theorie einer Gesellschaftsordnung, in der es keine Klassenunterschiede gibt, die Produktionsmittel, die Produktion und die Güterverteilung in den Händen der Gesellschaft liegen. Theoretische Grundlagen liegen im Marxismus.",Politische Bildung,,
 F7C06BDC97C0B033C1256F230035BB85,Konferenz,DS,"Beratung, Sitzung.",Politische Bildung,,
+1BA5C9B536B06494C1256F230035F4C7,Konferenz über Sicherheit und Zusammenarbeit in Europa,ND,s. KSZE,,,2CAB582DD491CA68C1256F230035BC16
 836BADA9B6089F96C1256F230035F4C4,Konferenz (Münchener),ND,s. Konferenz,,,F7C06BDC97C0B033C1256F230035BB85
 0B6F5CF5523B9469C1256F230035F4C5,Konferenz (Potsdamer),ND,s. Konferenz,,,F7C06BDC97C0B033C1256F230035BB85
 124F18ABF9A67A1EC1256F230035F4C6,Konferenz (Teheraner),ND,s. Konferenz,,,F7C06BDC97C0B033C1256F230035BB85
-1BA5C9B536B06494C1256F230035F4C7,Konferenz über Sicherheit und Zusammenarbeit in Europa,ND,s. KSZE,,,2CAB582DD491CA68C1256F230035BC16
 0277B9B26E0F2B01C1256F230035D860,Konflikt,D,s.a. Politischer Konflikt,,,E9BC66329E6FEADBC1256F230035C214
 44B2973AADD47A98C1256F230035D86A,Konflikt,D,s.a. Terrorismus,,,3DA746D9729916DEC1256F230035C7B5
 477D97439C48D501C1256F230035D86C,Konflikt,D,s.a. Krieg,,,F989283F97ADFB7EC1256F230035BBF9
 8A9915DAEB537B26C1256F230035D86B,Konflikt,D,s.a. Friedenserziehung,,,A03E7558414909E5C1256F230035B5F2
 B6B1ED73E69A2D24C1256F230035D869,Konflikt,D,s.a. Gesellschaft,,,BB09C0B20C629A87C1256F230035B6AC
-F88975A73865EC26C1256F230035F4CC,Konflikt (Politik),ND,s. Politischer Konflikt,,,E9BC66329E6FEADBC1256F230035C214
 293A753F475C1CF4C1256F230035F4CA,Konflikt (arabisch-israelischer),ND,s. Nahostkonflikt,,,1C90066C2777D68AC1256F230035BFFA
+F88975A73865EC26C1256F230035F4CC,Konflikt (Politik),ND,s. Politischer Konflikt,,,E9BC66329E6FEADBC1256F230035C214
 E8FC767EABB95AB6C1256F230035F4DF,Konstitutionelle Monarchie,ND,s. Monarchie,,,8F3307E3CC23BF39C1256F230035BF4F
 4D08523BFAE72E89C1257DC100503BF3,Kooperationsrat der Arabischen Staaten des Golfes,ND,s. Golfstaaten,,,67DB86BEACBCEF52C1257DC1004FE056
 FA9346E77FD05970C12581CD00587786,"Kraft, Hannelore",DS,"Hannelore Kraft, geb. Külzhammer; geb. 1961; ist eine deutsche Politikerin (SPD). Sie war vom 14. Juli 2010 bis zum 27. Juni 2017 als erste Frau und zehnte Person in diesem Amt Ministerpräsidentin des Landes Nordrhein-Westfalen. Ab 2007 war Kraft Landesvorsitzende der SPD Nordrhein-Westfalen und ab 2009 eine der sechs stellvertretenden Bundesvorsitzenden der SPD. Von beiden Ämtern trat sie nach der verlorenen Landtagswahl in Nordrhein-Westfalen am 14. Mai 2017 zurück.",Politische Bildung,,
@@ -733,15 +735,15 @@ BAE75190B4023450C1256F230035BC00,Kriegsverbrechen,DS,"Verbrechen, die unter Verl
 758A6FA47D0F11EAC12572B4002F5F36,Kriminalstrafe,ND,s. Strafrecht,,,F2D1F11D4A8D1874C1256F230035C6DC
 11C58D2D946B64D2C12571710030E2F4,Kripo,ND,s. Polizei,,,A5350EE5E2578650C1256F230035C217
 730FFDB3BEC6D1BFC1257F65005C3C8F,Krisengebiet,ND,s. Krieg,,,F989283F97ADFB7EC1256F230035BBF9
+2CAB582DD491CA68C1256F230035BC16,KSZE,DS,"Abkürzung für Konferenz über Sicherheit und Zusammenarbeit in Europa, Europäische Sicherheitskonferenz, 1973-75 in Genf unter Teilnahme aller europäischer Staaten (außer Albanien), Kanadas und der USA, abgeschlossen mit der ""Schlussakte von Helsinki"". Mehrere Folgekonferenzen zur Überprüfung der Beschlüsse. Auf dem Budapester Folgetreffen (1994) benannte sich die KSZE mit Wirkung zum 1.1.1995 in Organisation für Sicherheit und Zusammenarbeit in Europa (OSZE) um.",Politische Bildung,,
 6A5365F21F34D942C1256F230035D8E2,Kuba,D,"s.a. Castro, Fidel",,,37C6EA670ED22B54C1256F230035B208
+0D405A23AFD27D71C125787A003EA77A,Küstenwache,ND,s. Polizei,,,A5350EE5E2578650C1256F230035C217
 4E07429A3CB96485C1256F230035D8ED,Kultur,D,s.a. Jugendkultur,,,5FE5A2E553C4BA7EC1256F230035BA25
 29B9F39D68FEA899C1256F230035D8F7,Kulturbegegnung,D,s.a. Außenpolitik,,,AF1D971194A9A0BFC1256F230035AEFA
 0D37C687B95886A2C125723A003DE972,Kulturrevolution,ND,s. Revolution (allgemein),,,AD6E3C20C774689EC1256F230035C369
 BE670A67CC1A5509C1257DC100507147,Kuwait,D,s.a. Golfstaaten,,,67DB86BEACBCEF52C1257DC1004FE056
-C20E741F07FE343EC1256F230035F49E,"Köhler, Horst",ND,s. Bundespräsident,,,CC29299AAE7438ACC1256F230035B1BA
-581DE3DF264C91DBC1257E2D004DCCF8,König,ND,s. Herrscher,,,2DFDA8A353D1EE61C1257E2D004D54E6
-003038C24BB44BEDC1256F230035F4D5,Königtum,ND,s. Monarchie,,,8F3307E3CC23BF39C1256F230035BF4F
-0D405A23AFD27D71C125787A003EA77A,Küstenwache,ND,s. Polizei,,,A5350EE5E2578650C1256F230035C217
+6C226A8EA798BDEDC12579C9005CD369,Ländergrenze,ND,s. Politische Grenze,,,8ECA164163F33521C12579C9005CB78B
+519B73181A028D8BC1256F230035F62C,Länderpolitik,ND,s. Politik,,,0D282D6F90D66B5FC1256F230035C211
 E375C3359F60AED7C1256F230035F61C,Laizismus,ND,s. Ideologie,,,8FBFBC6ED8E80DCBC1256F230035B937
 E127402326100DE6C125717E0026CC73,Land (Staat),ND,s. Staat (Land),,,6AAF10304D402C8AC1256F230035C665
 3D760DA6E0AE8CEEC1257F90004BA396,Landbesetzer,ND,s. MST,,,A2CAA6CF4A1D680FC1257F90004B6130
@@ -761,30 +763,27 @@ ADA1559C65C0BDDCC12572F9002F9734,Landwirtschaftspolitik,ND,s. Politik,,,0D282D6F
 545ED104AB304A56C1256FE100324874,Legislative,ND,s. Gesetzgebung,,,0E4F7E458F77433FC1256F230035B6B0
 0D19DE36FCA06146C1257F88005A2C69,Lehrerkonferenz,ND,s. Konferenz,,,F7C06BDC97C0B033C1256F230035BB85
 B80710ED9446A93BC1257FB1005C7784,Leistungsgesellschaft,ND,s. Gesellschaft,,,BB09C0B20C629A87C1256F230035B6AC
-7F72F9591D5D5D20C1256F230035D9A4,"Lenin, Wladimir Iljitsch",D,s.a. Kommunismus,,,CBC7DD7255AE02ACC1256F230035BB7C
 3CC585B56001EBBFC1257FB70059D566,Leninismus,ND,s. Marxismus,,,D7F1EE994D60185AC1256F230035BE50
+7F72F9591D5D5D20C1256F230035D9A4,"Lenin, Wladimir Iljitsch",D,s.a. Kommunismus,,,CBC7DD7255AE02ACC1256F230035BB7C
 CEBFB3C38702DE89C1256F230035BD41,Liberalismus,DS,"Staats-, Gesellschafts- und Wirtschaftsauffassung, die die Freiheit des einzelnen als grundlegende Norm des menschlichen Zusammenlebens ansieht, den Fortschritt in Kultur, Recht, Sitte, Wirtschaft und sozialer Ordnung als geschichtliche Entwicklung annimmt.",Politische Bildung,,
 616C781808129B3AC12583C8005EC088,Listenwahl,ND,s. Verhältniswahl,,,19DAE8A09FAD7B59C12583C8005E9207
 03A174E3EEA28AEAC1256F230035F7C8,Lokale Gebietskörperschaft,ND,s. Gemeinde (Politik),,,AAB2CD106ECFE252C1256F230035B671
 82A10FAF0A4218D8C1256F230035F7CA,Lokalverwaltung,ND,s. Gemeinde (Politik),,,AAB2CD106ECFE252C1256F230035B671
+572547B5DE8366F8C1256F230035F7E4,"Lübke, Heinrich",ND,s. Bundespräsident,,,CC29299AAE7438ACC1256F230035B1BA
 8AB831B1AF2E267BC1257FD10059A93A,Luftangriff,ND,s. Luftkrieg,,,C5070C2EBBB073FCC1256F230035BDBD
 C5070C2EBBB073FCC1256F230035BDBD,Luftkrieg,DS,"Alle Kampfmaßnahmen der Luftstreitkräfte mit operativen oder taktischen Zielen einschließlich Bodenabwehr, sowohl in Verbindung mit Heer und Marine als auch selbständig.",Politische Bildung,,
 30115EC155843DADC1256F230035F7FC,Luftwaffe,ND,s. Bundeswehr,,,571F9CC90CB7CA27C1256F230035B1C1
-6C226A8EA798BDEDC12579C9005CD369,Ländergrenze,ND,s. Politische Grenze,,,8ECA164163F33521C12579C9005CB78B
-519B73181A028D8BC1256F230035F62C,Länderpolitik,ND,s. Politik,,,0D282D6F90D66B5FC1256F230035C211
-572547B5DE8366F8C1256F230035F7E4,"Lübke, Heinrich",ND,s. Bundespräsident,,,CC29299AAE7438ACC1256F230035B1BA
-B30AB4B96F9885AFC1256F230035F8F1,MBFR,ND,s. Entspannungspolitik,,,33E6C8B4B7990288C1256F230035B45E
-A2CAA6CF4A1D680FC1257F90004B6130,MST,DS,"Die Bewegung der Landarbeiter ohne Boden, häufig kurz Bewegung der Landlosen (Movimento dos Sem Terra), abgekürzt MST, ist eine Massenbewegung in Brasilien, welche sich für eine radikale Landreform einsetzt und darüber hinaus auch soziale und politische Forderungen stellt. Die Bewegung erhielt 1991 den Right Livelihood Award.",Politische Bildung,,
 34D63049657321CAC1256F230035F820,Maastrichter Vertrag,ND,s. Europäische Union,,,2AB82E373D74C36BC1256F230035B4B6
 2B590D335C245FD9C1257FDB005A1602,Madrider Zuganschläge,ND,s. Terrorismus,,,3DA746D9729916DEC1256F230035C7B5
 8F1AABDA22D06893C1257824005DA0C5,Maffia,ND,s. Mafia,,,5A217904C10B8B52C1256F230035BDE3
 5A217904C10B8B52C1256F230035BDE3,Mafia,DS,"Mafia (auch: Maffia) war ursprünglich die Bezeichnung für einen streng hierarchischen Geheimbund, der seine Macht durch Erpressung, Gewalt und politische Einflussnahme zu festigen und auszubauen versucht und seine Wurzeln im Sizilien des 19. Jahrhunderts hat. Heute bezeichnet man die sizilianische Mafia auch als Cosa Nostra. Die sizilianische Mafia operiert weltweit und hat Verbindungen zu anderen mafiaähnlichen Gruppen.",Politische Bildung,,
 50478C465CF06088C1256F230035F86C,Mandat (humanitäres),ND,s. Vereinte Nationen,,,D945B5D15B6AB8D0C1256F230035C94A
 82E576E8696CFC5DC1258002005AE8F6,Manöver (Militär),ND,s. Militär,,,CD2DB71B487FFB79C1256F230035BF01
-30D370D1A91FE232C1256F230035DA1D,"Marx, Karl",D,s.a. Marxismus,,,D7F1EE994D60185AC1256F230035BE50
 D7F1EE994D60185AC1256F230035BE50,Marxismus,DS,"Die von K. Marx unter Mitwirkung von F. Engels geschaffene, auf der Geschichtsauffassung des historischen Materialismus gegründete Theorie des wissenschaftlichen Sozialismus.",Politische Bildung,,
-BB329A5AD1ADCCBDC1256F230035BE68,Materialismus,DS,"Weltsicht oder Haltung, für die die Materie der Grund alles Wirklichen ist; versucht das gesamte Weltgeschehen einschließlich des Lebens, der Seele und des Geistes als Wirkung des Stoffs und seiner Bewegung zu erklären.",Politische Bildung,,
+30D370D1A91FE232C1256F230035DA1D,"Marx, Karl",D,s.a. Marxismus,,,D7F1EE994D60185AC1256F230035BE50
 192CE364DAB0A66FC125804C005B7B32,Maßnahme (Recht),ND,s. Recht,,,9DDACD4CD1AAB8F5C1256F230035C2D7
+BB329A5AD1ADCCBDC1256F230035BE68,Materialismus,DS,"Weltsicht oder Haltung, für die die Materie der Grund alles Wirklichen ist; versucht das gesamte Weltgeschehen einschließlich des Lebens, der Seele und des Geistes als Wirkung des Stoffs und seiner Bewegung zu erklären.",Politische Bildung,,
+B30AB4B96F9885AFC1256F230035F8F1,MBFR,ND,s. Entspannungspolitik,,,33E6C8B4B7990288C1256F230035B45E
 F93AAAD94ECF861CC1258066005F12C2,Mehrheitswahlrecht,ND,s. Wahl,,,6AD843FD1CDD072EC1256F230035CA27
 DD06237B7DC95447C1258066005F1A6A,Mehrheitswahlsystem,ND,s. Wahlsystem,,,C61D5237C6A61CD8C1256F2300360A32
 CBEF6D603533DE9BC1257204003604C9,Mehrparteiensystem,ND,s. Partei (Politik),,,67DA532ECCCAE7A6C1256F230035C164
@@ -807,7 +806,6 @@ F0E41835D7DEFA9FC12575D1004AC78D,"Merkel, Angela",DS,"Angela Dorothea Merkel, ge
 DF8404183E15F45CC1257E690056166C,Migration,D,s.a. Illegale Einwanderung,,,79F88C760F55DFFEC1257E690055E989
 AF869BEF34DFE833C125830D005710D3,Migration,D,s.a. Migrationsursache,,,ACC6E5BDD7B4999BC125830D0056F4D4
 ACC6E5BDD7B4999BC125830D0056F4D4,Migrationsursache,DS,Flucht- und Migrationsursachen sind eine Kombination aus strukturellen Faktoren und akuten Auslösern.,Politische Bildung,,
-2DC4F3E18CE8B465C1256F230035BF02,Militarismus,DS,"Die Vorherrschaft des Militärischen, besonders eine Gesinnung, die militärische Formen und Denkweisen überbetont.",Politische Bildung,,
 C9AE1A2D0E2B3408C1256F230035DAA8,Militär,D,s.a. Bundeswehr,,,571F9CC90CB7CA27C1256F230035B1C1
 CD2DB71B487FFB79C1256F230035BF01,Militär,DS,"Die Gesamtheit der planvoll organisierten und bewaffneten Streitkräfte, aber auch das einzelne Mitglied der militärischen Organisation.",Politische Bildung,,
 85E27016F2FC0652C1257C6F005A1190,Militär,D,s.a. Militäreinsatz,,,7B2F967536242099C1257C6F0059EF03
@@ -822,6 +820,7 @@ C42A275AC1DB07D6C125808F005ED952,Militärputsch,ND,s. Putsch,,,A8C43147CE7CE04FC
 9D2E4E588B976897C1258082005D2608,Militärregierung,ND,s. Herrschaftsform,,,7F202D91F35B5768C1256F230035B87A
 EEFCF791B55801E5C1258082005E28B9,Militärsport,ND,s. Militär,,,CD2DB71B487FFB79C1256F230035BF01
 15B6629FF9BA4992C1256F230035F9A4,Militärwesen,ND,s. Militär,,,CD2DB71B487FFB79C1256F230035BF01
+2DC4F3E18CE8B465C1256F230035BF02,Militarismus,DS,"Die Vorherrschaft des Militärischen, besonders eine Gesinnung, die militärische Formen und Denkweisen überbetont.",Politische Bildung,,
 44EE7A442C1C5A5EC1256F230035BF0D,Minderheit,DS,"Teilgruppe innerhalb einer Gesamtgesellschaft, die sich aufgrund bestimmter Merkmale von der herrschenden Mehrheit und den von ihr als gültig angesehenen Werten, Normen und Eigenschaften unterscheidet. Minderheiten ist häufig Diskriminierungen ausgesetzt.",Politische Bildung,,
 75F6A41086082B99C1256F230035DAAC,Minderheit,D,s.a. Diskriminierung,,,DD0D3EF4EFC46F53C1256F230035B362
 7DD7F4C053F6E36EC1257571005159A3,Minderheit,D,s.a. Sorben,,,ED59E106678D811EC1256F230035C606
@@ -841,9 +840,7 @@ EC25A988D2692565C1256F230035F9F5,Moldawien,ND,s. GUS,,,9FA3F1A41F5C7972C1256F230
 2FED1A0AA5712BB4C125714D00519C12,Monroe-Doktrin,ND,s. Isolationismus,,,44EC513C75D3BECEC1256F230035B9A4
 67DBE170B822316EC1256F230035FA0F,Montanunion,ND,s. Europäische Gemeinschaften,,,03A0DD540FC89278C1256F230035B4B5
 75AA12F8A63A5660C1257FE9005BE88A,Movimento dos Sem Terra,ND,s. MST,,,A2CAA6CF4A1D680FC1257F90004B6130
-03EB13C24ADCCDA4C1257BFB004403FC,"Mugabe, Robert",DS,Robert Gabriel Mugabe; geb. 1924; ist ein simbabwischer Politiker. Er ist Chef der ZANU-Partei und seit 1987 als Präsident Staatsoberhaupt von Simbabwe. Von 1980 bis 1987 bekleidete er das Amt des Ministerpräsidenten.,Politische Bildung,,
-B416715817602941C12571ED00383977,Multikulturelle Gesellschaft,ND,s. Gesellschaft,,,BB09C0B20C629A87C1256F230035B6AC
-AB6EF44F27E8C0B3C1257EAB00337879,Murahilin,ND,s. Dschandschawid,,,23276A834EF7B92AC1257EAB00331A7E
+A2CAA6CF4A1D680FC1257F90004B6130,MST,DS,"Die Bewegung der Landarbeiter ohne Boden, häufig kurz Bewegung der Landlosen (Movimento dos Sem Terra), abgekürzt MST, ist eine Massenbewegung in Brasilien, welche sich für eine radikale Landreform einsetzt und darüber hinaus auch soziale und politische Forderungen stellt. Die Bewegung erhielt 1991 den Right Livelihood Award.",Politische Bildung,,
 E74BDFD480268B37C1256F230035DAFD,Müll,D,s.a. Müllabfuhr,,,4819815738AF09F2C1256F230035BFA0
 4819815738AF09F2C1256F230035BFA0,Müllabfuhr,DS,Beseitigung von Abfall durch Spezialfahrzeuge in städtischer oder kommunaler Regie.,Politische Bildung,,
 093EC1465433BB31C1256F230035DB04,Müllbeseitigung,D,s.a. Müllabfuhr,,,4819815738AF09F2C1256F230035BFA0
@@ -851,10 +848,9 @@ E74BDFD480268B37C1256F230035DAFD,Müll,D,s.a. Müllabfuhr,,,4819815738AF09F2C125
 27F0ADC6EF32174DC1256F230035FA5C,Müllentsorgung,ND,s. Müllabfuhr,,,4819815738AF09F2C1256F230035BFA0
 82C80BA12E823228C1258146005B89EC,Müllwagen,ND,s. Müllabfuhr,,,4819815738AF09F2C1256F230035BFA0
 AE62CE8D38174F5FC1256F230035FA73,Münchener Konferenz,ND,s. Konferenz,,,F7C06BDC97C0B033C1256F230035BB85
-6909C218AF1FD1C4C1256F230035FB0A,NATO,ND,s. Nordatlantikpakt,,,C90020CBF67BDE12C1256F230035C08A
-77F9658BB28D5420C1256F230035FB7D,NGO,ND,s. Nichtregierungsorganisation,,,1C65B040C4CE6714C1256F230035B891
-970D06301FB6B946C1256F230035FBCD,NPD,ND,s. Neofaschismus,,,0CC906522EE039C6C1256F230035C033
-D567BA0205835812C125784E005C2ADE,NRO,ND,s. Nichtregierungsorganisation,,,1C65B040C4CE6714C1256F230035B891
+03EB13C24ADCCDA4C1257BFB004403FC,"Mugabe, Robert",DS,Robert Gabriel Mugabe; geb. 1924; ist ein simbabwischer Politiker. Er ist Chef der ZANU-Partei und seit 1987 als Präsident Staatsoberhaupt von Simbabwe. Von 1980 bis 1987 bekleidete er das Amt des Ministerpräsidenten.,Politische Bildung,,
+B416715817602941C12571ED00383977,Multikulturelle Gesellschaft,ND,s. Gesellschaft,,,BB09C0B20C629A87C1256F230035B6AC
+AB6EF44F27E8C0B3C1257EAB00337879,Murahilin,ND,s. Dschandschawid,,,23276A834EF7B92AC1257EAB00331A7E
 75685BD2997F0AE7C1256F230035FACC,Nachrichtendienst,ND,s. Spionage,,,72D6A35CC9090713C1256F230035C641
 1C90066C2777D68AC1256F230035BFFA,Nahostkonflikt,DS,"Als Nahostkonflikt bezeichnet man den Konflikt um die Region Palästina, der dort seit 1918 mit der von Arabern zunehmend abgelehnten Masseneinwanderung von Juden aus Europa entstand. Er führte zu sechs Kriegen zwischen dem am 14. Mai 1948 gegründeten Staat Israel und einigen seiner Nachbarstaaten (Israelisch-Arabischer Konflikt) und zahlreichen bewaffneten Konflikten zwischen Israelis und Palästinensern (Israelisch-Palästinensischer Konflikt). Letztere dauern bis heute an.",Politische Bildung,,
 5968D9ECEE15542FC1256F230035C010,Nation,DS,"Gesamtheit der Bewohner eines Landes, wie sie durch die politische Entwicklung geformt ist. Aber auch das Volk als Einheit der Abstammung, Sprache und Kulturüberlieferung.",Politische Bildung,,
@@ -875,6 +871,7 @@ CB6CB7AD2F7BD6D0C1257DDC005C6FFA,Nationalstaat,ND,s. Staat (Land),,,6AAF10304D40
 8820C513053182DAC125772C003385E6,Nationalstolz,ND,s. Patriotismus,,,E1DCC33373B239EDC125772C003310EC
 B1F3AE731FD3A6B7C1256F230035C018,Nationalversammlung,DS,"Volksvertretung, die zu besonderen Zwecken einberufen ist, namentlich zur Schaffung einer neuen Verfassung. Die erste Nationalversammlung wurde in Frankreich einberufen (1789-92), in Deutschland Frankfurter Nationalversammlung, Weimarer Nationalversammlung. In Frankreich seit 1946 Gesetzgebungsorgan.",Politische Bildung,,
 2D05B008189BA815C12580EB0064296D,Nationenbildung,ND,s. Nation,,,5968D9ECEE15542FC1256F230035C010
+6909C218AF1FD1C4C1256F230035FB0A,NATO,ND,s. Nordatlantikpakt,,,C90020CBF67BDE12C1256F230035C08A
 4FCE4F0F1F4060B5C1256F230035FB47,Neo-Nazi,ND,s. Neofaschismus,,,0CC906522EE039C6C1256F230035C033
 0CC906522EE039C6C1256F230035C033,Neofaschismus,DS,"Sammelbegriff für politische Bewegungen und Gruppen, die nach dem Zusammenbruch faschistischer und nationalsozialistischer Regierungssysteme entsprechende Vorstellungen und Organisationen wiederbeleben wollen. Neonazismus propagiert v.a. Vorstellungen des Nationalsozialismus.",Politische Bildung,,
 AC6CACF02407BE1BC12580F9005E3B06,Neonazi,ND,s. Neofaschismus,,,0CC906522EE039C6C1256F230035C033
@@ -883,19 +880,21 @@ AC6CACF02407BE1BC12580F9005E3B06,Neonazi,ND,s. Neofaschismus,,,0CC906522EE039C6C
 1D384442550EB0B6C12580FF005D20FA,Neue Entwicklungsalternativen,ND,s. Schwellenländer,,,20E0C3007185AC54C125726D003736B4
 5E77264A6428ED46C12580FF005D2744,Neue Entwicklungsalternativen,ND,s. Entwicklungshilfe,,,9C8DE08DD5361BC0C1256F230035B461
 FE45CB67E047E290C12580FF005D3280,Neue Entwicklungsalternativen,ND,s. Entwicklungsland,,,22BA3EC6EBCE6517C1256F230035B462
+77F9658BB28D5420C1256F230035FB7D,NGO,ND,s. Nichtregierungsorganisation,,,1C65B040C4CE6714C1256F230035B891
 12326A3C507E5EA0C1256F230035FB81,Nicht staatliche Hilfsorganisation,ND,s. Nichtregierungsorganisation,,,1C65B040C4CE6714C1256F230035B891
 0BE4F92B29C6C98CC1256F230035D65A,Nichtregierungsorganisation,D,s.a. Amnesty International,,,CF2497E0200129A8C1256F230035AE14
 1C65B040C4CE6714C1256F230035B891,Nichtregierungsorganisation,DS,"Englisch Non-Governmental Organizations, international, national oder regional tätige nichtstaatliche Organisationen mit unterschiedlichen Aktivitätsschwerpunkten, z.B. Entwicklungshilfe-, Umweltschutz- (Greenpeace), Menschenrechts- (Amnesty International), Frauen-, Friedensorganisationen, kirchliche Hilfswerke (Misereor, ""Brot für die Welt"").",Politische Bildung,,
 36013220D027D7DAC12571FB002F01F3,Nichtregierungsorganisation,D,s.a. Brot für die Welt,,,6EF969E149D722A5C1256F230035B183
 EA640F6D1B336A01C1256F230035FB84,Nichtstaatliche Organisation,ND,s. Nichtregierungsorganisation,,,1C65B040C4CE6714C1256F230035B891
-7595B3F40A22ACAAC1256F230035DBB6,"Nobel, Alfred",D,s.a. Nobelpreis,,,579E4552FE7E2AC6C1256F230035C07F
 579E4552FE7E2AC6C1256F230035C07F,Nobelpreis,DS,"Hochangesehene, internationale auf testamentarischer Verfügung A. Nobels zurückgehende Auszeichnung, jährlich finanziert durch die Nobelstiftung, für Leistungen auf den Gebieten Physik, Chemie, Physiologie oder Medizin, Literatur und Friedensarbeit.",Politische Bildung,,
+7595B3F40A22ACAAC1256F230035DBB6,"Nobel, Alfred",D,s.a. Nobelpreis,,,579E4552FE7E2AC6C1256F230035C07F
 C90020CBF67BDE12C1256F230035C08A,Nordatlantikpakt,DS,"1949 von Belgien, Dänemark, Frankreich, Großbritannien, Island, Italien, Kanada, Luxemburg, den Niederlanden, Norwegen, Portugal und den USA unterzeichneter Sicherheitspakt. Griechenland und Türkei 1952, Bundesrepublik Deutschlland 1954, Spanien 1982.",Politische Bildung,,
 A1EECBB902C3D64AC1256F230035FBBF,Normung,ND,s. DIN,,,34BA615D24D5EB59C1256F230035B359
+970D06301FB6B946C1256F230035FBCD,NPD,ND,s. Neofaschismus,,,0CC906522EE039C6C1256F230035C033
+D567BA0205835812C125784E005C2ADE,NRO,ND,s. Nichtregierungsorganisation,,,1C65B040C4CE6714C1256F230035B891
 C81B96387E1ECB1FC125811E005E50AF,Nutzung,ND,s. Recht,,,9DDACD4CD1AAB8F5C1256F230035C2D7
 EE446517912F6308C12583E0005981EF,Nutzungsrecht,D,s.a. Urheberrecht,,,3894528C89C0B0F3C12572060038AD69
 FF2C3D7D9D0F1423C12583E000592ED6,Nutzungsrecht,DS,"Unter einem Nutzungsrecht versteht man das Recht eines Rechtssubjekts aus einem Vertrag, fremde Sachen oder Rechte zu nutzen.",Politische Bildung,,
-14744210081910C0C1257173003A3B82,OSZE,ND,s. KSZE,,,2CAB582DD491CA68C1256F230035BC16
 C09A68F38DC825EFC1258120004CA6EC,"Obama, Barack",DS,Barack Hussein Obama II; geb. 1961; ist ein US-amerikanischer Politiker der Demokratischen Partei. Er war von 2009 bis 2017 der 44. Präsident der Vereinigten Staaten.,Politische Bildung,,
 DEF02C397274E3BBC1256F230035FBE0,Oberbürgermeisterwahl,ND,s. Wahl,,,6AD843FD1CDD072EC1256F230035CA27
 2A952607323043E0C1257E2D004D9A1D,Oberhaupt,ND,s. Herrscher,,,2DFDA8A353D1EE61C1257E2D004D54E6
@@ -903,6 +902,10 @@ DEF02C397274E3BBC1256F230035FBE0,Oberbürgermeisterwahl,ND,s. Wahl,,,6AD843FD1CD
 A2222F9D76DB42D5C12573FA0040418E,Oberste Gerichtshöfe des Bundes,ND,s. Gericht (Recht),,,E8F82D9E1BE46F55C1256F230035B694
 2929F2EAC29B95B2C1256F230035C0C2,Oder-Neiße-Grenze,DS,"Die im Potsdamer Abkommen 1945 festgelegte Demarkationslinie zwischen den polnisch verwalteten deutschen Gebieten und dem übrigen Deutschland, heute deutsch-polnische Staatsgrenze.",Politische Bildung,,
 75336F37DDAB1C99C12571FD0031EA8E,Oder-Neiße-Linie,ND,s. Oder-Neiße-Grenze,,,2929F2EAC29B95B2C1256F230035C0C2
+1140735E4AE7DB7BC125812C0056DC8E,Öffentliche Dienstleistung,ND,s. Dienstleistung,,,0B465AA4C0BFFC78C1256F230035B352
+AE834C5F5F08B023C1256F230035B816,Öffentlicher Haushalt,DS,"Der Öffentliche Haushalt ist eine ökonomische Einheit innerhalb einer Wirtschaftsordnung. In Deutschland bilden der Bund, die Länder und die Kommunen die öffentlichen Haushalte. Hauptaufgabe derartiger Haushalte ist der Betrieb einer Infrastruktur, die allen Mitgliedern der Gesellschaft als Staatsleistung zur Verfügung steht. Dazu zählt etwa das Bildungswesen, das Rechtswesen, das Sicherheitswesen oder das Gesundheitswesen. Die wirtschaftlichen Aspekte der öffentlichen Haushalte sind Gegenstand einer eigenen wissenschaftlichen Disziplin, der Finanzwissenschaft.",Politische Bildung,,
+3AED4D9A730B2583C12572B200300435,Öffentliches Recht,ND,s. Völkerrecht,,,22AE7D5750E0F9C5C12583EF005BFBC6
+26CF45861539B59DC1256F230035FC7F,Örtliche Verwaltung,ND,s. Gemeinde (Politik),,,AAB2CD106ECFE252C1256F230035B671
 AAA655C58E994A46C1256F230035C0D0,Okkupation,DS,"Besetzung, Ausübung der tatsächlichen Gewalt über ein fremdes Staatsgebiet.",Politische Bildung,,
 E4F93367B54C1C50C1257DC10050C262,Oman,D,s.a. Golfstaaten,,,67DB86BEACBCEF52C1257DC1004FE056
 A944AF6C3A62CAC6C125813B0035E2BF,Operation,ND,s. Militär,,,CD2DB71B487FFB79C1256F230035BF01
@@ -914,6 +917,7 @@ F77573FFC2FF6ECBC1257212002F4651,Ordnungspolizei,ND,s. Polizei,,,A5350EE5E257865
 B86D018983F32A7BC1257663003EBC57,"Ostermann, Helmut",ND,"s. Avnery, Uri",,,B866C3E7AA3FD864C1256F230035AF24
 CFA44F133D3E3899C125814C005B5770,Osterweiterung,ND,s. Nordatlantikpakt,,,C90020CBF67BDE12C1256F230035C08A
 D714AB0C2F473CBBC125814C005B4DFA,Osterweiterung,ND,s. Europäische Union,,,2AB82E373D74C36BC1256F230035B4B6
+14744210081910C0C1257173003A3B82,OSZE,ND,s. KSZE,,,2CAB582DD491CA68C1256F230035BC16
 FA2AB693C265323AC1256F230035DCAD,Palästina,D,s.a. Nahostkonflikt,,,1C90066C2777D68AC1256F230035BFFA
 BA1EF63DC8E35F27C1256F230035FCCB,Palästina-Konflikt,ND,s. Nahostkonflikt,,,1C90066C2777D68AC1256F230035BFFA
 A393420855A1B791C1258155005CD78A,Palästinakonflikt,ND,s. Nahostkonflikt,,,1C90066C2777D68AC1256F230035BFFA
@@ -1022,6 +1026,7 @@ D98CE698FBA2CDB1C1256F230035FE2B,Polizeieinsatz,ND,s. Polizei,,,A5350EE5E2578650
 1DB7824B651A1472C1256F230035C232,Postleitzahl,DS,"Postamtliche Leitbezeichnung im Deutschen Reich seit 1940, in der Bundesrepublik Deutschland seit 1961 (4stellige Zahl), seit 1993 5stellig. Postleitzahlen wurden auch in der Schweiz, Österreich, Frankreich, Italien, USA u.a. eingeführt.",Politische Bildung,,
 BBD57958FCD2D18CC1257E2D004D8BF0,Potentat,ND,s. Herrscher,,,2DFDA8A353D1EE61C1257E2D004D54E6
 89312259F63277B4C1256F230035FE63,Potsdamer Konferenz,ND,s. Konferenz,,,F7C06BDC97C0B033C1256F230035BB85
+6015B39C67897C31C12581AF0059BA8C,Präsidentschaftswahl,ND,s. Wahl,,,6AD843FD1CDD072EC1256F230035CA27
 3095FBB701C44A09C1257AF0005F8A9F,Praktikum,D,s.a. Jugendfreiwilligendienst,,,295EA88E111C9DAEC1257AF0005F0635
 20D3AC46E3D8E9E3C1256F230035DD3C,Presse,D,s.a. Pressefreiheit,,,3C5C706DA8764070C1256F230035C249
 3C5C706DA8764070C1256F230035C249,Pressefreiheit,DS,Recht auf freie Meinungsäußerung durch die Presse; umfasst das Recht ungehindert Nachrichten und Informationen einzuholen und ohne Zensur darüber zu berichten sowie Kritik zu üben.,Politische Bildung,,
@@ -1036,7 +1041,6 @@ F83B94ED8ABEAEBEC12583C8005EB7C7,Proporzwahl,ND,s. Verhältniswahl,,,19DAE8A09FA
 9EEC8656E010FDBBC1256F230035DD56,Protest,D,s.a. Demonstration,,,4ED49B4AB594F8E3C1256F230035B30D
 ECBFD14C5CF7F246C1256F230035DD55,Protest,D,s.a. Bürgerinitiative,,,84C4E1E7A15A07A0C1256F230035B1C9
 6BB290B05F5839C0C1257DA900591A7B,Protest,D,s.a. Gewaltfreie Aktion,,,273513513D9C6AF2C1257DA900587A24
-6015B39C67897C31C12581AF0059BA8C,Präsidentschaftswahl,ND,s. Wahl,,,6AD843FD1CDD072EC1256F230035CA27
 764DAAD83138BD1BC125808F005F0BC2,Putsch,D,s.a. Diktatur,,,CC88B23FBA7D93A7C1256F230035B357
 A8C43147CE7CE04FC125808F005EC356,Putsch,DS,"Ein Putsch, Staatsstreich oder französisch Coup d’État ist eine oft überraschende, meist gewaltsame Aktion von Angehörigen des Militärs oder paramilitärischer Organisationen und/oder einer Gruppe von Politikern mit dem Ziel, die Regierung zu stürzen und die Macht im Staat zu übernehmen. Die Putschisten sind meist hohe Militäroffiziere oder Führer paramilitärischer Organisationen. Häufig folgt auf einen Putsch eine Militärdiktatur oder die Herrschaft eines autoritären Regimes.",Politische Bildung,,
 164CBC578C409C4AC1256F230035FF3E,RAF,D,s.a. Terrorismus,,,3DA746D9729916DEC1256F230035C7B5
@@ -1106,42 +1110,41 @@ D3A0F404A0DAFFF1C12576C600586443,Repräsentant,ND,s. Abgeordneter,,,D68C42D18DF1
 F8E184E0BABA9CFDC1256F2300360028,Republikaner,ND,s. Neofaschismus,,,0CC906522EE039C6C1256F230035C033
 AD6E3C20C774689EC1256F230035C369,Revolution (allgemein),DS,"I.e.S. grundlegender Umbruch der politisch-sozialen Ordnung. Aber auch Umwälzung von Bestehendem, z.B. der Bruch mit veralteten Wissensbeständen, wirtschaftlich-technischer Organisationsstrukturen (industrielle Revolution), kulturellen Wertsystemen (Kulturrevolution).",Politische Bildung,,
 1AF242F9D67471C1C1257AB600565D9B,"Rommel, Manfred",DS,Manfred Rommel (1928-2013) war von 1974 bis 1996 Oberbürgermeister von Stuttgart (CDU).,Politische Bildung,,
-A82EECB216EF31B2C1257C30005C159D,Rote Armee Fraktion,ND,s. RAF,,,022D735855FAEE48C1257C300059B24C
 5DF33FB2CA810D5AC1256F23003600AC,Rote-Armee-Fraktion,ND,s. Terrorismus,,,3DA746D9729916DEC1256F230035C7B5
 8600C312EA0A86C3C1257C30005C0901,Rote-Armee-Fraktion,ND,s. RAF,,,022D735855FAEE48C1257C300059B24C
-880E80F6B8CE8321C1258255005DFA74,Russifizierung,DS,"Als Russifizierung werden in der russischen und später sowjetischen Innenpolitik alle Maßnahmen bezeichnet, den Einflussbereich der russischen Sprache und der russischen Kultur zulasten der anderen Sprachen und Kulturen im Sinne eines Transkulturationsprozesses auszuweiten.",Politische Bildung,,
-1C42D8F55BAAB086C1256F23003600E1,Russlanddeutsche,ND,s. Volksdeutsche,,,4BCF8BA361916897C1256F230035C9E2
-B95FF9C688649BB8C125766100415780,Russlanddeutsche,ND,s. Spätaussiedler,,,98F8182E14C46F3CC1256F230035AF0A
+A82EECB216EF31B2C1257C30005C159D,Rote Armee Fraktion,ND,s. RAF,,,022D735855FAEE48C1257C300059B24C
 5A1270443ABA0743C1256F230035C409,Rüstung (Politik),DS,Militärische und wirtschaftliche Einrichtungen eines Staates für den Kriegsfall.,Politische Bildung,,
 A7D6BDB728A4D555C125845D00592C13,Rüstung (Politik),D,s.a. Wettrüsten,,,B140AEDE5E84B202C12578BB0036BB27
 FD8FDBC11F3FBA53C12578BB0036C61F,Rüstungsdynamik,ND,s. Rüstung (Politik),,,5A1270443ABA0743C1256F230035C409
 B22D5C13CCC12666C12578BB0036CE4B,Rüstungskontrolle,ND,s. Rüstung (Politik),,,5A1270443ABA0743C1256F230035C409
 2DE72AADF30056D0C12582510061AB36,Rüstungswettlauf,ND,s. Wettrüsten,,,B140AEDE5E84B202C12578BB0036BB27
 7A0B7CCB9CC214A5C12581CD00584670,"Rüttgers, Jürgen",DS,"Jürgen Rüttgers; geb. 1951; ist ein deutscher Politiker (CDU). Er war vom 22. Juni 2005 bis zum 14. Juli 2010 der neunte Ministerpräsident des Landes Nordrhein-Westfalen. Vom 17. November 1994 bis zum 27. Oktober 1998 war Rüttgers Bundesminister für Bildung, Wissenschaft, Forschung und Technologie im fünften Kabinett Kohl.",Politische Bildung,,
-31BF0EE0735DC47CC1256F2300360104,SALT,ND,s. Entspannungspolitik,,,33E6C8B4B7990288C1256F230035B45E
-84F6E3E69D8A5DE0C1256F23003603F8,SPD,ND,s. Sozialdemokratische Partei Deutschlands,,,4055F0F1308B4463C1256F230035C611
+880E80F6B8CE8321C1258255005DFA74,Russifizierung,DS,"Als Russifizierung werden in der russischen und später sowjetischen Innenpolitik alle Maßnahmen bezeichnet, den Einflussbereich der russischen Sprache und der russischen Kultur zulasten der anderen Sprachen und Kulturen im Sinne eines Transkulturationsprozesses auszuweiten.",Politische Bildung,,
+1C42D8F55BAAB086C1256F23003600E1,Russlanddeutsche,ND,s. Volksdeutsche,,,4BCF8BA361916897C1256F230035C9E2
+B95FF9C688649BB8C125766100415780,Russlanddeutsche,ND,s. Spätaussiedler,,,98F8182E14C46F3CC1256F230035AF0A
 0577695C5F5975D5C1256F230035DEAE,Sachsenspiegel,D,s.a. Recht,,,9DDACD4CD1AAB8F5C1256F230035C2D7
+31BF0EE0735DC47CC1256F2300360104,SALT,ND,s. Entspannungspolitik,,,33E6C8B4B7990288C1256F230035B45E
 28753B481216F877C1256F2300360119,Sample,ND,s. Demoskopie,,,C2EF3C186BF4DBD2C1256F230035B30E
 26293BE0285270CBC1256F230036012C,Sanitätsdienst,ND,s. Bundeswehr,,,571F9CC90CB7CA27C1256F230035B1C1
 3951FEA214ACA312C125725D003D13F6,Sanitätswesen,ND,s. Bundeswehr,,,571F9CC90CB7CA27C1256F230035B1C1
 AC5FFB9386FC11A7C1257DC10050862C,Saudi-Arabien,ND,s. Golfstaaten,,,67DB86BEACBCEF52C1257DC1004FE056
+9BD4768C9A6C94F0C1256F230035C47B,"Schäuble, Wolfgang",DS,Deutscher Politiker (CDU); geb. 1942.,Politische Bildung,,
 3DD15564998598ECC1256F2300360184,"Scheel, Walter",ND,s. Bundespräsident,,,CC29299AAE7438ACC1256F230035B1BA
 C27824CA1D725019C1257264003B109F,Schengener Abkommen,ND,s. Europäische Union,,,2AB82E373D74C36BC1256F230035B4B6
 1338C4A8E2D86B8BC1256F2300360194,Schicht (soziale),ND,s. Sozialstruktur,,,41DD28A16538EE1FC1256F230035C61C
 2A58EEF3E2DED9C7C125827B005AC030,Schiedsrichter,ND,s. Recht,,,9DDACD4CD1AAB8F5C1256F230035C2D7
 51163B0565007921C125787A003EB735,Schifffahrtspolizei,ND,s. Polizei,,,A5350EE5E2578650C1256F230035C217
 F78E12A5E20069C8C1256F230035C4C2,"Schmidt, Helmut",DS,"Deutscher Politiker (SPD) (1918-2015); 1969-72 Bundesverteidigungsminister, 1972 Bundesminister für Wirtschaft und Finanzen; 1972-74 für Finanzen; 1974-82 Bundeskanzler; wurde am 1.10.1982 durch ein konstruktives Misstrauensvotum gestürzt.",Politische Bildung,,
+539D2895B9AFA7A5C1256FE10030BD2F,Schöffengericht,ND,s. Gericht (Recht),,,E8F82D9E1BE46F55C1256F230035B694
 440EFFCF4F653DB8C1256F230035C4E0,"Schorlemmer, Friedrich",DS,"Deutscher evangelischer Pfarrer, Theologe und Politiker; geb. 1944; um 1989 Mitglied des ""Demokratischen Aufbruchs"" in der DDR; dann der SDP (der DDR), schließlich der SPD. 1993 erhielt er den Friedenspreis des Deutschen Buchhandels.",Politische Bildung,,
 6CB1DB0379B47AA9C1256F230035C4ED,"Schröder, Gerhard",DS,"Deutscher Politiker (SPD), geb. 1944; 1990-98 Ministerpräsident von Niedersachsen, 1998-2005 Bundeskanzler.",Politische Bildung,,
 997FC34D9B62F48EC1258297005F98AD,Schutzhaft,ND,s. Strafvollzug,,,487DE5EB47CCB6B1C1256F230035C6DD
 6C3C25544AAC3765C1257212002F5E26,Schutzpolizei,ND,s. Polizei,,,A5350EE5E2578650C1256F230035C217
 3BD0F243724DF557C125726B003F747E,Schwarz-Rot-Gold,ND,s. Nationalflagge,,,9D6CBFB857E81415C1256F230035C013
-B3FADA1DCB1301B2C12582A400573E6B,Schwellenland,ND,s. Schwellenländer,,,20E0C3007185AC54C125726D003736B4
 20E0C3007185AC54C125726D003736B4,Schwellenländer,DS,"Bezeichnung für relativ fortgeschrittene Entwicklungsländer, die an der Schwelle zum Industriestaat stehen. ",Politische Bildung,,
 25462AB9A850623FC12574C80034AA4D,Schwellenländer,D,s.a. Entwicklungsland,,,22BA3EC6EBCE6517C1256F230035B462
+B3FADA1DCB1301B2C12582A400573E6B,Schwellenland,ND,s. Schwellenländer,,,20E0C3007185AC54C125726D003736B4
 0865A8749C4EFBC1C125726D0039E299,Schwurgericht,ND,s. Gericht (Recht),,,E8F82D9E1BE46F55C1256F230035B694
-9BD4768C9A6C94F0C1256F230035C47B,"Schäuble, Wolfgang",DS,Deutscher Politiker (CDU); geb. 1942.,Politische Bildung,,
-539D2895B9AFA7A5C1256FE10030BD2F,Schöffengericht,ND,s. Gericht (Recht),,,E8F82D9E1BE46F55C1256F230035B694
 4DB274E2C3C8677CC1257880005A79D2,Scotland Yard,ND,s. Polizei,,,A5350EE5E2578650C1256F230035C217
 2B00884A1C60D4E2C12582AA005BA1D2,Seeschlacht,ND,s. Krieg,,,F989283F97ADFB7EC1256F230035BBF9
 A3F4CCB83FCFF1E7C1256F230035C56A,Selbstbestimmung,DS,"Recht der Völker oder gebietlich zusammenhängender Volksgruppen, über ihre staatliche Organisation, besonders über ihre Zugehörigkeit zu einem bestimmten Staat, selbst zu entscheiden.",Politische Bildung,,
@@ -1190,9 +1193,10 @@ B428F789DF03911AC1256F230035C61B,Sozialstaat,DS,"Ein Staat, der die Überwindung
 B0EE342A3E339141C1256F230035DFD2,Sozialstruktur,D,s.a. Gesellschaft,,,BB09C0B20C629A87C1256F230035B6AC
 BB918841A65A3483C1256F230035DFD0,Sozialstruktur,D,s.a. Staat (Land),,,6AAF10304D402C8AC1256F230035C665
 C49F4428423C7B18C1256F23003603D2,Sozialwohnung,ND,s. Sozialstaat,,,B428F789DF03911AC1256F230035C61B
-72D6A35CC9090713C1256F230035C641,Spionage,DS,"Ausspähen und Verrat von Staatsgeheimnissen zugunsten eines fremden Staates, auch vorbereitende Handlungen hierzu. Ist als Landesverrat strafbar.",Politische Bildung,,
 1C66D57F3CAB67EDC1256F230035CE38,Spätaussiedler,D,s.a. Volksdeutsche,,,4BCF8BA361916897C1256F230035C9E2
 98F8182E14C46F3CC1256F230035AF0A,Spätaussiedler,DS,"Spätaussiedler sind im amtlichen Sprachgebrauch seit dem 1. Januar 1993 Menschen, die im Rahmen eines Aufnahmeverfahrens als deutsche Volkszugehörige nach Deutschland übersiedelt sind. Vorher benannte man sie nach dem Bundesvertriebenengesetz als Aussiedler. Vor allem erfasst der Begriff die Angehörigen von deutschen Minderheiten, deren Familien teilweise seit Generationen in Ostmitteleuropa, Osteuropa, Südosteuropa und teilweise in Asien gelebt haben und in die Bundesrepublik Deutschland eingereist sind und heute hier leben.",Politische Bildung,,
+84F6E3E69D8A5DE0C1256F23003603F8,SPD,ND,s. Sozialdemokratische Partei Deutschlands,,,4055F0F1308B4463C1256F230035C611
+72D6A35CC9090713C1256F230035C641,Spionage,DS,"Ausspähen und Verrat von Staatsgeheimnissen zugunsten eines fremden Staates, auch vorbereitende Handlungen hierzu. Ist als Landesverrat strafbar.",Politische Bildung,,
 3A6EE12AA95DF0D6C1257571005184B1,Staat (Land),D,s.a. Weltmacht,,,5DD8270F739B06A8C1256F230035CADE
 664E59DFB3EBC614C1257571005171F8,Staat (Land),D,s.a. Nationalflagge,,,9D6CBFB857E81415C1256F230035C013
 6AAF10304D402C8AC1256F230035C665,Staat (Land),DS,"Dauernde, organisierte Vereinigung von Menschen auf einem bestimmten Gebiet unter einer höchsten Gewalt. Die Staatsgewalt ist die hoheitliche Befehls- und Zwangsgewalt. Staatsgebiet: Raum der Gebietshoheit. Staatsorgane: alle Personen etc. mit Vollmacht.",Politische Bildung,,
@@ -1217,6 +1221,7 @@ D60E36AD5CC53061C125808F005F1907,Staatsstreich,ND,s. Putsch,,,A8C43147CE7CE04FC1
 EEDE5EFF623C8082C1256F23003604AF,Staatsterror,ND,s. Terror,,,6994C94FFC439B8AC1256F230035C7B4
 4B42E5219715A388C1256F23003604CB,Stadtkreis,ND,s. Kreis (Verwaltungsbezirk),,,FB73F73D4754609CC1256F230035BBEA
 31A353249612DD0DC1256F23003604CF,Stadtrat,ND,s. Gemeinde (Politik),,,AAB2CD106ECFE252C1256F230035B671
+C89DD45AC6B64B99C1256F23003604FA,Ständegesellschaft,ND,s. Gesellschaft,,,BB09C0B20C629A87C1256F230035B6AC
 2FD16F0100E50857C1256F230035E052,Stalinismus,D,s.a. Kommunismus,,,CBC7DD7255AE02ACC1256F230035BB7C
 767F82EBF82F4D3CC1256F230035E051,Stalinismus,D,s.a. Marxismus,,,D7F1EE994D60185AC1256F230035BE50
 FAFA4F2FC3FBD905C12578F700339646,Stand (Soziologie),ND,s. Gesellschaft,,,BB09C0B20C629A87C1256F230035B6AC
@@ -1225,9 +1230,9 @@ FAFA4F2FC3FBD905C12578F700339646,Stand (Soziologie),ND,s. Gesellschaft,,,BB09C0B
 2416695696AA4993C12581CD00582121,"Steinbrück, Peer",DS,"Peer Steinbrück; geb. 1947; ist ein deutscher Politiker (SPD). Von 2002 bis 2005 war Steinbrück der achte Ministerpräsident des Landes Nordrhein-Westfalen, von 2005 bis 2009 Bundesminister der Finanzen und stellvertretender Bundesvorsitzender der SPD. Bei der Bundestagswahl 2013 unterlag er als SPD-Kanzlerkandidat der Amtsinhaberin Angela Merkel. Von 2009 bis 2016 war er Mitglied des Deutschen Bundestages und begann danach, den Vorstand der ING-DiBa zu beraten.",Politische Bildung,,
 686E11E2715B39A9C12572B4002F293C,Strafanzeige,ND,s. Strafrecht,,,F2D1F11D4A8D1874C1256F230035C6DC
 CE79CB52F41BB2F3C12572B4002F3366,Strafbefehl,ND,s. Strafrecht,,,F2D1F11D4A8D1874C1256F230035C6DC
+39C52187025B8165C12572B4002FCE8F,Strafe (allgemein),D,s.a. Strafrecht,,,F2D1F11D4A8D1874C1256F230035C6DC
 138BF94D8BF90438C1256F2300360586,Strafe (Kriminalstrafe),ND,s. Strafvollzug,,,487DE5EB47CCB6B1C1256F230035C6DD
 ABF1F03E02310BC8C12572B4002FD9CC,Strafe (Kriminalstrafe),ND,s. Strafrecht,,,F2D1F11D4A8D1874C1256F230035C6DC
-39C52187025B8165C12572B4002FCE8F,Strafe (allgemein),D,s.a. Strafrecht,,,F2D1F11D4A8D1874C1256F230035C6DC
 9F6B800C4286C1A5C1256F2300360589,Straffälligkeit,ND,s. Strafvollzug,,,487DE5EB47CCB6B1C1256F230035C6DD
 EDB28C7F24DA4B7FC12572B400301BA7,Strafgesetzbuch,ND,s. Strafrecht,,,F2D1F11D4A8D1874C1256F230035C6DC
 D1B5FA0B2D8DD5F1C12572B400302695,Strafmündigkeit,ND,s. Strafrecht,,,F2D1F11D4A8D1874C1256F230035C6DC
@@ -1251,7 +1256,6 @@ FFDBACE35E6189A9C1257A3E0053499B,Streitkräfte,ND,s. Wehrdienst,,,1D484EA562C7CB
 2D6C68E68F092B13C1256F23003605D1,Struktur (Gesellschaft),ND,s. Sozialstruktur,,,41DD28A16538EE1FC1256F230035C61C
 090546C710B9D18DC125833E00628EFC,Strukturanpassung,ND,s. Entwicklungsland,,,22BA3EC6EBCE6517C1256F230035B462
 2FAD9D7A5086CEBBC1256F23003605DC,Studentenausweis,ND,s. Ausweis,,,B7190F67CC7B8DF8C1256F230035AF12
-C89DD45AC6B64B99C1256F23003604FA,Ständegesellschaft,ND,s. Gesellschaft,,,BB09C0B20C629A87C1256F230035B6AC
 B014293A984638B2C1257EAB0033513F,Sudan,D,s.a. Dschandschawid,,,23276A834EF7B92AC1257EAB00331A7E
 90D0C2099977D537C1256F23003605FC,Sudetendeutsche,ND,s. Volksdeutsche,,,4BCF8BA361916897C1256F230035C9E2
 B2C4791475224BD6C125766100415FBA,Sudetendeutsche,ND,s. Spätaussiedler,,,98F8182E14C46F3CC1256F230035AF0A
@@ -1259,7 +1263,6 @@ B2C4791475224BD6C125766100415FBA,Sudetendeutsche,ND,s. Spätaussiedler,,,98F8182
 D5EB40AA92FDC781C1257E2D004DA6CB,Sultan,ND,s. Herrscher,,,2DFDA8A353D1EE61C1257E2D004D54E6
 9A64702BF485381FC125834600604E8F,Supermacht,ND,s. Weltmacht,,,5DD8270F739B06A8C1256F230035CADE
 A30B589A3FFE6561C1257F55005842A9,Systemkritiker,ND,s. Dissident,,,845147CEB617F510C1257F5500582A63
-53BA8AAF28009CC7C1256F2300360732,THW,ND,s. Nichtregierungsorganisation,,,1C65B040C4CE6714C1256F230035B891
 1D348C3D39EDC93DC1256F230035C757,Tag der Arbeit,DS,Erster Mai jeden Jahres.,Politische Bildung,,
 05FB7450087F8B77C12583500038535C,Taktik,ND,s. Militär,,,CD2DB71B487FFB79C1256F230035BF01
 724CA5FAB67A2DBDC1258350003AAFA8,Taliban,ND,s. Terror,,,6994C94FFC439B8AC1256F230035C7B4
@@ -1275,6 +1278,7 @@ E4F174960C7DC570C1256F230035E112,Terrorismus,D,s.a. Krieg,,,F989283F97ADFB7EC125
 A01020BC495F1969C12579A40062C8E5,Terrorzelle,ND,s. Terrorismus,,,3DA746D9729916DEC1256F230035C7B5
 E614DB0248A1B653C1256F2300360712,Tertiärer Sektor,ND,s. Dienstleistung,,,0B465AA4C0BFFC78C1256F230035B352
 08A34E2EB65217D8C1258361006628B8,Tetrarchie,ND,s. Herrschaftsform,,,7F202D91F35B5768C1256F230035B87A
+53BA8AAF28009CC7C1256F2300360732,THW,ND,s. Nichtregierungsorganisation,,,1C65B040C4CE6714C1256F230035B891
 CE0930B404BBAD08C1256F230035C814,Todesstrafe,DS,Die schwerste der Kriminalstrafen. Ihre Berechtigung und Zweckmäßigkeit ist sehr umstritten. In der Bundesrepublik Deutschland 1949 abgeschafft.,Politische Bildung,,
 90D1E0A6F257E46CC1256F230035E170,Toleranz (Gesellschaft),D,s.a. Friedenserziehung,,,A03E7558414909E5C1256F230035B5F2
 D55348595CDA046DC1256F230035C837,Totalitarismus,DS,"Prinzip derjenigen politischen Herrschaft, die einen uneingeschränkten Verfügungsanspruch über die von ihr Beherrschten stellt.",Politische Bildung,,
@@ -1286,28 +1290,31 @@ C6539A686455DFCBC1258382005E3332,Transparenzgrundsatz,ND,s. Partei (Politik),,,6
 DAD1171E1F5BE9FEC1258384006205CF,Trend (Soziologie),ND,s. Gesellschaft,,,BB09C0B20C629A87C1256F230035B6AC
 8562253EAB2967CFC1256F230035C858,Treuhandanstalt,DS,Im Zuge des Einigungsprozesses von ehemaliger Deutschen Demokratischen Republik und Bundesrepublik Deutschland errichtete rechtsfähige bundesunmittelbare Anstalt des öffentlichen Rechts. Aufgabe: ehemalige volkseigene Betriebe wettbewerblich zu strukturieren und zu privatisieren.,Politische Bildung,,
 9A191B2CFEE206FCC125838B00612E65,"Trump, Donald",DS,"Donald John Trump; geb. 1946, ist ein amerikanischer Unternehmer, Entertainer und seit 2017 der 45. Präsident der Vereinigten Staaten.",Politische Bildung,,
+50FFB591C41D756DC12583920064AB5F,Überflussgesellschaft,DS,Überflussgesellschaft bezeichnet – umgangssprachlich oft abwertend – eine von materiellem Überfluss für breite Bevölkerungsteile geprägte Gesellschaft.,Politische Bildung,,
+42E0042DBBE4ADAEC125839500403015,Überhangmandat,DS,"Überhangmandate können in Wahlsystemen auftreten, die auf einer durch Direktwahl in Wahlkreisen personalisierten Verhältniswahl beruhen. Wenn in einem solchen Wahlsystem eine Partei in den Wahlkreisen mehr Mandate erringt, als ihr gemäß dem Ergebnis der Verhältniswahl zustehen würden, erhält diese Partei so viele Überhangmandate, wie sie Direktmandate mehr hat, als ihr Sitze nach der Verhältniswahl eigentlich zustehen.",Politische Bildung,,
+884C0947F35D4E5CC12583950040458D,Überhangmandate,ND,s. Überhangmandat,,,42E0042DBBE4ADAEC125839500403015
+4E370DED8F73738BC1256F2300360840,Übersiedler,ND,s. Spätaussiedler,,,98F8182E14C46F3CC1256F230035AF0A
+D6389E461F8A0002C1256F2300360861,Umsiedler,ND,s. Spätaussiedler,,,98F8182E14C46F3CC1256F230035AF0A
+1AE1093D93A59E5CC12571FB002F6B5C,Umweltschutzorganisation,ND,s. Nichtregierungsorganisation,,,1C65B040C4CE6714C1256F230035B891
+BB0D28440DB9B6A0C12573FA003F99AB,Umweltschutzverband,ND,s. Nichtregierungsorganisation,,,1C65B040C4CE6714C1256F230035B891
 42CD2480981103FAC12572CD0050636E,UN,ND,s. Vereinte Nationen,,,D945B5D15B6AB8D0C1256F230035C94A
 2460B7E32F9E94DFC1256F230035E1F8,UNESCO,D,s.a. Vereinte Nationen,,,D945B5D15B6AB8D0C1256F230035C94A
 F697172C8410ED4BC1256F230035C8D0,UNESCO,DS,"Abkürzung für United Nations Educational, Scientific and Cultural Organisation, Organisation der UNO für Erziehung, Wissenschaft und Kultur, gegründet 1946, Sitz in Paris.",Politische Bildung,,
 F141FC6D9F0AC220C1256F230036087E,UNHCR,ND,s. Vereinte Nationen,,,D945B5D15B6AB8D0C1256F230035C94A
 020551BB5FF18DE9C1256F230036087F,UNICEF,ND,s. Vereinte Nationen,,,D945B5D15B6AB8D0C1256F230035C94A
-3C685FC0453ED816C1256F2300360889,UNO,ND,s. Vereinte Nationen,,,D945B5D15B6AB8D0C1256F230035C94A
-E9409FBA91083F03C1256F230035C8FF,USA (Außenpolitik),DS,Von den USA geführte Außenpolitik.,Politische Bildung,,
-F78BA76D4091758CC125714D0051B49A,USA (Außenpolitik),D,s.a. Isolationismus,,,44EC513C75D3BECEC1256F230035B9A4
-602623BE4F86B323C1256F230035E26C,USA (Staat),D,s.a. Rassismus (USA),,,A8574B8B112B3F4CC1256F230035C2B5
-C29FB3401C48F20AC1256F230035E23C,USA (Staat),D,s.a. USA (Außenpolitik),,,E9409FBA91083F03C1256F230035C8FF
-D6389E461F8A0002C1256F2300360861,Umsiedler,ND,s. Spätaussiedler,,,98F8182E14C46F3CC1256F230035AF0A
-1AE1093D93A59E5CC12571FB002F6B5C,Umweltschutzorganisation,ND,s. Nichtregierungsorganisation,,,1C65B040C4CE6714C1256F230035B891
-BB0D28440DB9B6A0C12573FA003F99AB,Umweltschutzverband,ND,s. Nichtregierungsorganisation,,,1C65B040C4CE6714C1256F230035B891
 5C6FC5AB3A77955CC12572CD005056BF,United Nations,ND,s. Vereinte Nationen,,,D945B5D15B6AB8D0C1256F230035C94A
 F265DF603EED449CC12572CD0050E4A1,"United Nations Educational, Scientific and Cultural Organization",ND,s. UNESCO,,,F697172C8410ED4BC1256F230035C8D0
+3C685FC0453ED816C1256F2300360889,UNO,ND,s. Vereinte Nationen,,,D945B5D15B6AB8D0C1256F230035C94A
 3932F12E1D7540AAC12583A6005E621A,Unrecht,DS,"Unrecht ist das Gegenteil von Recht und besteht in einer Verletzung der Rechtsordnung. Was Recht und was Unrecht ist, ergibt sich normalerweise aus dem Gesetz.",Politische Bildung,,
 5196FBF9CB079981C12583A6005E783D,Unrecht,D,s.a. Recht,,,9DDACD4CD1AAB8F5C1256F230035C2D7
 D00AB95AA6161E7EC12572D0002B266A,Untersuchung (Strafprozess),ND,s. Strafrecht,,,F2D1F11D4A8D1874C1256F230035C6DC
 9F81299BAE55EC87C12572D0002B3DE4,Untersuchungshaft,ND,s. Strafvollzug,,,487DE5EB47CCB6B1C1256F230035C6DD
 3894528C89C0B0F3C12572060038AD69,Urheberrecht,DS,"Das Urheberrecht schützt den Urheber eines Werkes in seinem Persönlichkeitsrecht, d.h. in seinem Recht auf die erste Inhaltsvermittlung, die Urheberbezeichnung, den Schutz vor Entstellung des Werkes ... Es dient der Sicherung der wirtschaftlichen Interessen des Urhebers durch das Verwertungsrecht, d.h. das Recht auf die Vervielfältigung, die Verbreitung, die Ausstellung, die öffentliche Wiedergabe und die Bearbeitung des Werkes.",Politische Bildung,,
 DA7932DE3D227140C12583E0005977B1,Urheberrecht,D,s.a. Nutzungsrecht,,,FF2C3D7D9D0F1423C12583E000592ED6
-E1289B60C9234BFAC1256F23003609DF,VN,ND,s. Vereinte Nationen,,,D945B5D15B6AB8D0C1256F230035C94A
+E9409FBA91083F03C1256F230035C8FF,USA (Außenpolitik),DS,Von den USA geführte Außenpolitik.,Politische Bildung,,
+F78BA76D4091758CC125714D0051B49A,USA (Außenpolitik),D,s.a. Isolationismus,,,44EC513C75D3BECEC1256F230035B9A4
+602623BE4F86B323C1256F230035E26C,USA (Staat),D,s.a. Rassismus (USA),,,A8574B8B112B3F4CC1256F230035C2B5
+C29FB3401C48F20AC1256F230035E23C,USA (Staat),D,s.a. USA (Außenpolitik),,,E9409FBA91083F03C1256F230035C8FF
 39A58A7CEBEDCCCBC125772C00338E05,Vaterlandsliebe,ND,s. Patriotismus,,,E1DCC33373B239EDC125772C003310EC
 93A1AECCF9A9ED6EC1256F230035C927,"Veil, Simone",DS,"Französische Politikerin, geb. 1927, 1974 Gesundheitsministerin, 1979-82 Präsidentin des ersten direkt gewählten Europäischen Parlaments.",Politische Bildung,,
 5AD247C2FDEB2889C12583BC005FA542,Verband (Recht),DS,"Verbände sind Gruppen von Einzelpersonen (natürliche Personen) oder Körperschaften (juristische Personen) aller Art, die sich freiwillig zur Verfolgung gemeinsamer Zwecke zusammengeschlossen haben und meist über eine feste interne Organisationsstruktur auf Basis einer Satzung verfügen. Verbände bündeln die Interessen der einzelnen Mitglieder zum Erreichen gemeinsamer Ziel- oder Wertvorstellungen, sie stellen eine soziale Interessengruppe dar (Interessenverband). Sie existieren und agieren in allen Gesellschaftsbereichen.",Politische Bildung,,
@@ -1327,9 +1334,9 @@ C754B6915F97C27BC12575710050C13C,Verfassung (Politik),D,s.a. Verfassungsschutz,,
 128073D3AE3216EFC125772C003395B0,Verfassungsorgan,ND,s. Bundesrat,,,759DB8098F686CDAC1256F230035B1BB
 2786F30DA14B1637C1256F230035C94E,Verfassungsschutz,DS,Alle Maßnahmen zum Schutz der Verfassung; in der Bundesrepublik Deutschland von Verfassungsschutzämtern der Länder und des Bundes wahrgenommen.,Politische Bildung,,
 0E54ACEA66CEC6A2C1256F2300360920,Verfolgung (politische),ND,s. Politische Verfolgung,,,204E2CBF2464FB66C1256F230035C213
-9B73E627814A26D5C12572D1002D8C14,Verhaftung,ND,s. Strafvollzug,,,487DE5EB47CCB6B1C1256F230035C6DD
 19DAE8A09FAD7B59C12583C8005E9207,Verhältniswahl,DS,"Eine Verhältniswahl (auch, besonders in der Schweiz Proporzwahl, kurz Proporz, genannt) ist eine Wahl unter einem Wahlsystem, bei dem die Wahlvorschlagsträger (meist Parteien) Gruppen von Kandidaten aufstellen, zumeist als geordnete Wahllisten. Es handelt sich daher um eine Listenwahl. Die Wähler wählen dann primär oder ausschließlich zwischen diesen Listen.",Politische Bildung,,
 BC1B27AA7006D083C12583C8005EAE8D,Verhältniswahlsystem,ND,s. Verhältniswahl,,,19DAE8A09FAD7B59C12583C8005E9207
+9B73E627814A26D5C12572D1002D8C14,Verhaftung,ND,s. Strafvollzug,,,487DE5EB47CCB6B1C1256F230035C6DD
 4420093ED5AC630EC1256F230035C97A,Vermittlungsausschuss,DS,"In der Bundesrepublik Deutschland ein Ausschuss aus Mitgliedern des Bundestags und Bundesrats, der bei Meinungsverschiedenheiten zwischen beiden Körperschaften in nicht-öffentlicher Sitzung über Gesetzesvorlagen nochmals berät.",Politische Bildung,,
 1C30F4BA7FA3CD6EC1256F230035E2F9,Verteidigung (Politik),D,s.a. Bundeswehr,,,571F9CC90CB7CA27C1256F230035B1C1
 5337CBB55B703022C1256F230035E2F8,Verteidigung (Politik),D,s.a. Krieg,,,F989283F97ADFB7EC1256F230035BBF9
@@ -1349,6 +1356,11 @@ D591588AD9D3B9C8C1256F230035C9AB,Verwaltung,DS,Planmäßige Tätigkeit zur Errei
 DD42B3602FD7B6D6C1256F230036097A,Verwaltungswissenschaften,ND,s. Verwaltung,,,D591588AD9D3B9C8C1256F230035C9AB
 110B5F1B9CC152EAC125720400360D62,Vielparteiensystem,ND,s. Partei (Politik),,,67DA532ECCCAE7A6C1256F230035C164
 76204D97808F66DDC125728E003D21B6,Visum,ND,s. Ausweis,,,B7190F67CC7B8DF8C1256F230035AF12
+E1289B60C9234BFAC1256F23003609DF,VN,ND,s. Vereinte Nationen,,,D945B5D15B6AB8D0C1256F230035C94A
+C02041F4E741A9BFC1256F23003609E6,Völkergruppe,ND,s. Nation,,,5968D9ECEE15542FC1256F230035C010
+2A5480809A0823FBC12572D50030E5DB,Völkerkunde,ND,s. Nation,,,5968D9ECEE15542FC1256F230035C010
+660E60B97CA2E125C1256F230035C9DE,Völkermord,DS,"Genocid begeht, wer in der Absicht eine nationale, rassische, religiöse oder durch ihr Volkstum bestimmte Gruppe ganz oder teilweise zu zerstören, vorsätzlich Angehörige der Gruppe tötet, ihnen schwere körperliche oder seelische Schäden zufügt.",Politische Bildung,,
+22AE7D5750E0F9C5C12583EF005BFBC6,Völkerrecht,DS,"Das Völkerrecht (Recht der Völker) ist eine überstaatliche, aus Prinzipien und Regeln bestehende Rechtsordnung, durch die die Beziehungen zwischen den Völkerrechtssubjekten (meist Staaten) auf der Grundlage der Gleichrangigkeit geregelt werden. Die Bezeichnung Internationales Öffentliches Recht wird seit dem 19. Jahrhundert oft synonym verwendet, was auch auf den starken Einfluss des englischen Fachausdrucks public international law zurückzuführen ist.",Politische Bildung,,
 6459F1CD1789DE09C1256F23003609E4,Volk (Staatsvolk),ND,s. Nation,,,5968D9ECEE15542FC1256F230035C010
 02FA70EC7661B772C1256F230035E319,Volksdeutsche,D,s.a. Spätaussiedler,,,98F8182E14C46F3CC1256F230035AF0A
 4BCF8BA361916897C1256F230035C9E2,Volksdeutsche,DS,"Nationalsozialistische Bezeichnung für die außerhalb der Grenzen des Deutschen Reichs von 1937 und Österreichs ansässigen Deutschen, v.a. in Ost- und Südosteuropa bis zur Umsiedlung im Zweiten Weltkrieg (bis 1945) und zur Vertreibung (bis 1947).",Politische Bildung,,
@@ -1364,12 +1376,6 @@ AF03D7F56318A5BBC1256F2300360A1B,Vortest,ND,s. Demoskopie,,,C2EF3C186BF4DBD2C125
 CF1E850FA81D012AC1256F230035E340,Vorurteil,D,s.a. Rassismus,,,670BD2530618A6F7C1256F230035C2B1
 DDACA6EE19616895C1256F230035E33F,Vorurteil,D,s.a. Ideologie,,,8FBFBC6ED8E80DCBC1256F230035B937
 1519FFF9DB788A78C1256F230035CA0E,Vorwahlen (USA),DS,Ablauf der Vorwahlen in den USA.,Politische Bildung,,
-C02041F4E741A9BFC1256F23003609E6,Völkergruppe,ND,s. Nation,,,5968D9ECEE15542FC1256F230035C010
-2A5480809A0823FBC12572D50030E5DB,Völkerkunde,ND,s. Nation,,,5968D9ECEE15542FC1256F230035C010
-660E60B97CA2E125C1256F230035C9DE,Völkermord,DS,"Genocid begeht, wer in der Absicht eine nationale, rassische, religiöse oder durch ihr Volkstum bestimmte Gruppe ganz oder teilweise zu zerstören, vorsätzlich Angehörige der Gruppe tötet, ihnen schwere körperliche oder seelische Schäden zufügt.",Politische Bildung,,
-22AE7D5750E0F9C5C12583EF005BFBC6,Völkerrecht,DS,"Das Völkerrecht (Recht der Völker) ist eine überstaatliche, aus Prinzipien und Regeln bestehende Rechtsordnung, durch die die Beziehungen zwischen den Völkerrechtssubjekten (meist Staaten) auf der Grundlage der Gleichrangigkeit geregelt werden. Die Bezeichnung Internationales Öffentliches Recht wird seit dem 19. Jahrhundert oft synonym verwendet, was auch auf den starken Einfluss des englischen Fachausdrucks public international law zurückzuführen ist.",Politische Bildung,,
-9E412A26DD71409AC125845D005AAA6B,WHO,ND,s. Weltgesundheitsorganisation,,,54E286DC4B0CDAC7C12572DB00343093
-D9CF17F141D6FD23C12572DF003D0853,WWF,ND,s. Nichtregierungsorganisation,,,1C65B040C4CE6714C1256F230035B891
 FC2AC8764385A214C1256F230035E349,Waffe,D,s.a. Bundeswehr,,,571F9CC90CB7CA27C1256F230035B1C1
 1F9E7CB97D7A891AC1256F230035E34A,Wahl,D,s.a. Bundestag,,,1DD9B8494B7C24CCC1256F230035B1BF
 365A2ECA1622DCB9C1256F230035E34E,Wahl,D,s.a. Herrschaftsform,,,7F202D91F35B5768C1256F230035B87A
@@ -1385,9 +1391,9 @@ CD2056AA834C92D5C1256F2300360A2E,Wahlen,ND,s. Wahl,,,6AD843FD1CDD072EC1256F23003
 E6C5A8A3C44E81D3C1256F230035CA28,Wahlkampf,DS,Die Zeit vor einer Wahl mit allen Aktivitäten der Kandidaten zur Gewinnung der Wählerschaft.,Politische Bildung,,
 5524482E6AF0574FC1256F2300360A2F,Wahlplakat,ND,s. Wahlkampf,,,E6C5A8A3C44E81D3C1256F230035CA28
 4ED9189966CF739FC1256F230035CA29,Wahlrecht,DS,"Das Recht zu wählen und die Fähigkeit, gewählt zu werden. Ebenso die Gesamtheit der Vorschriften über die Wahl.",Politische Bildung,,
+20D884A9E334B0A2C125840B002F9274,Wahlrechtsgrundsätze,ND,s. Wahlrechtsgrundsatz,,,0250C1F9063D04C6C125840B002F0B3B
 0250C1F9063D04C6C125840B002F0B3B,Wahlrechtsgrundsatz,DS,"Die Wahlrechtsgrundsätze umfassen die Allgemeinheit der Wahl (Allgemeines Wahlrecht), die Unmittelbarkeit der Wahl (Direktwahl), die Freiheit der Wahl, die Gleichheit der Wahl, das Wahlgeheimnis, die Transparenz oder Öffentlichkeit der Wahlhandlung und den Effektivitätsgrundsatz.",Politische Bildung,,
 4A4042376FE6C820C125840B002F6D69,Wahlrechtsgrundsatz,D,s.a. Wahlrecht,,,4ED9189966CF739FC1256F230035CA29
-20D884A9E334B0A2C125840B002F9274,Wahlrechtsgrundsätze,ND,s. Wahlrechtsgrundsatz,,,0250C1F9063D04C6C125840B002F0B3B
 C61D5237C6A61CD8C1256F2300360A32,Wahlsystem,DS,"Ein Wahlsystem oder Wahlverfahren ist eine formalisierte Methode, um für eine Wahl festzulegen, welche Möglichkeit zur Auswahl den Wahlberechtigten vorgelegt wird und wie aus den gültigen Stimmen zu folgern ist, an welche Kandidaten Ämter zu vergeben sind. Wahlsysteme werden zum Beispiel in der Politik, in Vereinen und bei der Preisvergabe im Sport eingesetzt. Wichtige Wahlsysteme sind die Mehrheitswahl und die Verhältniswahl. Es gibt sie in zahlreichen Variationen.",Politische Bildung,,
 A14410B398F89FD6C125840B00317AF0,Wahlsystem,D,s.a. Überhangmandat,,,42E0042DBBE4ADAEC125839500403015
 D093F1A8C950CEA9C125840B0030E5A4,Wahlsystem,D,s.a. Verhältniswahl,,,19DAE8A09FAD7B59C12583C8005E9207
@@ -1413,6 +1419,7 @@ A9102DE9DDEE002AC12572DB0034F775,Weltkrieg,ND,s. Krieg,,,F989283F97ADFB7EC1256F2
 05202A6FC6E298E8C1256F230035E3F6,Wertschöpfung,D,s.a. Demokratie,,,7495EE80D379A423C1256F230035B30B
 B140AEDE5E84B202C12578BB0036BB27,Wettrüsten,DS,Unter Wettrüsten oder Rüstungswettlauf versteht man die etappenweise erfolgende militärische Aufrüstung sich antagonistisch gegenüberstehender Staaten oder Bündnisse. Es handelt sich um einen Teilprozess der Rüstungsdynamik. Bekannte Rüstungswettläufe fanden zwischen dem Deutschen Reich und der Triple Entente vor dem Ersten Weltkrieg und zwischen den beiden westlichen und östlichen Machtblöcken im Kalten Krieg statt.,Politische Bildung,,
 C7FF962A62569C9AC1257E7F0035A507,Whistleblower,DS,"Ein Whistleblower (im deutschen Sprachraum auch ""Enthüller"", ""Skandalaufdecker"" oder ""Hinweisgeber"") ist eine Person, die für die Allgemeinheit wichtige Informationen aus einem geheimen oder geschützten Zusammenhang an die Öffentlichkeit bringt. Dazu gehören typischerweise Missstände oder Verbrechen wie Korruption, Insiderhandel, Menschenrechtsverletzungen, Datenmissbrauch oder allgemeine Gefahren, von denen der Whistleblower an seinem Arbeitsplatz oder in anderen Zusammenhängen erfährt. Im Allgemeinen betrifft dies vor allem Vorgänge in der Politik, in Behörden und in Wirtschaftsunternehmen.",Politische Bildung,,
+9E412A26DD71409AC125845D005AAA6B,WHO,ND,s. Weltgesundheitsorganisation,,,54E286DC4B0CDAC7C12572DB00343093
 28953D7D6A605566C1257DA90058E799,Widerstand (gewaltfrei),ND,s. Gewaltfreie Aktion,,,273513513D9C6AF2C1257DA900587A24
 B7F5CFA0C7FADCA0C1256F2300360B93,Widerstand (politischer),ND,s. Politischer Widerstand,,,F16E7E3F2A47342CC1256F230035C215
 B9984A74C2EB6863C1256F2300360B95,Widerstandsbewegung,ND,s. Politischer Widerstand,,,F16E7E3F2A47342CC1256F230035C215
@@ -1428,6 +1435,7 @@ B481D87CA85AF6E9C1256F2300360BF1,Wohlfahrtsverband,ND,s. Sozialstaat,,,B428F789D
 17C005029491BA44C1256F230035CB99,Wohnungsbau,DS,Gehört zu den wichtigsten wirtschaftlichen und sozialen Leistungen in der Bundesrepublik Deutschland.,Politische Bildung,,
 D4F8BFE0508BDCA0C12572DF003D15E7,World Wide Fund of Nature,ND,s. Nichtregierungsorganisation,,,1C65B040C4CE6714C1256F230035B891
 5C1A61ACFCDE6A2BC12572DF003D311B,World Wildlife Fund,ND,s. Nichtregierungsorganisation,,,1C65B040C4CE6714C1256F230035B891
+D9CF17F141D6FD23C12572DF003D0853,WWF,ND,s. Nichtregierungsorganisation,,,1C65B040C4CE6714C1256F230035B891
 542474D4AF53645FC125818E0058629C,"Yousafzai, Malala",DS,Malala Yousafzai; geb.1997; ist eine Kinderrechtsaktivistin aus dem Swat-Tal in Pakistan. Am 10. Oktober 2014 wurde ihr gemeinsam mit Kailash Satyarthi der Friedensnobelpreis zuerkannt. Sie ist die jüngste Preisträgerin in der Geschichte des Nobelpreises und die mit Abstand jüngste in der Geschichte des Friedensnobelpreises. Seit dem 10. April 2017 ist Yousafzai Friedensbotschafterin der UN.,Politische Bildung,,
 3D501D713A8F172AC1257E2D004DB0B7,Zar,D,s.a. Herrscher,,,2DFDA8A353D1EE61C1257E2D004D54E6
 EE39594E0F5D50ACC12572E3003F7A7E,Zelle (Gefängnis),ND,s. Strafvollzug,,,487DE5EB47CCB6B1C1256F230035C6DD
@@ -1451,11 +1459,3 @@ F9D48B5CCAE647FFC1256F230035CC66,Zwangsvollstreckung,DS,Zwangsmäßige Durchsetz
 8CF8766A14DF07DEC12572040035F54C,Zweiparteiensystem,ND,s. Partei (Politik),,,67DA532ECCCAE7A6C1256F230035C164
 6F14C46A4C4A2327C1256F230035E500,Zweiter Weltkrieg,D,s.a. Invasion,,,13BE6E0F305D4B55C1256F230035B98D
 F132A6696B457526C1256F230035E503,Zweiter Weltkrieg,D,s.a. Kriegsfolge,,,9B4FB309959AF5BCC1256F230035BBFC
-1140735E4AE7DB7BC125812C0056DC8E,Öffentliche Dienstleistung,ND,s. Dienstleistung,,,0B465AA4C0BFFC78C1256F230035B352
-AE834C5F5F08B023C1256F230035B816,Öffentlicher Haushalt,DS,"Der Öffentliche Haushalt ist eine ökonomische Einheit innerhalb einer Wirtschaftsordnung. In Deutschland bilden der Bund, die Länder und die Kommunen die öffentlichen Haushalte. Hauptaufgabe derartiger Haushalte ist der Betrieb einer Infrastruktur, die allen Mitgliedern der Gesellschaft als Staatsleistung zur Verfügung steht. Dazu zählt etwa das Bildungswesen, das Rechtswesen, das Sicherheitswesen oder das Gesundheitswesen. Die wirtschaftlichen Aspekte der öffentlichen Haushalte sind Gegenstand einer eigenen wissenschaftlichen Disziplin, der Finanzwissenschaft.",Politische Bildung,,
-3AED4D9A730B2583C12572B200300435,Öffentliches Recht,ND,s. Völkerrecht,,,22AE7D5750E0F9C5C12583EF005BFBC6
-26CF45861539B59DC1256F230035FC7F,Örtliche Verwaltung,ND,s. Gemeinde (Politik),,,AAB2CD106ECFE252C1256F230035B671
-50FFB591C41D756DC12583920064AB5F,Überflussgesellschaft,DS,Überflussgesellschaft bezeichnet – umgangssprachlich oft abwertend – eine von materiellem Überfluss für breite Bevölkerungsteile geprägte Gesellschaft.,Politische Bildung,,
-42E0042DBBE4ADAEC125839500403015,Überhangmandat,DS,"Überhangmandate können in Wahlsystemen auftreten, die auf einer durch Direktwahl in Wahlkreisen personalisierten Verhältniswahl beruhen. Wenn in einem solchen Wahlsystem eine Partei in den Wahlkreisen mehr Mandate erringt, als ihr gemäß dem Ergebnis der Verhältniswahl zustehen würden, erhält diese Partei so viele Überhangmandate, wie sie Direktmandate mehr hat, als ihr Sitze nach der Verhältniswahl eigentlich zustehen.",Politische Bildung,,
-884C0947F35D4E5CC12583950040458D,Überhangmandate,ND,s. Überhangmandat,,,42E0042DBBE4ADAEC125839500403015
-4E370DED8F73738BC1256F2300360840,Übersiedler,ND,s. Spätaussiedler,,,98F8182E14C46F3CC1256F230035AF0A
